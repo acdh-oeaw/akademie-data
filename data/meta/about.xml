@@ -1,0 +1,21 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/akademieprotokolle" xml:id="about.xml">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title type="main">Über das Projekt</title>
+              <title type="sub">Sitzungsprotokolle der ÖAW</title>
+           </titleStmt> 
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about the source</p>
+           </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <p>Some text here.</p>
+        </body>
+    </text>
+  </TEI>
