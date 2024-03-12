@@ -1,134 +1,134 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Personenregister zum Projekt „Sitzungsprotokolle der Gesamtakademie“</title>
-</titleStmt>
-<editionStmt/>
-<publicationStmt>
-<publisher>ÖAW</publisher>
-</publicationStmt>
-<sourceDesc>
-<p>A 0001</p>
-</sourceDesc>
-</fileDesc>
-</teiHeader>
-<text>
-<body>
-<listPerson>
-<person xml:id="sachse-von-rothenberg-friedrich-johann">
-<persName>
-<surname>Sachse von Rothenberg</surname>
-<forename>Friedrich Johann</forename>
-</persName>
-</person>
-<person xml:id="menin-nn">
-<persName>
-<surname>Menin</surname>
-<forename>NN</forename>
-</persName>
-</person>
-<person xml:id="weber-wilhelm">
-<persName>
-<surname>Weber</surname>
-<forename>Wilhelm</forename>
-</persName>
-<birth when="1916-01-01">01.01.1916</birth>
-<death when="2005-01-01">2005</death>
-<idno type="URL">https://apis.eos.arz.oeaw.ac.at/entity/25303</idno>
-<idno type="paas">25303</idno>
-</person>
-<person xml:id="rochette-raoul">
-<persName>
-<surname>Rochette</surname>
-<forename>Raoul</forename>
-</persName>
-</person>
-<person xml:id="michel-francois-xavier">
-<persName>
-<surname>Michel</surname>
-<forename>Francisque</forename>
-</persName>
-<persName subtype="alternative name" type="alt">François-Xavier, Michel</persName>
-<birth when="1809-02-18">18.2.1809<place key="place__10790">
-<placeName>Lyon</placeName>
-<placeName subtype="alternative name" type="alt" xml:lang="eng">Lyon</placeName>
-<location>
-<geo>45.74846 4.84671</geo>
-</location>
-</place>
-</birth>
-<death when="1887-05-18">18.5.1887</death>
-<occupation code="#3633" scheme="#apis_vocabularies/professiontype/">Mediävist</occupation>
-<occupation code="#3637" scheme="#apis_vocabularies/professiontype/">Klassischer Philologe</occupation>
-<occupation code="#3826" scheme="#apis_vocabularies/professiontype/">Altertumswissenschaftler</occupation>
-<idno subtype="GND" type="URL">https://d-nb.info/gnd/118891057</idno>
-<idno type="paas">17449</idno>
-</person>
-<person xml:id="bopp-franz">
-<persName>
-<surname>Bopp</surname>
-<forename>Franz</forename>
-</persName>
-<birth when="1791-09-14">14.09.1791<place key="place__13674">
-<placeName>Mainz</placeName>
-<placeName subtype="alternative name" type="alt" xml:lang="eng">Mainz</placeName>
-<location>
-<geo>49.98419 8.2791</geo>
-</location>
-</place>
-</birth>
-<death when="1867-10-23">23.10.1867</death>
-<occupation code="#3640" scheme="#apis_vocabularies/professiontype/">Orientalist</occupation>
-<occupation code="#3698" scheme="#apis_vocabularies/professiontype/">Linguist</occupation>
-<idno subtype="GND" type="URL">https://d-nb.info/gnd/118659332</idno>
-<idno type="paas">1010</idno>
-</person>
-<person xml:id="miklosich-von-franz">
-<persName>
-<surname>Miklosich</surname>
-<addName>Ritter von</addName>
-<addName>Dr. phil.</addName>
-<addName>Dr. iur.</addName>
-<nameLink>von</nameLink>
-<forename>Franz</forename>
-</persName>
-<birth when="1813-11-20">20.11.1813<place key="place__11234">
-<placeName>Ljutomer</placeName>
-<placeName subtype="alternative name" type="alt" xml:lang="eng">Ljutomer</placeName>
-<location>
-<geo>46.52083 16.1975</geo>
-</location>
-</place>
-</birth>
-<death when="1891-03-07">07.03.1891<place key="place__10950">
-<placeName>Wien</placeName>
-<placeName subtype="alternative name" type="alt" xml:lang="eng">Vienna</placeName>
-<location>
-<geo>48.20849 16.37208</geo>
-</location>
-</place>
-</death>
-<occupation code="#3624" scheme="#apis_vocabularies/professiontype/">Philologe</occupation>
-<occupation code="#3658" scheme="#apis_vocabularies/professiontype/">Bibliothekar</occupation>
-<occupation code="#3683" scheme="#apis_vocabularies/professiontype/">Jurist</occupation>
-<occupation code="#3703" scheme="#apis_vocabularies/professiontype/">Literaturwissenschaftler</occupation>
-<idno subtype="GND" type="URL">https://d-nb.info/gnd/119065932</idno>
-<idno type="paas">4420</idno>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Personenregister zum Projekt „Sitzungsprotokolle der Gesamtakademie“</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt>
+                <publisher>ÖAW</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A 0001</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="sachse-von-rothenberg-friedrich-johann">
+                    <persName>
+                        <surname>Sachse von Rothenberg</surname>
+                        <forename>Friedrich Johann</forename>
+                    </persName>
+                </person>
+                <person xml:id="menin-nn">
+                    <persName>
+                        <surname>Menin</surname>
+                        <forename>NN</forename>
+                    </persName>
+                </person>
+                <person xml:id="weber-wilhelm">
+                    <persName>
+                        <surname>Weber</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth when="1916-01-01">01.01.1916</birth>
+                    <death when="2005-01-01">2005</death>
+                    <idno type="URL">https://apis.eos.arz.oeaw.ac.at/entity/25303</idno>
+                    <idno type="paas">25303</idno>
+                </person>
+                <person xml:id="rochette-raoul">
+                    <persName>
+                        <surname>Rochette</surname>
+                        <forename>Raoul</forename>
+                    </persName>
+                </person>
+                <person xml:id="michel-francois-xavier">
+                    <persName>
+                        <surname>Michel</surname>
+                        <forename>Francisque</forename>
+                    </persName>
+                    <persName subtype="alternative name" type="alt">François-Xavier, Michel</persName>
+                    <birth when="1809-02-18">18.2.1809<place key="place__10790">
+                        <placeName>Lyon</placeName>
+                        <placeName subtype="alternative name" type="alt" xml:lang="eng">Lyon</placeName>
+                        <location>
+                            <geo>45.74846 4.84671</geo>
+                        </location>
+                    </place>
+                </birth>
+                <death when="1887-05-18">18.5.1887</death>
+                <occupation code="#3633" scheme="#apis_vocabularies/professiontype/">Mediävist</occupation>
+                <occupation code="#3637" scheme="#apis_vocabularies/professiontype/">Klassischer Philologe</occupation>
+                <occupation code="#3826" scheme="#apis_vocabularies/professiontype/">Altertumswissenschaftler</occupation>
+                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118891057</idno>
+                <idno type="paas">17449</idno>
+            </person>
+            <person xml:id="bopp-franz">
+                <persName>
+                    <surname>Bopp</surname>
+                    <forename>Franz</forename>
+                </persName>
+                <birth when="1791-09-14">14.09.1791<place key="place__13674">
+                    <placeName>Mainz</placeName>
+                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Mainz</placeName>
+                    <location>
+                        <geo>49.98419 8.2791</geo>
+                    </location>
+                </place>
+            </birth>
+            <death when="1867-10-23">23.10.1867</death>
+            <occupation code="#3640" scheme="#apis_vocabularies/professiontype/">Orientalist</occupation>
+            <occupation code="#3698" scheme="#apis_vocabularies/professiontype/">Linguist</occupation>
+            <idno subtype="GND" type="URL">https://d-nb.info/gnd/118659332</idno>
+            <idno type="paas">1010</idno>
+        </person>
+        <person xml:id="miklosich-von-franz">
+            <persName>
+                <surname>Miklosich</surname>
+                <addName>Ritter von</addName>
+                <addName>Dr. phil.</addName>
+                <addName>Dr. iur.</addName>
+                <nameLink>von</nameLink>
+                <forename>Franz</forename>
+            </persName>
+            <birth when="1813-11-20">20.11.1813<place key="place__11234">
+                <placeName>Ljutomer</placeName>
+                <placeName subtype="alternative name" type="alt" xml:lang="eng">Ljutomer</placeName>
+                <location>
+                    <geo>46.52083 16.1975</geo>
+                </location>
+            </place>
+        </birth>
+        <death when="1891-03-07">07.03.1891<place key="place__10950">
+            <placeName>Wien</placeName>
+            <placeName subtype="alternative name" type="alt" xml:lang="eng">Vienna</placeName>
+            <location>
+                <geo>48.20849 16.37208</geo>
+            </location>
+        </place>
+    </death>
+    <occupation code="#3624" scheme="#apis_vocabularies/professiontype/">Philologe</occupation>
+    <occupation code="#3658" scheme="#apis_vocabularies/professiontype/">Bibliothekar</occupation>
+    <occupation code="#3683" scheme="#apis_vocabularies/professiontype/">Jurist</occupation>
+    <occupation code="#3703" scheme="#apis_vocabularies/professiontype/">Literaturwissenschaftler</occupation>
+    <idno subtype="GND" type="URL">https://d-nb.info/gnd/119065932</idno>
+    <idno type="paas">4420</idno>
 </person>
 <person xml:id="reiffenberg-de-frederic">
-<persName>
-<surname>Reiffenberg</surname>
-<addName>de</addName>
-<forename>Frédéric Auguste Ferdinand Thomas</forename>
-</persName>
-<birth when="1795-11-14">14.11.1795<place key="place__54823">
-<placeName>Mons (Hennegau)</placeName>
-<location>
-<geo>50.454129 3.95229</geo>
-</location>
-</place>
+    <persName>
+        <surname>Reiffenberg</surname>
+        <addName>de</addName>
+        <forename>Frédéric Auguste Ferdinand Thomas</forename>
+    </persName>
+    <birth when="1795-11-14">14.11.1795<place key="place__54823">
+        <placeName>Mons (Hennegau)</placeName>
+        <location>
+            <geo>50.454129 3.95229</geo>
+        </location>
+    </place>
 </birth>
 <death when="1850-04-18">18.04.1850</death>
 <occupation code="#3632" scheme="#apis_vocabularies/professiontype/">Historiker</occupation>
@@ -141,15 +141,15 @@
 </person>
 <person xml:id="haupt-moriz">
 <persName>
-<surname>Haupt</surname>
-<forename>Moriz</forename>
+    <surname>Haupt</surname>
+    <forename>Moriz</forename>
 </persName>
 <birth when="1808-07-27">27.07.1808<place key="place__14346">
-<placeName>Zittau</placeName>
-<placeName subtype="alternative name" type="alt" xml:lang="eng">Zittau</placeName>
-<location>
-<geo>50.89772 14.80764</geo>
-</location>
+    <placeName>Zittau</placeName>
+    <placeName subtype="alternative name" type="alt" xml:lang="eng">Zittau</placeName>
+    <location>
+        <geo>50.89772 14.80764</geo>
+    </location>
 </place>
 </birth>
 <death when="1874-02-05">05.02.1874</death>
@@ -166,7 +166,7 @@
 <birth when="1793-04-15">15.04.1793<place key="place__14661">
 <placeName>Bezirk Altona</placeName>
 <location>
-<geo>53.55 9.93333</geo>
+    <geo>53.55 9.93333</geo>
 </location>
 </place>
 </birth>
