@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="listplace.xml" xml:base="https://id.acdh.oeaw.ac.at/akademieprotokolle" prev="https://id.acdh.oeaw.ac.at/akademieprotokolle/listperson.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -24,7 +25,7 @@
 <geo>48.20849 16.37208</geo>
 </location>
 <idno type="paas">10950</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0005</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0008</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0008.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0054</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0054.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0087</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0087.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0088</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0004</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0005</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0007</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0007.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0022</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0022.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0038</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0068</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0068.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0071</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0098</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0098.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="graz">
 <placeName>Graz</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Graz</placeName>
@@ -34,7 +35,7 @@
 <geo>47.06667 15.45</geo>
 </location>
 <idno type="paas">10758</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0023</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0023.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0043</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0043.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0098</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0098.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0102.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="london">
 <placeName>London</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">City of London</placeName>
@@ -46,7 +47,7 @@
 <geo>51.50853 -0.12574</geo>
 </location>
 <idno type="paas">11368</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="varna">
 <placeName>Varna</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Varna</placeName>
@@ -57,7 +58,7 @@
 <geo>43.21667 27.91667</geo>
 </location>
 <idno type="paas">50625</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="ulm">
 <placeName>Ulm</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Ulm</placeName>
@@ -67,7 +68,7 @@
 <geo>48.39841 9.99155</geo>
 </location>
 <idno type="paas">18337</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="triest">
 <placeName>Triest</placeName>
 <idno type="URL">https://sws.geonames.org/3165186/</idno>
@@ -75,7 +76,7 @@
 <geo>45.66667 13.76667</geo>
 </location>
 <idno type="paas">11222</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0015</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0015.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0102.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="varna_1">
 <placeName>Varna</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Varna</placeName>
@@ -96,7 +97,7 @@
 <geo>48.13743 11.57549</geo>
 </location>
 <idno type="paas">11340</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0004</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0014</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0014.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0032.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0037</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0037.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0064</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0064.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0103.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="venedig">
 <placeName>Venedig</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Venice</placeName>
@@ -129,7 +130,7 @@
 <geo>45.438609 12.32667</geo>
 </location>
 <idno type="paas">28730</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="trient">
 <placeName>Trient</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Trento</placeName>
@@ -144,7 +145,7 @@
 <idno type="URL">https://sws.geonames.org/3165243/</idno>
 <idno subtype="GND" type="URL">https://d-nb.info/gnd/4078405-8</idno>
 <idno type="paas">37539</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="colmar">
 <placeName>Colmar</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Colmar</placeName>
@@ -155,7 +156,7 @@
 <geo>48.08078 7.35584</geo>
 </location>
 <idno type="paas">50627</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="prag">
 <placeName>Prag</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Prague</placeName>
@@ -165,7 +166,7 @@
 <geo>50.08804 14.42076</geo>
 </location>
 <idno type="paas">10934</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0004</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0097</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0097.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="sankt-petersburg">
 <placeName>Sankt Petersburg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Petersburg</placeName>
@@ -181,7 +182,7 @@
 <geo>59.93863 30.31413</geo>
 </location>
 <idno type="paas">11290</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0106</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0106.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="paris">
 <placeName>Paris</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Paris</placeName>
@@ -190,7 +191,7 @@
 <geo>48.85341 2.3488</geo>
 </location>
 <idno type="paas">10745</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0032.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0061</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0061.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="dresden">
 <placeName>Dresden</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Dresden</placeName>
@@ -199,7 +200,7 @@
 <geo>51.05089 13.73832</geo>
 </location>
 <idno type="paas">12699</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0026.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="leipzig">
 <placeName>Leipzig</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Leipzig</placeName>
@@ -208,7 +209,7 @@
 <geo>51.33962 12.37129</geo>
 </location>
 <idno type="paas">11241</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0056.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0064</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0064.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0065</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0101</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0101.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="stockholm">
 <placeName>Stockholm</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Stockholm</placeName>
@@ -217,7 +218,7 @@
 <geo>59.33258 18.0649</geo>
 </location>
 <idno type="paas">10786</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0061</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0061.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0110</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0110.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bagdad">
 <placeName>Bagdad</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Bagdad</placeName>
@@ -228,7 +229,7 @@
 <geo>33.34058 44.40088</geo>
 </location>
 <idno type="paas">50656</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="konstantinopel">
 <placeName>Konstantinopel</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Der-i Seʿādet</placeName>
@@ -260,7 +261,7 @@
 <geo>41.013611 28.949444</geo>
 </location>
 <idno type="paas">38335</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0053</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0053.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0057</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0057.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="innsbruck">
 <placeName>Innsbruck</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Innsbruck</placeName>
@@ -270,7 +271,7 @@
 <geo>47.26266 11.39454</geo>
 </location>
 <idno type="paas">10853</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0037</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0037.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0057</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0057.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="pressburg">
 <placeName>Pressburg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Bratislava</placeName>
@@ -280,7 +281,7 @@
 <geo>48.14816 17.10674</geo>
 </location>
 <idno type="paas">13259</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="beirut">
 <placeName>Beirut</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Beirut</placeName>
@@ -290,7 +291,7 @@
 <geo>33.88894 35.49442</geo>
 </location>
 <idno type="paas">21623</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0065</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="salzburg">
 <placeName>Salzburg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Salzburg</placeName>
@@ -300,7 +301,7 @@
 <geo>47.79941 13.04399</geo>
 </location>
 <idno type="paas">10985</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0030</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0032.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="linz">
 <placeName>Linz</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Linz</placeName>
@@ -310,7 +311,7 @@
 <geo>48.30639 14.28611</geo>
 </location>
 <idno type="paas">50660</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0065</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0066</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0066.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0075.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="raigern">
 <placeName>Raigern</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Großraigern</placeName>
@@ -324,7 +325,7 @@
 <geo>49.090209 16.60388</geo>
 </location>
 <idno type="paas">39425</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0035.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="damaskus">
 <placeName>Damaskus</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Damaskus</placeName>
@@ -335,7 +336,7 @@
 <geo>33.5102 36.29128</geo>
 </location>
 <idno type="paas">50665</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0071</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0072</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0079</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0079.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bamberg">
 <placeName>Bamberg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Bamberg</placeName>
@@ -344,7 +345,7 @@
 <geo>49.89873 10.90067</geo>
 </location>
 <idno type="paas">14889</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0071</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="laibach">
 <placeName>Laibach</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Ljubljana</placeName>
@@ -366,7 +367,7 @@
 <geo>43.5432 16.49314</geo>
 </location>
 <idno type="paas">50671</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0038</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0061</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0061.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0067</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0067.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0072</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0080</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0080.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="split-dalmatien">
 <placeName>Split / Dalmatien</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Split</placeName>
@@ -375,7 +376,7 @@
 <geo>43.50891 16.43915</geo>
 </location>
 <idno type="paas">15752</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0019.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0031</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0031.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="zadar">
 <placeName>Zadar</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Iadera</placeName>
@@ -396,7 +397,7 @@
 <geo>49.47188 17.11184</geo>
 </location>
 <idno type="paas">11457</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="brussel">
 <placeName>Brüssel</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">City of Brussels</placeName>
@@ -419,7 +420,7 @@
 <idno type="URL">https://sws.geonames.org/2800866/</idno>
 <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008460-7</idno>
 <idno type="paas">29483</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0014</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0014.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0052.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="olmutz">
 <placeName>Olmütz</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Olmüz</placeName>
@@ -429,7 +430,7 @@
 <geo>49.59552 17.25175</geo>
 </location>
 <idno type="paas">30272</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0101</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0101.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="mailand">
 <placeName>Mailand</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Milan</placeName>
@@ -447,7 +448,7 @@
 <geo>45.464269 9.18951</geo>
 </location>
 <idno type="paas">39653</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0006</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0034</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0034.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="jihlava">
 <placeName>Jihlava</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Jihlava</placeName>
@@ -459,7 +460,7 @@
 <geo>49.3961 15.59124</geo>
 </location>
 <idno type="paas">50673</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0004</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="tubingen">
 <placeName>Tübingen</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Tübingen</placeName>
@@ -469,7 +470,7 @@
 <geo>48.52266 9.05222</geo>
 </location>
 <idno type="paas">11343</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0042</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0042.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="kairo">
 <placeName>Kairo</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Cairo</placeName>
@@ -478,7 +479,7 @@
 <geo>30.06263 31.24967</geo>
 </location>
 <idno type="paas">11353</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0037</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0037.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0092</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0092.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0101</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0101.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="antwerpen">
 <placeName>Antwerpen</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Antwerp</placeName>
@@ -487,7 +488,7 @@
 <geo>51.21989 4.40346</geo>
 </location>
 <idno type="paas">11161</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0020</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0020.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="iraklio">
 <placeName>Iraklio</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Heraklion</placeName>
@@ -496,7 +497,7 @@
 <geo>35.32787 25.14341</geo>
 </location>
 <idno type="paas">11325</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="lemberg">
 <placeName>Lemberg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">L'viv</placeName>
@@ -518,7 +519,7 @@
 <geo>49.8397 24.0297</geo>
 </location>
 <idno type="paas">29354</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0014</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0014.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0080</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0080.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="berlin">
 <placeName>Berlin</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Berlin</placeName>
@@ -527,7 +528,7 @@
 <geo>52.52437 13.41053</geo>
 </location>
 <idno type="paas">11151</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0061</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0061.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="seckau">
 <placeName>Seckau</placeName>
 <idno type="URL">https://sws.geonames.org/2765335/</idno>
@@ -535,7 +536,7 @@
 <geo>47.26667 14.78333</geo>
 </location>
 <idno type="paas">11712</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0014</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0014.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="simancas">
 <placeName>Simancas</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50675/</idno>
@@ -544,7 +545,7 @@
 <geo>41.59072 -4.82796</geo>
 </location>
 <idno type="paas">50675</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0026.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="gotha">
 <placeName>Gotha</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Gotha</placeName>
@@ -564,7 +565,7 @@
 <geo>51.53443 9.93228</geo>
 </location>
 <idno type="paas">11073</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="heidelberg">
 <placeName>Heidelberg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Heidelberg</placeName>
@@ -574,7 +575,7 @@
 <geo>49.40768 8.69079</geo>
 </location>
 <idno type="paas">10989</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="regensburg">
 <placeName>Regensburg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Regensburg</placeName>
@@ -583,7 +584,7 @@
 <geo>49.01513 12.10161</geo>
 </location>
 <idno type="paas">11744</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bonn">
 <placeName>Bonn</placeName>
 <idno type="URL">https://sws.geonames.org/2946447/</idno>
@@ -605,7 +606,7 @@
 <geo>42.64125 18.10909</geo>
 </location>
 <idno type="paas">50678</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0103.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="luzern">
 <placeName>Luzern</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Luzern</placeName>
@@ -616,7 +617,7 @@
 <geo>47.05048 8.30635</geo>
 </location>
 <idno type="paas">50687</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0050</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0050.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0071</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0103.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="sankt-florian">
 <placeName>Sankt Florian</placeName>
 <idno type="URL">https://sws.geonames.org/7873165/</idno>
@@ -624,7 +625,7 @@
 <geo>48.20557 14.37724</geo>
 </location>
 <idno type="paas">13210</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0110</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0110.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="cagliari">
 <placeName>Cagliari</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Cagliari</placeName>
@@ -635,7 +636,7 @@
 <geo>39.23054 9.11917</geo>
 </location>
 <idno type="paas">50689</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0059</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0059.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="mossul">
 <placeName>Mossul</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Mossul</placeName>
@@ -646,7 +647,7 @@
 <geo>36.335 43.11889</geo>
 </location>
 <idno type="paas">50691</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="melk">
 <placeName>Melk</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Melk</placeName>
@@ -655,7 +656,7 @@
 <geo>48.22737 15.33186</geo>
 </location>
 <idno type="paas">13562</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="herzogenburg">
 <placeName>Herzogenburg</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50695/</idno>
@@ -673,7 +674,7 @@
 <geo>36.20124 37.16117</geo>
 </location>
 <idno type="paas">11085</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0072</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0072.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="mekka">
 <placeName>Mekka</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Mecca</placeName>
@@ -696,7 +697,7 @@
 <geo>47.57537 14.46075</geo>
 </location>
 <idno type="paas">49693</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0049</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0049.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0098</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0098.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="kremsier">
 <placeName>Kremsier</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Kroměříž</placeName>
@@ -705,7 +706,7 @@
 <geo>49.29785 17.39312</geo>
 </location>
 <idno type="paas">11889</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="brunn">
 <placeName>Brünn</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Brno</placeName>
@@ -715,7 +716,7 @@
 <geo>49.19522 16.60796</geo>
 </location>
 <idno type="paas">10795</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0079</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0079.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="stuhlweissenburg">
 <placeName>Stuhlweißenburg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Székesfehérvár</placeName>
@@ -737,7 +738,7 @@
 <geo>50.11552 8.68417</geo>
 </location>
 <idno type="paas">11190</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0004</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0004.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="castelnuovo">
 <placeName>Castelnuovo</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Castelnuovo</placeName>
@@ -747,7 +748,7 @@
 <geo>46.05412 11.48916</geo>
 </location>
 <idno type="paas">50702</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0032</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0032.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="cernosice">
 <placeName>Černošice</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50704/</idno>
@@ -756,7 +757,7 @@
 <geo>49.96008 14.31979</geo>
 </location>
 <idno type="paas">50704</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0021</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0021.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0024.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="michaelbeuern">
 <placeName>Michaelbeuern</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50706/</idno>
@@ -774,7 +775,7 @@
 <geo>45.40797 11.88586</geo>
 </location>
 <idno type="paas">12993</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="odessa">
 <placeName>Odessa</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Odessa</placeName>
@@ -784,7 +785,7 @@
 <geo>46.47747 30.73262</geo>
 </location>
 <idno type="paas">13058</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="kertsch">
 <placeName>Kertsch</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Kerch</placeName>
@@ -795,7 +796,7 @@
 <geo>45.35675 36.47542</geo>
 </location>
 <idno type="paas">50709</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0092</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0092.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="sankt-paul-im-levanttal">
 <placeName>Sankt Paul im Levanttal</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50714/</idno>
@@ -813,7 +814,7 @@
 <geo>49.13941 15.56359</geo>
 </location>
 <idno type="paas">50716</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="lilienfeld">
 <placeName>Lilienfeld</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50720/</idno>
@@ -841,7 +842,7 @@
 <geo>48.14627 16.94504</geo>
 </location>
 <idno type="paas">18075</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="zurich">
 <placeName>Zürich</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Zurich</placeName>
@@ -850,7 +851,7 @@
 <geo>47.36667 8.55</geo>
 </location>
 <idno type="paas">11060</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0026</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bruck-an-der-leitha">
 <placeName>Bruck an der Leitha</placeName>
 <idno type="URL">https://sws.geonames.org/7872849/</idno>
@@ -869,7 +870,7 @@
 <geo>46.62472 14.30528</geo>
 </location>
 <idno type="paas">11154</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0078</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0078.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="pietroasa-mica">
 <placeName>Pietroasa Mică</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50724/</idno>
@@ -878,7 +879,7 @@
 <geo>45.11003 26.57751</geo>
 </location>
 <idno type="paas">50724</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0011.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="neapel">
 <placeName>Neapel</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Naples</placeName>
@@ -887,7 +888,7 @@
 <geo>40.83333 14.25</geo>
 </location>
 <idno type="paas">10884</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bari">
 <placeName>Bari</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Bari</placeName>
@@ -898,7 +899,7 @@
 <geo>41.12066 16.86982</geo>
 </location>
 <idno type="paas">50729</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="sankt-trond">
 <placeName>Sankt Trond</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Sint-Truiden</placeName>
@@ -909,7 +910,7 @@
 <geo>50.81679 5.18647</geo>
 </location>
 <idno type="paas">50731</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bassano-del-grappa">
 <placeName>Bassano del Grappa</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50736/</idno>
@@ -918,7 +919,7 @@
 <geo>45.7676 11.7357</geo>
 </location>
 <idno type="paas">50736</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="canea">
 <placeName>Canea</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50738/</idno>
@@ -927,7 +928,7 @@
 <geo>35.51124 24.02921</geo>
 </location>
 <idno type="paas">50738</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="perugia">
 <placeName>Perugia</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Perugia</placeName>
@@ -938,7 +939,7 @@
 <geo>43.1122 12.38878</geo>
 </location>
 <idno type="paas">50741</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0051.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0066</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0066.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="silchester">
 <placeName>Silchester</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50743/</idno>
@@ -947,7 +948,7 @@
 <geo>51.35356 -1.10061</geo>
 </location>
 <idno type="paas">50743</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="schassburg">
 <placeName>Schäßburg</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50745/</idno>
@@ -956,7 +957,7 @@
 <geo>46.22141 24.79279</geo>
 </location>
 <idno type="paas">50745</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="stuttgart">
 <placeName>Stuttgart</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Stuttgart</placeName>
@@ -965,7 +966,7 @@
 <geo>48.78232 9.17702</geo>
 </location>
 <idno type="paas">10923</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0078</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0078.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="radoboj">
 <placeName>Radoboj</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50748/</idno>
@@ -985,7 +986,7 @@
 <geo>48.291388 25.940277</geo>
 </location>
 <idno type="paas">27225</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="manastirea-humorului">
 <placeName>Mănăstirea Humorului</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50754/</idno>
@@ -994,7 +995,7 @@
 <geo>47.6 25.86667</geo>
 </location>
 <idno type="paas">50754</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="hermannstadt">
 <placeName>Hermannstadt</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Sibiu</placeName>
@@ -1003,7 +1004,7 @@
 <geo>45.8 24.15</geo>
 </location>
 <idno type="paas">11439</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0056.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="sissek">
 <placeName>Sissek</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Sisak</placeName>
@@ -1023,7 +1024,7 @@
 <geo>50.80904 8.77069</geo>
 </location>
 <idno type="paas">10741</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0022</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0022.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0028</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0028.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0050</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0050.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="lyon">
 <placeName>Lyon</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Lyon</placeName>
@@ -1032,7 +1033,7 @@
 <geo>45.74846 4.84671</geo>
 </location>
 <idno type="paas">10790</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0047</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0047.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0048</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0048.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0049</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0049.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0050</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0050.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0051.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="moggio-udinese">
 <placeName>Moggio Udinese</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50879/</idno>
@@ -1041,7 +1042,7 @@
 <geo>46.41083 13.20139</geo>
 </location>
 <idno type="paas">50879</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0050</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0050.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="kabul">
 <placeName>Kabul</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Kabul</placeName>
@@ -1052,7 +1053,7 @@
 <geo>34.52813 69.17233</geo>
 </location>
 <idno type="paas">50891</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0051</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0051.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="madrid">
 <placeName>Madrid</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Madrid</placeName>
@@ -1062,7 +1063,7 @@
 <geo>40.4165 -3.70256</geo>
 </location>
 <idno type="paas">14833</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0056</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0056.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0092</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0092.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="braunschweig">
 <placeName>Braunschweig</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Braunschweig</placeName>
@@ -1100,7 +1101,7 @@
 <geo>52.28953 8.91455</geo>
 </location>
 <idno type="paas">11148</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0092</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0092.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="neuwied">
 <placeName>Neuwied</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Neuwied</placeName>
@@ -1121,7 +1122,7 @@
 <geo>55.73401 36.85918</geo>
 </location>
 <idno type="paas">51179</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0055</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0055.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="raab">
 <placeName>Raab</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Győr</placeName>
@@ -1130,7 +1131,7 @@
 <geo>47.68333 17.63512</geo>
 </location>
 <idno type="paas">11357</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0022</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0022.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="feldkirch">
 <placeName>Feldkirch</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Feldkirch</placeName>
@@ -1139,7 +1140,7 @@
 <geo>47.23306 9.6</geo>
 </location>
 <idno type="paas">11807</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="gorz">
 <placeName>Görz</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Gorizia</placeName>
@@ -1149,7 +1150,7 @@
 <geo>45.94088 13.62167</geo>
 </location>
 <idno type="paas">12063</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="basel">
 <placeName>Basel</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Basel</placeName>
@@ -1158,7 +1159,7 @@
 <geo>47.55839 7.57327</geo>
 </location>
 <idno type="paas">11282</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0004</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0025</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0066</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0066.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0072</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0082</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0082.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="gradisca-d-isonzo">
 <placeName>Gradisca d'Isonzo</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51344/</idno>
@@ -1167,7 +1168,7 @@
 <geo>45.8925 13.50167</geo>
 </location>
 <idno type="paas">51344</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0027</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0027.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="mogador">
 <placeName>Mogador</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Mogador</placeName>
@@ -1180,7 +1181,7 @@
 <geo>31.5125 -9.77</geo>
 </location>
 <idno type="paas">51353</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0033</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0033.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="tetouan">
 <placeName>Tétouan</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Tétouan</placeName>
@@ -1210,7 +1211,7 @@
 <geo>50.4669 4.86746</geo>
 </location>
 <idno type="paas">51455</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0052</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0052.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="janina">
 <placeName>Janina</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Ioannina</placeName>
@@ -1221,7 +1222,7 @@
 <geo>39.66486 20.85189</geo>
 </location>
 <idno type="paas">51617</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0058</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0060</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0060.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0070</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0074</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0091</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0091.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="syros">
 <placeName>Syros</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51631/</idno>
@@ -1230,7 +1231,7 @@
 <geo>37.42698 24.91631</geo>
 </location>
 <idno type="paas">51631</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0063</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0063.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="breslau">
 <placeName>Breslau</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Wrocław</placeName>
@@ -1239,7 +1240,7 @@
 <geo>51.10773 17.03533</geo>
 </location>
 <idno type="paas">11691</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="new-york-city">
 <placeName>New York City</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">New York City</placeName>
@@ -1250,7 +1251,7 @@
 <geo>40.71427 -74.00597</geo>
 </location>
 <idno type="paas">11578</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0004</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0004.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="amsterdam">
 <placeName>Amsterdam</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Amsterdam</placeName>
@@ -1269,7 +1270,7 @@
 <geo>48.36652 15.61295</geo>
 </location>
 <idno type="paas">51640</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0062</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0062.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="gibraltar">
 <placeName>Gibraltar</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Gibraltar</placeName>
@@ -1280,7 +1281,7 @@
 <geo>36.13333 -5.35</geo>
 </location>
 <idno type="paas">51783</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0066</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0066.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="barcelona">
 <placeName>Barcelona</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Barcelona</placeName>
@@ -1291,7 +1292,7 @@
 <geo>41.38879 2.15899</geo>
 </location>
 <idno type="paas">51785</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0059</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0059.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0066</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0066.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="hallstatt">
 <placeName>Hallstatt</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Hallstatt</placeName>
@@ -1302,7 +1303,7 @@
 <geo>47.56231 13.64912</geo>
 </location>
 <idno type="paas">51788</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0065</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0073</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0080</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0080.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0102</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0102.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="gent">
 <placeName>Gent</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Ghent</placeName>
@@ -1311,7 +1312,7 @@
 <geo>51.05 3.71667</geo>
 </location>
 <idno type="paas">11384</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0068</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0068.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="aquileia">
 <placeName>Aquileia</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Aquileia</placeName>
@@ -1322,7 +1323,7 @@
 <geo>45.7683 13.36779</geo>
 </location>
 <idno type="paas">52232</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0079</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0079.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="eger">
 <placeName>Eger</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Eger</placeName>
@@ -1331,7 +1332,7 @@
 <geo>50.07963 12.37392</geo>
 </location>
 <idno type="paas">30557</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0061</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0061.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0106</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0107</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0107.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="kremsmunster">
 <placeName>Kremsmünster</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Marktgemeinde Kremsmünster</placeName>
@@ -1340,7 +1341,7 @@
 <geo>48.0529 14.129189</geo>
 </location>
 <idno type="paas">30869</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="kopenhagen">
 <placeName>Kopenhagen</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Copenhagen</placeName>
@@ -1350,7 +1351,7 @@
 <geo>55.67594 12.56553</geo>
 </location>
 <idno type="paas">11142</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0024</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0024.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0059</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0059.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0075</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0075.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="palmyra">
 <placeName>Palmyra</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Palmyra</placeName>
@@ -1361,7 +1362,7 @@
 <geo>34.5624 38.28402</geo>
 </location>
 <idno type="paas">52338</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="giessen">
 <placeName>Gießen</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Universitätsstadt Gießen</placeName>
@@ -1379,7 +1380,7 @@
 <geo>50.583329 8.65</geo>
 </location>
 <idno type="paas">29863</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0077</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0077.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="cividale">
 <placeName>Cividale</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Cividale del Friuli</placeName>
@@ -1390,7 +1391,7 @@
 <geo>46.09019 13.42861</geo>
 </location>
 <idno type="paas">52340</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0015</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0015.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="athen">
 <placeName>Athen</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Athens</placeName>
@@ -1415,7 +1416,7 @@
 <geo>37.98381 23.727539</geo>
 </location>
 <idno type="paas">45620</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0039</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0039.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>A_0040</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0040.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0035</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0035.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="zagreb">
 <placeName>Zagreb</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Zagreb</placeName>
@@ -1424,7 +1425,7 @@
 <geo>45.81444 15.97798</geo>
 </location>
 <idno type="paas">11824</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0084</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0084.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="budapest">
 <placeName>Budapest</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Budapest</placeName>
@@ -1433,7 +1434,7 @@
 <geo>47.49801 19.03991</geo>
 </location>
 <idno type="paas">10780</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0041</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0085</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0085.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="altenburg">
 <placeName>Altenburg</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52333/</idno>
@@ -1442,7 +1443,7 @@
 <geo>48.644 15.595</geo>
 </location>
 <idno type="paas">52333</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="st-polten">
 <placeName>St. Pölten</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Sankt Pölten</placeName>
@@ -1451,7 +1452,7 @@
 <geo>48.2 15.63333</geo>
 </location>
 <idno type="paas">12326</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0009</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="makarska">
 <placeName>Makarska</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Makarska</placeName>
@@ -1462,7 +1463,7 @@
 <geo>43.29694 17.01778</geo>
 </location>
 <idno type="paas">49414</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="assuan">
 <placeName>Assuan</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Aswan</placeName>
@@ -1496,7 +1497,7 @@
 <geo>48.30521 16.32522</geo>
 </location>
 <idno type="paas">27040</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0046</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0046.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0036</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0067</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0067.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="schwerin">
 <placeName>Schwerin</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49639/</idno>
@@ -1514,7 +1515,7 @@
 <geo>49.87167 8.65027</geo>
 </location>
 <idno type="paas">11831</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0110</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0110.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="rom">
 <placeName>Rom</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Rome</placeName>
@@ -1536,7 +1537,7 @@
 <geo>41.894739 12.4839</geo>
 </location>
 <idno type="paas">28836</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0044</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0044.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0081</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0103</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0103.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="kronstadt">
 <placeName>Kronstadt</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Brassó</placeName>
@@ -1555,7 +1556,7 @@
 <geo>45.64861 25.60613</geo>
 </location>
 <idno type="paas">52640</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0011.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="seitenstetten">
 <placeName>Seitenstetten</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Marktgemeinde Seitenstetten</placeName>
@@ -1564,7 +1565,7 @@
 <geo>48.036 14.6542</geo>
 </location>
 <idno type="paas">37074</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0011.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="den-haag">
 <placeName>Den Haag</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Hague</placeName>
@@ -1575,7 +1576,7 @@
 <geo>52.07667 4.29861</geo>
 </location>
 <idno type="paas">11322</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="leiden">
 <placeName>Leiden</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Leiden</placeName>
@@ -1604,7 +1605,7 @@
 <geo>50.10521 1.83547</geo>
 </location>
 <idno type="paas">49521</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>A_0089</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0089.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0005</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0005.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bogota">
 <placeName>Bogotá</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="None">Santafé de Bogotá Distrito Capital</placeName>
@@ -1627,7 +1628,7 @@
 <geo>4.609444 -74.081666</geo>
 </location>
 <idno type="paas">38814</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0001</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0001.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="pisa">
 <placeName>Pisa</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Pisa</placeName>
@@ -1663,7 +1664,7 @@
 <geo>48.602 16.063</geo>
 </location>
 <idno type="paas">52716</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0047</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0047.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="troppau">
 <placeName>Troppau</placeName>
 <idno subtype="GND" type="URL">https://d-nb.info/gnd/4061019-6</idno>
@@ -1671,7 +1672,7 @@
 <geo>49.938659 17.90257</geo>
 </location>
 <idno type="paas">30962</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0010</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0010.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="freising">
 <placeName>Freising</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Freising</placeName>
@@ -1680,7 +1681,7 @@
 <geo>48.40351 11.74876</geo>
 </location>
 <idno type="paas">13788</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0010</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0010.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="augsburg">
 <placeName>Augsburg</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Augsburg</placeName>
@@ -1689,7 +1690,7 @@
 <geo>48.37154 10.89851</geo>
 </location>
 <idno type="paas">12229</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0010</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0010.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="neuburg-an-der-donau">
 <placeName>Neuburg an der Donau</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52729/</idno>
@@ -1698,7 +1699,7 @@
 <geo>48.73218 11.18709</geo>
 </location>
 <idno type="paas">52729</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0013</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0013.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="carnuntum">
 <placeName>Carnuntum</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52732/</idno>
@@ -1707,7 +1708,7 @@
 <geo>48.11296 16.8616</geo>
 </location>
 <idno type="paas">52732</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0015</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0015.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="arad">
 <placeName>Arad</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Arad</placeName>
@@ -1717,7 +1718,7 @@
 <geo>46.18333 21.31667</geo>
 </location>
 <idno type="paas">52734</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0015</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0015.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="bukarest">
 <placeName>Bukarest</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="eng">Bucharest</placeName>
@@ -1735,7 +1736,7 @@
 <geo>44.43225 26.106259</geo>
 </location>
 <idno type="paas">37236</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0011</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0011.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="pola">
 <placeName>Pola</placeName>
 <placeName subtype="alternative name" type="alt" xml:lang="deu">Pula</placeName>
@@ -1746,7 +1747,7 @@
 <geo>44.86833 13.84806</geo>
 </location>
 <idno type="paas">52752</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0016</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>C_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0017.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="vorau">
 <placeName>Vorau</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52756/</idno>
@@ -1755,7 +1756,7 @@
 <geo>47.4009 15.89</geo>
 </location>
 <idno type="paas">52756</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0017</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0017.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="neuhaus">
 <placeName>Neuhaus</placeName>
 <idno type="URL">https://sws.geonames.org/3074149/</idno>
@@ -1763,7 +1764,7 @@
 <geo>49.14404 15.00301</geo>
 </location>
 <idno type="paas">13975</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0019</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0019.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="pirnitz">
 <placeName>Pirnitz</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52776/</idno>
@@ -1812,7 +1813,7 @@
 <placeName subtype="alternative name" type="alt" xml:lang="None">Halle im Magdeburgischen</placeName>
 <idno subtype="GND" type="URL">https://d-nb.info/gnd/4023025-9</idno>
 <idno type="paas">29207</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0007</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0007.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="pochlarn">
 <placeName>Pöchlarn</placeName>
 <idno type="URL">https://sws.geonames.org/7871823/</idno>
@@ -1820,7 +1821,7 @@
 <geo>48.20185 15.23095</geo>
 </location>
 <idno type="paas">14124</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="ossegg">
 <placeName>Ossegg</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52840/</idno>
@@ -1829,7 +1830,7 @@
 <geo>50.62115 13.69274</geo>
 </location>
 <idno type="paas">52840</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="lambach">
 <placeName>Lambach</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52842/</idno>
@@ -1838,7 +1839,7 @@
 <geo>48.092759 13.87453</geo>
 </location>
 <idno type="paas">52842</idno>
-<listEvent><event type="mentioned"><p>erwähnt in <title>C_0012</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/akademieprotokolle/C_0012.xml"/></linkGrp></event></listEvent></place>
+</place>
 <place xml:id="hohenfurth">
 <placeName>Hohenfurth</placeName>
 <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52844/</idno>
