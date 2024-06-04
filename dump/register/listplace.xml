@@ -1,0 +1,1864 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ga_listplace">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ortsregister zum Projekt „Sitzungsprotokolle der ÖAW“</title>
+            </titleStmt>
+            <editionStmt/>
+            <publicationStmt>
+                <publisher>ÖAW</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="Wien">
+                    <placeName>Wien</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Vienna</placeName>
+                    <idno type="URL">https://sws.geonames.org/2761369/</idno>
+                    <location>
+                        <geo>48.20849 16.37208</geo>
+                    </location>
+                    <idno type="paas">10950</idno>
+                </place>
+                <place xml:id="Graz">
+                    <placeName>Graz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Graz</placeName>
+                    <idno type="URL">https://sws.geonames.org/2778067/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4021912-4</idno>
+                    <location>
+                        <geo>47.06667 15.45</geo>
+                    </location>
+                    <idno type="paas">10758</idno>
+                </place>
+                <place xml:id="London">
+                    <placeName>London</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">City of London</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">London City</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">The City</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">London</placeName>
+                    <idno type="URL">https://sws.geonames.org/2643743/</idno>
+                    <location>
+                        <geo>51.50853 -0.12574</geo>
+                    </location>
+                    <idno type="paas">11368</idno>
+                </place>
+                <place xml:id="Varna">
+                    <placeName>Varna</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Varna</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Warna</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50625/</idno>
+                    <idno type="URL">https://sws.geonames.org/726050/</idno>
+                    <location>
+                        <geo>43.21667 27.91667</geo>
+                    </location>
+                    <idno type="paas">50625</idno>
+                </place>
+                <place xml:id="Ulm">
+                    <placeName>Ulm</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Ulm</placeName>
+                    <idno type="URL">https://sws.geonames.org/2820256/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4061529-7</idno>
+                    <location>
+                        <geo>48.39841 9.99155</geo>
+                    </location>
+                    <idno type="paas">18337</idno>
+                </place>
+                <place xml:id="Triest">
+                    <placeName>Triest</placeName>
+                    <idno type="URL">https://sws.geonames.org/3165186/</idno>
+                    <location>
+                        <geo>45.66667 13.76667</geo>
+                    </location>
+                    <idno type="paas">11222</idno>
+                </place>
+                <place xml:id="Varna">
+                    <placeName>Varna</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Varna</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Warna</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50625/</idno>
+                    <idno type="URL">https://sws.geonames.org/726050/</idno>
+                    <location>
+                        <geo>43.21667 27.91667</geo>
+                    </location>
+                    <idno type="paas">50625</idno>
+                </place>
+                <place xml:id="München">
+                    <placeName>München</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Munich</placeName>
+                    <idno type="URL">https://sws.geonames.org/2867714/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4127793-4</idno>
+                    <location>
+                        <geo>48.13743 11.57549</geo>
+                    </location>
+                    <idno type="paas">11340</idno>
+                </place>
+                <place xml:id="Venedig">
+                    <placeName>Venedig</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Venice</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Città di Venezia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venetik</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Wenetik</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venecija</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Vinegia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Provincie Venete</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Vinetia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venetia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Veneţia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venecio</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venetische Provinzen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Comune di Venezia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venesia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Benetia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venezia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Serenissima (Venezia)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Kronland Venedig</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venice</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Staat Venedig</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Republik Venedig</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venise</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Venegia</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Venedig</placeName>
+                    <idno type="URL">https://sws.geonames.org/3164603/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4062501-1</idno>
+                    <location>
+                        <geo>45.438609 12.32667</geo>
+                    </location>
+                    <idno type="paas">28730</idno>
+                </place>
+                <place xml:id="Trient">
+                    <placeName>Trient</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Trento</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Tridentum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Trente</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Trent</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Tridenti</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Trento</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Trient (Trento)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Comune di Trento</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Trient</placeName>
+                    <idno type="URL">https://sws.geonames.org/3165243/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4078405-8</idno>
+                    <idno type="paas">37539</idno>
+                </place>
+                <place xml:id="Colmar">
+                    <placeName>Colmar</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Colmar</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Colmar</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50627/</idno>
+                    <idno type="URL">https://sws.geonames.org/3024297/</idno>
+                    <location>
+                        <geo>48.08078 7.35584</geo>
+                    </location>
+                    <idno type="paas">50627</idno>
+                </place>
+                <place xml:id="Prag">
+                    <placeName>Prag</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Prague</placeName>
+                    <idno type="URL">https://sws.geonames.org/3067696/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4076310-9</idno>
+                    <location>
+                        <geo>50.08804 14.42076</geo>
+                    </location>
+                    <idno type="paas">10934</idno>
+                </place>
+                <place xml:id="Sankt Petersburg">
+                    <placeName>Sankt Petersburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Petersburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">St. Petersburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Leningrad</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">St.-Petersburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Petrograd</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Peterburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Saint Petersburg</placeName>
+                    <idno type="URL">https://sws.geonames.org/498817/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4267026-3</idno>
+                    <location>
+                        <geo>59.93863 30.31413</geo>
+                    </location>
+                    <idno type="paas">11290</idno>
+                </place>
+                <place xml:id="Paris">
+                    <placeName>Paris</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Paris</placeName>
+                    <idno type="URL">https://sws.geonames.org/2988507/</idno>
+                    <location>
+                        <geo>48.85341 2.3488</geo>
+                    </location>
+                    <idno type="paas">10745</idno>
+                </place>
+                <place xml:id="Dresden">
+                    <placeName>Dresden</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Dresden</placeName>
+                    <idno type="URL">https://sws.geonames.org/2935022/</idno>
+                    <location>
+                        <geo>51.05089 13.73832</geo>
+                    </location>
+                    <idno type="paas">12699</idno>
+                </place>
+                <place xml:id="Leipzig">
+                    <placeName>Leipzig</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Leipzig</placeName>
+                    <idno type="URL">https://sws.geonames.org/2879139/</idno>
+                    <location>
+                        <geo>51.33962 12.37129</geo>
+                    </location>
+                    <idno type="paas">11241</idno>
+                </place>
+                <place xml:id="Stockholm">
+                    <placeName>Stockholm</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Stockholm</placeName>
+                    <idno type="URL">https://sws.geonames.org/2673730/</idno>
+                    <location>
+                        <geo>59.33258 18.0649</geo>
+                    </location>
+                    <idno type="paas">10786</idno>
+                </place>
+                <place xml:id="Bagdad">
+                    <placeName>Bagdad</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Bagdad</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Baghdad</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50656/</idno>
+                    <idno type="URL">https://sws.geonames.org/98182/</idno>
+                    <location>
+                        <geo>33.34058 44.40088</geo>
+                    </location>
+                    <idno type="paas">50656</idno>
+                </place>
+                <place xml:id="Konstantinopel">
+                    <placeName>Konstantinopel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Der-i Seʿādet</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Ḳosṭanṭinīye</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Kosṭanṭinīye</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">K. Polis</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Derseadet</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">İstambul (Konstantinopel)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Kostandnowpolis</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Miklagård</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Carigrad (Konstantinopel)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Kosṭanṭiniyye</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Konstantinopolě</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Constantinopolis</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Polē (Konstantinopel)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Kōnstantinupolis</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Stamboul (Konstantinopel)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Qosṭanṭinīye</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">İstanbul (Konstantinopel)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Qosṭanṭiniyye</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Constantinopel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Constantinople</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Ḳosṭanṭiniyye</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Der-i Saʿādet</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Ostrom</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Dersaadet</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4073697-0</idno>
+                    <location>
+                        <geo>41.013611 28.949444</geo>
+                    </location>
+                    <idno type="paas">38335</idno>
+                </place>
+                <place xml:id="Innsbruck">
+                    <placeName>Innsbruck</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Innsbruck</placeName>
+                    <idno type="URL">https://sws.geonames.org/2775220/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4027096-8</idno>
+                    <location>
+                        <geo>47.26266 11.39454</geo>
+                    </location>
+                    <idno type="paas">10853</idno>
+                </place>
+                <place xml:id="Pressburg">
+                    <placeName>Pressburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Bratislava</placeName>
+                    <idno type="URL">https://sws.geonames.org/3060972/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4076329-8</idno>
+                    <location>
+                        <geo>48.14816 17.10674</geo>
+                    </location>
+                    <idno type="paas">13259</idno>
+                </place>
+                <place xml:id="Beirut">
+                    <placeName>Beirut</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Beirut</placeName>
+                    <idno type="URL">https://sws.geonames.org/276781/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4005348-9</idno>
+                    <location>
+                        <geo>33.88894 35.49442</geo>
+                    </location>
+                    <idno type="paas">21623</idno>
+                </place>
+                <place xml:id="Salzburg">
+                    <placeName>Salzburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Salzburg</placeName>
+                    <idno type="URL">https://sws.geonames.org/2766824/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4076982-3</idno>
+                    <location>
+                        <geo>47.79941 13.04399</geo>
+                    </location>
+                    <idno type="paas">10985</idno>
+                </place>
+                <place xml:id="Linz">
+                    <placeName>Linz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Linz</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50660/</idno>
+                    <idno type="URL">https://sws.geonames.org/2772400/</idno>
+                    <location>
+                        <geo>48.30639 14.28611</geo>
+                    </location>
+                    <idno type="paas">50660</idno>
+                </place>
+                <place xml:id="Raigern">
+                    <placeName>Raigern</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Großraigern</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Raihrad</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Raigern</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Gemeindeamt (Rajhrad)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Groß Raigern</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Rajhrad / Gemeindeamt</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4239226-3</idno>
+                    <location>
+                        <geo>49.090209 16.60388</geo>
+                    </location>
+                    <idno type="paas">39425</idno>
+                </place>
+                <place xml:id="Damaskus">
+                    <placeName>Damaskus</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Damaskus</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Damascus</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50665/</idno>
+                    <idno type="URL">https://sws.geonames.org/170654/</idno>
+                    <location>
+                        <geo>33.5102 36.29128</geo>
+                    </location>
+                    <idno type="paas">50665</idno>
+                </place>
+                <place xml:id="Bamberg">
+                    <placeName>Bamberg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Bamberg</placeName>
+                    <idno type="URL">https://sws.geonames.org/2952984/</idno>
+                    <location>
+                        <geo>49.89873 10.90067</geo>
+                    </location>
+                    <idno type="paas">14889</idno>
+                </place>
+                <place xml:id="Laibach">
+                    <placeName>Laibach</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Ljubljana</placeName>
+                    <idno type="URL">https://sws.geonames.org/3196359/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4073953-3</idno>
+                    <location>
+                        <geo>46.05108 14.50513</geo>
+                    </location>
+                    <idno type="paas">12484</idno>
+                </place>
+                <place xml:id="Salona">
+                    <placeName>Salona</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Solin</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Solin</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Salona</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50671/</idno>
+                    <idno type="URL">https://sws.geonames.org/3190359/</idno>
+                    <location>
+                        <geo>43.5432 16.49314</geo>
+                    </location>
+                    <idno type="paas">50671</idno>
+                </place>
+                <place xml:id="Split / Dalmatien">
+                    <placeName>Split / Dalmatien</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Split</placeName>
+                    <idno type="URL">https://sws.geonames.org/3190261/</idno>
+                    <location>
+                        <geo>43.50891 16.43915</geo>
+                    </location>
+                    <idno type="paas">15752</idno>
+                </place>
+                <place xml:id="Zadar">
+                    <placeName>Zadar</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Iadera</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Iader</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Colonia Iulia Iadera</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Zara (Kroatien)</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4108909-1</idno>
+                    <location>
+                        <geo>44.11972 15.242219</geo>
+                    </location>
+                    <idno type="paas">27954</idno>
+                </place>
+                <place xml:id="Prossnitz">
+                    <placeName>Prossnitz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Prostějov</placeName>
+                    <idno type="URL">https://sws.geonames.org/3067421/</idno>
+                    <location>
+                        <geo>49.47188 17.11184</geo>
+                    </location>
+                    <idno type="paas">11457</idno>
+                </place>
+                <place xml:id="Brüssel">
+                    <placeName>Brüssel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">City of Brussels</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Brussels</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bryssel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Ville de Bruxelles</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Brussels Hoofdstedelijk Gewest</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bruxela</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bruxelles</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Brussels</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Region Brüssel-Hauptstadt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Stadt Brüssel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bruxella</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Brusselles</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Brussel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Brussel-stad</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Région de Bruxelles-Capitale</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bruselas</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Brüssel</placeName>
+                    <idno type="URL">https://sws.geonames.org/2800866/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4008460-7</idno>
+                    <idno type="paas">29483</idno>
+                </place>
+                <place xml:id="Olmütz">
+                    <placeName>Olmütz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Olmüz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Olomouc</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4075643-9</idno>
+                    <location>
+                        <geo>49.59552 17.25175</geo>
+                    </location>
+                    <idno type="paas">30272</idno>
+                </place>
+                <place xml:id="Mailand">
+                    <placeName>Mailand</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Milan</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Città di Milano</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Mediolani</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Comune di Milano</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Commune di Milano</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Milan</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Mediolanum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Milano</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Mailand</placeName>
+                    <idno type="URL">https://sws.geonames.org/3173435/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4037100-1</idno>
+                    <location>
+                        <geo>45.464269 9.18951</geo>
+                    </location>
+                    <idno type="paas">39653</idno>
+                </place>
+                <place xml:id="Jihlava">
+                    <placeName>Jihlava</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Jihlava</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Jihlava</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Iglau</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50673/</idno>
+                    <idno type="URL">https://sws.geonames.org/3074199/</idno>
+                    <location>
+                        <geo>49.3961 15.59124</geo>
+                    </location>
+                    <idno type="paas">50673</idno>
+                </place>
+                <place xml:id="Tübingen">
+                    <placeName>Tübingen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Tübingen</placeName>
+                    <idno type="URL">https://sws.geonames.org/2820860/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4061147-4</idno>
+                    <location>
+                        <geo>48.52266 9.05222</geo>
+                    </location>
+                    <idno type="paas">11343</idno>
+                </place>
+                <place xml:id="Kairo">
+                    <placeName>Kairo</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Cairo</placeName>
+                    <idno type="URL">https://sws.geonames.org/360630/</idno>
+                    <location>
+                        <geo>30.06263 31.24967</geo>
+                    </location>
+                    <idno type="paas">11353</idno>
+                </place>
+                <place xml:id="Antwerpen">
+                    <placeName>Antwerpen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Antwerp</placeName>
+                    <idno type="URL">https://sws.geonames.org/2803138/</idno>
+                    <location>
+                        <geo>51.21989 4.40346</geo>
+                    </location>
+                    <idno type="paas">11161</idno>
+                </place>
+                <place xml:id="Iraklio">
+                    <placeName>Iraklio</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Heraklion</placeName>
+                    <idno type="URL">https://sws.geonames.org/261745/</idno>
+                    <location>
+                        <geo>35.32787 25.14341</geo>
+                    </location>
+                    <idno type="paas">11325</idno>
+                </place>
+                <place xml:id="Lemberg">
+                    <placeName>Lemberg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">L'viv</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lwów</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Leopolis</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lʹviv (vor 1919)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lviv</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lvovas</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Leopoli</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lwiw</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lwow</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Léopol</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Leontopolis</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">L'vov</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Lemberg</placeName>
+                    <idno type="URL">https://sws.geonames.org/702550/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4035304-7</idno>
+                    <location>
+                        <geo>49.8397 24.0297</geo>
+                    </location>
+                    <idno type="paas">29354</idno>
+                </place>
+                <place xml:id="Berlin">
+                    <placeName>Berlin</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Berlin</placeName>
+                    <idno type="URL">https://sws.geonames.org/2950159/</idno>
+                    <location>
+                        <geo>52.52437 13.41053</geo>
+                    </location>
+                    <idno type="paas">11151</idno>
+                </place>
+                <place xml:id="Seckau">
+                    <placeName>Seckau</placeName>
+                    <idno type="URL">https://sws.geonames.org/2765335/</idno>
+                    <location>
+                        <geo>47.26667 14.78333</geo>
+                    </location>
+                    <idno type="paas">11712</idno>
+                </place>
+                <place xml:id="Simancas">
+                    <placeName>Simancas</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50675/</idno>
+                    <idno type="URL">https://sws.geonames.org/3108917/</idno>
+                    <location>
+                        <geo>41.59072 -4.82796</geo>
+                    </location>
+                    <idno type="paas">50675</idno>
+                </place>
+                <place xml:id="Gotha">
+                    <placeName>Gotha</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Gotha</placeName>
+                    <idno type="URL">https://sws.geonames.org/2918752/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4021652-4</idno>
+                    <location>
+                        <geo>50.94823 10.70193</geo>
+                    </location>
+                    <idno type="paas">12706</idno>
+                </place>
+                <place xml:id="Göttingen">
+                    <placeName>Göttingen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Göttingen</placeName>
+                    <idno type="URL">https://sws.geonames.org/2918632/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4021477-1</idno>
+                    <location>
+                        <geo>51.53443 9.93228</geo>
+                    </location>
+                    <idno type="paas">11073</idno>
+                </place>
+                <place xml:id="Heidelberg">
+                    <placeName>Heidelberg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Heidelberg</placeName>
+                    <idno type="URL">https://sws.geonames.org/2907911/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4023996-2</idno>
+                    <location>
+                        <geo>49.40768 8.69079</geo>
+                    </location>
+                    <idno type="paas">10989</idno>
+                </place>
+                <place xml:id="Regensburg">
+                    <placeName>Regensburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Regensburg</placeName>
+                    <idno type="URL">https://sws.geonames.org/2849483/</idno>
+                    <location>
+                        <geo>49.01513 12.10161</geo>
+                    </location>
+                    <idno type="paas">11744</idno>
+                </place>
+                <place xml:id="Bonn">
+                    <placeName>Bonn</placeName>
+                    <idno type="URL">https://sws.geonames.org/2946447/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4007666-0</idno>
+                    <location>
+                        <geo>50.73438 7.09549</geo>
+                    </location>
+                    <idno type="paas">11131</idno>
+                </place>
+                <place xml:id="Dubrovnik">
+                    <placeName>Dubrovnik</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Dubrovnik</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Republic of Ragusa</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Pearl of the Adriatic</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Ragusa</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50678/</idno>
+                    <idno type="URL">https://sws.geonames.org/3201047/</idno>
+                    <location>
+                        <geo>42.64125 18.10909</geo>
+                    </location>
+                    <idno type="paas">50678</idno>
+                </place>
+                <place xml:id="Luzern">
+                    <placeName>Luzern</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Luzern</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Lucerne</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50687/</idno>
+                    <idno type="URL">https://sws.geonames.org/2659811/</idno>
+                    <location>
+                        <geo>47.05048 8.30635</geo>
+                    </location>
+                    <idno type="paas">50687</idno>
+                </place>
+                <place xml:id="Sankt Florian">
+                    <placeName>Sankt Florian</placeName>
+                    <idno type="URL">https://sws.geonames.org/7873165/</idno>
+                    <location>
+                        <geo>48.20557 14.37724</geo>
+                    </location>
+                    <idno type="paas">13210</idno>
+                </place>
+                <place xml:id="Cagliari">
+                    <placeName>Cagliari</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Cagliari</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Cagliari</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50689/</idno>
+                    <idno type="URL">https://sws.geonames.org/2525473/</idno>
+                    <location>
+                        <geo>39.23054 9.11917</geo>
+                    </location>
+                    <idno type="paas">50689</idno>
+                </place>
+                <place xml:id="Mossul">
+                    <placeName>Mossul</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Mossul</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Mosul</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50691/</idno>
+                    <idno type="URL">https://sws.geonames.org/99072/</idno>
+                    <location>
+                        <geo>36.335 43.11889</geo>
+                    </location>
+                    <idno type="paas">50691</idno>
+                </place>
+                <place xml:id="Melk">
+                    <placeName>Melk</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Melk</placeName>
+                    <idno type="URL">https://sws.geonames.org/2771682/</idno>
+                    <location>
+                        <geo>48.22737 15.33186</geo>
+                    </location>
+                    <idno type="paas">13562</idno>
+                </place>
+                <place xml:id="Herzogenburg">
+                    <placeName>Herzogenburg</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50695/</idno>
+                    <idno type="URL">https://sws.geonames.org/2776470/</idno>
+                    <location>
+                        <geo>48.28137 15.69431</geo>
+                    </location>
+                    <idno type="paas">50695</idno>
+                </place>
+                <place xml:id="Aleppo">
+                    <placeName>Aleppo</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Aleppo</placeName>
+                    <idno type="URL">https://sws.geonames.org/170063/</idno>
+                    <location>
+                        <geo>36.20124 37.16117</geo>
+                    </location>
+                    <idno type="paas">11085</idno>
+                </place>
+                <place xml:id="Mekka">
+                    <placeName>Mekka</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Mecca</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Mekka</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50697/</idno>
+                    <idno type="URL">https://sws.geonames.org/104515/</idno>
+                    <location>
+                        <geo>21.42664 39.82563</geo>
+                    </location>
+                    <idno type="paas">50697</idno>
+                </place>
+                <place xml:id="Admont">
+                    <placeName>Admont</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Admont</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49690/</idno>
+                    <idno type="URL">https://sws.geonames.org/7872432/</idno>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49693/</idno>
+                    <idno type="URL">https://sws.geonames.org/2782979/</idno>
+                    <location>
+                        <geo>47.57537 14.46075</geo>
+                    </location>
+                    <idno type="paas">49693</idno>
+                </place>
+                <place xml:id="Kremsier">
+                    <placeName>Kremsier</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Kroměříž</placeName>
+                    <idno type="URL">https://sws.geonames.org/3072649/</idno>
+                    <location>
+                        <geo>49.29785 17.39312</geo>
+                    </location>
+                    <idno type="paas">11889</idno>
+                </place>
+                <place xml:id="Brünn">
+                    <placeName>Brünn</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Brno</placeName>
+                    <idno type="URL">https://sws.geonames.org/3078610/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4008456-5</idno>
+                    <location>
+                        <geo>49.19522 16.60796</geo>
+                    </location>
+                    <idno type="paas">10795</idno>
+                </place>
+                <place xml:id="Stuhlweißenburg">
+                    <placeName>Stuhlweißenburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Székesfehérvár</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Székesfehérvár</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Stuhlweißenburg</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50700/</idno>
+                    <idno type="URL">https://sws.geonames.org/3044774/</idno>
+                    <location>
+                        <geo>47.18995 18.41034</geo>
+                    </location>
+                    <idno type="paas">50700</idno>
+                </place>
+                <place xml:id="Frankfurt am Main">
+                    <placeName>Frankfurt am Main</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Frankfurt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Frankfurt am Main</placeName>
+                    <idno type="URL">https://sws.geonames.org/2925533/</idno>
+                    <location>
+                        <geo>50.11552 8.68417</geo>
+                    </location>
+                    <idno type="paas">11190</idno>
+                </place>
+                <place xml:id="Castelnuovo">
+                    <placeName>Castelnuovo</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Castelnuovo</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50702/</idno>
+                    <idno type="URL">https://sws.geonames.org/3179537/</idno>
+                    <location>
+                        <geo>46.05412 11.48916</geo>
+                    </location>
+                    <idno type="paas">50702</idno>
+                </place>
+                <place xml:id="Černošice">
+                    <placeName>Černošice</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50704/</idno>
+                    <idno type="URL">https://sws.geonames.org/3078029/</idno>
+                    <location>
+                        <geo>49.96008 14.31979</geo>
+                    </location>
+                    <idno type="paas">50704</idno>
+                </place>
+                <place xml:id="Michaelbeuern">
+                    <placeName>Michaelbeuern</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50706/</idno>
+                    <idno type="URL">https://sws.geonames.org/2771633/</idno>
+                    <location>
+                        <geo>48.01667 13.03333</geo>
+                    </location>
+                    <idno type="paas">50706</idno>
+                </place>
+                <place xml:id="Padua">
+                    <placeName>Padua</placeName>
+                    <idno type="URL">https://sws.geonames.org/3171728/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4044295-0</idno>
+                    <location>
+                        <geo>45.40797 11.88586</geo>
+                    </location>
+                    <idno type="paas">12993</idno>
+                </place>
+                <place xml:id="Odessa">
+                    <placeName>Odessa</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Odessa</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Odesa</placeName>
+                    <idno type="URL">https://sws.geonames.org/698740/</idno>
+                    <location>
+                        <geo>46.47747 30.73262</geo>
+                    </location>
+                    <idno type="paas">13058</idno>
+                </place>
+                <place xml:id="Kertsch">
+                    <placeName>Kertsch</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Kerch</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Kertsch</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50709/</idno>
+                    <idno type="URL">https://sws.geonames.org/706524/</idno>
+                    <location>
+                        <geo>45.35675 36.47542</geo>
+                    </location>
+                    <idno type="paas">50709</idno>
+                </place>
+                <place xml:id="Sankt Paul im Levanttal">
+                    <placeName>Sankt Paul im Levanttal</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50714/</idno>
+                    <idno type="URL">https://sws.geonames.org/2766459/</idno>
+                    <location>
+                        <geo>46.70056 14.87556</geo>
+                    </location>
+                    <idno type="paas">50714</idno>
+                </place>
+                <place xml:id="Neureisch">
+                    <placeName>Neureisch</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50716/</idno>
+                    <idno type="URL">https://sws.geonames.org/3069663/</idno>
+                    <location>
+                        <geo>49.13941 15.56359</geo>
+                    </location>
+                    <idno type="paas">50716</idno>
+                </place>
+                <place xml:id="Lilienfeld">
+                    <placeName>Lilienfeld</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50720/</idno>
+                    <idno type="URL">https://sws.geonames.org/2772470/</idno>
+                    <location>
+                        <geo>48.01312 15.59664</geo>
+                    </location>
+                    <idno type="paas">50720</idno>
+                </place>
+                <place xml:id="Wiener Neustadt">
+                    <placeName>Wiener Neustadt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Wiener Neustadt</placeName>
+                    <idno type="URL">https://sws.geonames.org/2761353/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4066023-0</idno>
+                    <location>
+                        <geo>47.8 16.25</geo>
+                    </location>
+                    <idno type="paas">12286</idno>
+                </place>
+                <place xml:id="Hainburg an der Donau">
+                    <placeName>Hainburg an der Donau</placeName>
+                    <idno type="URL">https://sws.geonames.org/2776988/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4022967-1</idno>
+                    <location>
+                        <geo>48.14627 16.94504</geo>
+                    </location>
+                    <idno type="paas">18075</idno>
+                </place>
+                <place xml:id="Zürich">
+                    <placeName>Zürich</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Zurich</placeName>
+                    <idno type="URL">https://sws.geonames.org/2657896/</idno>
+                    <location>
+                        <geo>47.36667 8.55</geo>
+                    </location>
+                    <idno type="paas">11060</idno>
+                </place>
+                <place xml:id="Bruck an der Leitha">
+                    <placeName>Bruck an der Leitha</placeName>
+                    <idno type="URL">https://sws.geonames.org/7872849/</idno>
+                    <location>
+                        <geo>48.0286 16.75847</geo>
+                    </location>
+                    <idno type="paas">15993</idno>
+                </place>
+                <place xml:id="Klagenfurt">
+                    <placeName>Klagenfurt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Klagenfurt</placeName>
+                    <idno type="URL">https://sws.geonames.org/2774326/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/1023732653</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4030921-6</idno>
+                    <location>
+                        <geo>46.62472 14.30528</geo>
+                    </location>
+                    <idno type="paas">11154</idno>
+                </place>
+                <place xml:id="Pietroasa Mică">
+                    <placeName>Pietroasa Mică</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50724/</idno>
+                    <idno type="URL">https://sws.geonames.org/670827/</idno>
+                    <location>
+                        <geo>45.11003 26.57751</geo>
+                    </location>
+                    <idno type="paas">50724</idno>
+                </place>
+                <place xml:id="Neapel">
+                    <placeName>Neapel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Naples</placeName>
+                    <idno type="URL">https://sws.geonames.org/3172395/</idno>
+                    <location>
+                        <geo>40.83333 14.25</geo>
+                    </location>
+                    <idno type="paas">10884</idno>
+                </place>
+                <place xml:id="Bari">
+                    <placeName>Bari</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Bari</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Bari</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50729/</idno>
+                    <idno type="URL">https://sws.geonames.org/3182351/</idno>
+                    <location>
+                        <geo>41.12066 16.86982</geo>
+                    </location>
+                    <idno type="paas">50729</idno>
+                </place>
+                <place xml:id="Sankt Trond">
+                    <placeName>Sankt Trond</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Sint-Truiden</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Sint-Truiden</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50731/</idno>
+                    <idno type="URL">https://sws.geonames.org/2786545/</idno>
+                    <location>
+                        <geo>50.81679 5.18647</geo>
+                    </location>
+                    <idno type="paas">50731</idno>
+                </place>
+                <place xml:id="Bassano del Grappa">
+                    <placeName>Bassano del Grappa</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50736/</idno>
+                    <idno type="URL">https://sws.geonames.org/6538252/</idno>
+                    <location>
+                        <geo>45.7676 11.7357</geo>
+                    </location>
+                    <idno type="paas">50736</idno>
+                </place>
+                <place xml:id="Canea">
+                    <placeName>Canea</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50738/</idno>
+                    <idno type="URL">https://sws.geonames.org/260114/</idno>
+                    <location>
+                        <geo>35.51124 24.02921</geo>
+                    </location>
+                    <idno type="paas">50738</idno>
+                </place>
+                <place xml:id="Perugia">
+                    <placeName>Perugia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Perugia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Perugia</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50741/</idno>
+                    <idno type="URL">https://sws.geonames.org/3171180/</idno>
+                    <location>
+                        <geo>43.1122 12.38878</geo>
+                    </location>
+                    <idno type="paas">50741</idno>
+                </place>
+                <place xml:id="Silchester">
+                    <placeName>Silchester</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50743/</idno>
+                    <idno type="URL">https://sws.geonames.org/2637846/</idno>
+                    <location>
+                        <geo>51.35356 -1.10061</geo>
+                    </location>
+                    <idno type="paas">50743</idno>
+                </place>
+                <place xml:id="Schäßburg">
+                    <placeName>Schäßburg</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50745/</idno>
+                    <idno type="URL">https://sws.geonames.org/8436351/</idno>
+                    <location>
+                        <geo>46.22141 24.79279</geo>
+                    </location>
+                    <idno type="paas">50745</idno>
+                </place>
+                <place xml:id="Stuttgart">
+                    <placeName>Stuttgart</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Stuttgart</placeName>
+                    <idno type="URL">https://sws.geonames.org/2825297/</idno>
+                    <location>
+                        <geo>48.78232 9.17702</geo>
+                    </location>
+                    <idno type="paas">10923</idno>
+                </place>
+                <place xml:id="Radoboj">
+                    <placeName>Radoboj</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50748/</idno>
+                    <idno type="URL">https://sws.geonames.org/3192111/</idno>
+                    <location>
+                        <geo>46.16639 15.92361</geo>
+                    </location>
+                    <idno type="paas">50748</idno>
+                </place>
+                <place xml:id="Czernowitz">
+                    <placeName>Czernowitz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Tšernowitz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Tschernowitz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Ṭšernowiṣ</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/63628-9</idno>
+                    <location>
+                        <geo>48.291388 25.940277</geo>
+                    </location>
+                    <idno type="paas">27225</idno>
+                </place>
+                <place xml:id="Mănăstirea Humorului">
+                    <placeName>Mănăstirea Humorului</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50754/</idno>
+                    <idno type="URL">https://sws.geonames.org/673242/</idno>
+                    <location>
+                        <geo>47.6 25.86667</geo>
+                    </location>
+                    <idno type="paas">50754</idno>
+                </place>
+                <place xml:id="Hermannstadt">
+                    <placeName>Hermannstadt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Sibiu</placeName>
+                    <idno type="URL">https://sws.geonames.org/667268/</idno>
+                    <location>
+                        <geo>45.8 24.15</geo>
+                    </location>
+                    <idno type="paas">11439</idno>
+                </place>
+                <place xml:id="Sissek">
+                    <placeName>Sissek</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Sisak</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Sisak</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50757/</idno>
+                    <idno type="URL">https://sws.geonames.org/3190813/</idno>
+                    <location>
+                        <geo>45.46611 16.37833</geo>
+                    </location>
+                    <idno type="paas">50757</idno>
+                </place>
+                <place xml:id="Marburg">
+                    <placeName>Marburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Marburg</placeName>
+                    <idno type="URL">https://sws.geonames.org/2873759/</idno>
+                    <location>
+                        <geo>50.80904 8.77069</geo>
+                    </location>
+                    <idno type="paas">10741</idno>
+                </place>
+                <place xml:id="Lyon">
+                    <placeName>Lyon</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Lyon</placeName>
+                    <idno type="URL">https://sws.geonames.org/2996944/</idno>
+                    <location>
+                        <geo>45.74846 4.84671</geo>
+                    </location>
+                    <idno type="paas">10790</idno>
+                </place>
+                <place xml:id="Moggio Udinese">
+                    <placeName>Moggio Udinese</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50879/</idno>
+                    <idno type="URL">https://sws.geonames.org/3173318/</idno>
+                    <location>
+                        <geo>46.41083 13.20139</geo>
+                    </location>
+                    <idno type="paas">50879</idno>
+                </place>
+                <place xml:id="Kabul">
+                    <placeName>Kabul</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Kabul</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Kabul</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50891/</idno>
+                    <idno type="URL">https://sws.geonames.org/1138958/</idno>
+                    <location>
+                        <geo>34.52813 69.17233</geo>
+                    </location>
+                    <idno type="paas">50891</idno>
+                </place>
+                <place xml:id="Madrid">
+                    <placeName>Madrid</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Madrid</placeName>
+                    <idno type="URL">https://sws.geonames.org/3117735/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4036862-2</idno>
+                    <location>
+                        <geo>40.4165 -3.70256</geo>
+                    </location>
+                    <idno type="paas">14833</idno>
+                </place>
+                <place xml:id="Braunschweig">
+                    <placeName>Braunschweig</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Braunschweig</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Brunswick</placeName>
+                    <idno type="URL">https://sws.geonames.org/2945024/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4008065-1</idno>
+                    <location>
+                        <geo>52.26594 10.52673</geo>
+                    </location>
+                    <idno type="paas">10764</idno>
+                </place>
+                <place xml:id="Karlsruhe">
+                    <placeName>Karlsruhe</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Karlsruhe</placeName>
+                    <idno type="URL">https://sws.geonames.org/2892794/</idno>
+                    <location>
+                        <geo>49.00937 8.40444</geo>
+                    </location>
+                    <idno type="paas">12591</idno>
+                </place>
+                <place xml:id="Oslo">
+                    <placeName>Oslo</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Oslo</placeName>
+                    <idno type="URL">https://sws.geonames.org/3143244/</idno>
+                    <location>
+                        <geo>59.91273 10.74609</geo>
+                    </location>
+                    <idno type="paas">11228</idno>
+                </place>
+                <place xml:id="Minden">
+                    <placeName>Minden</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Minden</placeName>
+                    <idno type="URL">https://sws.geonames.org/2871039/</idno>
+                    <location>
+                        <geo>52.28953 8.91455</geo>
+                    </location>
+                    <idno type="paas">11148</idno>
+                </place>
+                <place xml:id="Neuwied">
+                    <placeName>Neuwied</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Neuwied</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Neuwied</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50917/</idno>
+                    <idno type="URL">https://sws.geonames.org/2863840/</idno>
+                    <location>
+                        <geo>50.4336 7.47057</geo>
+                    </location>
+                    <idno type="paas">50917</idno>
+                </place>
+                <place xml:id="Zvenigorod">
+                    <placeName>Zvenigorod</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Zvenigorod</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51179/</idno>
+                    <idno type="URL">https://sws.geonames.org/461920/</idno>
+                    <location>
+                        <geo>55.73401 36.85918</geo>
+                    </location>
+                    <idno type="paas">51179</idno>
+                </place>
+                <place xml:id="Raab">
+                    <placeName>Raab</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Győr</placeName>
+                    <idno type="URL">https://sws.geonames.org/3052009/</idno>
+                    <location>
+                        <geo>47.68333 17.63512</geo>
+                    </location>
+                    <idno type="paas">11357</idno>
+                </place>
+                <place xml:id="Feldkirch">
+                    <placeName>Feldkirch</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Feldkirch</placeName>
+                    <idno type="URL">https://sws.geonames.org/2779674/</idno>
+                    <location>
+                        <geo>47.23306 9.6</geo>
+                    </location>
+                    <idno type="paas">11807</idno>
+                </place>
+                <place xml:id="Görz">
+                    <placeName>Görz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Gorizia</placeName>
+                    <idno type="URL">https://sws.geonames.org/3175986/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4071921-2</idno>
+                    <location>
+                        <geo>45.94088 13.62167</geo>
+                    </location>
+                    <idno type="paas">12063</idno>
+                </place>
+                <place xml:id="Basel">
+                    <placeName>Basel</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Basel</placeName>
+                    <idno type="URL">https://sws.geonames.org/2661604/</idno>
+                    <location>
+                        <geo>47.55839 7.57327</geo>
+                    </location>
+                    <idno type="paas">11282</idno>
+                </place>
+                <place xml:id="Gradisca d'Isonzo">
+                    <placeName>Gradisca d'Isonzo</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51344/</idno>
+                    <idno type="URL">https://sws.geonames.org/3175961/</idno>
+                    <location>
+                        <geo>45.8925 13.50167</geo>
+                    </location>
+                    <idno type="paas">51344</idno>
+                </place>
+                <place xml:id="Mogador">
+                    <placeName>Mogador</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Mogador</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Essaouira</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">as-Ṣawīra</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Essaouira</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51353/</idno>
+                    <idno type="URL">https://sws.geonames.org/2549263/</idno>
+                    <location>
+                        <geo>31.5125 -9.77</geo>
+                    </location>
+                    <idno type="paas">51353</idno>
+                </place>
+                <place xml:id="Tétouan">
+                    <placeName>Tétouan</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Tétouan</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Tétouan</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51356/</idno>
+                    <idno type="URL">https://sws.geonames.org/2528910/</idno>
+                    <location>
+                        <geo>35.57845 -5.36837</geo>
+                    </location>
+                    <idno type="paas">51356</idno>
+                </place>
+                <place xml:id="Mazagan">
+                    <placeName>Mazagan</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51358/</idno>
+                    <idno type="URL">https://sws.geonames.org/6546786/</idno>
+                    <location>
+                        <geo>33.2492 -8.50668</geo>
+                    </location>
+                    <idno type="paas">51358</idno>
+                </place>
+                <place xml:id="Namur">
+                    <placeName>Namur</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Namur</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51455/</idno>
+                    <idno type="URL">https://sws.geonames.org/2790471/</idno>
+                    <location>
+                        <geo>50.4669 4.86746</geo>
+                    </location>
+                    <idno type="paas">51455</idno>
+                </place>
+                <place xml:id="Janina">
+                    <placeName>Janina</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Ioannina</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Ioannina</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51617/</idno>
+                    <idno type="URL">https://sws.geonames.org/261779/</idno>
+                    <location>
+                        <geo>39.66486 20.85189</geo>
+                    </location>
+                    <idno type="paas">51617</idno>
+                </place>
+                <place xml:id="Syros">
+                    <placeName>Syros</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51631/</idno>
+                    <idno type="URL">https://sws.geonames.org/8133927/</idno>
+                    <location>
+                        <geo>37.42698 24.91631</geo>
+                    </location>
+                    <idno type="paas">51631</idno>
+                </place>
+                <place xml:id="Breslau">
+                    <placeName>Breslau</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Wrocław</placeName>
+                    <idno type="URL">https://sws.geonames.org/7531292/</idno>
+                    <location>
+                        <geo>51.10773 17.03533</geo>
+                    </location>
+                    <idno type="paas">11691</idno>
+                </place>
+                <place xml:id="New York City">
+                    <placeName>New York City</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">New York City</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Big Apple</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">New York</placeName>
+                    <idno type="URL">https://sws.geonames.org/5128581/</idno>
+                    <location>
+                        <geo>40.71427 -74.00597</geo>
+                    </location>
+                    <idno type="paas">11578</idno>
+                </place>
+                <place xml:id="Amsterdam">
+                    <placeName>Amsterdam</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Amsterdam</placeName>
+                    <idno type="URL">https://sws.geonames.org/2759794/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4001783-7</idno>
+                    <location>
+                        <geo>52.37403 4.88969</geo>
+                    </location>
+                    <idno type="paas">11922</idno>
+                </place>
+                <place xml:id="Göttweig">
+                    <placeName>Göttweig</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51640/</idno>
+                    <idno type="URL">https://sws.geonames.org/7872913/</idno>
+                    <location>
+                        <geo>48.36652 15.61295</geo>
+                    </location>
+                    <idno type="paas">51640</idno>
+                </place>
+                <place xml:id="Gibraltar">
+                    <placeName>Gibraltar</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Gibraltar</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Gibraltar</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51783/</idno>
+                    <idno type="URL">https://sws.geonames.org/2411586/</idno>
+                    <location>
+                        <geo>36.13333 -5.35</geo>
+                    </location>
+                    <idno type="paas">51783</idno>
+                </place>
+                <place xml:id="Barcelona">
+                    <placeName>Barcelona</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Barcelona</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Barcelona</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51785/</idno>
+                    <idno type="URL">https://sws.geonames.org/3128760/</idno>
+                    <location>
+                        <geo>41.38879 2.15899</geo>
+                    </location>
+                    <idno type="paas">51785</idno>
+                </place>
+                <place xml:id="Hallstatt">
+                    <placeName>Hallstatt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Hallstatt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Hallstatt</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51788/</idno>
+                    <idno type="URL">https://sws.geonames.org/2776943/</idno>
+                    <location>
+                        <geo>47.56231 13.64912</geo>
+                    </location>
+                    <idno type="paas">51788</idno>
+                </place>
+                <place xml:id="Gent">
+                    <placeName>Gent</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Ghent</placeName>
+                    <idno type="URL">https://sws.geonames.org/2797656/</idno>
+                    <location>
+                        <geo>51.05 3.71667</geo>
+                    </location>
+                    <idno type="paas">11384</idno>
+                </place>
+                <place xml:id="Aquileia">
+                    <placeName>Aquileia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Aquileia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Aquileia</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52232/</idno>
+                    <idno type="URL">https://sws.geonames.org/3182943/</idno>
+                    <location>
+                        <geo>45.7683 13.36779</geo>
+                    </location>
+                    <idno type="paas">52232</idno>
+                </place>
+                <place xml:id="Eger">
+                    <placeName>Eger</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Eger</placeName>
+                    <idno type="URL">http://sws.geonames.org/3077835/</idno>
+                    <location>
+                        <geo>50.07963 12.37392</geo>
+                    </location>
+                    <idno type="paas">30557</idno>
+                </place>
+                <place xml:id="Kremsmünster">
+                    <placeName>Kremsmünster</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Marktgemeinde Kremsmünster</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4033044-8</idno>
+                    <location>
+                        <geo>48.0529 14.129189</geo>
+                    </location>
+                    <idno type="paas">30869</idno>
+                </place>
+                <place xml:id="Kopenhagen">
+                    <placeName>Kopenhagen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Copenhagen</placeName>
+                    <idno type="URL">https://sws.geonames.org/2618425/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4032399-7</idno>
+                    <location>
+                        <geo>55.67594 12.56553</geo>
+                    </location>
+                    <idno type="paas">11142</idno>
+                </place>
+                <place xml:id="Palmyra">
+                    <placeName>Palmyra</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Palmyra</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Palmyra</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52338/</idno>
+                    <idno type="URL">https://sws.geonames.org/163808/</idno>
+                    <location>
+                        <geo>34.5624 38.28402</geo>
+                    </location>
+                    <idno type="paas">52338</idno>
+                </place>
+                <place xml:id="Gießen">
+                    <placeName>Gießen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Universitätsstadt Gießen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Giessae</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Giessa Cattorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Giessen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Giessae Hassorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Gissae</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Giesen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Giessa Hassorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Gissa Hassorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Ghiessa Cattorum</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4020989-1</idno>
+                    <location>
+                        <geo>50.583329 8.65</geo>
+                    </location>
+                    <idno type="paas">29863</idno>
+                </place>
+                <place xml:id="Cividale">
+                    <placeName>Cividale</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Cividale del Friuli</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Cividale</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52340/</idno>
+                    <idno type="URL">https://sws.geonames.org/3178605/</idno>
+                    <location>
+                        <geo>46.09019 13.42861</geo>
+                    </location>
+                    <idno type="paas">52340</idno>
+                </place>
+                <place xml:id="Athen">
+                    <placeName>Athen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Athens</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Atene</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Athens</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Athēna</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Staat Attika</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Staat Athen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Athenai</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Āṯīnā</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Athēnai</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Atina (Athen)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Athina</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Athenès</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Athinä</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Athen</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Athen</placeName>
+                    <idno type="URL">https://sws.geonames.org/264371/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4003366-1</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4195479-8</idno>
+                    <location>
+                        <geo>37.98381 23.727539</geo>
+                    </location>
+                    <idno type="paas">45620</idno>
+                </place>
+                <place xml:id="Zagreb">
+                    <placeName>Zagreb</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Zagreb</placeName>
+                    <idno type="URL">https://sws.geonames.org/3186886/</idno>
+                    <location>
+                        <geo>45.81444 15.97798</geo>
+                    </location>
+                    <idno type="paas">11824</idno>
+                </place>
+                <place xml:id="Budapest">
+                    <placeName>Budapest</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Budapest</placeName>
+                    <idno type="URL">https://sws.geonames.org/3054643/</idno>
+                    <location>
+                        <geo>47.49801 19.03991</geo>
+                    </location>
+                    <idno type="paas">10780</idno>
+                </place>
+                <place xml:id="Altenburg">
+                    <placeName>Altenburg</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52333/</idno>
+                    <idno type="URL">https://sws.geonames.org/7872895/</idno>
+                    <location>
+                        <geo>48.644 15.595</geo>
+                    </location>
+                    <idno type="paas">52333</idno>
+                </place>
+                <place xml:id="St. Pölten">
+                    <placeName>St. Pölten</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Sankt Pölten</placeName>
+                    <idno type="URL">https://sws.geonames.org/2766429/</idno>
+                    <location>
+                        <geo>48.2 15.63333</geo>
+                    </location>
+                    <idno type="paas">12326</idno>
+                </place>
+                <place xml:id="Makarska">
+                    <placeName>Makarska</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Makarska</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Makarska</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49414/</idno>
+                    <idno type="URL">https://sws.geonames.org/3195890/</idno>
+                    <location>
+                        <geo>43.29694 17.01778</geo>
+                    </location>
+                    <idno type="paas">49414</idno>
+                </place>
+                <place xml:id="Assuan">
+                    <placeName>Assuan</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Aswan</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Assuan</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52618/</idno>
+                    <idno type="URL">https://sws.geonames.org/359792/</idno>
+                    <location>
+                        <geo>24.09082 32.89942</geo>
+                    </location>
+                    <idno type="paas">52618</idno>
+                </place>
+                <place xml:id="Konstanz">
+                    <placeName>Konstanz</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Konstanz</placeName>
+                    <idno type="URL">https://sws.geonames.org/2885679/</idno>
+                    <location>
+                        <geo>47.66033 9.17582</geo>
+                    </location>
+                    <idno type="paas">13548</idno>
+                </place>
+                <place xml:id="Klosterneuburg">
+                    <placeName>Klosterneuburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Wien / 26. Bezirk</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Neuburg klosterhalben</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Wien-Klosterneuburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Stadtgemeinde Klosterneuburg</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Klosterneuburg</placeName>
+                    <idno type="URL">https://sws.geonames.org/7873070/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4031235-5</idno>
+                    <location>
+                        <geo>48.30521 16.32522</geo>
+                    </location>
+                    <idno type="paas">27040</idno>
+                </place>
+                <place xml:id="Schwerin">
+                    <placeName>Schwerin</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49639/</idno>
+                    <idno type="URL">https://sws.geonames.org/2834281/</idno>
+                    <location>
+                        <geo>53.63333 11.41667</geo>
+                    </location>
+                    <idno type="paas">49639</idno>
+                </place>
+                <place xml:id="Darmstadt">
+                    <placeName>Darmstadt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Darmstadt</placeName>
+                    <idno type="URL">https://sws.geonames.org/2938913/</idno>
+                    <location>
+                        <geo>49.87167 8.65027</geo>
+                    </location>
+                    <idno type="paas">11831</idno>
+                </place>
+                <place xml:id="Rom">
+                    <placeName>Rom</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Rome</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Senatus Populusque Romanus</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Rym</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Comune di Roma</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Roma</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Roma Capitale</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Luoma</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Řím</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Città di Roma</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Rome</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Rim</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Rzym</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Rom</placeName>
+                    <idno type="URL">https://sws.geonames.org/3169070/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4050471-2</idno>
+                    <location>
+                        <geo>41.894739 12.4839</geo>
+                    </location>
+                    <idno type="paas">28836</idno>
+                </place>
+                <place xml:id="Kronstadt">
+                    <placeName>Kronstadt</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Brassó</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Brassovia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Braşov</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Brasov</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Braşov</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Kronstadt (Siebenbürgen)</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Kronstadt</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4073842-5</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/120444-0</idno>
+                    <idno type="URL">https://sws.geonames.org/683844/</idno>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52640/</idno>
+                    <idno type="URL">https://sws.geonames.org/683844/</idno>
+                    <location>
+                        <geo>45.64861 25.60613</geo>
+                    </location>
+                    <idno type="paas">52640</idno>
+                </place>
+                <place xml:id="Seitenstetten">
+                    <placeName>Seitenstetten</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Marktgemeinde Seitenstetten</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4799196-3</idno>
+                    <location>
+                        <geo>48.036 14.6542</geo>
+                    </location>
+                    <idno type="paas">37074</idno>
+                </place>
+                <place xml:id="Den Haag">
+                    <placeName>Den Haag</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Hague</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">The Hague</placeName>
+                    <idno type="URL">https://sws.geonames.org/2747373/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4011446-6</idno>
+                    <location>
+                        <geo>52.07667 4.29861</geo>
+                    </location>
+                    <idno type="paas">11322</idno>
+                </place>
+                <place xml:id="Leiden">
+                    <placeName>Leiden</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Leiden</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Leyden</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Leide</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lugduni Batavorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lugd. Bat.</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Leyde</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lugduni-Batavorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Lugdunum Batavorum</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Leiden</placeName>
+                    <idno type="URL">https://sws.geonames.org/2751773/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4074118-7</idno>
+                    <location>
+                        <geo>52.158329 4.493059</geo>
+                    </location>
+                    <idno type="paas">30895</idno>
+                </place>
+                <place xml:id="Abbeville">
+                    <placeName>Abbeville</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Abbeville</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Abbeville</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49521/</idno>
+                    <idno type="URL">https://sws.geonames.org/3038789/</idno>
+                    <location>
+                        <geo>50.10521 1.83547</geo>
+                    </location>
+                    <idno type="paas">49521</idno>
+                </place>
+                <place xml:id="Bogotá">
+                    <placeName>Bogotá</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Santafé de Bogotá Distrito Capital</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bogotá / Concejo Distrital</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Distrito Capital de Santa Fé de Bogotá</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bogotá / Municipio</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Santafé de Bogotá</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bogotá / Alcaldía Mayor</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Distrito Especial de Bogotá</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bogotá / Concejo</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Municipio (Bogotá)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Santafé de Bogotá D.C.</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bogotá (DE)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bogotá (Distrito Especial)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Santafé</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Alcaldía Mayor (Bogotá)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Santa Fé de Bogotá</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4007557-6</idno>
+                    <location>
+                        <geo>4.609444 -74.081666</geo>
+                    </location>
+                    <idno type="paas">38814</idno>
+                </place>
+                <place xml:id="Pisa">
+                    <placeName>Pisa</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Pisa</placeName>
+                    <idno type="URL">https://sws.geonames.org/3170647/</idno>
+                    <location>
+                        <geo>43.70853 10.4036</geo>
+                    </location>
+                    <idno type="paas">13019</idno>
+                </place>
+                <place xml:id="Siena">
+                    <placeName>Siena</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Sienna</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Siena</placeName>
+                    <idno type="URL">https://sws.geonames.org/3166548/</idno>
+                    <location>
+                        <geo>43.31822 11.33064</geo>
+                    </location>
+                    <idno type="paas">10915</idno>
+                </place>
+                <place xml:id="Ferrara">
+                    <placeName>Ferrara</placeName>
+                    <idno type="URL">https://sws.geonames.org/6542120/</idno>
+                    <location>
+                        <geo>44.82678 11.62071</geo>
+                    </location>
+                    <idno type="paas">13609</idno>
+                </place>
+                <place xml:id="Schöngrabern">
+                    <placeName>Schöngrabern</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52716/</idno>
+                    <idno type="URL">https://sws.geonames.org/2765679/</idno>
+                    <location>
+                        <geo>48.602 16.063</geo>
+                    </location>
+                    <idno type="paas">52716</idno>
+                </place>
+                <place xml:id="Troppau">
+                    <placeName>Troppau</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4061019-6</idno>
+                    <location>
+                        <geo>49.938659 17.90257</geo>
+                    </location>
+                    <idno type="paas">30962</idno>
+                </place>
+                <place xml:id="Freising">
+                    <placeName>Freising</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Freising</placeName>
+                    <idno type="URL">https://sws.geonames.org/2925034/</idno>
+                    <location>
+                        <geo>48.40351 11.74876</geo>
+                    </location>
+                    <idno type="paas">13788</idno>
+                </place>
+                <place xml:id="Augsburg">
+                    <placeName>Augsburg</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Augsburg</placeName>
+                    <idno type="URL">https://sws.geonames.org/2954172/</idno>
+                    <location>
+                        <geo>48.37154 10.89851</geo>
+                    </location>
+                    <idno type="paas">12229</idno>
+                </place>
+                <place xml:id="Neuburg an der Donau">
+                    <placeName>Neuburg an der Donau</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52729/</idno>
+                    <idno type="URL">https://sws.geonames.org/2866070/</idno>
+                    <location>
+                        <geo>48.73218 11.18709</geo>
+                    </location>
+                    <idno type="paas">52729</idno>
+                </place>
+                <place xml:id="Carnuntum">
+                    <placeName>Carnuntum</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52732/</idno>
+                    <idno type="URL">https://sws.geonames.org/2769013/</idno>
+                    <location>
+                        <geo>48.11296 16.8616</geo>
+                    </location>
+                    <idno type="paas">52732</idno>
+                </place>
+                <place xml:id="Arad">
+                    <placeName>Arad</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Arad</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52734/</idno>
+                    <idno type="URL">https://sws.geonames.org/686254/</idno>
+                    <location>
+                        <geo>46.18333 21.31667</geo>
+                    </location>
+                    <idno type="paas">52734</idno>
+                </place>
+                <place xml:id="Bukarest">
+                    <placeName>Bukarest</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="eng">Bucharest</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bucuresci</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bucharest</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">București</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bucarest</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bükreş</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bukurestion</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Bukurešt</placeName>
+                    <placeName type="alt" subtype="Legacy name (merge)" xml:lang="deu">Bukarest</placeName>
+                    <idno type="URL">https://sws.geonames.org/683506/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4008858-3</idno>
+                    <location>
+                        <geo>44.43225 26.106259</geo>
+                    </location>
+                    <idno type="paas">37236</idno>
+                </place>
+                <place xml:id="Pola">
+                    <placeName>Pola</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Pula</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Pula</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52752/</idno>
+                    <idno type="URL">https://sws.geonames.org/3192224/</idno>
+                    <location>
+                        <geo>44.86833 13.84806</geo>
+                    </location>
+                    <idno type="paas">52752</idno>
+                </place>
+                <place xml:id="Vorau">
+                    <placeName>Vorau</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52756/</idno>
+                    <idno type="URL">https://sws.geonames.org/2762299/</idno>
+                    <location>
+                        <geo>47.4009 15.89</geo>
+                    </location>
+                    <idno type="paas">52756</idno>
+                </place>
+                <place xml:id="Neuhaus">
+                    <placeName>Neuhaus</placeName>
+                    <idno type="URL">https://sws.geonames.org/3074149/</idno>
+                    <location>
+                        <geo>49.14404 15.00301</geo>
+                    </location>
+                    <idno type="paas">13975</idno>
+                </place>
+                <place xml:id="Pirnitz">
+                    <placeName>Pirnitz</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52776/</idno>
+                    <idno type="URL">https://sws.geonames.org/3078561/</idno>
+                    <location>
+                        <geo>49.30695 15.67642</geo>
+                    </location>
+                    <idno type="paas">52776</idno>
+                </place>
+                <place xml:id="Jaromeritz">
+                    <placeName>Jaromeritz</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52778/</idno>
+                    <idno type="URL">https://sws.geonames.org/3074459/</idno>
+                    <location>
+                        <geo>49.09408 15.89331</geo>
+                    </location>
+                    <idno type="paas">52778</idno>
+                </place>
+                <place xml:id="Halle (Saale)">
+                    <placeName>Halle (Saale)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle i.M.</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Magdeburgensis</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle (Saale)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halae Saxonum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Stadt Halle (Saale)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Saxonum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle an der Saale</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle in Sachsen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Magdeburgica</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Galle (Zaale)</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Hermundurorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle-on-the-Saale</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halae ad Salam</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Venedum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halla</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle i.S.</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Venedorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala prope Salam</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala ad Salam</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halae Magdeburgicae</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Salica</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Saxorum</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Stadtkreis Halle</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Hala Saxonia</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="None">Halle im Magdeburgischen</placeName>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4023025-9</idno>
+                    <idno type="paas">29207</idno>
+                </place>
+                <place xml:id="Pöchlarn">
+                    <placeName>Pöchlarn</placeName>
+                    <idno type="URL">https://sws.geonames.org/7871823/</idno>
+                    <location>
+                        <geo>48.20185 15.23095</geo>
+                    </location>
+                    <idno type="paas">14124</idno>
+                </place>
+                <place xml:id="Ossegg">
+                    <placeName>Ossegg</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52840/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4276000-8</idno>
+                    <location>
+                        <geo>50.62115 13.69274</geo>
+                    </location>
+                    <idno type="paas">52840</idno>
+                </place>
+                <place xml:id="Lambach">
+                    <placeName>Lambach</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52842/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4034159-8</idno>
+                    <location>
+                        <geo>48.092759 13.87453</geo>
+                    </location>
+                    <idno type="paas">52842</idno>
+                </place>
+                <place xml:id="Hohenfurth">
+                    <placeName>Hohenfurth</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52844/</idno>
+                    <idno type="URL" subtype="GND">https://d-nb.info/gnd/4089265-7</idno>
+                    <location>
+                        <geo>48.61598 14.31183</geo>
+                    </location>
+                    <idno type="paas">52844</idno>
+                </place>
+                <place xml:id="Neustift bei Brixen">
+                    <placeName>Neustift bei Brixen</placeName>
+                    <placeName type="alt" subtype="alternative name" xml:lang="deu">Neustift</placeName>
+                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/53217/</idno>
+                    <idno type="URL">https://sws.geonames.org/3172196/</idno>
+                    <location>
+                        <geo>46.74313 11.64801</geo>
+                    </location>
+                    <idno type="paas">53217</idno>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

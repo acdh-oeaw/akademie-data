@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/edoc/data/akademieprotokolle/register" owner="wdb" group="wdbusers" mode="775" created="2020-05-15T15:51:45+02:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="listperson.xml" owner="wdb" group="wdbusers" mode="664" created="2020-09-22T11:59:56+02:00" modified="2020-11-23T15:47:05+01:00" filename="listperson.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="listplace.xml" owner="wdb" group="wdbusers" mode="664" created="2020-09-22T17:08:03+02:00" modified="2020-11-23T15:46:41+01:00" filename="listplace.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="place-cache.xml" owner="osiam" group="dba" mode="640" created="2020-09-22T14:50:32+02:00" modified="2020-10-23T13:11:56+02:00" filename="place-cache.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
