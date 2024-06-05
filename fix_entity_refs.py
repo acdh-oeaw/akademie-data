@@ -6,12 +6,14 @@ from acdh_tei_pyutils.tei import TeiReader
 from bs4 import BeautifulSoup
 from slugify import slugify
 
-# ToDo: save processed files directly into data/editions | data/indices
 
-temp_dir = "temp"
-temp_editions = os.path.join(temp_dir, "editions")
-shutil.rmtree(temp_dir, ignore_errors=True)
-os.makedirs(temp_editions, exist_ok=True)
+data_dir = "data"
+editions = os.path.join(data_dir, "editions")
+indices = os.path.join(data_dir, "indices")
+
+shutil.rmtree(data_dir, ignore_errors=True)
+os.makedirs(editions, exist_ok=True)
+os.makedirs(indices, exist_ok=True)
 
 files = glob.glob("dump/phil-hist/*.xml")
 
@@ -21,16 +23,16 @@ tags_to_remove = ["w", "pc"]
 for x in tqdm(files, total=len(files)):
     _, file_name = os.path.split(x)
     with open(x) as fp:
-        soup = BeautifulSoup(fp, 'html.parser')
+        soup = BeautifulSoup(fp, "xml")
         for tag in tags_to_remove:
             for match in soup.findAll(tag):
                 match.unwrap()
-    save_path = os.path.join(temp_editions, file_name)
-    with open(save_path, "w", encoding='utf-8') as file:
+    save_path = os.path.join(editions, file_name)
+    with open(save_path, "w", encoding="utf-8") as file:
         file.write(str(soup))
 
-print(temp_editions)
-files = glob.glob(f"{temp_editions}/*.xml")
+print(editions)
+files = glob.glob(f"{editions}/*.xml")
 
 refs = set()
 new_refs = set()
@@ -53,7 +55,7 @@ for x in tqdm(files):
 
 print("fix entity refs in  in listperson")
 with open("dump/register/listperson.xml") as fp:
-    soup = BeautifulSoup(fp, 'html.parser')
+    soup = BeautifulSoup(fp, "xml")
     for element in soup.find_all("person", attrs={"xml:id": True}):
         old_id = element["xml:id"]
         element["xml:id"] = slugify(old_id)
@@ -61,22 +63,24 @@ with open("dump/register/listperson.xml") as fp:
         old_id = element["xml:id"]
         del element["xml:id"]
         element["key"] = old_id
-
-with open("hansi.xml", "w", encoding='utf-8') as file:
+listperson = os.path.join(indices, "listperson.xml")
+with open(listperson, "w", encoding="utf-8") as file:
     file.write(str(soup))
 
-doc = TeiReader("hansi.xml")
-doc.tree_to_file("hansi.xml")
+doc = TeiReader(listperson)
+doc.tree_to_file(listperson)
 
 
 print("fix entity refs in  in listplace")
 
 with open("dump/register/listplace.xml") as fp:
-    soup = BeautifulSoup(fp, 'html.parser')
+    soup = BeautifulSoup(fp, "xml")
     for element in soup.find_all("place", attrs={"xml:id": True}):
         old_id = element["xml:id"]
         element["xml:id"] = slugify(old_id)
-with open("sumsi.xml", "w", encoding='utf-8') as file:
+listplace = os.path.join(indices, "listplace.xml")
+with open(listplace, "w", encoding="utf-8") as file:
     file.write(str(soup))
-doc = TeiReader("sumsi.xml")
-doc.tree_to_file("sumsi.xml")
+    
+doc = TeiReader(listplace)
+doc.tree_to_file(listplace)
