@@ -19,7 +19,8 @@
     </teiHeader>
     <text>
         <body>
-           <p>Some text here.</p>
+         <p>Von den 735 Sitzungsprotokollen der Gesamtakademie und den jeweils 2045 Sitzungsprotokollen der beiden Klassen bis zum Ende der Habsburgermonarchie im Jahre 1918 wurden 2019/20 die ersten 110 Protokolle der philosophisch-historischen Klasse zunächst digitalisiert und die Digitalisate anschließend mittels <ref target="https://transkribus.eu/Transkribus/">TRANSKRIBUS</ref> transkribiert.</p>
+         <p>In einem zweiten Schritt wurden die Transkriptionen mittels TEI ins xml-Format übertragen sowie sämtliche vorkommenden <ref target="https://fun-with-editions.github.io/akademie-static/listperson.html">Personen</ref> und <ref target="https://fun-with-editions.github.io/akademie-static/listplace.html">Orte</ref> identifiziert und mit der bereits an der ÖAW bestehenden Datenbank PAAS (später <ref target="https://www.oeaw.ac.at/acdh/projects/mine-mitglieder-der-oesterreichischen-akademie-der-wissenschaften-1847-2022">MINE</ref>) verknüpft. Hierbei handelt es sich um das Akronym für „Prosopography of the Members of the Austrian Academy of Sciences 1847–2022“ resp. „Mitglieder Institutionen Netzwerke Ereignisse“. Die Datenbank wurde im Rahmen der Vorbereitungen auf das 175-Jahr-Jubiläum der Gründung der Akademie im Jahre 2022 angelegt, ist jedoch noch nicht online verfügbar. Ein Verweis darauf ist daher derzeit noch nicht möglich. Jene Personen, die in den Protokollen vorkommen und keine Mitglieder der Akademie waren, mussten neu angelegt werden; ebenso mussten etliche Orte identifiziert werden.</p>
         </body>
     </text>
   </TEI>
