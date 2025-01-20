@@ -18,7 +18,7 @@
             <listPlace>
                 <place xml:id="wien">
                     <placeName>Wien</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Vienna</placeName>
                     <location>
                         <geo>48.20849 16.37208</geo>
@@ -28,7 +28,7 @@
                 </place>
                 <place xml:id="graz">
                     <placeName>Graz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Graz</placeName>
+                    <placeName  type="alt" xml:lang="eng">Graz</placeName>
                     <location>
                         <geo>47.06667 15.45</geo>
                     </location>
@@ -39,13 +39,13 @@
                 </place>
                 <place xml:id="london">
                     <placeName>London</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">City of
+                    <placeName  type="alt" xml:lang="eng">City of
                         London</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">London
+                    <placeName  type="alt" xml:lang="eng">London
                         City</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">The
+                    <placeName  type="alt" xml:lang="eng">The
                         City</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >London</placeName>
                     <location>
                         <geo>51.50853 -0.12574</geo>
@@ -55,9 +55,9 @@
                 </place>
                 <place xml:id="varna">
                     <placeName>Varna</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Varna</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Warna</placeName>
                     <location>
                         <geo>43.21667 27.91667</geo>
@@ -68,7 +68,7 @@
                 </place>
                 <place xml:id="ulm">
                     <placeName>Ulm</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Ulm</placeName>
+                    <placeName  type="alt" xml:lang="eng">Ulm</placeName>
                     <location>
                         <geo>48.39841 9.99155</geo>
                     </location>
@@ -86,7 +86,7 @@
                 </place>
                 <place xml:id="munchen">
                     <placeName>München</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Munich</placeName>
                     <location>
                         <geo>48.13743 11.57549</geo>
@@ -97,54 +97,52 @@
                 </place>
                 <place xml:id="venedig">
                     <placeName>Venedig</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Venice</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Città di
+                    <placeName  type="alt" xml:lang="None">Città di
                         Venezia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venetik</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Wenetik</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venecija</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Vinegia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Provincie
+                    <placeName  type="alt" xml:lang="None">Provincie
                         Venete</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Vinetia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venetia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Veneţia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venecio</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Venetische
+                    <placeName  type="alt" xml:lang="None">Venetische
                         Provinzen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Comune di
+                    <placeName  type="alt" xml:lang="None">Comune di
                         Venezia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venesia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Benetia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venezia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Serenissima
+                    <placeName  type="alt" xml:lang="None">Serenissima
                         (Venezia)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Kronland
+                    <placeName  type="alt" xml:lang="None">Kronland
                         Venedig</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venice</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Staat
+                    <placeName  type="alt" xml:lang="None">Staat
                         Venedig</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Republik
+                    <placeName  type="alt" xml:lang="None">Republik
                         Venedig</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venise</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Venegia</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Venedig</placeName>
                     <location>
                         <geo>45.438609 12.32667</geo>
                     </location>
@@ -154,33 +152,31 @@
                 </place>
                 <place xml:id="trient">
                     <placeName>Trient</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName type="alt" xml:lang="eng"
                         >Trento</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName type="alt" xml:lang="None"
                         >Tridentum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName type="alt" xml:lang="None"
                         >Trente</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName type="alt" xml:lang="None"
                         >Trent</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName type="alt" xml:lang="None"
                         >Tridenti</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName type="alt" xml:lang="None"
                         >Trento</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Trient
+                    <placeName  type="alt" xml:lang="None">Trient
                         (Trento)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Comune di
+                    <placeName type="alt" xml:lang="None">Comune di
                         Trento</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Trient</placeName>
                     <idno type="URL">https://sws.geonames.org/3165243/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4078405-8</idno>
                     <idno type="paas">37539</idno>
                 </place>
                 <place xml:id="colmar">
                     <placeName>Colmar</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Colmar</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Colmar</placeName>
                     <location>
                         <geo>48.08078 7.35584</geo>
@@ -191,7 +187,7 @@
                 </place>
                 <place xml:id="prag">
                     <placeName>Prag</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Prague</placeName>
                     <location>
                         <geo>50.08804 14.42076</geo>
@@ -202,19 +198,19 @@
                 </place>
                 <place xml:id="sankt-petersburg">
                     <placeName>Sankt Petersburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Petersburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">St.
+                    <placeName  type="alt" xml:lang="eng">St.
                         Petersburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Leningrad</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >St.-Petersburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Petrograd</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Peterburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Saint
+                    <placeName  type="alt" xml:lang="eng">Saint
                         Petersburg</placeName>
                     <location>
                         <geo>59.93863 30.31413</geo>
@@ -225,7 +221,7 @@
                 </place>
                 <place xml:id="paris">
                     <placeName>Paris</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Paris</placeName>
                     <location>
                         <geo>48.85341 2.3488</geo>
@@ -235,7 +231,7 @@
                 </place>
                 <place xml:id="dresden">
                     <placeName>Dresden</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Dresden</placeName>
                     <location>
                         <geo>51.05089 13.73832</geo>
@@ -245,7 +241,7 @@
                 </place>
                 <place xml:id="leipzig">
                     <placeName>Leipzig</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Leipzig</placeName>
                     <location>
                         <geo>51.33962 12.37129</geo>
@@ -255,7 +251,7 @@
                 </place>
                 <place xml:id="stockholm">
                     <placeName>Stockholm</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Stockholm</placeName>
                     <location>
                         <geo>59.33258 18.0649</geo>
@@ -265,9 +261,9 @@
                 </place>
                 <place xml:id="bagdad">
                     <placeName>Bagdad</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Bagdad</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Baghdad</placeName>
                     <location>
                         <geo>33.34058 44.40088</geo>
@@ -278,53 +274,53 @@
                 </place>
                 <place xml:id="konstantinopel">
                     <placeName>Konstantinopel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Der-i
+                    <placeName  type="alt" xml:lang="None">Der-i
                         Seʿādet</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Ḳosṭanṭinīye</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Kosṭanṭinīye</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">K.
+                    <placeName  type="alt" xml:lang="None">K.
                         Polis</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Derseadet</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">İstambul
+                    <placeName  type="alt" xml:lang="None">İstambul
                         (Konstantinopel)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Kostandnowpolis</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Miklagård</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Carigrad
+                    <placeName  type="alt" xml:lang="None">Carigrad
                         (Konstantinopel)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Kosṭanṭiniyye</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Konstantinopolě</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Constantinopolis</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Polē
+                    <placeName  type="alt" xml:lang="None">Polē
                         (Konstantinopel)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Kōnstantinupolis</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Stamboul
+                    <placeName  type="alt" xml:lang="None">Stamboul
                         (Konstantinopel)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Qosṭanṭinīye</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">İstanbul
+                    <placeName  type="alt" xml:lang="None">İstanbul
                         (Konstantinopel)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Qosṭanṭiniyye</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Constantinopel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Constantinople</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Ḳosṭanṭiniyye</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Der-i
+                    <placeName  type="alt" xml:lang="None">Der-i
                         Saʿādet</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Ostrom</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Dersaadet</placeName>
                     <location>
                         <geo>41.013611 28.949444</geo>
@@ -334,7 +330,7 @@
                 </place>
                 <place xml:id="innsbruck">
                     <placeName>Innsbruck</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Innsbruck</placeName>
                     <location>
                         <geo>47.26266 11.39454</geo>
@@ -345,7 +341,7 @@
                 </place>
                 <place xml:id="pressburg">
                     <placeName>Pressburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Bratislava</placeName>
                     <location>
                         <geo>48.14816 17.10674</geo>
@@ -356,7 +352,7 @@
                 </place>
                 <place xml:id="beirut">
                     <placeName>Beirut</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Beirut</placeName>
                     <location>
                         <geo>33.88894 35.49442</geo>
@@ -367,7 +363,7 @@
                 </place>
                 <place xml:id="salzburg">
                     <placeName>Salzburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Salzburg</placeName>
                     <location>
                         <geo>47.79941 13.04399</geo>
@@ -378,7 +374,7 @@
                 </place>
                 <place xml:id="linz">
                     <placeName>Linz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Linz</placeName>
+                    <placeName  type="alt" xml:lang="deu">Linz</placeName>
                     <location>
                         <geo>48.30639 14.28611</geo>
                     </location>
@@ -388,17 +384,17 @@
                 </place>
                 <place xml:id="raigern">
                     <placeName>Raigern</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Großraigern</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Raihrad</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Raigern</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Gemeindeamt
+                    <placeName  type="alt" xml:lang="None">Gemeindeamt
                         (Rajhrad)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Groß
+                    <placeName  type="alt" xml:lang="None">Groß
                         Raigern</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Rajhrad /
+                    <placeName  type="alt" xml:lang="None">Rajhrad /
                         Gemeindeamt</placeName>
                     <location>
                         <geo>49.090209 16.60388</geo>
@@ -408,9 +404,9 @@
                 </place>
                 <place xml:id="damaskus">
                     <placeName>Damaskus</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Damaskus</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Damascus</placeName>
                     <location>
                         <geo>33.5102 36.29128</geo>
@@ -421,7 +417,7 @@
                 </place>
                 <place xml:id="bamberg">
                     <placeName>Bamberg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Bamberg</placeName>
                     <location>
                         <geo>49.89873 10.90067</geo>
@@ -431,7 +427,7 @@
                 </place>
                 <place xml:id="laibach">
                     <placeName>Laibach</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Ljubljana</placeName>
                     <location>
                         <geo>46.05108 14.50513</geo>
@@ -442,11 +438,11 @@
                 </place>
                 <place xml:id="salona">
                     <placeName>Salona</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Solin</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Solin</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Salona</placeName>
                     <location>
                         <geo>43.5432 16.49314</geo>
@@ -457,7 +453,7 @@
                 </place>
                 <place xml:id="split-dalmatien">
                     <placeName>Split / Dalmatien</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Split</placeName>
                     <location>
                         <geo>43.50891 16.43915</geo>
@@ -467,13 +463,13 @@
                 </place>
                 <place xml:id="zadar">
                     <placeName>Zadar</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Iadera</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Iader</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Colonia Iulia
+                    <placeName  type="alt" xml:lang="None">Colonia Iulia
                         Iadera</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Zara
+                    <placeName  type="alt" xml:lang="None">Zara
                         (Kroatien)</placeName>
                     <location>
                         <geo>44.11972 15.242219</geo>
@@ -483,7 +479,7 @@
                 </place>
                 <place xml:id="prossnitz">
                     <placeName>Prossnitz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Prostějov</placeName>
                     <location>
                         <geo>49.47188 17.11184</geo>
@@ -493,49 +489,47 @@
                 </place>
                 <place xml:id="brussel">
                     <placeName>Brüssel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">City of
+                    <placeName  type="alt" xml:lang="eng">City of
                         Brussels</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Brussels</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bryssel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Ville de
+                    <placeName  type="alt" xml:lang="None">Ville de
                         Bruxelles</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Brussels
+                    <placeName  type="alt" xml:lang="None">Brussels
                         Hoofdstedelijk Gewest</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bruxela</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bruxelles</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Brussels</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Region
+                    <placeName  type="alt" xml:lang="None">Region
                         Brüssel-Hauptstadt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Stadt
+                    <placeName  type="alt" xml:lang="None">Stadt
                         Brüssel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bruxella</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Brusselles</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Brussel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Brussel-stad</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Région de
+                    <placeName  type="alt" xml:lang="None">Région de
                         Bruxelles-Capitale</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bruselas</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Brüssel</placeName>
                     <idno type="URL">https://sws.geonames.org/2800866/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008460-7</idno>
                     <idno type="paas">29483</idno>
                 </place>
                 <place xml:id="olmutz">
                     <placeName>Olmütz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Olmüz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Olomouc</placeName>
                     <location>
                         <geo>49.59552 17.25175</geo>
@@ -545,24 +539,22 @@
                 </place>
                 <place xml:id="mailand">
                     <placeName>Mailand</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Milan</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Città di
+                    <placeName  type="alt" xml:lang="None">Città di
                         Milano</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Mediolani</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Comune di
+                    <placeName  type="alt" xml:lang="None">Comune di
                         Milano</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Commune di
+                    <placeName  type="alt" xml:lang="None">Commune di
                         Milano</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Milan</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Mediolanum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Milano</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Mailand</placeName>
                     <location>
                         <geo>45.464269 9.18951</geo>
                     </location>
@@ -572,11 +564,11 @@
                 </place>
                 <place xml:id="jihlava">
                     <placeName>Jihlava</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Jihlava</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Jihlava</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Iglau</placeName>
                     <location>
                         <geo>49.3961 15.59124</geo>
@@ -587,7 +579,7 @@
                 </place>
                 <place xml:id="tubingen">
                     <placeName>Tübingen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Tübingen</placeName>
                     <location>
                         <geo>48.52266 9.05222</geo>
@@ -598,7 +590,7 @@
                 </place>
                 <place xml:id="kairo">
                     <placeName>Kairo</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Cairo</placeName>
                     <location>
                         <geo>30.06263 31.24967</geo>
@@ -608,7 +600,7 @@
                 </place>
                 <place xml:id="antwerpen">
                     <placeName>Antwerpen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Antwerp</placeName>
                     <location>
                         <geo>51.21989 4.40346</geo>
@@ -618,7 +610,7 @@
                 </place>
                 <place xml:id="iraklio">
                     <placeName>Iraklio</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Heraklion</placeName>
                     <location>
                         <geo>35.32787 25.14341</geo>
@@ -628,32 +620,30 @@
                 </place>
                 <place xml:id="lemberg">
                     <placeName>Lemberg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >L'viv</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Lwów</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Leopolis</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Lʹviv (vor
+                    <placeName  type="alt" xml:lang="None">Lʹviv (vor
                         1919)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Lviv</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Lvovas</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Leopoli</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Lwiw</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Lwow</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Léopol</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Leontopolis</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >L'vov</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Lemberg</placeName>
                     <location>
                         <geo>49.8397 24.0297</geo>
                     </location>
@@ -663,7 +653,7 @@
                 </place>
                 <place xml:id="berlin">
                     <placeName>Berlin</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Berlin</placeName>
                     <location>
                         <geo>52.52437 13.41053</geo>
@@ -690,7 +680,7 @@
                 </place>
                 <place xml:id="gotha">
                     <placeName>Gotha</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Gotha</placeName>
                     <location>
                         <geo>50.94823 10.70193</geo>
@@ -701,7 +691,7 @@
                 </place>
                 <place xml:id="gottingen">
                     <placeName>Göttingen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Göttingen</placeName>
                     <location>
                         <geo>51.53443 9.93228</geo>
@@ -712,7 +702,7 @@
                 </place>
                 <place xml:id="heidelberg">
                     <placeName>Heidelberg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Heidelberg</placeName>
                     <location>
                         <geo>49.40768 8.69079</geo>
@@ -723,7 +713,7 @@
                 </place>
                 <place xml:id="regensburg">
                     <placeName>Regensburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Regensburg</placeName>
                     <location>
                         <geo>49.01513 12.10161</geo>
@@ -742,13 +732,13 @@
                 </place>
                 <place xml:id="dubrovnik">
                     <placeName>Dubrovnik</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Dubrovnik</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Republic of
+                    <placeName  type="alt" xml:lang="deu">Republic of
                         Ragusa</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Pearl of the
+                    <placeName  type="alt" xml:lang="deu">Pearl of the
                         Adriatic</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Ragusa</placeName>
                     <location>
                         <geo>42.64125 18.10909</geo>
@@ -759,9 +749,9 @@
                 </place>
                 <place xml:id="luzern">
                     <placeName>Luzern</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Luzern</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Lucerne</placeName>
                     <location>
                         <geo>47.05048 8.30635</geo>
@@ -780,9 +770,9 @@
                 </place>
                 <place xml:id="cagliari">
                     <placeName>Cagliari</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Cagliari</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Cagliari</placeName>
                     <location>
                         <geo>39.23054 9.11917</geo>
@@ -793,9 +783,9 @@
                 </place>
                 <place xml:id="mossul">
                     <placeName>Mossul</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Mossul</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Mosul</placeName>
                     <location>
                         <geo>36.335 43.11889</geo>
@@ -806,7 +796,7 @@
                 </place>
                 <place xml:id="melk">
                     <placeName>Melk</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Melk</placeName>
+                    <placeName  type="alt" xml:lang="eng">Melk</placeName>
                     <location>
                         <geo>48.22737 15.33186</geo>
                     </location>
@@ -824,7 +814,7 @@
                 </place>
                 <place xml:id="aleppo">
                     <placeName>Aleppo</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Aleppo</placeName>
                     <location>
                         <geo>36.20124 37.16117</geo>
@@ -834,9 +824,9 @@
                 </place>
                 <place xml:id="mekka">
                     <placeName>Mekka</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Mecca</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Mekka</placeName>
                     <location>
                         <geo>21.42664 39.82563</geo>
@@ -847,8 +837,6 @@
                 </place>
                 <place xml:id="admont">
                     <placeName>Admont</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Admont</placeName>
                     <location>
                         <geo>47.57537 14.46075</geo>
                     </location>
@@ -860,7 +848,7 @@
                 </place>
                 <place xml:id="kremsier">
                     <placeName>Kremsier</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Kroměříž</placeName>
                     <location>
                         <geo>49.29785 17.39312</geo>
@@ -870,7 +858,7 @@
                 </place>
                 <place xml:id="brunn">
                     <placeName>Brünn</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Brno</placeName>
+                    <placeName  type="alt" xml:lang="eng">Brno</placeName>
                     <location>
                         <geo>49.19522 16.60796</geo>
                     </location>
@@ -880,11 +868,11 @@
                 </place>
                 <place xml:id="stuhlweissenburg">
                     <placeName>Stuhlweißenburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Székesfehérvár</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Székesfehérvár</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Stuhlweißenburg</placeName>
                     <location>
                         <geo>47.18995 18.41034</geo>
@@ -895,9 +883,9 @@
                 </place>
                 <place xml:id="frankfurt-am-main">
                     <placeName>Frankfurt am Main</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Frankfurt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Frankfurt am
+                    <placeName  type="alt" xml:lang="eng">Frankfurt am
                         Main</placeName>
                     <location>
                         <geo>50.11552 8.68417</geo>
@@ -907,7 +895,7 @@
                 </place>
                 <place xml:id="castelnuovo">
                     <placeName>Castelnuovo</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Castelnuovo</placeName>
                     <location>
                         <geo>46.05412 11.48916</geo>
@@ -945,9 +933,9 @@
                 </place>
                 <place xml:id="odessa">
                     <placeName>Odessa</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Odessa</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Odesa</placeName>
                     <location>
                         <geo>46.47747 30.73262</geo>
@@ -957,9 +945,9 @@
                 </place>
                 <place xml:id="kertsch">
                     <placeName>Kertsch</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Kerch</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Kertsch</placeName>
                     <location>
                         <geo>45.35675 36.47542</geo>
@@ -997,7 +985,7 @@
                 </place>
                 <place xml:id="wiener-neustadt">
                     <placeName>Wiener Neustadt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Wiener
+                    <placeName  type="alt" xml:lang="eng">Wiener
                         Neustadt</placeName>
                     <location>
                         <geo>48.01312 15.59664</geo>
@@ -1017,7 +1005,7 @@
                 </place>
                 <place xml:id="zurich">
                     <placeName>Zürich</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Zurich</placeName>
                     <location>
                         <geo>47.36667 8.55</geo>
@@ -1035,7 +1023,7 @@
                 </place>
                 <place xml:id="klagenfurt">
                     <placeName>Klagenfurt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Klagenfurt</placeName>
                     <location>
                         <geo>46.62472 14.30528</geo>
@@ -1056,7 +1044,7 @@
                 </place>
                 <place xml:id="neapel">
                     <placeName>Neapel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Naples</placeName>
                     <location>
                         <geo>40.83333 14.25</geo>
@@ -1066,8 +1054,8 @@
                 </place>
                 <place xml:id="bari">
                     <placeName>Bari</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Bari</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Bari</placeName>
+                    <placeName  type="alt" xml:lang="deu">Bari</placeName>
+                    <placeName  type="alt" xml:lang="deu">Bari</placeName>
                     <location>
                         <geo>41.12066 16.86982</geo>
                     </location>
@@ -1077,9 +1065,9 @@
                 </place>
                 <place xml:id="sankt-trond">
                     <placeName>Sankt Trond</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Sint-Truiden</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Sint-Truiden</placeName>
                     <location>
                         <geo>50.81679 5.18647</geo>
@@ -1108,9 +1096,9 @@
                 </place>
                 <place xml:id="perugia">
                     <placeName>Perugia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Perugia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Perugia</placeName>
                     <location>
                         <geo>43.1122 12.38878</geo>
@@ -1139,7 +1127,7 @@
                 </place>
                 <place xml:id="stuttgart">
                     <placeName>Stuttgart</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Stuttgart</placeName>
                     <location>
                         <geo>48.78232 9.17702</geo>
@@ -1158,11 +1146,11 @@
                 </place>
                 <place xml:id="czernowitz">
                     <placeName>Czernowitz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Tšernowitz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Tschernowitz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Ṭšernowiṣ</placeName>
                     <location>
                         <geo>48.291388 25.940277</geo>
@@ -1181,7 +1169,7 @@
                 </place>
                 <place xml:id="hermannstadt">
                     <placeName>Hermannstadt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Sibiu</placeName>
                     <location>
                         <geo>45.8 24.15</geo>
@@ -1191,9 +1179,9 @@
                 </place>
                 <place xml:id="sissek">
                     <placeName>Sissek</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Sisak</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Sisak</placeName>
                     <location>
                         <geo>45.46611 16.37833</geo>
@@ -1204,7 +1192,7 @@
                 </place>
                 <place xml:id="marburg">
                     <placeName>Marburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Marburg</placeName>
                     <location>
                         <geo>50.80904 8.77069</geo>
@@ -1214,7 +1202,7 @@
                 </place>
                 <place xml:id="lyon">
                     <placeName>Lyon</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Lyon</placeName>
+                    <placeName  type="alt" xml:lang="eng">Lyon</placeName>
                     <location>
                         <geo>45.74846 4.84671</geo>
                     </location>
@@ -1232,9 +1220,9 @@
                 </place>
                 <place xml:id="kabul">
                     <placeName>Kabul</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Kabul</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Kabul</placeName>
                     <location>
                         <geo>34.52813 69.17233</geo>
@@ -1245,7 +1233,7 @@
                 </place>
                 <place xml:id="madrid">
                     <placeName>Madrid</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Madrid</placeName>
                     <location>
                         <geo>40.4165 -3.70256</geo>
@@ -1256,9 +1244,9 @@
                 </place>
                 <place xml:id="braunschweig">
                     <placeName>Braunschweig</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Braunschweig</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Brunswick</placeName>
                     <location>
                         <geo>52.26594 10.52673</geo>
@@ -1269,7 +1257,7 @@
                 </place>
                 <place xml:id="karlsruhe">
                     <placeName>Karlsruhe</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Karlsruhe</placeName>
                     <location>
                         <geo>49.00937 8.40444</geo>
@@ -1279,7 +1267,7 @@
                 </place>
                 <place xml:id="oslo">
                     <placeName>Oslo</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Oslo</placeName>
+                    <placeName  type="alt" xml:lang="eng">Oslo</placeName>
                     <location>
                         <geo>59.91273 10.74609</geo>
                     </location>
@@ -1288,7 +1276,7 @@
                 </place>
                 <place xml:id="minden">
                     <placeName>Minden</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Minden</placeName>
                     <location>
                         <geo>52.28953 8.91455</geo>
@@ -1298,9 +1286,9 @@
                 </place>
                 <place xml:id="neuwied">
                     <placeName>Neuwied</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Neuwied</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Neuwied</placeName>
                     <location>
                         <geo>50.4336 7.47057</geo>
@@ -1311,7 +1299,7 @@
                 </place>
                 <place xml:id="zvenigorod">
                     <placeName>Zvenigorod</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Zvenigorod</placeName>
                     <location>
                         <geo>55.73401 36.85918</geo>
@@ -1322,7 +1310,7 @@
                 </place>
                 <place xml:id="raab">
                     <placeName>Raab</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Győr</placeName>
+                    <placeName  type="alt" xml:lang="eng">Győr</placeName>
                     <location>
                         <geo>47.68333 17.63512</geo>
                     </location>
@@ -1331,7 +1319,7 @@
                 </place>
                 <place xml:id="feldkirch">
                     <placeName>Feldkirch</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Feldkirch</placeName>
                     <location>
                         <geo>47.23306 9.6</geo>
@@ -1341,7 +1329,7 @@
                 </place>
                 <place xml:id="gorz">
                     <placeName>Görz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Gorizia</placeName>
                     <location>
                         <geo>45.94088 13.62167</geo>
@@ -1352,7 +1340,7 @@
                 </place>
                 <place xml:id="basel">
                     <placeName>Basel</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Basel</placeName>
                     <location>
                         <geo>47.55839 7.57327</geo>
@@ -1371,13 +1359,13 @@
                 </place>
                 <place xml:id="mogador">
                     <placeName>Mogador</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Mogador</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Essaouira</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >as-Ṣawīra</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Essaouira</placeName>
                     <location>
                         <geo>31.5125 -9.77</geo>
@@ -1388,9 +1376,9 @@
                 </place>
                 <place xml:id="tetouan">
                     <placeName>Tétouan</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Tétouan</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Tétouan</placeName>
                     <location>
                         <geo>35.57845 -5.36837</geo>
@@ -1410,7 +1398,7 @@
                 </place>
                 <place xml:id="namur">
                     <placeName>Namur</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Namur</placeName>
                     <location>
                         <geo>50.4669 4.86746</geo>
@@ -1421,9 +1409,9 @@
                 </place>
                 <place xml:id="janina">
                     <placeName>Janina</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Ioannina</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Ioannina</placeName>
                     <location>
                         <geo>39.66486 20.85189</geo>
@@ -1443,7 +1431,7 @@
                 </place>
                 <place xml:id="breslau">
                     <placeName>Breslau</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Wrocław</placeName>
                     <location>
                         <geo>51.10773 17.03533</geo>
@@ -1453,11 +1441,11 @@
                 </place>
                 <place xml:id="new-york-city">
                     <placeName>New York City</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">New York
+                    <placeName  type="alt" xml:lang="eng">New York
                         City</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Big
+                    <placeName  type="alt" xml:lang="eng">Big
                         Apple</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">New
+                    <placeName  type="alt" xml:lang="eng">New
                         York</placeName>
                     <location>
                         <geo>40.71427 -74.00597</geo>
@@ -1467,7 +1455,7 @@
                 </place>
                 <place xml:id="amsterdam">
                     <placeName>Amsterdam</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Amsterdam</placeName>
                     <location>
                         <geo>52.37403 4.88969</geo>
@@ -1487,9 +1475,9 @@
                 </place>
                 <place xml:id="gibraltar">
                     <placeName>Gibraltar</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Gibraltar</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Gibraltar</placeName>
                     <location>
                         <geo>36.13333 -5.35</geo>
@@ -1500,9 +1488,9 @@
                 </place>
                 <place xml:id="barcelona">
                     <placeName>Barcelona</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Barcelona</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Barcelona</placeName>
                     <location>
                         <geo>41.38879 2.15899</geo>
@@ -1513,9 +1501,9 @@
                 </place>
                 <place xml:id="hallstatt">
                     <placeName>Hallstatt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Hallstatt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Hallstatt</placeName>
                     <location>
                         <geo>47.56231 13.64912</geo>
@@ -1526,7 +1514,7 @@
                 </place>
                 <place xml:id="gent">
                     <placeName>Gent</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Ghent</placeName>
                     <location>
                         <geo>51.05 3.71667</geo>
@@ -1536,9 +1524,9 @@
                 </place>
                 <place xml:id="aquileia">
                     <placeName>Aquileia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Aquileia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Aquileia</placeName>
                     <location>
                         <geo>45.7683 13.36779</geo>
@@ -1549,7 +1537,7 @@
                 </place>
                 <place xml:id="eger">
                     <placeName>Eger</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Eger</placeName>
+                    <placeName  type="alt" xml:lang="eng">Eger</placeName>
                     <location>
                         <geo>50.07963 12.37392</geo>
                     </location>
@@ -1558,7 +1546,7 @@
                 </place>
                 <place xml:id="kremsmunster">
                     <placeName>Kremsmünster</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Marktgemeinde
+                    <placeName  type="alt" xml:lang="None">Marktgemeinde
                         Kremsmünster</placeName>
                     <location>
                         <geo>48.0529 14.129189</geo>
@@ -1568,7 +1556,7 @@
                 </place>
                 <place xml:id="kopenhagen">
                     <placeName>Kopenhagen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Copenhagen</placeName>
                     <location>
                         <geo>55.67594 12.56553</geo>
@@ -1579,9 +1567,9 @@
                 </place>
                 <place xml:id="palmyra">
                     <placeName>Palmyra</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Palmyra</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Palmyra</placeName>
                     <location>
                         <geo>34.5624 38.28402</geo>
@@ -1592,25 +1580,25 @@
                 </place>
                 <place xml:id="giessen">
                     <placeName>Gießen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Universitätsstadt Gießen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Giessae</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Giessa
+                    <placeName  type="alt" xml:lang="None">Giessa
                         Cattorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Giessen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Giessae
+                    <placeName  type="alt" xml:lang="None">Giessae
                         Hassorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Gissae</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Giesen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Giessa
+                    <placeName  type="alt" xml:lang="None">Giessa
                         Hassorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Gissa
+                    <placeName  type="alt" xml:lang="None">Gissa
                         Hassorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Ghiessa
+                    <placeName  type="alt" xml:lang="None">Ghiessa
                         Cattorum</placeName>
                     <location>
                         <geo>50.583329 8.65</geo>
@@ -1620,9 +1608,9 @@
                 </place>
                 <place xml:id="cividale">
                     <placeName>Cividale</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Cividale del
+                    <placeName  type="alt" xml:lang="deu">Cividale del
                         Friuli</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Cividale</placeName>
                     <location>
                         <geo>46.09019 13.42861</geo>
@@ -1633,36 +1621,32 @@
                 </place>
                 <place xml:id="athen">
                     <placeName>Athen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Athens</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Atene</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Athens</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Athēna</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Staat
+                    <placeName  type="alt" xml:lang="None">Staat
                         Attika</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Staat
+                    <placeName  type="alt" xml:lang="None">Staat
                         Athen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Athenai</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Āṯīnā</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Athēnai</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Atina
+                    <placeName  type="alt" xml:lang="None">Atina
                         (Athen)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Athina</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Athenès</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Athinä</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Athen</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Athen</placeName>
                     <location>
                         <geo>37.98381 23.727539</geo>
                     </location>
@@ -1672,7 +1656,7 @@
                 </place>
                 <place xml:id="zagreb">
                     <placeName>Zagreb</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Zagreb</placeName>
                     <location>
                         <geo>45.81444 15.97798</geo>
@@ -1682,7 +1666,7 @@
                 </place>
                 <place xml:id="budapest">
                     <placeName>Budapest</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Budapest</placeName>
                     <idno type="URL">https://sws.geonames.org/3054643/</idno>
                     <idno type="paas">10780</idno>
@@ -1698,7 +1682,7 @@
                 </place>
                 <place xml:id="st-polten">
                     <placeName>St. Pölten</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Sankt
+                    <placeName  type="alt" xml:lang="eng">Sankt
                         Pölten</placeName>
                     <location>
                         <geo>48.2 15.63333</geo>
@@ -1708,9 +1692,9 @@
                 </place>
                 <place xml:id="makarska">
                     <placeName>Makarska</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Makarska</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Makarska</placeName>
                     <location>
                         <geo>43.29694 17.01778</geo>
@@ -1721,9 +1705,9 @@
                 </place>
                 <place xml:id="assuan">
                     <placeName>Assuan</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Aswan</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Assuan</placeName>
                     <location>
                         <geo>24.09082 32.89942</geo>
@@ -1734,7 +1718,7 @@
                 </place>
                 <place xml:id="konstanz">
                     <placeName>Konstanz</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Konstanz</placeName>
                     <location>
                         <geo>47.66033 9.17582</geo>
@@ -1744,16 +1728,14 @@
                 </place>
                 <place xml:id="klosterneuburg">
                     <placeName>Klosterneuburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Wien / 26.
+                    <placeName  type="alt" xml:lang="None">Wien / 26.
                         Bezirk</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Neuburg
+                    <placeName  type="alt" xml:lang="None">Neuburg
                         klosterhalben</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Wien-Klosterneuburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Stadtgemeinde
+                    <placeName  type="alt" xml:lang="None">Stadtgemeinde
                         Klosterneuburg</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Klosterneuburg</placeName>
                     <location>
                         <geo>48.30521 16.32522</geo>
                     </location>
@@ -1772,7 +1754,7 @@
                 </place>
                 <place xml:id="darmstadt">
                     <placeName>Darmstadt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Darmstadt</placeName>
                     <location>
                         <geo>49.87167 8.65027</geo>
@@ -1782,28 +1764,26 @@
                 </place>
                 <place xml:id="rom">
                     <placeName>Rom</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Rome</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Senatus
+                    <placeName  type="alt" xml:lang="eng">Rome</placeName>
+                    <placeName  type="alt" xml:lang="None">Senatus
                         Populusque Romanus</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Rym</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Comune di
+                    <placeName  type="alt" xml:lang="None">Rym</placeName>
+                    <placeName  type="alt" xml:lang="None">Comune di
                         Roma</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Roma</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Roma
+                    <placeName  type="alt" xml:lang="None">Roma
                         Capitale</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Luoma</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Řím</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Città di
+                    <placeName  type="alt" xml:lang="None">Řím</placeName>
+                    <placeName  type="alt" xml:lang="None">Città di
                         Roma</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Rome</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Rim</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None">Rim</placeName>
+                    <placeName  type="alt" xml:lang="None"
                         >Rzym</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Rom</placeName>
                     <location>
                         <geo>41.894739 12.4839</geo>
                     </location>
@@ -1813,20 +1793,18 @@
                 </place>
                 <place xml:id="kronstadt">
                     <placeName>Kronstadt</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Brassó</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Brassovia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Braşov</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Brasov</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Braşov</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu">Kronstadt
+                    <placeName type="alt" xml:lang="deu">Kronstadt
                         (Siebenbürgen)</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Kronstadt</placeName>
                     <location>
                         <geo>45.64861 25.60613</geo>
                     </location>
@@ -1837,7 +1815,7 @@
                 </place>
                 <place xml:id="seitenstetten">
                     <placeName>Seitenstetten</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Marktgemeinde
+                    <placeName  type="alt" xml:lang="None">Marktgemeinde
                         Seitenstetten</placeName>
                     <location>
                         <geo>48.036 14.6542</geo>
@@ -1847,9 +1825,9 @@
                 </place>
                 <place xml:id="den-haag">
                     <placeName>Den Haag</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Hague</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">The
+                    <placeName  type="alt" xml:lang="eng">The
                         Hague</placeName>
                     <location>
                         <geo>52.07667 4.29861</geo>
@@ -1860,24 +1838,22 @@
                 </place>
                 <place xml:id="leiden">
                     <placeName>Leiden</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Leiden</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Leyden</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Leide</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Lugduni
+                    <placeName  type="alt" xml:lang="None">Lugduni
                         Batavorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Lugd.
+                    <placeName  type="alt" xml:lang="None">Lugd.
                         Bat.</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Leyde</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Lugduni-Batavorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Lugdunum
+                    <placeName  type="alt" xml:lang="None">Lugdunum
                         Batavorum</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Leiden</placeName>
                     <location>
                         <geo>52.158329 4.493059</geo>
                     </location>
@@ -1887,9 +1863,9 @@
                 </place>
                 <place xml:id="abbeville">
                     <placeName>Abbeville</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Abbeville</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Abbeville</placeName>
                     <location>
                         <geo>50.10521 1.83547</geo>
@@ -1900,35 +1876,35 @@
                 </place>
                 <place xml:id="bogota">
                     <placeName>Bogotá</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Santafé de
+                    <placeName  type="alt" xml:lang="None">Santafé de
                         Bogotá Distrito Capital</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Bogotá /
+                    <placeName  type="alt" xml:lang="None">Bogotá /
                         Concejo Distrital</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Distrito
+                    <placeName  type="alt" xml:lang="None">Distrito
                         Capital de Santa Fé de Bogotá</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Bogotá /
+                    <placeName  type="alt" xml:lang="None">Bogotá /
                         Municipio</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Santafé de
+                    <placeName  type="alt" xml:lang="None">Santafé de
                         Bogotá</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Bogotá /
+                    <placeName  type="alt" xml:lang="None">Bogotá /
                         Alcaldía Mayor</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Distrito
+                    <placeName  type="alt" xml:lang="None">Distrito
                         Especial de Bogotá</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Bogotá /
+                    <placeName  type="alt" xml:lang="None">Bogotá /
                         Concejo</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Municipio
+                    <placeName  type="alt" xml:lang="None">Municipio
                         (Bogotá)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Santafé de
+                    <placeName  type="alt" xml:lang="None">Santafé de
                         Bogotá D.C.</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Bogotá
+                    <placeName  type="alt" xml:lang="None">Bogotá
                         (DE)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Bogotá
+                    <placeName  type="alt" xml:lang="None">Bogotá
                         (Distrito Especial)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Santafé</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Alcaldía Mayor
+                    <placeName  type="alt" xml:lang="None">Alcaldía Mayor
                         (Bogotá)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Santa Fé de
+                    <placeName  type="alt" xml:lang="None">Santa Fé de
                         Bogotá</placeName>
                     <location>
                         <geo>4.609444 -74.081666</geo>
@@ -1938,7 +1914,7 @@
                 </place>
                 <place xml:id="pisa">
                     <placeName>Pisa</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng">Pisa</placeName>
+                    <placeName  type="alt" xml:lang="eng">Pisa</placeName>
                     <location>
                         <geo>43.70853 10.4036</geo>
                     </location>
@@ -1947,9 +1923,9 @@
                 </place>
                 <place xml:id="siena">
                     <placeName>Siena</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Sienna</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Siena</placeName>
                     <location>
                         <geo>43.31822 11.33064</geo>
@@ -1984,7 +1960,7 @@
                 </place>
                 <place xml:id="freising">
                     <placeName>Freising</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Freising</placeName>
                     <location>
                         <geo>48.40351 11.74876</geo>
@@ -1994,7 +1970,7 @@
                 </place>
                 <place xml:id="augsburg">
                     <placeName>Augsburg</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Augsburg</placeName>
                     <location>
                         <geo>48.37154 10.89851</geo>
@@ -2022,7 +1998,7 @@
                 </place>
                 <place xml:id="arad">
                     <placeName>Arad</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Arad</placeName>
+                    <placeName  type="alt" xml:lang="deu">Arad</placeName>
                     <location>
                         <geo>46.18333 21.31667</geo>
                     </location>
@@ -2032,24 +2008,22 @@
                 </place>
                 <place xml:id="bukarest">
                     <placeName>Bukarest</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="eng"
+                    <placeName  type="alt" xml:lang="eng"
                         >Bucharest</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bucuresci</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bucharest</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >București</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bucarest</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bükreş</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bukurestion</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Bukurešt</placeName>
-                    <placeName subtype="Legacy name (merge)" type="alt" xml:lang="deu"
-                        >Bukarest</placeName>
                     <location>
                         <geo>44.43225 26.106259</geo>
                     </location>
@@ -2059,8 +2033,8 @@
                 </place>
                 <place xml:id="pola">
                     <placeName>Pola</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Pula</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu">Pula</placeName>
+                    <placeName  type="alt" xml:lang="deu">Pula</placeName>
+                    <placeName  type="alt" xml:lang="deu">Pula</placeName>
                     <location>
                         <geo>44.86833 13.84806</geo>
                     </location>
@@ -2105,57 +2079,57 @@
                 </place>
                 <place xml:id="halle-saale">
                     <placeName>Halle (Saale)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halle
+                    <placeName  type="alt" xml:lang="None">Halle
                         i.M.</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Magdeburgensis</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halle
+                    <placeName  type="alt" xml:lang="None">Halle
                         (Saale)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halae
+                    <placeName  type="alt" xml:lang="None">Halae
                         Saxonum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Stadt Halle
+                    <placeName  type="alt" xml:lang="None">Stadt Halle
                         (Saale)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Saxonum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halle an der
+                    <placeName  type="alt" xml:lang="None">Halle an der
                         Saale</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halle in
+                    <placeName  type="alt" xml:lang="None">Halle in
                         Sachsen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Magdeburgica</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Galle
+                    <placeName  type="alt" xml:lang="None">Galle
                         (Zaale)</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Hermundurorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Halle-on-the-Saale</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halae ad
+                    <placeName  type="alt" xml:lang="None">Halae ad
                         Salam</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Halle</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Venedum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None"
+                    <placeName  type="alt" xml:lang="None"
                         >Halla</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halle
+                    <placeName  type="alt" xml:lang="None">Halle
                         i.S.</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Venedorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala prope
+                    <placeName  type="alt" xml:lang="None">Hala prope
                         Salam</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala ad
+                    <placeName  type="alt" xml:lang="None">Hala ad
                         Salam</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halae
+                    <placeName  type="alt" xml:lang="None">Halae
                         Magdeburgicae</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Salica</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Saxorum</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Stadtkreis
+                    <placeName  type="alt" xml:lang="None">Stadtkreis
                         Halle</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Hala
+                    <placeName  type="alt" xml:lang="None">Hala
                         Saxonia</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="None">Halle im
+                    <placeName  type="alt" xml:lang="None">Halle im
                         Magdeburgischen</placeName>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4023025-9</idno>
                     <idno type="paas">29207</idno>
@@ -2197,7 +2171,7 @@
                 </place>
                 <place xml:id="neustift-bei-brixen">
                     <placeName>Neustift bei Brixen</placeName>
-                    <placeName subtype="alternative name" type="alt" xml:lang="deu"
+                    <placeName  type="alt" xml:lang="deu"
                         >Neustift</placeName>
                     <location>
                         <geo>46.74313 11.64801</geo>
