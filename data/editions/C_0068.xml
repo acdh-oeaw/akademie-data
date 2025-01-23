@@ -1,696 +1,1448 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C_0068">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title type="num">C_0068</title>
-<meeting>Sitzung der phil.-hist. Klasse am <date when="1850-03-13">13. März 1850</date>
-</meeting>
-</titleStmt>
-<publicationStmt>
-<publisher>tranScriptorium</publisher>
-</publicationStmt>
-<seriesStmt>
-<title>phil.-hist.Klasse</title>
-</seriesStmt>
-<sourceDesc>
-<p rendition="#" xml:id="p1">TRP document creator: stefan.sienell@oeaw.ac.at</p>
-</sourceDesc>
-</fileDesc>
-</teiHeader>
-<facsimile>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_1">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_01" width="2595px"/>
-<zone points="181,82 437,82 437,189 181,189" rendition="TextRegion" xml:id="facs_1_region_1580380311027_283">
-<zone points="174,60 427,60 427,215 174,215" rendition="Line" xml:id="facs_1_region_1580380311027_283l1"/>
-</zone>
-<zone points="424,412 2104,412 2104,515 424,515" rendition="TextRegion" xml:id="facs_1_region_1580380315378_286">
-<zone points="418,416 2115,416 2115,510 418,510" rendition="Line" xml:id="facs_1_region_1580380315378_286l1"/>
-</zone>
-<zone points="1000,775 1526,775 1526,922 1000,922" rendition="TextRegion" xml:id="facs_1_region_1580380318610_289">
-<zone points="996,775 1515,775 1515,915 996,915" rendition="Line" xml:id="facs_1_region_1580380318610_289l1"/>
-</zone>
-<zone points="694,999 1836,999 1836,1058 694,1058" rendition="TextRegion" xml:id="facs_1_region_1580380338155_292">
-<zone points="685,1001 1841,1001 1841,1062 685,1062" rendition="Line" xml:id="facs_1_region_1580380338155_292l1"/>
-</zone>
-<zone points="890,1085 1589,1085 1589,1190 890,1190" rendition="TextRegion" xml:id="facs_1_region_1580380342155_295">
-<zone points="889,1072 1597,1072 1597,1183 889,1183" rendition="Line" xml:id="facs_1_region_1580380342155_295l1"/>
-</zone>
-<zone points="443,1360 2523,1360 2523,2396 443,2396" rendition="TextRegion" xml:id="facs_1_region_1580380362906_298">
-<zone points="452,1335 2519,1335 2519,1526 452,1526" rendition="Line" xml:id="facs_1_region_1580380362906_298l1"/>
-<zone points="607,1527 1697,1527 1697,1677 607,1677" rendition="Line" xml:id="facs_1_region_1580380362906_298l2"/>
-<zone points="1297,1642 1721,1642 1721,1743 1297,1743" rendition="Line" xml:id="facs_1_region_1580380362906_298l3"/>
-<zone points="1299,1745 1672,1745 1672,1838 1299,1838" rendition="Line" xml:id="facs_1_region_1580380362906_298l4"/>
-<zone points="1314,1833 1907,1833 1907,1910 1314,1910" rendition="Line" xml:id="facs_1_region_1580380362906_298l5"/>
-<zone points="1308,1927 1875,1927 1875,2054 1308,2054" rendition="Line" xml:id="facs_1_region_1580380362906_298l7"/>
-<zone points="1316,2021 1918,2021 1918,2120 1316,2120" rendition="Line" xml:id="facs_1_region_1580380362906_298l8"/>
-<zone points="1303,2122 1801,2122 1801,2199 1303,2199" rendition="Line" xml:id="facs_1_region_1580380362906_298l10"/>
-<zone points="1327,2198 1777,2198 1777,2281 1327,2281" rendition="Line" xml:id="facs_1_region_1580380362906_298l11"/>
-<zone points="592,2282 1695,2282 1695,2412 592,2412" rendition="Line" xml:id="facs_1_region_1580380362906_298l12"/>
-</zone>
-<zone points="970,2465 1820,2465 1820,2602 970,2602" rendition="TextRegion" xml:id="facs_1_region_1580380368234_301">
-<zone points="958,2447 1814,2447 1814,2637 958,2637" rendition="Line" xml:id="facs_1_region_1580380368234_301l1"/>
-</zone>
-<zone points="1354,2823 2535,2823 2535,3077 1354,3077" rendition="TextRegion" xml:id="facs_1_region_1580380380155_304">
-<zone points="1453,2799 2518,2799 2518,2997 1453,2997" rendition="Line" xml:id="facs_1_region_1580380380155_304l1"/>
-<zone points="1351,2959 2319,2959 2319,3102 1351,3102" rendition="Line" xml:id="facs_1_region_1580380380155_304l2"/>
-</zone>
-<zone points="997,3144 2569,3144 2569,3256 997,3256" rendition="TextRegion" xml:id="facs_1_region_1580380386586_307">
-<zone points="998,3120 2552,3120 2552,3301 998,3301" rendition="Line" xml:id="facs_1_region_1580380386586_307l1"/>
-</zone>
-<zone points="1331,3251 2586,3251 2586,3948 1331,3948" rendition="TextRegion" xml:id="facs_1_region_1580380392834_310">
-<zone points="1352,3239 2531,3239 2531,3349 1352,3349" rendition="Line" xml:id="facs_1_region_1580380392834_310l1"/>
-<zone points="1353,3353 2558,3353 2558,3482 1353,3482" rendition="Line" xml:id="facs_1_region_1580380392834_310l2"/>
-<zone points="1343,3423 2584,3423 2584,3579 1343,3579" rendition="Line" xml:id="facs_1_region_1580380392834_310l3"/>
-<zone points="1324,3526 2553,3526 2553,3668 1324,3668" rendition="Line" xml:id="facs_1_region_1580380392834_310l4"/>
-<zone points="1340,3649 2593,3649 2593,3733 1340,3733" rendition="Line" xml:id="facs_1_region_1580380392834_310l5"/>
-<zone points="1327,3726 2542,3726 2542,3865 1327,3865" rendition="Line" xml:id="facs_1_region_1580380392834_310l6"/>
-<zone points="1325,3815 2573,3815 2573,3949 1325,3949" rendition="Line" xml:id="facs_1_region_1580380392834_310l7"/>
-</zone>
-</surface>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_2">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_02" width="2595px"/>
-<zone points="1298,292 2564,292 2564,801 1298,801" rendition="TextRegion" xml:id="facs_2_region_1580393808904_74">
-<zone points="1322,289 2515,289 2515,443 1322,443" rendition="Line" xml:id="facs_2_region_1580393808904_74l1"/>
-<zone points="1304,416 2566,416 2566,541 1304,541" rendition="Line" xml:id="facs_2_region_1580393808904_74l2"/>
-<zone points="1307,513 2508,513 2508,640 1307,640" rendition="Line" xml:id="facs_2_region_1580393808904_74l3"/>
-<zone points="1292,618 2546,618 2546,748 1292,748" rendition="Line" xml:id="facs_2_region_1580393808904_74l4"/>
-<zone points="1298,711 2145,711 2145,830 1298,830" rendition="Line" xml:id="facs_2_region_1580393808904_74l5"/>
-</zone>
-<zone points="1292,804 2561,804 2561,1646 1292,1646" rendition="TextRegion" xml:id="facs_2_region_1580393817838_77">
-<zone points="1440,802 2421,802 2421,925 1440,925" rendition="Line" xml:id="facs_2_region_1580393817838_77l1"/>
-<zone points="1283,897 2558,897 2558,1025 1283,1025" rendition="Line" xml:id="facs_2_region_1580393817838_77l2"/>
-<zone points="1285,971 2506,971 2506,1115 1285,1115" rendition="Line" xml:id="facs_2_region_1580393817838_77l3"/>
-<zone points="1299,1100 2528,1100 2528,1204 1299,1204" rendition="Line" xml:id="facs_2_region_1580393817838_77l4"/>
-<zone points="1296,1161 2567,1161 2567,1301 1296,1301" rendition="Line" xml:id="facs_2_region_1580393817838_77l5"/>
-<zone points="1306,1257 2518,1257 2518,1396 1306,1396" rendition="Line" xml:id="facs_2_region_1580393817838_77l6"/>
-<zone points="1327,1362 2467,1362 2467,1493 1327,1493" rendition="Line" xml:id="facs_2_region_1580393817838_77l7"/>
-<zone points="1311,1456 2509,1456 2509,1597 1311,1597" rendition="Line" xml:id="facs_2_region_1580393817838_77l8"/>
-<zone points="1284,1569 2008,1569 2008,1689 1284,1689" rendition="Line" xml:id="facs_2_region_1580393817838_77l9"/>
-</zone>
-<zone points="997,1709 2574,1709 2574,1844 997,1844" rendition="TextRegion" xml:id="facs_2_region_1580393830623_80">
-<zone points="983,1700 2574,1700 2574,1868 983,1868" rendition="Line" xml:id="facs_2_region_1580393830623_80l2"/>
-</zone>
-<zone points="1302,1841 2563,1841 2563,2514 1302,2514" rendition="TextRegion" xml:id="facs_2_region_1580393839318_83">
-<zone points="1293,1852 2547,1852 2547,1949 1293,1949" rendition="Line" xml:id="facs_2_region_1580393839318_83l1"/>
-<zone points="1296,1900 2527,1900 2527,2067 1296,2067" rendition="Line" xml:id="facs_2_region_1580393839318_83l2"/>
-<zone points="1302,2010 2516,2010 2516,2149 1302,2149" rendition="Line" xml:id="facs_2_region_1580393839318_83l3"/>
-<zone points="1295,2132 2562,2132 2562,2244 1295,2244" rendition="Line" xml:id="facs_2_region_1580393839318_83l4"/>
-<zone points="1294,2202 2560,2202 2560,2334 1294,2334" rendition="Line" xml:id="facs_2_region_1580393839318_83l5"/>
-<zone points="1291,2305 2537,2305 2537,2437 1291,2437" rendition="Line" xml:id="facs_2_region_1580393839318_83l6"/>
-<zone points="1300,2375 2495,2375 2495,2530 1300,2530" rendition="Line" xml:id="facs_2_region_1580393839318_83l7"/>
-</zone>
-<zone points="1281,2518 2576,2518 2576,3291 1281,3291" rendition="TextRegion" xml:id="facs_2_region_1580393851262_86">
-<zone points="1488,2478 2577,2478 2577,2627 1488,2627" rendition="Line" xml:id="facs_2_region_1580393851262_86l1"/>
-<zone points="1277,2581 2521,2581 2521,2687 1277,2687" rendition="Line" xml:id="facs_2_region_1580393851262_86l2"/>
-<zone points="1294,2666 2579,2666 2579,2819 1294,2819" rendition="Line" xml:id="facs_2_region_1580393851262_86l5"/>
-<zone points="1275,2763 2509,2763 2509,2925 1275,2925" rendition="Line" xml:id="facs_2_region_1580393851262_86l6"/>
-<zone points="1274,2874 2523,2874 2523,2995 1274,2995" rendition="Line" xml:id="facs_2_region_1580393851262_86l7"/>
-<zone points="1296,2961 2577,2961 2577,3120 1296,3120" rendition="Line" xml:id="facs_2_region_1580393851262_86l9"/>
-<zone points="1311,3045 2531,3045 2531,3203 1311,3203" rendition="Line" xml:id="facs_2_region_1580393851262_86l10"/>
-<zone points="1294,3146 2573,3146 2573,3315 1294,3315" rendition="Line" xml:id="facs_2_region_1580393851262_86l11"/>
-</zone>
-<zone points="907,3336 2557,3336 2557,3445 907,3445" rendition="TextRegion" xml:id="facs_2_region_1580393857582_89">
-<zone points="894,3295 2559,3295 2559,3473 894,3473" rendition="Line" xml:id="facs_2_region_1580393857582_89l4"/>
-</zone>
-<zone points="1278,3445 2576,3445 2576,3916 1278,3916" rendition="TextRegion" xml:id="facs_2_region_1580393867279_92">
-<zone points="1273,3425 2565,3425 2565,3577 1273,3577" rendition="Line" xml:id="facs_2_region_1580393867279_92l1"/>
-<zone points="1285,3513 2486,3513 2486,3644 1285,3644" rendition="Line" xml:id="facs_2_region_1580393867279_92l2"/>
-<zone points="1281,3614 2563,3614 2563,3767 1281,3767" rendition="Line" xml:id="facs_2_region_1580393867279_92l3"/>
-<zone points="1302,3704 2519,3704 2519,3842 1302,3842" rendition="Line" xml:id="facs_2_region_1580393867279_92l4"/>
-<zone points="1285,3795 2584,3795 2584,3951 1285,3951" rendition="Line" xml:id="facs_2_region_1580393867279_92l6"/>
-</zone>
-</surface>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_3">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_03" width="2595px"/>
-<zone points="1314,315 2581,315 2581,1575 1314,1575" rendition="TextRegion" xml:id="facs_3_region_1580398903776_199">
-<zone points="1347,316 2549,316 2549,468 1347,468" rendition="Line" xml:id="facs_3_region_1580398903776_199l1"/>
-<zone points="1323,411 2577,411 2577,571 1323,571" rendition="Line" xml:id="facs_3_region_1580398903776_199l2"/>
-<zone points="1319,523 2564,523 2564,651 1319,651" rendition="Line" xml:id="facs_3_region_1580398903776_199l3"/>
-<zone points="1307,627 2459,627 2459,738 1307,738" rendition="Line" xml:id="facs_3_region_1580398903776_199l4"/>
-<zone points="1318,722 2561,722 2561,827 1318,827" rendition="Line" xml:id="facs_3_region_1580398903776_199l5"/>
-<zone points="1321,810 2437,810 2437,932 1321,932" rendition="Line" xml:id="facs_3_region_1580398903776_199l6"/>
-<zone points="1304,901 2576,901 2576,1051 1304,1051" rendition="Line" xml:id="facs_3_region_1580398903776_199l7"/>
-<zone points="1317,1004 2487,1004 2487,1124 1317,1124" rendition="Line" xml:id="facs_3_region_1580398903776_199l8"/>
-<zone points="1326,1089 2563,1089 2563,1228 1326,1228" rendition="Line" xml:id="facs_3_region_1580398903776_199l9"/>
-<zone points="1328,1195 2483,1195 2483,1316 1328,1316" rendition="Line" xml:id="facs_3_region_1580398903776_199l10"/>
-<zone points="1305,1299 2531,1299 2531,1427 1305,1427" rendition="Line" xml:id="facs_3_region_1580398903776_199l11"/>
-<zone points="1308,1394 2453,1394 2453,1508 1308,1508" rendition="Line" xml:id="facs_3_region_1580398903776_199l12"/>
-<zone points="1315,1448 2521,1448 2521,1588 1315,1588" rendition="Line" xml:id="facs_3_region_1580398903776_199l13"/>
-</zone>
-<zone points="1310,1579 2570,1579 2570,1758 1310,1758" rendition="TextRegion" xml:id="facs_3_region_1580398921664_202">
-<zone points="1314,1555 2563,1555 2563,1707 1314,1707" rendition="Line" xml:id="facs_3_region_1580398921664_202l1"/>
-<zone points="1310,1675 1662,1675 1662,1780 1310,1780" rendition="Line" xml:id="facs_3_region_1580398921664_202l2"/>
-</zone>
-<zone points="1287,1761 2567,1761 2567,3196 1287,3196" rendition="TextRegion" xml:id="facs_3_region_1580398936016_205">
-<zone points="1512,1754 2522,1754 2522,1886 1512,1886" rendition="Line" xml:id="facs_3_region_1580398936016_205l1"/>
-<zone points="1289,1828 2493,1828 2493,1969 1289,1969" rendition="Line" xml:id="facs_3_region_1580398936016_205l2"/>
-<zone points="1319,1947 2516,1947 2516,2051 1319,2051" rendition="Line" xml:id="facs_3_region_1580398936016_205l3"/>
-<zone points="1301,2027 2564,2027 2564,2156 1301,2156" rendition="Line" xml:id="facs_3_region_1580398936016_205l4"/>
-<zone points="1315,2139 2518,2139 2518,2258 1315,2258" rendition="Line" xml:id="facs_3_region_1580398936016_205l5"/>
-<zone points="1293,2227 2558,2227 2558,2370 1293,2370" rendition="Line" xml:id="facs_3_region_1580398936016_205l6"/>
-<zone points="1327,2340 2552,2340 2552,2469 1327,2469" rendition="Line" xml:id="facs_3_region_1580398936016_205l7"/>
-<zone points="1293,2426 2554,2426 2554,2555 1293,2555" rendition="Line" xml:id="facs_3_region_1580398936016_205l8"/>
-<zone points="1287,2501 2563,2501 2563,2657 1287,2657" rendition="Line" xml:id="facs_3_region_1580398936016_205l9"/>
-<zone points="1298,2602 2567,2602 2567,2724 1298,2724" rendition="Line" xml:id="facs_3_region_1580398936016_205l10"/>
-<zone points="1323,2686 2572,2686 2572,2829 1323,2829" rendition="Line" xml:id="facs_3_region_1580398936016_205l11"/>
-<zone points="1278,2812 2551,2812 2551,2923 1278,2923" rendition="Line" xml:id="facs_3_region_1580398936016_205l12"/>
-<zone points="1305,2899 2544,2899 2544,3035 1305,3035" rendition="Line" xml:id="facs_3_region_1580398936016_205l13"/>
-<zone points="1312,3004 2543,3004 2543,3124 1312,3124" rendition="Line" xml:id="facs_3_region_1580398936016_205l14"/>
-<zone points="1308,3075 2503,3075 2503,3228 1308,3228" rendition="Line" xml:id="facs_3_region_1580398936016_205l15"/>
-</zone>
-<zone points="1278,3245 2577,3245 2577,3958 1278,3958" rendition="TextRegion" xml:id="facs_3_region_1580398949848_208">
-<zone points="1506,3245 2572,3245 2572,3387 1506,3387" rendition="Line" xml:id="facs_3_region_1580398949848_208l1"/>
-<zone points="1305,3371 2534,3371 2534,3492 1305,3492" rendition="Line" xml:id="facs_3_region_1580398949848_208l2"/>
-<zone points="1278,3466 2561,3466 2561,3595 1278,3595" rendition="Line" xml:id="facs_3_region_1580398949848_208l3"/>
-<zone points="1312,3555 2523,3555 2523,3689 1312,3689" rendition="Line" xml:id="facs_3_region_1580398949848_208l4"/>
-<zone points="1305,3636 2561,3636 2561,3780 1305,3780" rendition="Line" xml:id="facs_3_region_1580398949848_208l5"/>
-<zone points="1296,3746 2515,3746 2515,3883 1296,3883" rendition="Line" xml:id="facs_3_region_1580398949848_208l6"/>
-<zone points="1293,3837 2545,3837 2545,3971 1293,3971" rendition="Line" xml:id="facs_3_region_1580398949848_208l7"/>
-</zone>
-</surface>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_4">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_04" width="2595px"/>
-<zone points="1311,326 2574,326 2574,721 1311,721" rendition="TextRegion" xml:id="facs_4_region_1580722244954_86">
-<zone points="1323,315 2555,315 2555,467 1323,467" rendition="Line" xml:id="facs_4_region_1580722244954_86l1"/>
-<zone points="1302,444 2206,444 2206,557 1302,557" rendition="Line" xml:id="facs_4_region_1580722244954_86l2"/>
-<zone points="1500,539 2581,539 2581,652 1500,652" rendition="Line" xml:id="facs_4_region_1580722244954_86l3"/>
-<zone points="1309,627 1802,627 1802,723 1309,723" rendition="Line" xml:id="facs_4_region_1580722244954_86l4"/>
-</zone>
-<zone points="1304,788 2559,788 2559,1578 1304,1578" rendition="TextRegion" xml:id="facs_4_region_1580722256329_89">
-<zone points="1496,787 2472,787 2472,924 1496,924" rendition="Line" xml:id="facs_4_region_1580722256329_89l1"/>
-<zone points="1296,897 2486,897 2486,1028 1296,1028" rendition="Line" xml:id="facs_4_region_1580722256329_89l2"/>
-<zone points="1311,987 2567,987 2567,1115 1311,1115" rendition="Line" xml:id="facs_4_region_1580722256329_89l3"/>
-<zone points="1297,1090 2408,1090 2408,1220 1297,1220" rendition="Line" xml:id="facs_4_region_1580722256329_89l4"/>
-<zone points="1315,1179 2486,1179 2486,1323 1315,1323" rendition="Line" xml:id="facs_4_region_1580722256329_89l5"/>
-<zone points="1296,1275 2518,1275 2518,1404 1296,1404" rendition="Line" xml:id="facs_4_region_1580722256329_89l6"/>
-<zone points="1312,1363 2447,1363 2447,1500 1312,1500" rendition="Line" xml:id="facs_4_region_1580722256329_89l7"/>
-<zone points="1298,1480 2236,1480 2236,1564 1298,1564" rendition="Line" xml:id="facs_4_region_1580722256329_89l8"/>
-</zone>
-<zone points="1351,1703 2556,1703 2556,1873 1351,1873" rendition="TextRegion" xml:id="facs_4_region_1580722269209_92">
-<zone points="1363,1730 2549,1730 2549,1892 1363,1892" rendition="Line" xml:id="facs_4_region_1580722269209_92l2"/>
-</zone>
-<zone points="1418,1944 2530,1944 2530,2044 1418,2044" rendition="TextRegion" xml:id="facs_4_region_1580722278513_95">
-<zone points="1431,1931 2532,1931 2532,2090 1431,2090" rendition="Line" xml:id="facs_4_region_1580722278513_95l1"/>
-</zone>
-<zone points="1329,2053 2579,2053 2579,2874 1329,2874" rendition="TextRegion" xml:id="facs_4_region_1580722297264_98">
-<zone points="1331,2034 2573,2034 2573,2187 1331,2187" rendition="Line" xml:id="facs_4_region_1580722297264_98l1"/>
-<zone points="1332,2139 2549,2139 2549,2259 1332,2259" rendition="Line" xml:id="facs_4_region_1580722297264_98l2"/>
-<zone points="1324,2235 2471,2235 2471,2372 1324,2372" rendition="Line" xml:id="facs_4_region_1580722297264_98l3"/>
-<zone points="1322,2322 2540,2322 2540,2453 1322,2453" rendition="Line" xml:id="facs_4_region_1580722297264_98l4"/>
-<zone points="1325,2411 2455,2411 2455,2548 1325,2548" rendition="Line" xml:id="facs_4_region_1580722297264_98l5"/>
-<zone points="1333,2523 2539,2523 2539,2614 1333,2614" rendition="Line" xml:id="facs_4_region_1580722297264_98l6"/>
-<zone points="1330,2610 2530,2610 2530,2717 1330,2717" rendition="Line" xml:id="facs_4_region_1580722297264_98l7"/>
-<zone points="1323,2701 2557,2701 2557,2827 1323,2827" rendition="Line" xml:id="facs_4_region_1580722297264_98l8"/>
-<zone points="1321,2810 1733,2810 1733,2891 1321,2891" rendition="Line" xml:id="facs_4_region_1580722297264_98l9"/>
-</zone>
-<zone points="1317,2880 2578,2880 2578,3959 1317,3959" rendition="TextRegion" xml:id="facs_4_region_1580722312537_101">
-<zone points="1357,2867 2563,2867 2563,3020 1357,3020" rendition="Line" xml:id="facs_4_region_1580722312537_101l1"/>
-<zone points="1308,2987 2573,2987 2573,3123 1308,3123" rendition="Line" xml:id="facs_4_region_1580722312537_101l2"/>
-<zone points="1321,3067 2522,3067 2522,3211 1321,3211" rendition="Line" xml:id="facs_4_region_1580722312537_101l3"/>
-<zone points="1320,3170 2518,3170 2518,3308 1320,3308" rendition="Line" xml:id="facs_4_region_1580722312537_101l4"/>
-<zone points="1308,3290 2547,3290 2547,3388 1308,3388" rendition="Line" xml:id="facs_4_region_1580722312537_101l5"/>
-<zone points="1308,3371 2577,3371 2577,3484 1308,3484" rendition="Line" xml:id="facs_4_region_1580722312537_101l6"/>
-<zone points="1347,3451 2568,3451 2568,3580 1347,3580" rendition="Line" xml:id="facs_4_region_1580722312537_101l7"/>
-<zone points="1336,3554 2573,3554 2573,3676 1336,3676" rendition="Line" xml:id="facs_4_region_1580722312537_101l8"/>
-<zone points="1315,3642 2513,3642 2513,3779 1315,3779" rendition="Line" xml:id="facs_4_region_1580722312537_101l9"/>
-<zone points="1308,3739 2497,3739 2497,3883 1308,3883" rendition="Line" xml:id="facs_4_region_1580722312537_101l10"/>
-<zone points="1328,3859 2485,3859 2485,3972 1328,3972" rendition="Line" xml:id="facs_4_region_1580722312537_101l11"/>
-</zone>
-</surface>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_5">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_05" width="2595px"/>
-<zone points="1326,339 2580,339 2580,1190 1326,1190" rendition="TextRegion" xml:id="facs_5_region_1580723522079_191">
-<zone points="1360,330 2540,330 2540,467 1360,467" rendition="Line" xml:id="facs_5_region_1580723522079_191l1"/>
-<zone points="1326,419 2546,419 2546,565 1326,565" rendition="Line" xml:id="facs_5_region_1580723522079_191l2"/>
-<zone points="1320,532 2556,532 2556,659 1320,659" rendition="Line" xml:id="facs_5_region_1580723522079_191l3"/>
-<zone points="1333,612 2405,612 2405,747 1333,747" rendition="Line" xml:id="facs_5_region_1580723522079_191l4"/>
-<zone points="1533,716 2588,716 2588,834 1533,834" rendition="Line" xml:id="facs_5_region_1580723522079_191l5"/>
-<zone points="1318,798 2548,798 2548,916 1318,916" rendition="Line" xml:id="facs_5_region_1580723522079_191l6"/>
-<zone points="1329,885 2539,885 2539,1019 1329,1019" rendition="Line" xml:id="facs_5_region_1580723522079_191l7"/>
-<zone points="1329,988 2549,988 2549,1116 1329,1116" rendition="Line" xml:id="facs_5_region_1580723522079_191l8"/>
-<zone points="1336,1106 1791,1106 1791,1204 1336,1204" rendition="Line" xml:id="facs_5_region_1580723522079_191l9"/>
-</zone>
-<zone points="1330,1277 2542,1277 2542,1920 1330,1920" rendition="TextRegion" xml:id="facs_5_region_1580723542351_195">
-<zone points="1530,1283 2499,1283 2499,1433 1530,1433" rendition="Line" xml:id="facs_5_region_1580723542351_195l1"/>
-<zone points="1333,1365 2494,1365 2494,1484 1333,1484" rendition="Line" xml:id="facs_5_region_1580723542351_195l2"/>
-<zone points="1330,1451 2504,1451 2504,1597 1330,1597" rendition="Line" xml:id="facs_5_region_1580723542351_195l3"/>
-<zone points="1336,1558 2532,1558 2532,1694 1336,1694" rendition="Line" xml:id="facs_5_region_1580723542351_195l4"/>
-<zone points="1327,1666 2505,1666 2505,1787 1327,1787" rendition="Line" xml:id="facs_5_region_1580723542351_195l5"/>
-<zone points="1327,1762 2522,1762 2522,1891 1327,1891" rendition="Line" xml:id="facs_5_region_1580723542351_195l6"/>
-<zone points="1336,1850 1864,1850 1864,1931 1336,1931" rendition="Line" xml:id="facs_5_region_1580723542351_195l7"/>
-</zone>
-<zone points="1324,1928 2560,1928 2560,2796 1324,2796" rendition="TextRegion" xml:id="facs_5_region_1580723558544_198">
-<zone points="1492,1923 2531,1923 2531,2091 1492,2091" rendition="Line" xml:id="facs_5_region_1580723558544_198l1"/>
-<zone points="1326,2013 2519,2013 2519,2159 1326,2159" rendition="Line" xml:id="facs_5_region_1580723558544_198l2"/>
-<zone points="1320,2108 2516,2108 2516,2263 1320,2263" rendition="Line" xml:id="facs_5_region_1580723558544_198l3"/>
-<zone points="1333,2227 2445,2227 2445,2332 1333,2332" rendition="Line" xml:id="facs_5_region_1580723558544_198l4"/>
-<zone points="1330,2291 2559,2291 2559,2466 1330,2466" rendition="Line" xml:id="facs_5_region_1580723558544_198l5"/>
-<zone points="1329,2396 2504,2396 2504,2547 1329,2547" rendition="Line" xml:id="facs_5_region_1580723558544_198l6"/>
-<zone points="1329,2515 2534,2515 2534,2644 1329,2644" rendition="Line" xml:id="facs_5_region_1580723558544_198l7"/>
-<zone points="1321,2620 2461,2620 2461,2739 1321,2739" rendition="Line" xml:id="facs_5_region_1580723558544_198l9"/>
-<zone points="1330,2716 1649,2716 1649,2784 1330,2784" rendition="Line" xml:id="facs_5_region_1580723558544_198l10"/>
-</zone>
-<zone points="1313,2798 2559,2798 2559,3748 1313,3748" rendition="TextRegion" xml:id="facs_5_region_1580723573479_201">
-<zone points="1444,2786 2558,2786 2558,2916 1444,2916" rendition="Line" xml:id="facs_5_region_1580723573479_201l1"/>
-<zone points="1323,2900 2505,2900 2505,3026 1323,3026" rendition="Line" xml:id="facs_5_region_1580723573479_201l2"/>
-<zone points="1320,2986 2550,2986 2550,3124 1320,3124" rendition="Line" xml:id="facs_5_region_1580723573479_201l3"/>
-<zone points="1326,3092 2541,3092 2541,3203 1326,3203" rendition="Line" xml:id="facs_5_region_1580723573479_201l4"/>
-<zone points="1312,3170 2507,3170 2507,3307 1312,3307" rendition="Line" xml:id="facs_5_region_1580723573479_201l5"/>
-<zone points="1308,3304 2519,3304 2519,3404 1308,3404" rendition="Line" xml:id="facs_5_region_1580723573479_201l6"/>
-<zone points="1309,3379 2491,3379 2491,3510 1309,3510" rendition="Line" xml:id="facs_5_region_1580723573479_201l7"/>
-<zone points="1309,3483 2464,3483 2464,3580 1309,3580" rendition="Line" xml:id="facs_5_region_1580723573479_201l8"/>
-<zone points="1314,3562 2511,3562 2511,3659 1314,3659" rendition="Line" xml:id="facs_5_region_1580723573479_201l9"/>
-<zone points="1318,3658 2491,3658 2491,3764 1318,3764" rendition="Line" xml:id="facs_5_region_1580723573479_201l10"/>
-</zone>
-<zone points="1305,3749 2511,3749 2511,3956 1305,3956" rendition="TextRegion" xml:id="facs_5_region_1580723586776_204">
-<zone points="1297,3738 2492,3738 2492,3892 1297,3892" rendition="Line" xml:id="facs_5_region_1580723586776_204l1"/>
-<zone points="1310,3850 2519,3850 2519,3980 1310,3980" rendition="Line" xml:id="facs_5_region_1580723586776_204l2"/>
-</zone>
-</surface>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_6">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_06" width="2595px"/>
-<zone points="1292,341 2584,341 2584,1554 1292,1554" rendition="TextRegion" xml:id="facs_6_region_1580724529919_293">
-<zone points="1292,331 2515,331 2515,475 1292,475" rendition="Line" xml:id="facs_6_region_1580724529919_293l1"/>
-<zone points="1284,404 2502,404 2502,540 1284,540" rendition="Line" xml:id="facs_6_region_1580724529919_293l2"/>
-<zone points="1287,523 2492,523 2492,637 1287,637" rendition="Line" xml:id="facs_6_region_1580724529919_293l3"/>
-<zone points="1293,626 2536,626 2536,732 1293,732" rendition="Line" xml:id="facs_6_region_1580724529919_293l4"/>
-<zone points="1284,706 2533,706 2533,851 1284,851" rendition="Line" xml:id="facs_6_region_1580724529919_293l5"/>
-<zone points="1285,803 2512,803 2512,915 1285,915" rendition="Line" xml:id="facs_6_region_1580724529919_293l6"/>
-<zone points="1298,923 2549,923 2549,1028 1298,1028" rendition="Line" xml:id="facs_6_region_1580724529919_293l7"/>
-<zone points="1286,970 2566,970 2566,1115 1286,1115" rendition="Line" xml:id="facs_6_region_1580724529919_293l8"/>
-<zone points="1284,1101 2558,1101 2558,1218 1284,1218" rendition="Line" xml:id="facs_6_region_1580724529919_293l9"/>
-<zone points="1285,1178 2573,1178 2573,1325 1285,1325" rendition="Line" xml:id="facs_6_region_1580724529919_293l10"/>
-<zone points="1285,1274 2555,1274 2555,1420 1285,1420" rendition="Line" xml:id="facs_6_region_1580724529919_293l11"/>
-<zone points="1296,1387 2575,1387 2575,1515 1296,1515" rendition="Line" xml:id="facs_6_region_1580724529919_293l12"/>
-<zone points="1300,1458 2549,1458 2549,1596 1300,1596" rendition="Line" xml:id="facs_6_region_1580724529919_293l13"/>
-</zone>
-<zone points="1294,1556 2569,1556 2569,1791 1294,1791" rendition="TextRegion" xml:id="facs_6_region_1580724541558_296">
-<zone points="1301,1554 2575,1554 2575,1709 1301,1709" rendition="Line" xml:id="facs_6_region_1580724541558_296l1"/>
-<zone points="1288,1668 2572,1668 2572,1802 1288,1802" rendition="Line" xml:id="facs_6_region_1580724541558_296l2"/>
-</zone>
-<zone points="1302,1796 2585,1796 2585,2999 1302,2999" rendition="TextRegion" xml:id="facs_6_region_1580724560742_299">
-<zone points="1461,1787 2456,1787 2456,1932 1461,1932" rendition="Line" xml:id="facs_6_region_1580724560742_299l1"/>
-<zone points="1308,1923 2571,1923 2571,2063 1308,2063" rendition="Line" xml:id="facs_6_region_1580724560742_299l2"/>
-<zone points="1302,2026 2549,2026 2549,2156 1302,2156" rendition="Line" xml:id="facs_6_region_1580724560742_299l3"/>
-<zone points="1299,2121 2581,2121 2581,2267 1299,2267" rendition="Line" xml:id="facs_6_region_1580724560742_299l4"/>
-<zone points="1304,2227 2551,2227 2551,2355 1304,2355" rendition="Line" xml:id="facs_6_region_1580724560742_299l5"/>
-<zone points="1296,2332 2560,2332 2560,2451 1296,2451" rendition="Line" xml:id="facs_6_region_1580724560742_299l6"/>
-<zone points="1302,2411 2563,2411 2563,2540 1302,2540" rendition="Line" xml:id="facs_6_region_1580724560742_299l7"/>
-<zone points="1308,2498 2593,2498 2593,2619 1308,2619" rendition="Line" xml:id="facs_6_region_1580724560742_299l8"/>
-<zone points="1314,2619 2573,2619 2573,2747 1314,2747" rendition="Line" xml:id="facs_6_region_1580724560742_299l9"/>
-<zone points="1306,2707 2560,2707 2560,2820 1306,2820" rendition="Line" xml:id="facs_6_region_1580724560742_299l10"/>
-<zone points="1326,2803 2520,2803 2520,2899 1326,2899" rendition="Line" xml:id="facs_6_region_1580724560742_299l11"/>
-<zone points="1309,2907 2558,2907 2558,3021 1309,3021" rendition="Line" xml:id="facs_6_region_1580724560742_299l12"/>
-</zone>
-<zone points="1304,2996 2586,2996 2586,3950 1304,3950" rendition="TextRegion" xml:id="facs_6_region_1580724577606_302">
-<zone points="1315,2970 2544,2970 2544,3107 1315,3107" rendition="Line" xml:id="facs_6_region_1580724577606_302l1"/>
-<zone points="1312,3076 2569,3076 2569,3212 1312,3212" rendition="Line" xml:id="facs_6_region_1580724577606_302l2"/>
-<zone points="1314,3172 2555,3172 2555,3315 1314,3315" rendition="Line" xml:id="facs_6_region_1580724577606_302l3"/>
-<zone points="1308,3274 2539,3274 2539,3396 1308,3396" rendition="Line" xml:id="facs_6_region_1580724577606_302l4"/>
-<zone points="1310,3371 2501,3371 2501,3500 1310,3500" rendition="Line" xml:id="facs_6_region_1580724577606_302l5"/>
-<zone points="1300,3467 2563,3467 2563,3580 1300,3580" rendition="Line" xml:id="facs_6_region_1580724577606_302l6"/>
-<zone points="1308,3532 2551,3532 2551,3667 1308,3667" rendition="Line" xml:id="facs_6_region_1580724577606_302l7"/>
-<zone points="1329,3634 2519,3634 2519,3739 1329,3739" rendition="Line" xml:id="facs_6_region_1580724577606_302l8"/>
-<zone points="1324,3730 2550,3730 2550,3859 1324,3859" rendition="Line" xml:id="facs_6_region_1580724577606_302l9"/>
-<zone points="1315,3843 2553,3843 2553,3966 1315,3966" rendition="Line" xml:id="facs_6_region_1580724577606_302l10"/>
-</zone>
-</surface>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_7">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_07" width="2595px"/>
-<zone points="1293,304 2560,304 2560,1454 1293,1454" rendition="TextRegion" xml:id="facs_7_region_1580725511725_389">
-<zone points="1294,299 2556,299 2556,413 1294,413" rendition="Line" xml:id="facs_7_region_1580725511725_389l1"/>
-<zone points="1296,411 2528,411 2528,539 1296,539" rendition="Line" xml:id="facs_7_region_1580725511725_389l3"/>
-<zone points="1305,491 2533,491 2533,620 1305,620" rendition="Line" xml:id="facs_7_region_1580725511725_389l4"/>
-<zone points="1314,587 2503,587 2503,724 1314,724" rendition="Line" xml:id="facs_7_region_1580725511725_389l5"/>
-<zone points="1326,683 2521,683 2521,825 1326,825" rendition="Line" xml:id="facs_7_region_1580725511725_389l6"/>
-<zone points="1294,794 2554,794 2554,917 1294,917" rendition="Line" xml:id="facs_7_region_1580725511725_389l7"/>
-<zone points="1329,883 2555,883 2555,1004 1329,1004" rendition="Line" xml:id="facs_7_region_1580725511725_389l8"/>
-<zone points="1332,978 2564,978 2564,1097 1332,1097" rendition="Line" xml:id="facs_7_region_1580725511725_389l9"/>
-<zone points="1309,1082 2549,1082 2549,1195 1309,1195" rendition="Line" xml:id="facs_7_region_1580725511725_389l10"/>
-<zone points="1323,1163 2496,1163 2496,1292 1323,1292" rendition="Line" xml:id="facs_7_region_1580725511725_389l11"/>
-<zone points="1314,1267 2548,1267 2548,1356 1314,1356" rendition="Line" xml:id="facs_7_region_1580725511725_389l12"/>
-<zone points="1310,1354 2560,1354 2560,1500 1310,1500" rendition="Line" xml:id="facs_7_region_1580725511725_389l13"/>
-</zone>
-<zone points="1304,1456 2581,1456 2581,2585 1304,2585" rendition="TextRegion" xml:id="facs_7_region_1580725528709_392">
-<zone points="1321,1443 2576,1443 2576,1573 1321,1573" rendition="Line" xml:id="facs_7_region_1580725528709_392l1"/>
-<zone points="1316,1524 2524,1524 2524,1651 1316,1651" rendition="Line" xml:id="facs_7_region_1580725528709_392l3"/>
-<zone points="1304,1628 2503,1628 2503,1755 1304,1755" rendition="Line" xml:id="facs_7_region_1580725528709_392l4"/>
-<zone points="1309,1719 2572,1719 2572,1870 1309,1870" rendition="Line" xml:id="facs_7_region_1580725528709_392l5"/>
-<zone points="1314,1804 2532,1804 2532,1952 1314,1952" rendition="Line" xml:id="facs_7_region_1580725528709_392l6"/>
-<zone points="1336,1896 2533,1896 2533,2052 1336,2052" rendition="Line" xml:id="facs_7_region_1580725528709_392l8"/>
-<zone points="1331,2002 2563,2002 2563,2148 1331,2148" rendition="Line" xml:id="facs_7_region_1580725528709_392l9"/>
-<zone points="1312,2103 2540,2103 2540,2228 1312,2228" rendition="Line" xml:id="facs_7_region_1580725528709_392l10"/>
-<zone points="1333,2181 2545,2181 2545,2333 1333,2333" rendition="Line" xml:id="facs_7_region_1580725528709_392l11"/>
-<zone points="1321,2275 2498,2275 2498,2428 1321,2428" rendition="Line" xml:id="facs_7_region_1580725528709_392l12"/>
-<zone points="1317,2370 2565,2370 2565,2523 1317,2523" rendition="Line" xml:id="facs_7_region_1580725528709_392l13"/>
-<zone points="1328,2481 2579,2481 2579,2624 1328,2624" rendition="Line" xml:id="facs_7_region_1580725528709_392l14"/>
-</zone>
-<zone points="1318,2585 2576,2585 2576,3728 1318,3728" rendition="TextRegion" xml:id="facs_7_region_1580725543053_395">
-<zone points="1314,2556 2570,2556 2570,2709 1314,2709" rendition="Line" xml:id="facs_7_region_1580725543053_395l1"/>
-<zone points="1327,2676 2468,2676 2468,2822 1327,2822" rendition="Line" xml:id="facs_7_region_1580725543053_395l2"/>
-<zone points="1335,2764 2518,2764 2518,2906 1335,2906" rendition="Line" xml:id="facs_7_region_1580725543053_395l3"/>
-<zone points="1352,2859 2505,2859 2505,3003 1352,3003" rendition="Line" xml:id="facs_7_region_1580725543053_395l4"/>
-<zone points="1327,2947 2528,2947 2528,3096 1327,3096" rendition="Line" xml:id="facs_7_region_1580725543053_395l5"/>
-<zone points="1321,3044 2546,3044 2546,3205 1321,3205" rendition="Line" xml:id="facs_7_region_1580725543053_395l6"/>
-<zone points="1332,3155 2570,3155 2570,3285 1332,3285" rendition="Line" xml:id="facs_7_region_1580725543053_395l7"/>
-<zone points="1327,3232 2545,3232 2545,3381 1327,3381" rendition="Line" xml:id="facs_7_region_1580725543053_395l8"/>
-<zone points="1336,3318 2575,3318 2575,3459 1336,3459" rendition="Line" xml:id="facs_7_region_1580725543053_395l9"/>
-<zone points="1324,3413 2550,3413 2550,3515 1324,3515" rendition="Line" xml:id="facs_7_region_1580725543053_395l10"/>
-<zone points="1329,3514 2549,3514 2549,3652 1329,3652" rendition="Line" xml:id="facs_7_region_1580725543053_395l11"/>
-<zone points="1348,3604 2541,3604 2541,3757 1348,3757" rendition="Line" xml:id="facs_7_region_1580725543053_395l12"/>
-</zone>
-<zone points="1325,3724 2589,3724 2589,3936 1325,3936" rendition="TextRegion" xml:id="facs_7_region_1580725556629_398">
-<zone points="1332,3722 2553,3722 2553,3808 1332,3808" rendition="Line" xml:id="facs_7_region_1580725556629_398l1"/>
-<zone points="1324,3802 2596,3802 2596,3948 1324,3948" rendition="Line" xml:id="facs_7_region_1580725556629_398l2"/>
-</zone>
-</surface>
-<surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_8">
-<graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_08" width="2595px"/>
-<zone points="1324,283 2565,283 2565,889 1324,889" rendition="TextRegion" xml:id="facs_8_region_1580748342313_65">
-<zone points="1354,316 2524,316 2524,424 1354,424" rendition="Line" xml:id="facs_8_region_1580748342313_65l1"/>
-<zone points="1327,410 2563,410 2563,531 1327,531" rendition="Line" xml:id="facs_8_region_1580748342313_65l2"/>
-<zone points="1330,510 2541,510 2541,628 1330,628" rendition="Line" xml:id="facs_8_region_1580748342313_65l3"/>
-<zone points="1326,586 2549,586 2549,719 1326,719" rendition="Line" xml:id="facs_8_region_1580748342313_65l4"/>
-<zone points="1318,660 2536,660 2536,811 1318,811" rendition="Line" xml:id="facs_8_region_1580748342313_65l5"/>
-<zone points="1326,787 2496,787 2496,884 1326,884" rendition="Line" xml:id="facs_8_region_1580748342313_65l6"/>
-</zone>
-<zone points="2009,917 2297,917 2297,1035 2009,1035" rendition="TextRegion" xml:id="facs_8_region_1580748345760_68">
-<zone points="2013,948 2241,948 2241,1035 2013,1035" rendition="Line" xml:id="facs_8_region_1580748345760_68l2"/>
-</zone>
-</surface>
-</facsimile>
-<text>
-<body>
-<div n="1" type="page" xml:id="d1">
-<pb facs="#facs_1" n="1" xml:id="pag1"/>
-<div xml:id="d2">
-<p facs="#facs_1_region_1580380311027_283" rendition="#l" xml:id="p2" xml:space="preserve">
-<lb/>C. <num>68</num>.</p>
-<p facs="#facs_1_region_1580380315378_286" rendition="#fc" xml:id="p3" xml:space="preserve">
-<lb/>Kaiserliche Akademie der Wissenschaften.</p>
-<p facs="#facs_1_region_1580380318610_289" rendition="#fc" xml:id="p4" xml:space="preserve">
-<lb/>Protokoll</p>
-<p facs="#facs_1_region_1580380338155_292" rendition="#fc" xml:id="p5" xml:space="preserve">
-<lb/>der Sitzung der philosophisch-historischen Classe</p>
-<p facs="#facs_1_region_1580380342155_295" rendition="#fc" xml:id="p6" xml:space="preserve">
-<lb/>am <num>13</num>. März <num>1850</num></p>
-<p facs="#facs_1_region_1580380362906_298" rendition="#?11-86-97--262-2342" xml:id="p7" xml:space="preserve">
-<lb/>Anwesend: der Alterspräsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-<lb/>Die <choice><expan>wirklichen</expan><abbr>wirkl<am>.</am></abbr></choice> <choice><expan>Mitglieder</expan><abbr>Mitgl<am>.</am></abbr></choice> <choice><expan>Herr</expan><abbr><expan>H<ex>er</ex>r</expan><am>.</am></abbr></choice> <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#chmel-joseph" type="person">Chmel</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#auer-welsbach-von-alois" type="person">Auer</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <choice><expan><rs ref="#karajan-von-theodor-georg" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#diemer-josef" type="person">Diemer</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
-<lb/>Der Secretär <choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#wolf-ferdinand" type="person">Wolf</rs></p>
-<p facs="#facs_1_region_1580380368234_301" rendition="#fc" xml:id="p8" xml:space="preserve">
-<lb/>Mehrere Gäste.</p>
-<p facs="#facs_1_region_1580380380155_304" rendition="#r" xml:id="p9" xml:space="preserve">
-<lb/>Das Protokoll
-unbean-<lb/>standet angenommen.</p>
-<p facs="#facs_1_region_1580380386586_307" rendition="#?34-65-99--816-2388" xml:id="p10" xml:space="preserve">
-<lb/>(<num>307</num>) a) Von Herrn Ministerial-</p>
-<p facs="#facs_1_region_1580380392834_310" rendition="#r" xml:id="p11" xml:space="preserve">
-<lb/>Secretär Ritter <rs ref="#hohenbuhel-heufler-zu-rasen-ludwig" type="person"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> <hi><rs ref="#hohenbuhel-heufler-zu-rasen-ludwig" type="person">Heufler</rs></hi></rs>
-<lb/>eine Zuschrift, womit er das
-<lb/>handschriflich mitgesandte Werk
-<lb/>des <choice><expan>Doctor</expan><abbr>D<hi rend="super">or</hi></abbr></choice> <choice xmlns:akp="http://akademieprotokolle.acdh-dev.oeaw.ac.at" akp:corr="expand-abbrev"><expan>Johann</expan><abbr>J<am>.</am></abbr></choice> <choice xmlns:akp="http://akademieprotokolle.acdh-dev.oeaw.ac.at" akp:corr="expand-abbrev"><expan>Baptist</expan><abbr>B<am>.</am></abbr></choice> <hi><rs ref="#cubich-giambattista" type="person">Cubich</rs></hi> "Notizie
-<lb/>naturali e <choice><expan>historiche</expan><abbr>storiche</abbr></choice> dell isola
-<lb/>di Vegliá" empfehlend
-einbe-<lb/>geleitet, indem er den Wunsch</p>
-</div>
-</div>
-<div n="2" type="page" xml:id="d3">
-<pb facs="#facs_2" n="2" xml:id="pag2"/>
-<div xml:id="d4">
-<p facs="#facs_2_region_1580393808904_74" rendition="#?23-76-99--391-1657" xml:id="p12" xml:space="preserve">
-<lb/>des Verfassers anzeigt,
-die-<lb/>ses Werk in die Abhandlungen
-<lb/>der Akademie aufgenommen,<lb/>oder abgesondert durch sie
-her-<lb/>ausgegeben zu sehen.</p>
-<p facs="#facs_2_region_1580393817838_77" rendition="#?23-76-99--385-1654" xml:id="p13" xml:space="preserve">
-<lb/>Da das Werk aus zwei
-<lb/>Haupttheilen, einem <hi>physikali-<lb/>schen</hi> und <hi>historischen</hi> besteht,<lb/>so wird die erstere
-Abthei-<lb/>lung der <hi>anderen</hi> Classe zur
-<lb/>Verfügung zugesendet, die
-<lb/> <hi>historische</hi> Abtheilung aber
-<lb/>Herrn <hi><rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi> zur
-Begutach-<lb/>tung zugewiesen.</p>
-<p facs="#facs_2_region_1580393830623_80" rendition="#f" xml:id="p14" xml:space="preserve">
-<lb/>(<num>309</num>) b) Von Herrn <choice><expan>Ferdinand</expan><abbr>Ferd<am>.</am></abbr></choice> <hi><rs ref="#teweles-ferdinand-hermann" type="person">Teweles</rs>,</hi> <choice><expan>kaiserlich-königlicher</expan><abbr>k<am>.</am>k<am>.</am></abbr></choice></p>
-<p facs="#facs_2_region_1580393839318_83" rendition="#?24-76-99--395-1656" xml:id="p15" xml:space="preserve">
-<lb/>Beamter in <rs ref="#wien" type="place">Wien</rs>, ein
-Pracht-<lb/>exemplar seines Denkblattes
-<lb/>"Oesterreichs Thronstützen"<lb/>mit einem Schreiben, worin
-<lb/>er die Bitte ausspricht,
-demsel-<lb/>ben einen Platz im
-Sitzungs-<lb/>sale der Akademie zu geben.</p>
-<p facs="#facs_2_region_1580393851262_86" rendition="#?22-78-100--374-1669" xml:id="p16" xml:space="preserve">
-<lb/>Indem die Classe das Werk
-<lb/>mit anerkennender
-Würdi-<lb/>gung, die Bitte des Verfassers
-<lb/>mit einstimmigem Beifall
-<lb/>aufnimmt, verweist sie die
-<lb/>Entscheidung, als nur der
-gan-<lb/>zen Akademie zuständig, auf
-<lb/>die <hi>nächste Gesammtsitzung</hi>.</p>
-<p facs="#facs_2_region_1580393857582_89" rendition="#f" xml:id="p17" xml:space="preserve">
-<lb/>(<num>326</num>) c) Von Herrn <hi><choice><expan><rs ref="#saint-genois-jules-ludger-dominique-ghislain" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#saint-genois-jules-ludger-dominique-ghislain" type="person">St. Genois</rs></hi> in</p>
-<p facs="#facs_2_region_1580393867279_92" rendition="#?22-78-100--371-1669" xml:id="p18" xml:space="preserve">
-<lb/><rs ref="#gent" type="place">Gent</rs>, ein Schreiben an den "Prä-
-<lb/>sidenten" der Akademie mit
-<lb/>einem Exemplar des in den
-<lb/>Publikationen der Maetschappy
-<lb/>der vlaemsche Bibliophilen von</p>
-</div>
-</div>
-<div n="3" type="page" xml:id="d5">
-<pb facs="#facs_3" n="3" xml:id="pag3"/>
-<div xml:id="d6">
-<p facs="#facs_3_region_1580398903776_199" rendition="#f" xml:id="p19" xml:space="preserve">
-<lb/>ihm herausgegebenen: "Jour-<lb/>nal ofte Dagregister van onze
-<lb/>reyze naer de Keyzerlyke Stadt
-<lb/>van <rs ref="#wien" type="place">Weenen</rs>, ten Jare <num>1716</num>",<lb/>welches er der Akademie
-über-<lb/>sendet und ihrer Beachtung
-<lb/>werth hält, da dieses "Tagebuch"<lb/>der im <choice><expan>Jahr</expan><abbr>J<am>.</am></abbr></choice> <num>1716</num> nach <rs ref="#wien" type="place">Wien</rs>
-ge-<lb/>sandten Deputirten der Stände
-<lb/>Flanderns, um sich der
-Aus-<lb/>führung des Barrière-Trac-<lb/>tats zu widersetzen, viele
-<lb/>interessante Details über</p>
-<p facs="#facs_3_region_1580398921664_202" rendition="#f" xml:id="p20" xml:space="preserve">
-<lb/>die damaligen Zustände <rs ref="#wien" type="place">Wiens</rs>
-<lb/>enthält.</p>
-<p facs="#facs_3_region_1580398936016_205" rendition="#f" xml:id="p21" xml:space="preserve">
-<lb/>In Würdigung dieses
-<lb/>Umstandes und in Rücksicht
-<lb/>auf die minder allgemeine
-<lb/>Zugänglichkeit dieses Werkes,<lb/>das nur in einer
-beschränk-<lb/>ten Anzahl von Exemplaren
-<lb/>gedruckt und in einer
-we-<lb/>nig verbreiteten Sprache
-ab-<lb/>gefaßt ist, beschließt die Classe
-<lb/>es in ihren Sitzungsberichten
-<lb/>ausführlicher besprechen zu
-<lb/>lassen, und ersucht Herrn
-<lb/> <hi><choice><expan><rs ref="#karajan-von-theodor-georg" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs></hi>, sich diesem
-Ge-<lb/>schäfte zu unterziehen
-wo-<lb/>zu er sich bereit erklärt.</p>
-<p facs="#facs_3_region_1580398949848_208" rendition="#f" xml:id="p22" xml:space="preserve">
-<lb/>Freiherr <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs></hi> <lb/>berichtet über den von Herrn
-<lb/><choice><expan><rs ref="#kremer-alfred" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <hi><rs ref="#kremer-alfred" type="person">Kremer</rs></hi> eingesandten
-Auf-<lb/>satz "Beiträge zur
-Geogra-<lb/>phie des nördlichen Syriens"<lb/>und trägt darauf an, daß
-<lb/>er in die akademischen Denk-</p>
-</div>
-</div>
-<div n="4" type="page" xml:id="d7">
-<pb facs="#facs_4" n="4" xml:id="pag4"/>
-<div xml:id="d8">
-<p facs="#facs_4_region_1580722244954_86" rendition="#f" xml:id="p23" xml:space="preserve">
-<lb/>schriften" der Nichtmitglieder
-<lb/>aufgenommen werde,<lb/>welchem Antrage die Classe
-<lb/> <hi>beistimmt.</hi></p>
-<p facs="#facs_4_region_1580722256329_89" rendition="#f" xml:id="p24" xml:space="preserve">
-<lb/>Herr Regierungsrath
-<lb/> <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> liest die Fortsetzung
-<lb/>seiner für die Denkschriften
-<lb/>bestimmten Abhandlung:<lb/>"Beträge zur Kritik der
-<lb/>österreichischen Geschichte;<lb/>kirchliche Zustände unter
-<lb/><rs ref="#habsburg-ladislaus-postumus" type="person">Ladislaus</rs>, <num>1440</num>-<num>1458</num>.</p>
-<p facs="#facs_4_region_1580722269209_92" rendition="#f" xml:id="p25" xml:space="preserve">
-<lb/> <hi>In der vertraulichen Sitzung</hi></p>
-<p facs="#facs_4_region_1580722278513_95" rendition="#f" xml:id="p26" xml:space="preserve">
-<lb/>theilt der <hi><rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> mit:</p>
-<p facs="#facs_4_region_1580722297264_98" rendition="#f" xml:id="p27" xml:space="preserve">
-<lb/>a) aus einem Briefe <choice><expan>Seiner</expan><abbr>S<hi rend="super">r</hi></abbr></choice> Excellenz
-<lb/>des Freiherrn <rs ref="#prokesch-osten-anton" type="person"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Prokesch-Osten</rs>
-<lb/>an ihn, daß dieser sich mit
-<lb/>dem Vorschlag der Classe wegen
-<lb/>Bestellung und Honorirung
-<lb/>eines Correctors seines
-Wer-<lb/>kes in der Person des Herrn
-<lb/><choice><expan>Doctor</expan><abbr>Dr<am>.</am></abbr></choice> <rs ref="#schmidl-adolf" type="person">Schmidl's</rs> <hi>einverstanden</hi>
-<lb/>erkläre.</p>
-<p facs="#facs_4_region_1580722312537_101" rendition="#f" xml:id="p28" xml:space="preserve">
-<lb/>b) daß Herr <choice><expan>Doctor</expan><abbr>Dr<am>.</am></abbr></choice> <hi><rs ref="#schmidl-adolf" type="person">Schmidl</rs></hi> von
-<lb/>der Redaction der <hi>Wiener-Zeitung</hi> <lb/>zum Berichterstatter über die
-<lb/>Sitzungen der Akademie
-er-<lb/>nannt worden sei; daher frage
-<lb/>er sich an, ob es die Classe nicht
-<lb/>zweckmäßiger finde, <hi>diesem </hi> -
-<lb/>dessen Berichte sogleich nach den
-<lb/>Sitzungen erscheinen - die
-<lb/>authentischen Mittheilungen
-<lb/>zu machen und dafür die</p>
-</div>
-</div>
-<div n="5" type="page" xml:id="d9">
-<pb facs="#facs_5" n="5" xml:id="pag5"/>
-<div xml:id="d10">
-<p facs="#facs_5_region_1580723522079_191" rendition="#f" xml:id="p29" xml:space="preserve">
-<lb/>immer erst nach mehreren
-<lb/>Wochen in die Wiener-Zeitung
-<lb/>eingerückten officiellen
-Be-<lb/>richte ganz aufzugeben?<lb/>Die Classe beschließt, es der
-<lb/>Controlle wegen bei der <hi>bisher</hi>
-<lb/> <hi>üblichen</hi> Art der offiziellen
-<lb/>Berichte für die Wiener-Zeitung
-<lb/>zu belassen.</p>
-<p facs="#facs_5_region_1580723542351_195" rendition="#f" xml:id="p30" xml:space="preserve">
-<lb/>Herr Regierungsrath
-<lb/> <hi><rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi> liest als Referent
-<lb/>den Commissionsbericht über
-<lb/>die Betheiligung der Classe an
-<lb/>der von der <choice><expan/><abbr>k<am>.</am></abbr></choice> <choice><expan>kaiserlich-königlichen</expan><abbr>k<am>.</am></abbr></choice> Marine zu
-<lb/>unternehmenden Expedition
-<lb/>um die Welt.</p>
-<p facs="#facs_5_region_1580723558544_198" rendition="#f" xml:id="p31" xml:space="preserve">
-<lb/>In Folge dieses Berichtes
-<lb/>und der darüber
-stattgefun-<lb/>denen Discussion beschließt
-<lb/>die Classe, mit Ausnahme
-<lb/>Einer Stimme (der des <hi>Secre-
-<lb/>tärs</hi>) den Herrn
-<rs ref="#arneth-joseph-calasanz" type="person">Berichter-<lb/>statter</rs> zu beauftragen, der
-<lb/>Gesammtakademie zu
-er-<lb/>klären:</p>
-<p facs="#facs_5_region_1580723573479_201" rendition="#f" xml:id="p32" xml:space="preserve">
-<lb/>Da die Männer, von
-wel-<lb/>chen die Classe ein für die
-<lb/>Wissenschaft ersprießliches
-Re-<lb/>sultat erwarten könnte, nicht
-<lb/>in der Lage sind, sich an der
-<lb/>Expedition zu betheiligen, die
-<lb/>aber, welche sich <hi>bisher</hi> dazu
-<lb/>bereit erklärt haben, kein
-<lb/>solches Resultat erwarten
-<lb/>lassen, so sehe sich die Classe</p>
-<p facs="#facs_5_region_1580723586776_204" rendition="#f" xml:id="p33" xml:space="preserve">
-<lb/>ausser Stande, sich durch
-Er-<lb/>nennung eines <hi>eigens für</hi></p>
-</div>
-</div>
-<div n="6" type="page" xml:id="d11">
-<pb facs="#facs_6" n="6" xml:id="pag6"/>
-<div xml:id="d12">
-<p facs="#facs_6_region_1580724529919_293" rendition="#f" xml:id="p34" xml:space="preserve">
-<lb/> <hi>ihre Fächer</hi> Beauftragten an
-<lb/>der Expedition zu betheiligen;<lb/>im Falle aber die von der
-<lb/>andern Classe Gewählten in
-<lb/>der Lage wären auch für die
-<lb/>Zwecke der <choice><expan>philosophisch-historischen</expan><abbr>philos<am>.</am><am>-</am>hist<am>.</am></abbr></choice> Classe
-<lb/>Aufträge zu besorgen, würde
-<lb/>diese ihnen nicht nur
-Instruc-<lb/>tionen mitgeben sondern auch
-<lb/>an ihrer Unterstützung sich <hi>nach</hi>
-<lb/> <hi>Verhältniß</hi> gerne
-betheili-<lb/>gen, und wünsche dann nur
-<lb/>daß von ihren Aufträgen und</p>
-<p facs="#facs_6_region_1580724541558_296" rendition="#f" xml:id="p35" xml:space="preserve">
-<lb/>ihrer Betheiligung am <hi>gehöri-<lb/>gen Orte</hi> Erwähnung geschehe.</p>
-<p facs="#facs_6_region_1580724560742_299" rendition="#f" xml:id="p36" xml:space="preserve">
-<lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> erklärt,<lb/>deßhalb mit dem Beschlusse der
-<lb/>Classe nicht übereinstimmen
-<lb/>zu können, weil er glaube,<lb/>daß auch von einem
-jünge-<lb/>ren noch minder
-ausgebil-<lb/>denten, aber nur überhaupt
-<lb/>strebsamen Manne der
-Wissen-<lb/>schaft immerhin ein der
-Be-<lb/>theiligung der Classe werthes
-<lb/>Resultat sich erwarten lasse,<lb/>wenn dieser nämlich sich auch</p>
-<p facs="#facs_6_region_1580724577606_302" rendition="#f" xml:id="p37" xml:space="preserve">
-<lb/>nur darauf beschränke (und
-<lb/>große selbstständige
-Entdeckun-<lb/>gen und Untersuchungen in
-<lb/>den Fächern der Classe lassen
-<lb/>sich bei einer Expedition der
-<lb/>Art ohnehin nicht erwarten)<lb/>an Ort und Stelle die
-verläß-<lb/>lichsten Nachrichten über den
-<lb/>neuesten Stand der
-historisch-<lb/>antiquarischen Entdeckungen</p>
-</div>
-</div>
-<div n="7" type="page" xml:id="d13">
-<pb facs="#facs_7" n="7" xml:id="pag7"/>
-<div xml:id="d14">
-<p facs="#facs_7_region_1580725511725_389" rendition="#f" xml:id="p38" xml:space="preserve">
-<lb/>(<choice><expan>zum Beispiel</expan><abbr>z<am>.</am> B<am>.</am></abbr></choice> in Mittelamerika,
-beson-<lb/>ders Méjico, Yucatan oder auf
-<lb/>Ceylon) und über bestimmte
-<lb/>ihm aufgegebene statistische
-<lb/>Fragen einzusammeln; mit
-<lb/>den dortigen Gelehrten und
-<lb/>Fachmännern (<choice><expan>zum Beispiel</expan><abbr>z<am>.</am> B<am>.</am></abbr></choice> den
-Mis-<lb/>sionären) directe
-Verbindun-<lb/>gen mit der Akademie
-an-<lb/>zuknüpfen; Handschriften,<lb/>kleinere Antiquitäten und
-<lb/>selbst die in Europa so schwer</p>
-<p facs="#facs_7_region_1580725528709_392" rendition="#f" xml:id="p39" xml:space="preserve">
-<lb/>zu bekommenden
-Druckwer-<lb/>ke von Südamerka,
-Ostin-<lb/>dien und China für die <choice><expan>kaiserlich-königlichen</expan><abbr>k<am>.</am> k<am>.</am></abbr></choice>
-<lb/>Sammlungen zu erwerben;<lb/>endlich eine Geschichte der
-<lb/>Expedition zu schreiben. Dazu
-<lb/>aber, glaube er, habe sich
-un-<lb/>ter den Bewerbern wirklich
-<lb/>ein Geeigneter gefunden
-<lb/>in der Person des Herrn
-<lb/><rs ref="#muller-john-w" type="person">Müller</rs>, dessen
-geographisch-<lb/>antiquarische und besonders</p>
-<p facs="#facs_7_region_1580725543053_395" rendition="#f" xml:id="p40" xml:space="preserve">
-<lb/>linguistische Kenntnisse
-meh-<lb/>reren Mitgliedern der
-<lb/>Classe bekannt seien. Er
-<lb/>glaube daher umsomehr,<lb/>daß die Classe durch <hi>dessen</hi>
-<lb/>Wahl sich <hi>selbstständig</hi>
-be-<lb/>theiligen solle, weil sie
-ohne-<lb/>hin bei jeder Gelegenheit
-<lb/>von der Meinung des
-Pub-<lb/>licums gegen die andere
-<lb/>Classe in Schatten gestellt
-<lb/>werde, und dieses gewiß</p>
-<p facs="#facs_7_region_1580725556629_398" rendition="#f" xml:id="p41" xml:space="preserve">
-<lb/>unbillige und nur in der
-<lb/>einseitigen Bildung unseres</p>
-</div>
-</div>
-<div n="8" type="page" xml:id="d15">
-<pb facs="#facs_8" n="8" xml:id="pag8"/>
-<div xml:id="d16">
-<p facs="#facs_8_region_1580748342313_65" rendition="#f" xml:id="p42" xml:space="preserve">
-<lb/>Publicums liegende aber
-<lb/>leider nur zu sehr verbreitete
-<lb/>Vorurtheil gegen sie durch ihre
-<lb/>Nichtbetheiligung im
-gegenwär-<lb/>tigen acclatanten Falle nur
-<lb/>verstärkt werden müsse.</p>
-<p facs="#facs_8_region_1580748345760_68" rendition="#r" xml:id="p43" xml:space="preserve">
-<lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs></p>
-</div>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="num">C_0068</title>
+                <meeting>Sitzung der phil.-hist. Klasse am <date when="1850-03-13">13. März
+                        1850</date>
+                </meeting>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>tranScriptorium</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <title>phil.-hist.Klasse</title>
+            </seriesStmt>
+            <sourceDesc>
+                <p rendition="#" xml:id="p1">TRP document creator: stefan.sienell@oeaw.ac.at</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_1">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_01" width="2595px"/>
+            <zone points="181,82 437,82 437,189 181,189" rendition="TextRegion"
+                xml:id="facs_1_region_1580380311027_283">
+                <zone points="174,60 427,60 427,215 174,215" rendition="Line"
+                    xml:id="facs_1_region_1580380311027_283l1"/>
+            </zone>
+            <zone points="424,412 2104,412 2104,515 424,515" rendition="TextRegion"
+                xml:id="facs_1_region_1580380315378_286">
+                <zone points="418,416 2115,416 2115,510 418,510" rendition="Line"
+                    xml:id="facs_1_region_1580380315378_286l1"/>
+            </zone>
+            <zone points="1000,775 1526,775 1526,922 1000,922" rendition="TextRegion"
+                xml:id="facs_1_region_1580380318610_289">
+                <zone points="996,775 1515,775 1515,915 996,915" rendition="Line"
+                    xml:id="facs_1_region_1580380318610_289l1"/>
+            </zone>
+            <zone points="694,999 1836,999 1836,1058 694,1058" rendition="TextRegion"
+                xml:id="facs_1_region_1580380338155_292">
+                <zone points="685,1001 1841,1001 1841,1062 685,1062" rendition="Line"
+                    xml:id="facs_1_region_1580380338155_292l1"/>
+            </zone>
+            <zone points="890,1085 1589,1085 1589,1190 890,1190" rendition="TextRegion"
+                xml:id="facs_1_region_1580380342155_295">
+                <zone points="889,1072 1597,1072 1597,1183 889,1183" rendition="Line"
+                    xml:id="facs_1_region_1580380342155_295l1"/>
+            </zone>
+            <zone points="443,1360 2523,1360 2523,2396 443,2396" rendition="TextRegion"
+                xml:id="facs_1_region_1580380362906_298">
+                <zone points="452,1335 2519,1335 2519,1526 452,1526" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l1"/>
+                <zone points="607,1527 1697,1527 1697,1677 607,1677" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l2"/>
+                <zone points="1297,1642 1721,1642 1721,1743 1297,1743" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l3"/>
+                <zone points="1299,1745 1672,1745 1672,1838 1299,1838" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l4"/>
+                <zone points="1314,1833 1907,1833 1907,1910 1314,1910" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l5"/>
+                <zone points="1308,1927 1875,1927 1875,2054 1308,2054" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l7"/>
+                <zone points="1316,2021 1918,2021 1918,2120 1316,2120" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l8"/>
+                <zone points="1303,2122 1801,2122 1801,2199 1303,2199" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l10"/>
+                <zone points="1327,2198 1777,2198 1777,2281 1327,2281" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l11"/>
+                <zone points="592,2282 1695,2282 1695,2412 592,2412" rendition="Line"
+                    xml:id="facs_1_region_1580380362906_298l12"/>
+            </zone>
+            <zone points="970,2465 1820,2465 1820,2602 970,2602" rendition="TextRegion"
+                xml:id="facs_1_region_1580380368234_301">
+                <zone points="958,2447 1814,2447 1814,2637 958,2637" rendition="Line"
+                    xml:id="facs_1_region_1580380368234_301l1"/>
+            </zone>
+            <zone points="1354,2823 2535,2823 2535,3077 1354,3077" rendition="TextRegion"
+                xml:id="facs_1_region_1580380380155_304">
+                <zone points="1453,2799 2518,2799 2518,2997 1453,2997" rendition="Line"
+                    xml:id="facs_1_region_1580380380155_304l1"/>
+                <zone points="1351,2959 2319,2959 2319,3102 1351,3102" rendition="Line"
+                    xml:id="facs_1_region_1580380380155_304l2"/>
+            </zone>
+            <zone points="997,3144 2569,3144 2569,3256 997,3256" rendition="TextRegion"
+                xml:id="facs_1_region_1580380386586_307">
+                <zone points="998,3120 2552,3120 2552,3301 998,3301" rendition="Line"
+                    xml:id="facs_1_region_1580380386586_307l1"/>
+            </zone>
+            <zone points="1331,3251 2586,3251 2586,3948 1331,3948" rendition="TextRegion"
+                xml:id="facs_1_region_1580380392834_310">
+                <zone points="1352,3239 2531,3239 2531,3349 1352,3349" rendition="Line"
+                    xml:id="facs_1_region_1580380392834_310l1"/>
+                <zone points="1353,3353 2558,3353 2558,3482 1353,3482" rendition="Line"
+                    xml:id="facs_1_region_1580380392834_310l2"/>
+                <zone points="1343,3423 2584,3423 2584,3579 1343,3579" rendition="Line"
+                    xml:id="facs_1_region_1580380392834_310l3"/>
+                <zone points="1324,3526 2553,3526 2553,3668 1324,3668" rendition="Line"
+                    xml:id="facs_1_region_1580380392834_310l4"/>
+                <zone points="1340,3649 2593,3649 2593,3733 1340,3733" rendition="Line"
+                    xml:id="facs_1_region_1580380392834_310l5"/>
+                <zone points="1327,3726 2542,3726 2542,3865 1327,3865" rendition="Line"
+                    xml:id="facs_1_region_1580380392834_310l6"/>
+                <zone points="1325,3815 2573,3815 2573,3949 1325,3949" rendition="Line"
+                    xml:id="facs_1_region_1580380392834_310l7"/>
+            </zone>
+        </surface>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_2">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_02" width="2595px"/>
+            <zone points="1298,292 2564,292 2564,801 1298,801" rendition="TextRegion"
+                xml:id="facs_2_region_1580393808904_74">
+                <zone points="1322,289 2515,289 2515,443 1322,443" rendition="Line"
+                    xml:id="facs_2_region_1580393808904_74l1"/>
+                <zone points="1304,416 2566,416 2566,541 1304,541" rendition="Line"
+                    xml:id="facs_2_region_1580393808904_74l2"/>
+                <zone points="1307,513 2508,513 2508,640 1307,640" rendition="Line"
+                    xml:id="facs_2_region_1580393808904_74l3"/>
+                <zone points="1292,618 2546,618 2546,748 1292,748" rendition="Line"
+                    xml:id="facs_2_region_1580393808904_74l4"/>
+                <zone points="1298,711 2145,711 2145,830 1298,830" rendition="Line"
+                    xml:id="facs_2_region_1580393808904_74l5"/>
+            </zone>
+            <zone points="1292,804 2561,804 2561,1646 1292,1646" rendition="TextRegion"
+                xml:id="facs_2_region_1580393817838_77">
+                <zone points="1440,802 2421,802 2421,925 1440,925" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l1"/>
+                <zone points="1283,897 2558,897 2558,1025 1283,1025" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l2"/>
+                <zone points="1285,971 2506,971 2506,1115 1285,1115" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l3"/>
+                <zone points="1299,1100 2528,1100 2528,1204 1299,1204" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l4"/>
+                <zone points="1296,1161 2567,1161 2567,1301 1296,1301" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l5"/>
+                <zone points="1306,1257 2518,1257 2518,1396 1306,1396" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l6"/>
+                <zone points="1327,1362 2467,1362 2467,1493 1327,1493" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l7"/>
+                <zone points="1311,1456 2509,1456 2509,1597 1311,1597" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l8"/>
+                <zone points="1284,1569 2008,1569 2008,1689 1284,1689" rendition="Line"
+                    xml:id="facs_2_region_1580393817838_77l9"/>
+            </zone>
+            <zone points="997,1709 2574,1709 2574,1844 997,1844" rendition="TextRegion"
+                xml:id="facs_2_region_1580393830623_80">
+                <zone points="983,1700 2574,1700 2574,1868 983,1868" rendition="Line"
+                    xml:id="facs_2_region_1580393830623_80l2"/>
+            </zone>
+            <zone points="1302,1841 2563,1841 2563,2514 1302,2514" rendition="TextRegion"
+                xml:id="facs_2_region_1580393839318_83">
+                <zone points="1293,1852 2547,1852 2547,1949 1293,1949" rendition="Line"
+                    xml:id="facs_2_region_1580393839318_83l1"/>
+                <zone points="1296,1900 2527,1900 2527,2067 1296,2067" rendition="Line"
+                    xml:id="facs_2_region_1580393839318_83l2"/>
+                <zone points="1302,2010 2516,2010 2516,2149 1302,2149" rendition="Line"
+                    xml:id="facs_2_region_1580393839318_83l3"/>
+                <zone points="1295,2132 2562,2132 2562,2244 1295,2244" rendition="Line"
+                    xml:id="facs_2_region_1580393839318_83l4"/>
+                <zone points="1294,2202 2560,2202 2560,2334 1294,2334" rendition="Line"
+                    xml:id="facs_2_region_1580393839318_83l5"/>
+                <zone points="1291,2305 2537,2305 2537,2437 1291,2437" rendition="Line"
+                    xml:id="facs_2_region_1580393839318_83l6"/>
+                <zone points="1300,2375 2495,2375 2495,2530 1300,2530" rendition="Line"
+                    xml:id="facs_2_region_1580393839318_83l7"/>
+            </zone>
+            <zone points="1281,2518 2576,2518 2576,3291 1281,3291" rendition="TextRegion"
+                xml:id="facs_2_region_1580393851262_86">
+                <zone points="1488,2478 2577,2478 2577,2627 1488,2627" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l1"/>
+                <zone points="1277,2581 2521,2581 2521,2687 1277,2687" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l2"/>
+                <zone points="1294,2666 2579,2666 2579,2819 1294,2819" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l5"/>
+                <zone points="1275,2763 2509,2763 2509,2925 1275,2925" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l6"/>
+                <zone points="1274,2874 2523,2874 2523,2995 1274,2995" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l7"/>
+                <zone points="1296,2961 2577,2961 2577,3120 1296,3120" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l9"/>
+                <zone points="1311,3045 2531,3045 2531,3203 1311,3203" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l10"/>
+                <zone points="1294,3146 2573,3146 2573,3315 1294,3315" rendition="Line"
+                    xml:id="facs_2_region_1580393851262_86l11"/>
+            </zone>
+            <zone points="907,3336 2557,3336 2557,3445 907,3445" rendition="TextRegion"
+                xml:id="facs_2_region_1580393857582_89">
+                <zone points="894,3295 2559,3295 2559,3473 894,3473" rendition="Line"
+                    xml:id="facs_2_region_1580393857582_89l4"/>
+            </zone>
+            <zone points="1278,3445 2576,3445 2576,3916 1278,3916" rendition="TextRegion"
+                xml:id="facs_2_region_1580393867279_92">
+                <zone points="1273,3425 2565,3425 2565,3577 1273,3577" rendition="Line"
+                    xml:id="facs_2_region_1580393867279_92l1"/>
+                <zone points="1285,3513 2486,3513 2486,3644 1285,3644" rendition="Line"
+                    xml:id="facs_2_region_1580393867279_92l2"/>
+                <zone points="1281,3614 2563,3614 2563,3767 1281,3767" rendition="Line"
+                    xml:id="facs_2_region_1580393867279_92l3"/>
+                <zone points="1302,3704 2519,3704 2519,3842 1302,3842" rendition="Line"
+                    xml:id="facs_2_region_1580393867279_92l4"/>
+                <zone points="1285,3795 2584,3795 2584,3951 1285,3951" rendition="Line"
+                    xml:id="facs_2_region_1580393867279_92l6"/>
+            </zone>
+        </surface>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_3">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_03" width="2595px"/>
+            <zone points="1314,315 2581,315 2581,1575 1314,1575" rendition="TextRegion"
+                xml:id="facs_3_region_1580398903776_199">
+                <zone points="1347,316 2549,316 2549,468 1347,468" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l1"/>
+                <zone points="1323,411 2577,411 2577,571 1323,571" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l2"/>
+                <zone points="1319,523 2564,523 2564,651 1319,651" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l3"/>
+                <zone points="1307,627 2459,627 2459,738 1307,738" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l4"/>
+                <zone points="1318,722 2561,722 2561,827 1318,827" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l5"/>
+                <zone points="1321,810 2437,810 2437,932 1321,932" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l6"/>
+                <zone points="1304,901 2576,901 2576,1051 1304,1051" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l7"/>
+                <zone points="1317,1004 2487,1004 2487,1124 1317,1124" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l8"/>
+                <zone points="1326,1089 2563,1089 2563,1228 1326,1228" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l9"/>
+                <zone points="1328,1195 2483,1195 2483,1316 1328,1316" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l10"/>
+                <zone points="1305,1299 2531,1299 2531,1427 1305,1427" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l11"/>
+                <zone points="1308,1394 2453,1394 2453,1508 1308,1508" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l12"/>
+                <zone points="1315,1448 2521,1448 2521,1588 1315,1588" rendition="Line"
+                    xml:id="facs_3_region_1580398903776_199l13"/>
+            </zone>
+            <zone points="1310,1579 2570,1579 2570,1758 1310,1758" rendition="TextRegion"
+                xml:id="facs_3_region_1580398921664_202">
+                <zone points="1314,1555 2563,1555 2563,1707 1314,1707" rendition="Line"
+                    xml:id="facs_3_region_1580398921664_202l1"/>
+                <zone points="1310,1675 1662,1675 1662,1780 1310,1780" rendition="Line"
+                    xml:id="facs_3_region_1580398921664_202l2"/>
+            </zone>
+            <zone points="1287,1761 2567,1761 2567,3196 1287,3196" rendition="TextRegion"
+                xml:id="facs_3_region_1580398936016_205">
+                <zone points="1512,1754 2522,1754 2522,1886 1512,1886" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l1"/>
+                <zone points="1289,1828 2493,1828 2493,1969 1289,1969" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l2"/>
+                <zone points="1319,1947 2516,1947 2516,2051 1319,2051" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l3"/>
+                <zone points="1301,2027 2564,2027 2564,2156 1301,2156" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l4"/>
+                <zone points="1315,2139 2518,2139 2518,2258 1315,2258" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l5"/>
+                <zone points="1293,2227 2558,2227 2558,2370 1293,2370" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l6"/>
+                <zone points="1327,2340 2552,2340 2552,2469 1327,2469" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l7"/>
+                <zone points="1293,2426 2554,2426 2554,2555 1293,2555" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l8"/>
+                <zone points="1287,2501 2563,2501 2563,2657 1287,2657" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l9"/>
+                <zone points="1298,2602 2567,2602 2567,2724 1298,2724" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l10"/>
+                <zone points="1323,2686 2572,2686 2572,2829 1323,2829" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l11"/>
+                <zone points="1278,2812 2551,2812 2551,2923 1278,2923" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l12"/>
+                <zone points="1305,2899 2544,2899 2544,3035 1305,3035" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l13"/>
+                <zone points="1312,3004 2543,3004 2543,3124 1312,3124" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l14"/>
+                <zone points="1308,3075 2503,3075 2503,3228 1308,3228" rendition="Line"
+                    xml:id="facs_3_region_1580398936016_205l15"/>
+            </zone>
+            <zone points="1278,3245 2577,3245 2577,3958 1278,3958" rendition="TextRegion"
+                xml:id="facs_3_region_1580398949848_208">
+                <zone points="1506,3245 2572,3245 2572,3387 1506,3387" rendition="Line"
+                    xml:id="facs_3_region_1580398949848_208l1"/>
+                <zone points="1305,3371 2534,3371 2534,3492 1305,3492" rendition="Line"
+                    xml:id="facs_3_region_1580398949848_208l2"/>
+                <zone points="1278,3466 2561,3466 2561,3595 1278,3595" rendition="Line"
+                    xml:id="facs_3_region_1580398949848_208l3"/>
+                <zone points="1312,3555 2523,3555 2523,3689 1312,3689" rendition="Line"
+                    xml:id="facs_3_region_1580398949848_208l4"/>
+                <zone points="1305,3636 2561,3636 2561,3780 1305,3780" rendition="Line"
+                    xml:id="facs_3_region_1580398949848_208l5"/>
+                <zone points="1296,3746 2515,3746 2515,3883 1296,3883" rendition="Line"
+                    xml:id="facs_3_region_1580398949848_208l6"/>
+                <zone points="1293,3837 2545,3837 2545,3971 1293,3971" rendition="Line"
+                    xml:id="facs_3_region_1580398949848_208l7"/>
+            </zone>
+        </surface>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_4">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_04" width="2595px"/>
+            <zone points="1311,326 2574,326 2574,721 1311,721" rendition="TextRegion"
+                xml:id="facs_4_region_1580722244954_86">
+                <zone points="1323,315 2555,315 2555,467 1323,467" rendition="Line"
+                    xml:id="facs_4_region_1580722244954_86l1"/>
+                <zone points="1302,444 2206,444 2206,557 1302,557" rendition="Line"
+                    xml:id="facs_4_region_1580722244954_86l2"/>
+                <zone points="1500,539 2581,539 2581,652 1500,652" rendition="Line"
+                    xml:id="facs_4_region_1580722244954_86l3"/>
+                <zone points="1309,627 1802,627 1802,723 1309,723" rendition="Line"
+                    xml:id="facs_4_region_1580722244954_86l4"/>
+            </zone>
+            <zone points="1304,788 2559,788 2559,1578 1304,1578" rendition="TextRegion"
+                xml:id="facs_4_region_1580722256329_89">
+                <zone points="1496,787 2472,787 2472,924 1496,924" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l1"/>
+                <zone points="1296,897 2486,897 2486,1028 1296,1028" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l2"/>
+                <zone points="1311,987 2567,987 2567,1115 1311,1115" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l3"/>
+                <zone points="1297,1090 2408,1090 2408,1220 1297,1220" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l4"/>
+                <zone points="1315,1179 2486,1179 2486,1323 1315,1323" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l5"/>
+                <zone points="1296,1275 2518,1275 2518,1404 1296,1404" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l6"/>
+                <zone points="1312,1363 2447,1363 2447,1500 1312,1500" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l7"/>
+                <zone points="1298,1480 2236,1480 2236,1564 1298,1564" rendition="Line"
+                    xml:id="facs_4_region_1580722256329_89l8"/>
+            </zone>
+            <zone points="1351,1703 2556,1703 2556,1873 1351,1873" rendition="TextRegion"
+                xml:id="facs_4_region_1580722269209_92">
+                <zone points="1363,1730 2549,1730 2549,1892 1363,1892" rendition="Line"
+                    xml:id="facs_4_region_1580722269209_92l2"/>
+            </zone>
+            <zone points="1418,1944 2530,1944 2530,2044 1418,2044" rendition="TextRegion"
+                xml:id="facs_4_region_1580722278513_95">
+                <zone points="1431,1931 2532,1931 2532,2090 1431,2090" rendition="Line"
+                    xml:id="facs_4_region_1580722278513_95l1"/>
+            </zone>
+            <zone points="1329,2053 2579,2053 2579,2874 1329,2874" rendition="TextRegion"
+                xml:id="facs_4_region_1580722297264_98">
+                <zone points="1331,2034 2573,2034 2573,2187 1331,2187" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l1"/>
+                <zone points="1332,2139 2549,2139 2549,2259 1332,2259" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l2"/>
+                <zone points="1324,2235 2471,2235 2471,2372 1324,2372" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l3"/>
+                <zone points="1322,2322 2540,2322 2540,2453 1322,2453" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l4"/>
+                <zone points="1325,2411 2455,2411 2455,2548 1325,2548" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l5"/>
+                <zone points="1333,2523 2539,2523 2539,2614 1333,2614" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l6"/>
+                <zone points="1330,2610 2530,2610 2530,2717 1330,2717" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l7"/>
+                <zone points="1323,2701 2557,2701 2557,2827 1323,2827" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l8"/>
+                <zone points="1321,2810 1733,2810 1733,2891 1321,2891" rendition="Line"
+                    xml:id="facs_4_region_1580722297264_98l9"/>
+            </zone>
+            <zone points="1317,2880 2578,2880 2578,3959 1317,3959" rendition="TextRegion"
+                xml:id="facs_4_region_1580722312537_101">
+                <zone points="1357,2867 2563,2867 2563,3020 1357,3020" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l1"/>
+                <zone points="1308,2987 2573,2987 2573,3123 1308,3123" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l2"/>
+                <zone points="1321,3067 2522,3067 2522,3211 1321,3211" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l3"/>
+                <zone points="1320,3170 2518,3170 2518,3308 1320,3308" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l4"/>
+                <zone points="1308,3290 2547,3290 2547,3388 1308,3388" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l5"/>
+                <zone points="1308,3371 2577,3371 2577,3484 1308,3484" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l6"/>
+                <zone points="1347,3451 2568,3451 2568,3580 1347,3580" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l7"/>
+                <zone points="1336,3554 2573,3554 2573,3676 1336,3676" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l8"/>
+                <zone points="1315,3642 2513,3642 2513,3779 1315,3779" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l9"/>
+                <zone points="1308,3739 2497,3739 2497,3883 1308,3883" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l10"/>
+                <zone points="1328,3859 2485,3859 2485,3972 1328,3972" rendition="Line"
+                    xml:id="facs_4_region_1580722312537_101l11"/>
+            </zone>
+        </surface>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_5">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_05" width="2595px"/>
+            <zone points="1326,339 2580,339 2580,1190 1326,1190" rendition="TextRegion"
+                xml:id="facs_5_region_1580723522079_191">
+                <zone points="1360,330 2540,330 2540,467 1360,467" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l1"/>
+                <zone points="1326,419 2546,419 2546,565 1326,565" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l2"/>
+                <zone points="1320,532 2556,532 2556,659 1320,659" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l3"/>
+                <zone points="1333,612 2405,612 2405,747 1333,747" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l4"/>
+                <zone points="1533,716 2588,716 2588,834 1533,834" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l5"/>
+                <zone points="1318,798 2548,798 2548,916 1318,916" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l6"/>
+                <zone points="1329,885 2539,885 2539,1019 1329,1019" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l7"/>
+                <zone points="1329,988 2549,988 2549,1116 1329,1116" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l8"/>
+                <zone points="1336,1106 1791,1106 1791,1204 1336,1204" rendition="Line"
+                    xml:id="facs_5_region_1580723522079_191l9"/>
+            </zone>
+            <zone points="1330,1277 2542,1277 2542,1920 1330,1920" rendition="TextRegion"
+                xml:id="facs_5_region_1580723542351_195">
+                <zone points="1530,1283 2499,1283 2499,1433 1530,1433" rendition="Line"
+                    xml:id="facs_5_region_1580723542351_195l1"/>
+                <zone points="1333,1365 2494,1365 2494,1484 1333,1484" rendition="Line"
+                    xml:id="facs_5_region_1580723542351_195l2"/>
+                <zone points="1330,1451 2504,1451 2504,1597 1330,1597" rendition="Line"
+                    xml:id="facs_5_region_1580723542351_195l3"/>
+                <zone points="1336,1558 2532,1558 2532,1694 1336,1694" rendition="Line"
+                    xml:id="facs_5_region_1580723542351_195l4"/>
+                <zone points="1327,1666 2505,1666 2505,1787 1327,1787" rendition="Line"
+                    xml:id="facs_5_region_1580723542351_195l5"/>
+                <zone points="1327,1762 2522,1762 2522,1891 1327,1891" rendition="Line"
+                    xml:id="facs_5_region_1580723542351_195l6"/>
+                <zone points="1336,1850 1864,1850 1864,1931 1336,1931" rendition="Line"
+                    xml:id="facs_5_region_1580723542351_195l7"/>
+            </zone>
+            <zone points="1324,1928 2560,1928 2560,2796 1324,2796" rendition="TextRegion"
+                xml:id="facs_5_region_1580723558544_198">
+                <zone points="1492,1923 2531,1923 2531,2091 1492,2091" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l1"/>
+                <zone points="1326,2013 2519,2013 2519,2159 1326,2159" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l2"/>
+                <zone points="1320,2108 2516,2108 2516,2263 1320,2263" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l3"/>
+                <zone points="1333,2227 2445,2227 2445,2332 1333,2332" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l4"/>
+                <zone points="1330,2291 2559,2291 2559,2466 1330,2466" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l5"/>
+                <zone points="1329,2396 2504,2396 2504,2547 1329,2547" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l6"/>
+                <zone points="1329,2515 2534,2515 2534,2644 1329,2644" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l7"/>
+                <zone points="1321,2620 2461,2620 2461,2739 1321,2739" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l9"/>
+                <zone points="1330,2716 1649,2716 1649,2784 1330,2784" rendition="Line"
+                    xml:id="facs_5_region_1580723558544_198l10"/>
+            </zone>
+            <zone points="1313,2798 2559,2798 2559,3748 1313,3748" rendition="TextRegion"
+                xml:id="facs_5_region_1580723573479_201">
+                <zone points="1444,2786 2558,2786 2558,2916 1444,2916" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l1"/>
+                <zone points="1323,2900 2505,2900 2505,3026 1323,3026" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l2"/>
+                <zone points="1320,2986 2550,2986 2550,3124 1320,3124" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l3"/>
+                <zone points="1326,3092 2541,3092 2541,3203 1326,3203" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l4"/>
+                <zone points="1312,3170 2507,3170 2507,3307 1312,3307" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l5"/>
+                <zone points="1308,3304 2519,3304 2519,3404 1308,3404" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l6"/>
+                <zone points="1309,3379 2491,3379 2491,3510 1309,3510" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l7"/>
+                <zone points="1309,3483 2464,3483 2464,3580 1309,3580" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l8"/>
+                <zone points="1314,3562 2511,3562 2511,3659 1314,3659" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l9"/>
+                <zone points="1318,3658 2491,3658 2491,3764 1318,3764" rendition="Line"
+                    xml:id="facs_5_region_1580723573479_201l10"/>
+            </zone>
+            <zone points="1305,3749 2511,3749 2511,3956 1305,3956" rendition="TextRegion"
+                xml:id="facs_5_region_1580723586776_204">
+                <zone points="1297,3738 2492,3738 2492,3892 1297,3892" rendition="Line"
+                    xml:id="facs_5_region_1580723586776_204l1"/>
+                <zone points="1310,3850 2519,3850 2519,3980 1310,3980" rendition="Line"
+                    xml:id="facs_5_region_1580723586776_204l2"/>
+            </zone>
+        </surface>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_6">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_06" width="2595px"/>
+            <zone points="1292,341 2584,341 2584,1554 1292,1554" rendition="TextRegion"
+                xml:id="facs_6_region_1580724529919_293">
+                <zone points="1292,331 2515,331 2515,475 1292,475" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l1"/>
+                <zone points="1284,404 2502,404 2502,540 1284,540" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l2"/>
+                <zone points="1287,523 2492,523 2492,637 1287,637" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l3"/>
+                <zone points="1293,626 2536,626 2536,732 1293,732" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l4"/>
+                <zone points="1284,706 2533,706 2533,851 1284,851" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l5"/>
+                <zone points="1285,803 2512,803 2512,915 1285,915" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l6"/>
+                <zone points="1298,923 2549,923 2549,1028 1298,1028" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l7"/>
+                <zone points="1286,970 2566,970 2566,1115 1286,1115" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l8"/>
+                <zone points="1284,1101 2558,1101 2558,1218 1284,1218" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l9"/>
+                <zone points="1285,1178 2573,1178 2573,1325 1285,1325" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l10"/>
+                <zone points="1285,1274 2555,1274 2555,1420 1285,1420" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l11"/>
+                <zone points="1296,1387 2575,1387 2575,1515 1296,1515" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l12"/>
+                <zone points="1300,1458 2549,1458 2549,1596 1300,1596" rendition="Line"
+                    xml:id="facs_6_region_1580724529919_293l13"/>
+            </zone>
+            <zone points="1294,1556 2569,1556 2569,1791 1294,1791" rendition="TextRegion"
+                xml:id="facs_6_region_1580724541558_296">
+                <zone points="1301,1554 2575,1554 2575,1709 1301,1709" rendition="Line"
+                    xml:id="facs_6_region_1580724541558_296l1"/>
+                <zone points="1288,1668 2572,1668 2572,1802 1288,1802" rendition="Line"
+                    xml:id="facs_6_region_1580724541558_296l2"/>
+            </zone>
+            <zone points="1302,1796 2585,1796 2585,2999 1302,2999" rendition="TextRegion"
+                xml:id="facs_6_region_1580724560742_299">
+                <zone points="1461,1787 2456,1787 2456,1932 1461,1932" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l1"/>
+                <zone points="1308,1923 2571,1923 2571,2063 1308,2063" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l2"/>
+                <zone points="1302,2026 2549,2026 2549,2156 1302,2156" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l3"/>
+                <zone points="1299,2121 2581,2121 2581,2267 1299,2267" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l4"/>
+                <zone points="1304,2227 2551,2227 2551,2355 1304,2355" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l5"/>
+                <zone points="1296,2332 2560,2332 2560,2451 1296,2451" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l6"/>
+                <zone points="1302,2411 2563,2411 2563,2540 1302,2540" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l7"/>
+                <zone points="1308,2498 2593,2498 2593,2619 1308,2619" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l8"/>
+                <zone points="1314,2619 2573,2619 2573,2747 1314,2747" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l9"/>
+                <zone points="1306,2707 2560,2707 2560,2820 1306,2820" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l10"/>
+                <zone points="1326,2803 2520,2803 2520,2899 1326,2899" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l11"/>
+                <zone points="1309,2907 2558,2907 2558,3021 1309,3021" rendition="Line"
+                    xml:id="facs_6_region_1580724560742_299l12"/>
+            </zone>
+            <zone points="1304,2996 2586,2996 2586,3950 1304,3950" rendition="TextRegion"
+                xml:id="facs_6_region_1580724577606_302">
+                <zone points="1315,2970 2544,2970 2544,3107 1315,3107" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l1"/>
+                <zone points="1312,3076 2569,3076 2569,3212 1312,3212" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l2"/>
+                <zone points="1314,3172 2555,3172 2555,3315 1314,3315" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l3"/>
+                <zone points="1308,3274 2539,3274 2539,3396 1308,3396" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l4"/>
+                <zone points="1310,3371 2501,3371 2501,3500 1310,3500" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l5"/>
+                <zone points="1300,3467 2563,3467 2563,3580 1300,3580" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l6"/>
+                <zone points="1308,3532 2551,3532 2551,3667 1308,3667" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l7"/>
+                <zone points="1329,3634 2519,3634 2519,3739 1329,3739" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l8"/>
+                <zone points="1324,3730 2550,3730 2550,3859 1324,3859" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l9"/>
+                <zone points="1315,3843 2553,3843 2553,3966 1315,3966" rendition="Line"
+                    xml:id="facs_6_region_1580724577606_302l10"/>
+            </zone>
+        </surface>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_7">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_07" width="2595px"/>
+            <zone points="1293,304 2560,304 2560,1454 1293,1454" rendition="TextRegion"
+                xml:id="facs_7_region_1580725511725_389">
+                <zone points="1294,299 2556,299 2556,413 1294,413" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l1"/>
+                <zone points="1296,411 2528,411 2528,539 1296,539" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l3"/>
+                <zone points="1305,491 2533,491 2533,620 1305,620" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l4"/>
+                <zone points="1314,587 2503,587 2503,724 1314,724" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l5"/>
+                <zone points="1326,683 2521,683 2521,825 1326,825" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l6"/>
+                <zone points="1294,794 2554,794 2554,917 1294,917" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l7"/>
+                <zone points="1329,883 2555,883 2555,1004 1329,1004" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l8"/>
+                <zone points="1332,978 2564,978 2564,1097 1332,1097" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l9"/>
+                <zone points="1309,1082 2549,1082 2549,1195 1309,1195" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l10"/>
+                <zone points="1323,1163 2496,1163 2496,1292 1323,1292" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l11"/>
+                <zone points="1314,1267 2548,1267 2548,1356 1314,1356" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l12"/>
+                <zone points="1310,1354 2560,1354 2560,1500 1310,1500" rendition="Line"
+                    xml:id="facs_7_region_1580725511725_389l13"/>
+            </zone>
+            <zone points="1304,1456 2581,1456 2581,2585 1304,2585" rendition="TextRegion"
+                xml:id="facs_7_region_1580725528709_392">
+                <zone points="1321,1443 2576,1443 2576,1573 1321,1573" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l1"/>
+                <zone points="1316,1524 2524,1524 2524,1651 1316,1651" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l3"/>
+                <zone points="1304,1628 2503,1628 2503,1755 1304,1755" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l4"/>
+                <zone points="1309,1719 2572,1719 2572,1870 1309,1870" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l5"/>
+                <zone points="1314,1804 2532,1804 2532,1952 1314,1952" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l6"/>
+                <zone points="1336,1896 2533,1896 2533,2052 1336,2052" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l8"/>
+                <zone points="1331,2002 2563,2002 2563,2148 1331,2148" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l9"/>
+                <zone points="1312,2103 2540,2103 2540,2228 1312,2228" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l10"/>
+                <zone points="1333,2181 2545,2181 2545,2333 1333,2333" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l11"/>
+                <zone points="1321,2275 2498,2275 2498,2428 1321,2428" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l12"/>
+                <zone points="1317,2370 2565,2370 2565,2523 1317,2523" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l13"/>
+                <zone points="1328,2481 2579,2481 2579,2624 1328,2624" rendition="Line"
+                    xml:id="facs_7_region_1580725528709_392l14"/>
+            </zone>
+            <zone points="1318,2585 2576,2585 2576,3728 1318,3728" rendition="TextRegion"
+                xml:id="facs_7_region_1580725543053_395">
+                <zone points="1314,2556 2570,2556 2570,2709 1314,2709" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l1"/>
+                <zone points="1327,2676 2468,2676 2468,2822 1327,2822" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l2"/>
+                <zone points="1335,2764 2518,2764 2518,2906 1335,2906" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l3"/>
+                <zone points="1352,2859 2505,2859 2505,3003 1352,3003" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l4"/>
+                <zone points="1327,2947 2528,2947 2528,3096 1327,3096" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l5"/>
+                <zone points="1321,3044 2546,3044 2546,3205 1321,3205" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l6"/>
+                <zone points="1332,3155 2570,3155 2570,3285 1332,3285" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l7"/>
+                <zone points="1327,3232 2545,3232 2545,3381 1327,3381" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l8"/>
+                <zone points="1336,3318 2575,3318 2575,3459 1336,3459" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l9"/>
+                <zone points="1324,3413 2550,3413 2550,3515 1324,3515" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l10"/>
+                <zone points="1329,3514 2549,3514 2549,3652 1329,3652" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l11"/>
+                <zone points="1348,3604 2541,3604 2541,3757 1348,3757" rendition="Line"
+                    xml:id="facs_7_region_1580725543053_395l12"/>
+            </zone>
+            <zone points="1325,3724 2589,3724 2589,3936 1325,3936" rendition="TextRegion"
+                xml:id="facs_7_region_1580725556629_398">
+                <zone points="1332,3722 2553,3722 2553,3808 1332,3808" rendition="Line"
+                    xml:id="facs_7_region_1580725556629_398l1"/>
+                <zone points="1324,3802 2596,3802 2596,3948 1324,3948" rendition="Line"
+                    xml:id="facs_7_region_1580725556629_398l2"/>
+            </zone>
+        </surface>
+        <surface lrx="2595" lry="4191" ulx="0" uly="0" xml:id="facs_8">
+            <graphic height="4191px"
+                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0068_Seite_08" width="2595px"/>
+            <zone points="1324,283 2565,283 2565,889 1324,889" rendition="TextRegion"
+                xml:id="facs_8_region_1580748342313_65">
+                <zone points="1354,316 2524,316 2524,424 1354,424" rendition="Line"
+                    xml:id="facs_8_region_1580748342313_65l1"/>
+                <zone points="1327,410 2563,410 2563,531 1327,531" rendition="Line"
+                    xml:id="facs_8_region_1580748342313_65l2"/>
+                <zone points="1330,510 2541,510 2541,628 1330,628" rendition="Line"
+                    xml:id="facs_8_region_1580748342313_65l3"/>
+                <zone points="1326,586 2549,586 2549,719 1326,719" rendition="Line"
+                    xml:id="facs_8_region_1580748342313_65l4"/>
+                <zone points="1318,660 2536,660 2536,811 1318,811" rendition="Line"
+                    xml:id="facs_8_region_1580748342313_65l5"/>
+                <zone points="1326,787 2496,787 2496,884 1326,884" rendition="Line"
+                    xml:id="facs_8_region_1580748342313_65l6"/>
+            </zone>
+            <zone points="2009,917 2297,917 2297,1035 2009,1035" rendition="TextRegion"
+                xml:id="facs_8_region_1580748345760_68">
+                <zone points="2013,948 2241,948 2241,1035 2013,1035" rendition="Line"
+                    xml:id="facs_8_region_1580748345760_68l2"/>
+            </zone>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div n="1" type="page" xml:id="d1">
+                <pb facs="#facs_1" n="1" xml:id="pag1"/>
+                <div xml:id="d2">
+                    <p facs="#facs_1_region_1580380311027_283" rendition="#l" xml:id="p2" xml:space="preserve">
+                    <lb/>C. <num>68</num>.</p>
+                    <p facs="#facs_1_region_1580380315378_286" rendition="#fc" xml:id="p3" xml:space="preserve">
+                        <lb/>Kaiserliche Akademie der Wissenschaften.</p>
+                    <p facs="#facs_1_region_1580380318610_289" rendition="#fc" xml:id="p4" xml:space="preserve">
+                            <lb/>Protokoll</p>
+                    <p facs="#facs_1_region_1580380338155_292" rendition="#fc" xml:id="p5" xml:space="preserve">
+                                <lb/>der Sitzung der philosophisch-historischen Classe</p>
+                    <p facs="#facs_1_region_1580380342155_295" rendition="#fc" xml:id="p6" xml:space="preserve">
+                                    <lb/>am <num>13</num>. März <num>1850</num>
+                                </p>
+                    <p facs="#facs_1_region_1580380362906_298" rendition="#?11-86-97--262-2342" xml:id="p7" xml:space="preserve">
+                                    <lb/>Anwesend: der Alterspräsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
+                                    <lb/>Die <choice>
+                                        <expan>wirklichen</expan>
+                                        <abbr>wirkl<am>.</am>
+                                    </abbr>
+                                </choice>
+                                <choice>
+                                    <expan>Mitglieder</expan>
+                                    <abbr>Mitgl<am>.</am>
+                                </abbr>
+                            </choice>
+                            <choice>
+                                <expan>Herr</expan>
+                                <abbr>
+                                    <expan>H<ex>er</ex>r</expan>
+                                    <am>.</am>
+                                </abbr>
+                            </choice>
+                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
+                            <lb/>
+                            <choice>
+                                <expan>Herr</expan>
+                                <abbr>
+                                    <am>"</am>
+                                </abbr>
+                            </choice>
+                            <rs ref="#chmel-joseph" type="person">Chmel</rs>
+                            <lb/>
+                            <choice>
+                                <expan>Herr</expan>
+                                <abbr>
+                                    <am>"</am>
+                                </abbr>
+                            </choice>
+                            <rs ref="#auer-welsbach-von-alois" type="person">Auer</rs>
+                            <lb/>
+                            <choice>
+                                <expan>Herr</expan>
+                                <abbr>
+                                    <am>"</am>
+                                </abbr>
+                            </choice>
+                            <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
+                            <lb/>
+                            <choice>
+                                <expan>Herr</expan>
+                                <abbr>
+                                    <am>"</am>
+                                </abbr>
+                            </choice>
+                            <choice>
+                                <expan>
+                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                </expan>
+                                <abbr>v<am>.</am>
+                            </abbr>
+                        </choice>
+                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                        <lb/>
+                        <choice>
+                            <expan>Herr</expan>
+                            <abbr>
+                                <am>"</am>
+                            </abbr>
+                        </choice>
+                        <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
+                        <lb/>
+                        <choice>
+                            <expan>Herr</expan>
+                            <abbr>
+                                <am>"</am>
+                            </abbr>
+                        </choice>
+                        <rs ref="#diemer-josef" type="person">Diemer</rs>
+                        <lb/>
+                        <choice>
+                            <expan>Herr</expan>
+                            <abbr>
+                                <am>"</am>
+                            </abbr>
+                        </choice>
+                        <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
+                        <lb/>Der Secretär <choice>
+                            <expan>Herr</expan>
+                            <abbr>
+                                <am>"</am>
+                            </abbr>
+                        </choice>
+                        <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
+                    </p>
+                    <p facs="#facs_1_region_1580380368234_301" rendition="#fc" xml:id="p8" xml:space="preserve">
+                        <lb/>Mehrere Gäste.</p>
+                    <p facs="#facs_1_region_1580380380155_304" rendition="#r" xml:id="p9" xml:space="preserve">
+                            <lb/>
+                                Das Protokoll
+                                unbean-
+                            <lb/>standet angenommen.</p>
+                    <p facs="#facs_1_region_1580380386586_307" rendition="#?34-65-99--816-2388" xml:id="p10" xml:space="preserve">
+                                <lb/>(<num>307</num>) a) Von Herrn Ministerial-</p>
+                    <p facs="#facs_1_region_1580380392834_310" rendition="#r" xml:id="p11" xml:space="preserve">
+                                    <lb/>Secretär Ritter <rs ref="#hohenbuhel-heufler-zu-rasen-ludwig" type="person">
+                                        <choice>
+                                            <expan>von</expan>
+                                            <abbr>v<am>.</am>
+                                        </abbr>
+                                    </choice>
+                                    <hi>
+                                        <rs ref="#hohenbuhel-heufler-zu-rasen-ludwig" type="person">Heufler</rs>
+                                    </hi>
+                                </rs>
+                                <lb/>
+                                    eine Zuschrift, womit er das
+                                <lb/>
+                                    handschriflich mitgesandte Werk
+                                <lb/>des <choice>
+                                    <expan>Doctor</expan>
+                                    <abbr>D<hi rend="super">or</hi>
+                                </abbr>
+                            </choice>
+                            <choice>
+                                <expan>Johann</expan>
+                                <abbr>J<am>.</am>
+                            </abbr>
+                        </choice>
+                        <choice>
+                            <expan>Baptist</expan>
+                            <abbr>B<am>.</am>
+                        </abbr>
+                    </choice>
+                    <hi>
+                        <rs ref="#cubich-giambattista" type="person">Cubich</rs>
+                    </hi>
+                        "Notizie
+                    <lb/>naturali e <choice>
+                        <expan>historiche</expan>
+                        <abbr>storiche</abbr>
+                    </choice>
+                        dell isola
+                    <lb/>
+                        di Vegliá" empfehlend
+                        einbe-
+                    <lb/>geleitet, indem er den Wunsch</p>
+                </div>
+            </div>
+            <div n="2" type="page" xml:id="d3">
+                <pb facs="#facs_2" n="2" xml:id="pag2"/>
+                <div xml:id="d4">
+                    <p facs="#facs_2_region_1580393808904_74" rendition="#?23-76-99--391-1657" xml:id="p12" xml:space="preserve">
+                        <lb/>
+                            des Verfassers anzeigt,
+                            die-
+                        <lb/>
+                            ses Werk in die Abhandlungen
+                        <lb/>der Akademie aufgenommen,<lb/>
+                            oder abgesondert durch sie
+                            her-
+                        <lb/>ausgegeben zu sehen.</p>
+                    <p facs="#facs_2_region_1580393817838_77" rendition="#?23-76-99--385-1654" xml:id="p13" xml:space="preserve">
+                            <lb/>
+                                Da das Werk aus zwei
+                            <lb/>Haupttheilen, einem <hi>physikali-<lb/>schen</hi> und <hi>historischen</hi> besteht,<lb/>
+                                so wird die erstere
+                                Abthei-
+                            <lb/>lung der <hi>anderen</hi>
+                                Classe zur
+                            <lb/>
+                                Verfügung zugesendet, die
+                            <lb/>
+                            <hi>historische</hi>
+                                Abtheilung aber
+                            <lb/>Herrn <hi>
+                                <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
+                            </hi>
+                                zur
+                                Begutach-
+                            <lb/>tung zugewiesen.</p>
+                    <p facs="#facs_2_region_1580393830623_80" rendition="#f" xml:id="p14" xml:space="preserve">
+                                <lb/>(<num>309</num>) b) Von Herrn <choice>
+                                    <expan>Ferdinand</expan>
+                                    <abbr>Ferd<am>.</am>
+                                </abbr>
+                            </choice>
+                            <hi>
+                                <rs ref="#teweles-ferdinand-hermann" type="person">Teweles</rs>,</hi>
+                                <choice>
+                                    <expan>kaiserlich-königlicher</expan>
+                                    <abbr>k<am>.</am>k<am>.</am>
+                                </abbr>
+                            </choice>
+                        </p>
+                    <p facs="#facs_2_region_1580393839318_83" rendition="#?24-76-99--395-1656" xml:id="p15" xml:space="preserve">
+                            <lb/>Beamter in <rs ref="#wien" type="place">Wien</rs>
+                                , ein
+                                Pracht-
+                            <lb/>
+                                exemplar seines Denkblattes
+                            <lb/>"Oesterreichs Thronstützen"<lb/>
+                                mit einem Schreiben, worin
+                            <lb/>
+                                er die Bitte ausspricht,
+                                demsel-
+                            <lb/>
+                                ben einen Platz im
+                                Sitzungs-
+                            <lb/>sale der Akademie zu geben.</p>
+                    <p facs="#facs_2_region_1580393851262_86" rendition="#?22-78-100--374-1669" xml:id="p16" xml:space="preserve">
+                                <lb/>
+                                    Indem die Classe das Werk
+                                <lb/>
+                                    mit anerkennender
+                                    Würdi-
+                                <lb/>
+                                    gung, die Bitte des Verfassers
+                                <lb/>
+                                    mit einstimmigem Beifall
+                                <lb/>
+                                    aufnimmt, verweist sie die
+                                <lb/>
+                                    Entscheidung, als nur der
+                                    gan-
+                                <lb/>
+                                    zen Akademie zuständig, auf
+                                <lb/>die <hi>nächste Gesammtsitzung</hi>.</p>
+                    <p facs="#facs_2_region_1580393857582_89" rendition="#f" xml:id="p17" xml:space="preserve">
+                                    <lb/>(<num>326</num>) c) Von Herrn <hi>
+                                        <choice>
+                                            <expan>
+                                                <rs ref="#saint-genois-jules-ludger-dominique-ghislain" type="person">von</rs>
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                        </abbr>
+                                    </choice>
+                                    <rs ref="#saint-genois-jules-ludger-dominique-ghislain" type="person">St. Genois</rs>
+                                </hi> in</p>
+                    <p facs="#facs_2_region_1580393867279_92" rendition="#?22-78-100--371-1669" xml:id="p18" xml:space="preserve">
+                                    <lb/>
+                                    <rs ref="#gent" type="place">Gent</rs>
+                                        , ein Schreiben an den "Prä-
+                                    <lb/>
+                                        sidenten" der Akademie mit
+                                    <lb/>
+                                        einem Exemplar des in den
+                                    <lb/>
+                                        Publikationen der Maetschappy
+                                    <lb/>der vlaemsche Bibliophilen von</p>
+                </div>
+            </div>
+            <div n="3" type="page" xml:id="d5">
+                <pb facs="#facs_3" n="3" xml:id="pag3"/>
+                <div xml:id="d6">
+                    <p facs="#facs_3_region_1580398903776_199" rendition="#f" xml:id="p19" xml:space="preserve">
+                                        <lb/>ihm herausgegebenen: "Jour-<lb/>
+                                            nal ofte Dagregister van onze
+                                        <lb/>
+                                            reyze naer de Keyzerlyke Stadt
+                                        <lb/>van <rs ref="#wien" type="place">Weenen</rs>, ten Jare <num>1716</num>",<lb/>
+                                            welches er der Akademie
+                                            über-
+                                        <lb/>
+                                            sendet und ihrer Beachtung
+                                        <lb/>werth hält, da dieses "Tagebuch"<lb/>der im <choice>
+                                            <expan>Jahr</expan>
+                                            <abbr>J<am>.</am>
+                                        </abbr>
+                                    </choice>
+                                    <num>1716</num> nach <rs ref="#wien" type="place">Wien</rs>                                        
+                                        ge-
+                                    <lb/>
+                                        sandten Deputirten der Stände
+                                    <lb/>
+                                        Flanderns, um sich der
+                                        Aus-
+                                    <lb/>führung des Barrière-Trac-<lb/>
+                                        tats zu widersetzen, viele
+                                    <lb/>interessante Details über</p>
+                    <p facs="#facs_3_region_1580398921664_202" rendition="#f" xml:id="p20" xml:space="preserve">
+                                        <lb/>die damaligen Zustände <rs ref="#wien" type="place">Wiens</rs>
+                                        <lb/>enthält.</p>
+                    <p facs="#facs_3_region_1580398936016_205" rendition="#f" xml:id="p21" xml:space="preserve">
+                                            <lb/>
+                                                In Würdigung dieses
+                                            <lb/>
+                                                Umstandes und in Rücksicht
+                                            <lb/>
+                                                auf die minder allgemeine
+                                            <lb/>Zugänglichkeit dieses Werkes,<lb/>
+                                                das nur in einer
+                                                beschränk-
+                                            <lb/>
+                                                ten Anzahl von Exemplaren
+                                            <lb/>
+                                                gedruckt und in einer
+                                                we-
+                                            <lb/>
+                                                nig verbreiteten Sprache
+                                                ab-
+                                            <lb/>
+                                                gefaßt ist, beschließt die Classe
+                                            <lb/>
+                                                es in ihren Sitzungsberichten
+                                            <lb/>
+                                                ausführlicher besprechen zu
+                                            <lb/>
+                                                lassen, und ersucht Herrn
+                                            <lb/>
+                                            <hi>
+                                                <choice>
+                                                    <expan>
+                                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                                    </expan>
+                                                    <abbr>v<am>.</am>
+                                                </abbr>
+                                            </choice>
+                                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                        </hi>
+                                            , sich diesem
+                                            Ge-
+                                        <lb/>
+                                            schäfte zu unterziehen
+                                            wo-
+                                        <lb/>zu er sich bereit erklärt.</p>
+                    <p facs="#facs_3_region_1580398949848_208" rendition="#f" xml:id="p22" xml:space="preserve">
+                                            <lb/>Freiherr <hi>
+                                                <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
+                                            </hi>
+                                            <lb/>
+                                                berichtet über den von Herrn
+                                            <lb/>
+                                            <choice>
+                                                <expan>
+                                                    <rs ref="#kremer-alfred" type="person">von</rs>
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                            </abbr>
+                                        </choice>
+                                        <hi>
+                                            <rs ref="#kremer-alfred" type="person">Kremer</rs>
+                                        </hi>
+                                            eingesandten
+                                            Auf-
+                                        <lb/>
+                                            satz "Beiträge zur
+                                            Geogra-
+                                        <lb/>phie des nördlichen Syriens"<lb/>
+                                            und trägt darauf an, daß
+                                        <lb/>er in die akademischen Denk-</p>
+                </div>
+            </div>
+            <div n="4" type="page" xml:id="d7">
+                <pb facs="#facs_4" n="4" xml:id="pag4"/>
+                <div xml:id="d8">
+                    <p facs="#facs_4_region_1580722244954_86" rendition="#f" xml:id="p23" xml:space="preserve">
+                                            <lb/>
+                                                schriften" der Nichtmitglieder
+                                            <lb/>aufgenommen werde,<lb/>
+                                                welchem Antrage die Classe
+                                            <lb/>
+                                            <hi>beistimmt.</hi>
+                                        </p>
+                    <p facs="#facs_4_region_1580722256329_89" rendition="#f" xml:id="p24" xml:space="preserve">
+                                            <lb/>
+                                                Herr Regierungsrath
+                                            <lb/>
+                                            <hi>
+                                                <rs ref="#chmel-joseph" type="person">Chmel</rs>
+                                            </hi>
+                                                liest die Fortsetzung
+                                            <lb/>
+                                                seiner für die Denkschriften
+                                            <lb/>bestimmten Abhandlung:<lb/>
+                                                "Beträge zur Kritik der
+                                            <lb/>österreichischen Geschichte;<lb/>
+                                                kirchliche Zustände unter
+                                            <lb/>
+                                            <rs ref="#habsburg-ladislaus-postumus" type="person">Ladislaus</rs>, <num>1440</num>-<num>1458</num>.</p>
+                    <p facs="#facs_4_region_1580722269209_92" rendition="#f" xml:id="p25" xml:space="preserve">
+                                                <lb/>
+                                                <hi>In der vertraulichen Sitzung</hi>
+                                            </p>
+                    <p facs="#facs_4_region_1580722278513_95" rendition="#f" xml:id="p26" xml:space="preserve">
+                                                <lb/>theilt der <hi>
+                                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
+                                                </hi> mit:</p>
+                    <p facs="#facs_4_region_1580722297264_98" rendition="#f" xml:id="p27" xml:space="preserve">
+                                                    <lb/>a) aus einem Briefe <choice>
+                                                        <expan>Seiner</expan>
+                                                        <abbr>S<hi rend="super">r</hi>
+                                                    </abbr>
+                                                </choice>
+                                                    Excellenz
+                                                <lb/>des Freiherrn <rs ref="#prokesch-osten-anton" type="person">
+                                                    <choice>
+                                                        <expan>von</expan>
+                                                        <abbr>v<am>.</am>
+                                                    </abbr>
+                                                </choice> Prokesch-Osten</rs>
+                                                <lb/>
+                                                    an ihn, daß dieser sich mit
+                                                <lb/>
+                                                    dem Vorschlag der Classe wegen
+                                                <lb/>
+                                                    Bestellung und Honorirung
+                                                <lb/>
+                                                    eines Correctors seines
+                                                    Wer-
+                                                <lb/>
+                                                    kes in der Person des Herrn
+                                                <lb/>
+                                                <choice>
+                                                    <expan>Doctor</expan>
+                                                    <abbr>Dr<am>.</am>
+                                                </abbr>
+                                            </choice>
+                                            <rs ref="#schmidl-adolf" type="person">Schmidl's</rs>
+                                            <hi>einverstanden</hi>
+                                            <lb/>erkläre.</p>
+                    <p facs="#facs_4_region_1580722312537_101" rendition="#f" xml:id="p28" xml:space="preserve">
+                                                <lb/>b) daß Herr <choice>
+                                                    <expan>Doctor</expan>
+                                                    <abbr>Dr<am>.</am>
+                                                </abbr>
+                                            </choice>
+                                            <hi>
+                                                <rs ref="#schmidl-adolf" type="person">Schmidl</rs>
+                                            </hi>
+                                                von
+                                            <lb/>der Redaction der <hi>Wiener-Zeitung</hi>
+                                            <lb/>
+                                                zum Berichterstatter über die
+                                            <lb/>
+                                                Sitzungen der Akademie
+                                                er-
+                                            <lb/>
+                                                nannt worden sei; daher frage
+                                            <lb/>
+                                                er sich an, ob es die Classe nicht
+                                            <lb/>zweckmäßiger finde, <hi>diesem </hi>
+                                                -
+                                            <lb/>
+                                                dessen Berichte sogleich nach den
+                                            <lb/>
+                                                Sitzungen erscheinen - die
+                                            <lb/>
+                                                authentischen Mittheilungen
+                                            <lb/>zu machen und dafür die</p>
+                </div>
+            </div>
+            <div n="5" type="page" xml:id="d9">
+                <pb facs="#facs_5" n="5" xml:id="pag5"/>
+                <div xml:id="d10">
+                    <p facs="#facs_5_region_1580723522079_191" rendition="#f" xml:id="p29" xml:space="preserve">
+                                                <lb/>
+                                                    immer erst nach mehreren
+                                                <lb/>
+                                                    Wochen in die Wiener-Zeitung
+                                                <lb/>
+                                                    eingerückten officiellen
+                                                    Be-
+                                                <lb/>richte ganz aufzugeben?<lb/>
+                                                    Die Classe beschließt, es der
+                                                <lb/>Controlle wegen bei der <hi>bisher</hi>
+                                                <lb/>
+                                                <hi>üblichen</hi>
+                                                    Art der offiziellen
+                                                <lb/>
+                                                    Berichte für die Wiener-Zeitung
+                                                <lb/>zu belassen.</p>
+                    <p facs="#facs_5_region_1580723542351_195" rendition="#f" xml:id="p30" xml:space="preserve">
+                                                    <lb/>
+                                                        Herr Regierungsrath
+                                                    <lb/>
+                                                    <hi>
+                                                        <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
+                                                    </hi>
+                                                        liest als Referent
+                                                    <lb/>
+                                                        den Commissionsbericht über
+                                                    <lb/>
+                                                        die Betheiligung der Classe an
+                                                    <lb/>der von der <choice>
+                                                        <expan/>
+                                                        <abbr>k<am>.</am>
+                                                    </abbr>
+                                                </choice>
+                                                <choice>
+                                                    <expan>kaiserlich-königlichen</expan>
+                                                    <abbr>k<am>.</am>
+                                                </abbr>
+                                            </choice>
+                                                Marine zu
+                                            <lb/>
+                                                unternehmenden Expedition
+                                            <lb/>um die Welt.</p>
+                    <p facs="#facs_5_region_1580723558544_198" rendition="#f" xml:id="p31" xml:space="preserve">
+                                                <lb/>
+                                                    In Folge dieses Berichtes
+                                                <lb/>
+                                                    und der darüber
+                                                    stattgefun-
+                                                <lb/>
+                                                    denen Discussion beschließt
+                                                <lb/>
+                                                    die Classe, mit Ausnahme
+                                                <lb/>Einer Stimme (der des <hi>Secre-
+<lb/>tärs</hi>
+                                                    ) den Herrn
+                                                <rs ref="#arneth-joseph-calasanz" type="person">Berichter-<lb/>statter</rs>
+                                                    zu beauftragen, der
+                                                <lb/>
+                                                    Gesammtakademie zu
+                                                    er-
+                                                <lb/>klären:</p>
+                    <p facs="#facs_5_region_1580723573479_201" rendition="#f" xml:id="p32" xml:space="preserve">
+                                                    <lb/>
+                                                        Da die Männer, von
+                                                        wel-
+                                                    <lb/>
+                                                        chen die Classe ein für die
+                                                    <lb/>
+                                                        Wissenschaft ersprießliches
+                                                        Re-
+                                                    <lb/>
+                                                        sultat erwarten könnte, nicht
+                                                    <lb/>
+                                                        in der Lage sind, sich an der
+                                                    <lb/>
+                                                        Expedition zu betheiligen, die
+                                                    <lb/>aber, welche sich <hi>bisher</hi>
+                                                        dazu
+                                                    <lb/>
+                                                        bereit erklärt haben, kein
+                                                    <lb/>
+                                                        solches Resultat erwarten
+                                                    <lb/>lassen, so sehe sich die Classe</p>
+                    <p facs="#facs_5_region_1580723586776_204" rendition="#f" xml:id="p33" xml:space="preserve">
+                                                        <lb/>
+                                                            ausser Stande, sich durch
+                                                            Er-
+                                                        <lb/>nennung eines <hi>eigens für</hi>
+                                                    </p>
+                </div>
+            </div>
+            <div n="6" type="page" xml:id="d11">
+                <pb facs="#facs_6" n="6" xml:id="pag6"/>
+                <div xml:id="d12">
+                    <p facs="#facs_6_region_1580724529919_293" rendition="#f" xml:id="p34" xml:space="preserve">
+                                                        <lb/>
+                                                        <hi>ihre Fächer</hi>
+                                                            Beauftragten an
+                                                        <lb/>der Expedition zu betheiligen;<lb/>
+                                                            im Falle aber die von der
+                                                        <lb/>
+                                                            andern Classe Gewählten in
+                                                        <lb/>
+                                                            der Lage wären auch für die
+                                                        <lb/>Zwecke der <choice>
+                                                            <expan>philosophisch-historischen</expan>
+                                                            <abbr>philos<am>.</am>
+                                                            <am>-</am>hist<am>.</am>
+                                                        </abbr>
+                                                    </choice>
+                                                        Classe
+                                                    <lb/>
+                                                        Aufträge zu besorgen, würde
+                                                    <lb/>
+                                                        diese ihnen nicht nur
+                                                        Instruc-
+                                                    <lb/>
+                                                        tionen mitgeben sondern auch
+                                                    <lb/>an ihrer Unterstützung sich <hi>nach</hi>
+                                                    <lb/>
+                                                    <hi>Verhältniß</hi>
+                                                        gerne
+                                                        betheili-
+                                                    <lb/>
+                                                        gen, und wünsche dann nur
+                                                    <lb/>daß von ihren Aufträgen und</p>
+                    <p facs="#facs_6_region_1580724541558_296" rendition="#f" xml:id="p35" xml:space="preserve">
+                                                        <lb/>ihrer Betheiligung am <hi>gehöri-<lb/>gen Orte</hi> Erwähnung geschehe.</p>
+                    <p facs="#facs_6_region_1580724560742_299" rendition="#f" xml:id="p36" xml:space="preserve">
+                                                            <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> erklärt,<lb/>
+                                                                deßhalb mit dem Beschlusse der
+                                                            <lb/>
+                                                                Classe nicht übereinstimmen
+                                                            <lb/>zu können, weil er glaube,<lb/>
+                                                                daß auch von einem
+                                                                jünge-
+                                                            <lb/>
+                                                                ren noch minder
+                                                                ausgebil-
+                                                            <lb/>
+                                                                denten, aber nur überhaupt
+                                                            <lb/>
+                                                                strebsamen Manne der
+                                                                Wissen-
+                                                            <lb/>
+                                                                schaft immerhin ein der
+                                                                Be-
+                                                            <lb/>
+                                                                theiligung der Classe werthes
+                                                            <lb/>Resultat sich erwarten lasse,<lb/>wenn dieser nämlich sich auch</p>
+                    <p facs="#facs_6_region_1580724577606_302" rendition="#f" xml:id="p37" xml:space="preserve">
+                                                                <lb/>
+                                                                    nur darauf beschränke (und
+                                                                <lb/>
+                                                                    große selbstständige
+                                                                    Entdeckun-
+                                                                <lb/>
+                                                                    gen und Untersuchungen in
+                                                                <lb/>
+                                                                    den Fächern der Classe lassen
+                                                                <lb/>
+                                                                    sich bei einer Expedition der
+                                                                <lb/>Art ohnehin nicht erwarten)<lb/>
+                                                                    an Ort und Stelle die
+                                                                    verläß-
+                                                                <lb/>
+                                                                    lichsten Nachrichten über den
+                                                                <lb/>
+                                                                    neuesten Stand der
+                                                                    historisch-
+                                                                <lb/>antiquarischen Entdeckungen</p>
+                </div>
+            </div>
+            <div n="7" type="page" xml:id="d13">
+                <pb facs="#facs_7" n="7" xml:id="pag7"/>
+                <div xml:id="d14">
+                    <p facs="#facs_7_region_1580725511725_389" rendition="#f" xml:id="p38" xml:space="preserve">
+                                                                    <lb/>(<choice>
+                                                                        <expan>zum Beispiel</expan>
+                                                                        <abbr>z<am>.</am> B<am>.</am>
+                                                                    </abbr>
+                                                                </choice>
+                                                                    in Mittelamerika,
+                                                                    beson-
+                                                                <lb/>
+                                                                    ders Méjico, Yucatan oder auf
+                                                                <lb/>
+                                                                    Ceylon) und über bestimmte
+                                                                <lb/>
+                                                                    ihm aufgegebene statistische
+                                                                <lb/>
+                                                                    Fragen einzusammeln; mit
+                                                                <lb/>
+                                                                    den dortigen Gelehrten und
+                                                                <lb/>Fachmännern (<choice>
+                                                                    <expan>zum Beispiel</expan>
+                                                                    <abbr>z<am>.</am> B<am>.</am>
+                                                                </abbr>
+                                                            </choice>
+                                                                den
+                                                                Mis-
+                                                            <lb/>
+                                                                sionären) directe
+                                                                Verbindun-
+                                                            <lb/>
+                                                                gen mit der Akademie
+                                                                an-
+                                                            <lb/>zuknüpfen; Handschriften,<lb/>
+                                                                kleinere Antiquitäten und
+                                                            <lb/>selbst die in Europa so schwer</p>
+                    <p facs="#facs_7_region_1580725528709_392" rendition="#f" xml:id="p39" xml:space="preserve">
+                                                                <lb/>
+                                                                    zu bekommenden
+                                                                    Druckwer-
+                                                                <lb/>
+                                                                    ke von Südamerka,
+                                                                    Ostin-
+                                                                <lb/>dien und China für die <choice>
+                                                                    <expan>kaiserlich-königlichen</expan>
+                                                                    <abbr>k<am>.</am> k<am>.</am>
+                                                                </abbr>
+                                                            </choice>
+                                                            <lb/>Sammlungen zu erwerben;<lb/>
+                                                                endlich eine Geschichte der
+                                                            <lb/>
+                                                                Expedition zu schreiben. Dazu
+                                                            <lb/>
+                                                                aber, glaube er, habe sich
+                                                                un-
+                                                            <lb/>
+                                                                ter den Bewerbern wirklich
+                                                            <lb/>
+                                                                ein Geeigneter gefunden
+                                                            <lb/>
+                                                                in der Person des Herrn
+                                                            <lb/>
+                                                            <rs ref="#muller-john-w" type="person">Müller</rs>
+                                                                , dessen
+                                                                geographisch-
+                                                            <lb/>antiquarische und besonders</p>
+                    <p facs="#facs_7_region_1580725543053_395" rendition="#f" xml:id="p40" xml:space="preserve">
+                                                                <lb/>
+                                                                    linguistische Kenntnisse
+                                                                    meh-
+                                                                <lb/>
+                                                                    reren Mitgliedern der
+                                                                <lb/>
+                                                                    Classe bekannt seien. Er
+                                                                <lb/>glaube daher umsomehr,<lb/>daß die Classe durch <hi>dessen</hi>
+                                                                <lb/>Wahl sich <hi>selbstständig</hi>                                                                    
+                                                                    be-
+                                                                <lb/>
+                                                                    theiligen solle, weil sie
+                                                                    ohne-
+                                                                <lb/>
+                                                                    hin bei jeder Gelegenheit
+                                                                <lb/>
+                                                                    von der Meinung des
+                                                                    Pub-
+                                                                <lb/>
+                                                                    licums gegen die andere
+                                                                <lb/>
+                                                                    Classe in Schatten gestellt
+                                                                <lb/>werde, und dieses gewiß</p>
+                    <p facs="#facs_7_region_1580725556629_398" rendition="#f" xml:id="p41" xml:space="preserve">
+                                                                    <lb/>
+                                                                        unbillige und nur in der
+                                                                    <lb/>einseitigen Bildung unseres</p>
+                </div>
+            </div>
+            <div n="8" type="page" xml:id="d15">
+                <pb facs="#facs_8" n="8" xml:id="pag8"/>
+                <div xml:id="d16">
+                    <p facs="#facs_8_region_1580748342313_65" rendition="#f" xml:id="p42" xml:space="preserve">
+                                                                        <lb/>
+                                                                            Publicums liegende aber
+                                                                        <lb/>
+                                                                            leider nur zu sehr verbreitete
+                                                                        <lb/>
+                                                                            Vorurtheil gegen sie durch ihre
+                                                                        <lb/>
+                                                                            Nichtbetheiligung im
+                                                                            gegenwär-
+                                                                        <lb/>
+                                                                            tigen acclatanten Falle nur
+                                                                        <lb/>verstärkt werden müsse.</p>
+                    <p facs="#facs_8_region_1580748345760_68" rendition="#r" xml:id="p43" xml:space="preserve">
+                                                                            <lb/>
+                                                                            <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+                                                                        </p>
+                </div>
+            </div>
+        </body>
+    </text>
 </TEI>
