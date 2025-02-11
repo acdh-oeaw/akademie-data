@@ -1303,7 +1303,7 @@
             ge-<lb facs="#facs_7_r1009" xml:id="z202"/>schehen könne. Diese Ansicht der Sache 
             <lb facs="#facs_7_r1010" xml:id="z203"/>wird von der Akademie gutgeheißen.</p>
                     <p rendition="#r" facs="#facs_7_region_1487152304910_37" xml:id="p26" xml:space="preserve">
-                                                                                                        <lb facs="#facs_7_r1012" xml:id="z204"/>c. Der Erlaß des <rs type="person" ref="#">Curator</rs>s vom 
+                                                                                                        <lb facs="#facs_7_r1012" xml:id="z204"/>c. Der Erlaß des <rs type="person" ref="#habsburg-lothringen-johann">Curator</rs>s vom 
             <lb facs="#facs_7_r1013" xml:id="z205"/>
                                                                                                         <num>18</num>. Jänner, worin die Äußerung 
             <lb facs="#facs_7_r1014" xml:id="z206"/>der Akademie über die Vorschläge 
@@ -1318,8 +1318,7 @@
             <lb facs="#facs_7_r1025" xml:id="z215"/>tragen zu wollen, mit Dank 
             anzuneh-<lb facs="#facs_7_r1026" xml:id="z216"/>men sey.</p>
                     <p rendition="#r" facs="#facs_7_region_1487152316127_39" xml:id="p28" xml:space="preserve">
-                                                                                                                <lb facs="#facs_7_r1028" xml:id="z217"/>d. Der Erlaß des Curators vom 
-            <lb facs="#facs_7_r1029" xml:id="z218"/>
+                                                                                                                <lb facs="#facs_7_r1028" xml:id="z217"/>d. Der Erlaß des <rs type="person" ref="#habsburg-lothringen-johann">Curator</rs>s vom
                                                                                                                 <num>18</num>. Jänner, worin die Ansicht der 
             <lb facs="#facs_7_r1030" xml:id="z219"/>Akademie über das Programm der 
             <lb facs="#facs_7_r1031" xml:id="z220"/>feierlichen Eröffnungssitzung 
@@ -1346,11 +1345,11 @@
                                                                                                                         <num>1</num>/<num>2</num> Stunden,<lb facs="#facs_8_r1006" xml:id="z232"/>welche nach der Willensmeinung <choice>
                                                                                                                             <expan>Seiner</expan>
                                                                                                                             <abbr>
-                                                                                                                                <rs type="person" ref="#">S<hi rend="super">r.</hi>
+                                                                                                                                <rs type="person" ref="#habsburg-lothringen-johann">S<hi rend="super">r.</hi>
                                                                                                                             </rs>
                                                                                                                         </abbr>
-                                                                                                                    </choice>
-                                                                                                                    <lb facs="#facs_8_r1007" xml:id="z233"/> die feierliche 
+                                                                                                                    </choice> 
+                                                                                                                    <lb facs="#facs_8_r1007" xml:id="z233"/> <rs type="person" ref="#habsburg-lothringen-johann">kaiserlichen Hoheit</rs> die feierliche 
             <lb facs="#facs_8_r1008" xml:id="z234"/>Sitzung währen solle, doch nicht 
             ge-<lb facs="#facs_8_r1009" xml:id="z235"/>rathener erscheinen möchte, die in 
             <lb facs="#facs_8_r1010" xml:id="z236"/>den Classensitzungen bereits 
@@ -1375,7 +1374,13 @@
             histo-<lb facs="#facs_8_r1025" xml:id="z250"/>rischen Preisaufgabe wesentlich zu 
             <lb facs="#facs_8_r1026" xml:id="z251"/>ändern, er werde einen ganzen 
             <lb facs="#facs_8_r1028" xml:id="z252"/>Cychis von Preisaufgaben bezüglich 
-            <lb facs="#facs_8_r1029" xml:id="z253"/>der Geschäfte <rs type="person" ref="#habsburg-rudolf-i" key="Habsburg, von, Rudolf I.">K. Rudolph's I</rs>. in 
+            <lb facs="#facs_8_r1029" xml:id="z253"/>der Geschäfte <rs type="person" ref="#habsburg-rudolf-i" key="Habsburg, von, Rudolf I.">
+                <choice>
+                <expan>Kaiser</expan>
+                <abbr>K<am>.</am>
+                </abbr>
+                </choice> 
+                Rudolph's I</rs>. in 
             An-<lb facs="#facs_8_r1030" xml:id="z254"/>trag bringen und diesen Antrag 
             mo-<lb facs="#facs_8_r1031" xml:id="z255"/>tiviren; sollten nun diese Aufgaben 
             <lb facs="#facs_8_r1032" xml:id="z256"/>mit ihrer Motivirung, wie es ihm 
@@ -1450,7 +1455,7 @@
             <lb facs="#facs_10_r1011" xml:id="z303"/>über eine Stunde hinaus erstrecken 
             <lb facs="#facs_10_r1012" xml:id="z304"/>sollte, was endlich die künftigen 
             Leistun-<lb facs="#facs_10_r1013" xml:id="z305"/>gen der Akademie betrifft, so können 
-            <lb facs="#facs_10_r1014" xml:id="z306"/>der <rs type="person" ref="#hammer-purgstall-von-joseph" key="Hammer-Purgstall, von, ">Präsident</rs> und der <rs type="person" ref="#">General-Secre-<lb facs="#facs_10_r1015" break="no" xml:id="z307"/>tär</rs> derselben, so weit es thunlich ist, im 
+            <lb facs="#facs_10_r1014" xml:id="z306"/>der <rs type="person" ref="#hammer-purgstall-von-joseph" key="Hammer-Purgstall, von, ">Präsident</rs> und der <rs type="person" ref="#ettingshausen-von-andreas">General-Secre-<lb facs="#facs_10_r1015" break="no" xml:id="z307"/>tär</rs> derselben, so weit es thunlich ist, im 
             <lb facs="#facs_10_r1016" xml:id="z308"/>Allgemeinen erwähnen, wodruch 
             zu-<lb facs="#facs_10_r1017" xml:id="z309"/>gleich vermieden wird, daß hierüber 
             <lb facs="#facs_10_r1018" xml:id="z310"/>positive Versprechungen gemacht 
@@ -1493,7 +1498,7 @@
             <lb facs="#facs_11_r1012" xml:id="z336"/>Akademie verbindlichst gedankt werden 
             <lb facs="#facs_11_line_1487159550923_9" xml:id="z337"/>solle.</p>
                     <p rendition="#r" facs="#facs_11_region_1487154793879_4" xml:id="p42" xml:space="preserve">
-                                                                                                                                                                        <lb facs="#facs_11_r1014" xml:id="z338"/>Der Herr <rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas">Vice-Präsident</rs> 
+            <lb facs="#facs_11_r1014" xml:id="z338"/>Der Herr <rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas"><hi>Vice-Präsident</hi></rs> 
             be-<lb facs="#facs_11_r1015" xml:id="z339"/>merkt, daß es nöthig sey, Jemanden 
             <lb facs="#facs_11_r1016" xml:id="z340"/>mit den zur feierlichen Sitzung 
             nöthi-<lb facs="#facs_11_r1017" xml:id="z341"/>gen Vorkehrungen zu beauftragen. Es 
@@ -1501,13 +1506,13 @@
             <lb facs="#facs_11_r1020" xml:id="z344"/>dieß nicht bestimmt ausgesprochen.</p>
                     <p rendition="#l" facs="#facs_11_region_1487154802044_5" xml:id="p43" xml:space="preserve">
                                                                                                                                                                             <lb facs="#facs_11_r1022" xml:id="z345"/>Auf den Antrag des Herrn 
-            Regierungs-<lb facs="#facs_11_r1023" xml:id="z346"/>rathes <rs type="person" ref="#endlicher-stephan" key="Endlicher, Stephan">Endlicher</rs> beschließt die Akademie,<lb facs="#facs_11_r1024" xml:id="z347"/>dieses Geschäft im Ganzen, den vier 
+            Regierungs-<lb facs="#facs_11_r1023" xml:id="z346"/>rathes <rs type="person" ref="#endlicher-stephan" key="Endlicher, Stephan"><hi>Endlicher</hi></rs> beschließt die Akademie,<lb facs="#facs_11_r1024" xml:id="z347"/>dieses Geschäft im Ganzen, den vier 
             <lb facs="#facs_11_r1025" xml:id="z348"/>Functionären zu übertragen und die 
             <lb facs="#facs_11_r1026" xml:id="z349"/>Vertheilung der einzelnen Verrichtungen 
             <lb facs="#facs_11_r1027" xml:id="z350"/>unter sich ihrem Ermessen anheim zu 
             <lb facs="#facs_11_r1028" xml:id="z351"/>stellen.</p>
                     <p rendition="#r" facs="#facs_11_region_1487154816053_6" xml:id="p44" xml:space="preserve">
-                                                                                                                                                                                <lb facs="#facs_11_r1030" xml:id="z352"/>f. Der <rs type="person" ref="#">General-Secretär</rs> liest den 
+                                                                                                                                                                                <lb facs="#facs_11_r1030" xml:id="z352"/>f. Der <rs type="person" ref="#"><hi>General-Secretär</hi></rs> liest den 
             <lb facs="#facs_11_r1031" xml:id="z353"/>hohen Erlaß <choice>
                                                                                                                                                                                     <expan>Seiner</expan>
                                                                                                                                                                                     <abbr>S<hi rend="super">r</hi>
@@ -1564,7 +1569,7 @@
                                                                                                                                                                                     <lb facs="#facs_12_r1021" xml:id="z386"/>Die Akademie schließt sich der obigen Ansicht 
             <lb facs="#facs_12_r1022" xml:id="z387"/>an und läßt den Gegenstand auf sich beruhen.</p>
                     <p rendition="#r" facs="#facs_12_region_1487159951518_13" xml:id="p49" xml:space="preserve">
-                                                                                                                                                                                        <lb facs="#facs_12_r1024" xml:id="z388"/>Der <rs type="person" ref="#ettingshausen-von-andreas" key="Ettingshausen, von, Andreas">General-Secretär</rs> zeigt der 
+                                                                                                                                                                                        <lb facs="#facs_12_r1024" xml:id="z388"/>Der <rs type="person" ref="#ettingshausen-von-andreas" key="Ettingshausen, von, Andreas"><hi>General-Secretär</hi></rs> zeigt der 
             Aka-<lb facs="#facs_12_r1025" xml:id="z389"/>demie an, es sey der Zunahme der 
             Schreibge-<lb facs="#facs_12_r1026" xml:id="z390"/>schäfte wegen, unerläßlich gewesen, einen 
             Diur-<lb facs="#facs_12_r1027" xml:id="z391"/>nisten aufzunehmen, wozu die Vorstände 
@@ -1582,7 +1587,7 @@
                                                                                                                                                                                                 <lb facs="#facs_12_line_1487160090297_17" xml:id="z401"/>
                                                                                                                                                                                                 <rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas">ABaumgartner</rs>
                                                                                                                                                                                                 <lb facs="#facs_12_line_1487160094743_18" xml:id="z402"/>
-                                                                                                                                                                                                <rs type="person" ref="#haidinger" key="haidinger, Wilhelm">Whaidinger</rs>
+                                                                                                                                                                                                <rs type="person" ref="#haidinger" key="haidinger, Wilhelm">WHaidinger</rs>
                                                                                                                                                                                                 <lb facs="#facs_12_line_1487160098986_19" xml:id="z403"/>
                                                                                                                                                                                                 <rs type="person" ref="#Prechtl_von_johannjoseph" key="Prechtl, von, johann Joseph">JJPrechtl</rs>
                                                                                                                                                                                                 <lb facs="#facs_12_line_1487160102356_20" xml:id="z404"/>
