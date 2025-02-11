@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C_0074">
     <teiHeader>
         <fileDesc>
@@ -21,634 +20,349 @@
     </teiHeader>
     <facsimile>
         <surface lrx="2608" lry="4191" ulx="0" uly="0" xml:id="facs_1">
-            <graphic height="4191px"
-                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_01" width="2608px"/>
-            <zone points="147,97 410,97 410,240 147,240" rendition="TextRegion"
-                xml:id="facs_1_region_1581491340488_3">
-                <zone points="150,12 412,12 412,270 150,270" rendition="Line"
-                    xml:id="facs_1_line_1581491830717_182"/>
+            <graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_01" width="2608px"/>
+            <zone points="147,97 410,97 410,240 147,240" rendition="TextRegion" xml:id="facs_1_region_1581491340488_3">
+                <zone points="150,12 412,12 412,270 150,270" rendition="Line" xml:id="facs_1_line_1581491830717_182"/>
             </zone>
-            <zone points="476,356 2162,356 2162,484 476,484" rendition="TextRegion"
-                xml:id="facs_1_region_1581491342832_6">
-                <zone points="481,355 2169,355 2169,520 481,520" rendition="Line"
-                    xml:id="facs_1_region_1581491342832_6l1"/>
+            <zone points="476,356 2162,356 2162,484 476,484" rendition="TextRegion" xml:id="facs_1_region_1581491342832_6">
+                <zone points="481,355 2169,355 2169,520 481,520" rendition="Line" xml:id="facs_1_region_1581491342832_6l1"/>
             </zone>
-            <zone points="1052,720 1599,720 1599,888 1052,888" rendition="TextRegion"
-                xml:id="facs_1_region_1581491344801_9">
-                <zone points="1048,699 1593,699 1593,903 1048,903" rendition="Line"
-                    xml:id="facs_1_region_1581491344801_9l1"/>
+            <zone points="1052,720 1599,720 1599,888 1052,888" rendition="TextRegion" xml:id="facs_1_region_1581491344801_9">
+                <zone points="1048,699 1593,699 1593,903 1048,903" rendition="Line" xml:id="facs_1_region_1581491344801_9l1"/>
             </zone>
-            <zone points="737,928 1905,928 1905,1017 737,1017" rendition="TextRegion"
-                xml:id="facs_1_region_1581491346941_12">
-                <zone points="750,879 1896,879 1896,1038 750,1038" rendition="Line"
-                    xml:id="facs_1_region_1581491346941_12l1"/>
+            <zone points="737,928 1905,928 1905,1017 737,1017" rendition="TextRegion" xml:id="facs_1_region_1581491346941_12">
+                <zone points="750,879 1896,879 1896,1038 750,1038" rendition="Line" xml:id="facs_1_region_1581491346941_12l1"/>
             </zone>
-            <zone points="940,1033 1634,1033 1634,1143 940,1143" rendition="TextRegion"
-                xml:id="facs_1_region_1581491349113_15">
-                <zone points="936,1012 1641,1012 1641,1172 936,1172" rendition="Line"
-                    xml:id="facs_1_region_1581491349113_15l1"/>
+            <zone points="940,1033 1634,1033 1634,1143 940,1143" rendition="TextRegion" xml:id="facs_1_region_1581491349113_15">
+                <zone points="936,1012 1641,1012 1641,1172 936,1172" rendition="Line" xml:id="facs_1_region_1581491349113_15l1"/>
             </zone>
-            <zone points="506,1346 2578,1346 2578,2405 506,2405" rendition="TextRegion"
-                xml:id="facs_1_region_1581491362912_18">
-                <zone points="494,1361 2586,1361 2586,1497 494,1497" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l1"/>
-                <zone points="770,1453 1989,1453 1989,1595 770,1595" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l2"/>
-                <zone points="1494,1552 1959,1552 1959,1646 1494,1646" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l3"/>
-                <zone points="1528,1637 2145,1637 2145,1758 1528,1758" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l4"/>
-                <zone points="1518,1731 2339,1731 2339,1861 1518,1861" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l5"/>
-                <zone points="1524,1826 2172,1826 2172,1942 1524,1942" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l6"/>
-                <zone points="1534,1911 2058,1911 2058,2040 1534,2040" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l7"/>
-                <zone points="1542,2015 2066,2015 2066,2126 1542,2126" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l10"/>
-                <zone points="1547,2105 2105,2105 2105,2239 1547,2239" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l11"/>
-                <zone points="961,2138 1992,2138 1992,2324 961,2324" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l14"/>
-                <zone points="1229,2299 2006,2299 2006,2444 1229,2444" rendition="Line"
-                    xml:id="facs_1_region_1581491362912_18l16"/>
+            <zone points="506,1346 2578,1346 2578,2405 506,2405" rendition="TextRegion" xml:id="facs_1_region_1581491362912_18">
+                <zone points="494,1361 2586,1361 2586,1497 494,1497" rendition="Line" xml:id="facs_1_region_1581491362912_18l1"/>
+                <zone points="770,1453 1989,1453 1989,1595 770,1595" rendition="Line" xml:id="facs_1_region_1581491362912_18l2"/>
+                <zone points="1494,1552 1959,1552 1959,1646 1494,1646" rendition="Line" xml:id="facs_1_region_1581491362912_18l3"/>
+                <zone points="1528,1637 2145,1637 2145,1758 1528,1758" rendition="Line" xml:id="facs_1_region_1581491362912_18l4"/>
+                <zone points="1518,1731 2339,1731 2339,1861 1518,1861" rendition="Line" xml:id="facs_1_region_1581491362912_18l5"/>
+                <zone points="1524,1826 2172,1826 2172,1942 1524,1942" rendition="Line" xml:id="facs_1_region_1581491362912_18l6"/>
+                <zone points="1534,1911 2058,1911 2058,2040 1534,2040" rendition="Line" xml:id="facs_1_region_1581491362912_18l7"/>
+                <zone points="1542,2015 2066,2015 2066,2126 1542,2126" rendition="Line" xml:id="facs_1_region_1581491362912_18l10"/>
+                <zone points="1547,2105 2105,2105 2105,2239 1547,2239" rendition="Line" xml:id="facs_1_region_1581491362912_18l11"/>
+                <zone points="961,2138 1992,2138 1992,2324 961,2324" rendition="Line" xml:id="facs_1_region_1581491362912_18l14"/>
+                <zone points="1229,2299 2006,2299 2006,2444 1229,2444" rendition="Line" xml:id="facs_1_region_1581491362912_18l16"/>
             </zone>
-            <zone points="1306,2480 2584,2480 2584,2681 1306,2681" rendition="TextRegion"
-                xml:id="facs_1_region_1581491371444_21">
-                <zone points="1503,2480 2575,2480 2575,2629 1503,2629" rendition="Line"
-                    xml:id="facs_1_region_1581491371444_21l1"/>
-                <zone points="1316,2592 1530,2592 1530,2686 1316,2686" rendition="Line"
-                    xml:id="facs_1_region_1581491371444_21l3"/>
+            <zone points="1306,2480 2584,2480 2584,2681 1306,2681" rendition="TextRegion" xml:id="facs_1_region_1581491371444_21">
+                <zone points="1503,2480 2575,2480 2575,2629 1503,2629" rendition="Line" xml:id="facs_1_region_1581491371444_21l1"/>
+                <zone points="1316,2592 1530,2592 1530,2686 1316,2686" rendition="Line" xml:id="facs_1_region_1581491371444_21l3"/>
             </zone>
-            <zone points="1459,2679 2546,2679 2546,2786 1459,2786" rendition="TextRegion"
-                xml:id="facs_1_region_1581491375351_24">
-                <zone points="1476,2644 2545,2644 2545,2810 1476,2810" rendition="Line"
-                    xml:id="facs_1_region_1581491375351_24l1"/>
+            <zone points="1459,2679 2546,2679 2546,2786 1459,2786" rendition="TextRegion" xml:id="facs_1_region_1581491375351_24">
+                <zone points="1476,2644 2545,2644 2545,2810 1476,2810" rendition="Line" xml:id="facs_1_region_1581491375351_24l1"/>
             </zone>
-            <zone points="908,2776 1227,2776 1227,2915 908,2915" rendition="TextRegion"
-                xml:id="facs_1_region_1581491379258_27">
-                <zone points="914,2775 1159,2775 1159,2901 914,2901" rendition="Line"
-                    xml:id="facs_1_region_1581491379258_27l1"/>
+            <zone points="908,2776 1227,2776 1227,2915 908,2915" rendition="TextRegion" xml:id="facs_1_region_1581491379258_27">
+                <zone points="914,2775 1159,2775 1159,2901 914,2901" rendition="Line" xml:id="facs_1_region_1581491379258_27l1"/>
             </zone>
-            <zone points="1270,2782 2588,2782 2588,3551 1270,3551" rendition="TextRegion"
-                xml:id="facs_1_region_1581491384102_30">
-                <zone points="1346,2763 2572,2763 2572,2925 1346,2925" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l1"/>
-                <zone points="1310,2872 2531,2872 2531,2976 1310,2976" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l2"/>
-                <zone points="1297,2960 2539,2960 2539,3117 1297,3117" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l3"/>
-                <zone points="1322,3054 2520,3054 2520,3198 1322,3198" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l4"/>
-                <zone points="1341,3154 2580,3154 2580,3285 1341,3285" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l5"/>
-                <zone points="1296,3256 2569,3256 2569,3396 1296,3396" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l6"/>
-                <zone points="1281,3333 2432,3333 2432,3492 1281,3492" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l9"/>
-                <zone points="1297,3441 2126,3441 2126,3586 1297,3586" rendition="Line"
-                    xml:id="facs_1_region_1581491384102_30l12"/>
+            <zone points="1270,2782 2588,2782 2588,3551 1270,3551" rendition="TextRegion" xml:id="facs_1_region_1581491384102_30">
+                <zone points="1346,2763 2572,2763 2572,2925 1346,2925" rendition="Line" xml:id="facs_1_region_1581491384102_30l1"/>
+                <zone points="1310,2872 2531,2872 2531,2976 1310,2976" rendition="Line" xml:id="facs_1_region_1581491384102_30l2"/>
+                <zone points="1297,2960 2539,2960 2539,3117 1297,3117" rendition="Line" xml:id="facs_1_region_1581491384102_30l3"/>
+                <zone points="1322,3054 2520,3054 2520,3198 1322,3198" rendition="Line" xml:id="facs_1_region_1581491384102_30l4"/>
+                <zone points="1341,3154 2580,3154 2580,3285 1341,3285" rendition="Line" xml:id="facs_1_region_1581491384102_30l5"/>
+                <zone points="1296,3256 2569,3256 2569,3396 1296,3396" rendition="Line" xml:id="facs_1_region_1581491384102_30l6"/>
+                <zone points="1281,3333 2432,3333 2432,3492 1281,3492" rendition="Line" xml:id="facs_1_region_1581491384102_30l9"/>
+                <zone points="1297,3441 2126,3441 2126,3586 1297,3586" rendition="Line" xml:id="facs_1_region_1581491384102_30l12"/>
             </zone>
-            <zone points="1504,3578 2353,3578 2353,3748 1504,3748" rendition="TextRegion"
-                xml:id="facs_1_region_1581491397447_34">
-                <zone points="1534,3585 2335,3585 2335,3741 1534,3741" rendition="Line"
-                    xml:id="facs_1_region_1581491397447_34l1"/>
+            <zone points="1504,3578 2353,3578 2353,3748 1504,3748" rendition="TextRegion" xml:id="facs_1_region_1581491397447_34">
+                <zone points="1534,3585 2335,3585 2335,3741 1534,3741" rendition="Line" xml:id="facs_1_region_1581491397447_34l1"/>
             </zone>
-            <zone points="856,3808 1187,3808 1187,3969 856,3969" rendition="TextRegion"
-                xml:id="facs_1_region_1581491399807_37">
-                <zone points="861,3768 1182,3768 1182,3966 861,3966" rendition="Line"
-                    xml:id="facs_1_region_1581491399807_37l1"/>
+            <zone points="856,3808 1187,3808 1187,3969 856,3969" rendition="TextRegion" xml:id="facs_1_region_1581491399807_37">
+                <zone points="861,3768 1182,3768 1182,3966 861,3966" rendition="Line" xml:id="facs_1_region_1581491399807_37l1"/>
             </zone>
-            <zone points="1346,3806 2533,3806 2533,3969 1346,3969" rendition="TextRegion"
-                xml:id="facs_1_region_1581491402635_40">
-                <zone points="1345,3744 2534,3744 2534,3969 1345,3969" rendition="Line"
-                    xml:id="facs_1_region_1581491402635_40l1"/>
+            <zone points="1346,3806 2533,3806 2533,3969 1346,3969" rendition="TextRegion" xml:id="facs_1_region_1581491402635_40">
+                <zone points="1345,3744 2534,3744 2534,3969 1345,3969" rendition="Line" xml:id="facs_1_region_1581491402635_40l1"/>
             </zone>
         </surface>
         <surface lrx="2608" lry="4191" ulx="0" uly="0" xml:id="facs_2">
-            <graphic height="4191px"
-                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_02" width="2608px"/>
-            <zone points="1280,278 2591,278 2591,1275 1280,1275" rendition="TextRegion"
-                xml:id="facs_2_region_1581491456063_65">
-                <zone points="1344,315 2474,315 2474,451 1344,451" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l1"/>
-                <zone points="1337,411 2537,411 2537,532 1337,532" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l2"/>
-                <zone points="1323,490 2531,490 2531,619 1323,619" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l3"/>
-                <zone points="1309,586 2566,586 2566,727 1309,727" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l4"/>
-                <zone points="1338,690 2555,690 2555,809 1338,809" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l5"/>
-                <zone points="1323,787 2559,787 2559,916 1323,916" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l6"/>
-                <zone points="1311,859 2560,859 2560,1011 1311,1011" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l7"/>
-                <zone points="1305,962 2577,962 2577,1116 1305,1116" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l8"/>
-                <zone points="1317,1074 2551,1074 2551,1203 1317,1203" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l9"/>
-                <zone points="1304,1162 2072,1162 2072,1292 1304,1292" rendition="Line"
-                    xml:id="facs_2_region_1581491456063_65l11"/>
+            <graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_02" width="2608px"/>
+            <zone points="1280,278 2591,278 2591,1275 1280,1275" rendition="TextRegion" xml:id="facs_2_region_1581491456063_65">
+                <zone points="1344,315 2474,315 2474,451 1344,451" rendition="Line" xml:id="facs_2_region_1581491456063_65l1"/>
+                <zone points="1337,411 2537,411 2537,532 1337,532" rendition="Line" xml:id="facs_2_region_1581491456063_65l2"/>
+                <zone points="1323,490 2531,490 2531,619 1323,619" rendition="Line" xml:id="facs_2_region_1581491456063_65l3"/>
+                <zone points="1309,586 2566,586 2566,727 1309,727" rendition="Line" xml:id="facs_2_region_1581491456063_65l4"/>
+                <zone points="1338,690 2555,690 2555,809 1338,809" rendition="Line" xml:id="facs_2_region_1581491456063_65l5"/>
+                <zone points="1323,787 2559,787 2559,916 1323,916" rendition="Line" xml:id="facs_2_region_1581491456063_65l6"/>
+                <zone points="1311,859 2560,859 2560,1011 1311,1011" rendition="Line" xml:id="facs_2_region_1581491456063_65l7"/>
+                <zone points="1305,962 2577,962 2577,1116 1305,1116" rendition="Line" xml:id="facs_2_region_1581491456063_65l8"/>
+                <zone points="1317,1074 2551,1074 2551,1203 1317,1203" rendition="Line" xml:id="facs_2_region_1581491456063_65l9"/>
+                <zone points="1304,1162 2072,1162 2072,1292 1304,1292" rendition="Line" xml:id="facs_2_region_1581491456063_65l11"/>
             </zone>
-            <zone points="1287,1309 2594,1309 2594,1587 1287,1587" rendition="TextRegion"
-                xml:id="facs_2_region_1581491446171_62">
-                <zone points="1489,1315 2577,1315 2577,1474 1489,1474" rendition="Line"
-                    xml:id="facs_2_region_1581491446171_62l1"/>
-                <zone points="1327,1445 2528,1445 2528,1579 1327,1579" rendition="Line"
-                    xml:id="facs_2_region_1581491446171_62l2"/>
+            <zone points="1287,1309 2594,1309 2594,1587 1287,1587" rendition="TextRegion" xml:id="facs_2_region_1581491446171_62">
+                <zone points="1489,1315 2577,1315 2577,1474 1489,1474" rendition="Line" xml:id="facs_2_region_1581491446171_62l1"/>
+                <zone points="1327,1445 2528,1445 2528,1579 1327,1579" rendition="Line" xml:id="facs_2_region_1581491446171_62l2"/>
             </zone>
-            <zone points="898,1609 1233,1609 1233,1779 898,1779" rendition="TextRegion"
-                xml:id="facs_2_region_1581491435764_56">
-                <zone points="954,1619 1228,1619 1228,1756 954,1756" rendition="Line"
-                    xml:id="facs_2_region_1581491435764_56l1"/>
+            <zone points="898,1609 1233,1609 1233,1779 898,1779" rendition="TextRegion" xml:id="facs_2_region_1581491435764_56">
+                <zone points="954,1619 1228,1619 1228,1756 954,1756" rendition="Line" xml:id="facs_2_region_1581491435764_56l1"/>
             </zone>
-            <zone points="1287,1625 2603,1625 2603,3207 1287,3207" rendition="TextRegion"
-                xml:id="facs_2_region_1581491441374_59">
-                <zone points="1347,1603 2534,1603 2534,1785 1347,1785" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l1"/>
-                <zone points="1328,1731 2595,1731 2595,1900 1328,1900" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l2"/>
-                <zone points="1318,1812 2557,1812 2557,1963 1318,1963" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l3"/>
-                <zone points="1309,1923 2611,1923 2611,2052 1309,2052" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l4"/>
-                <zone points="1344,2019 2531,2019 2531,2148 1344,2148" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l5"/>
-                <zone points="1307,2115 2539,2115 2539,2244 1307,2244" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l6"/>
-                <zone points="1319,2194 2538,2194 2538,2314 1319,2314" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l7"/>
-                <zone points="1318,2298 2609,2298 2609,2442 1318,2442" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l8"/>
-                <zone points="1318,2394 2571,2394 2571,2531 1318,2531" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l9"/>
-                <zone points="1311,2495 2577,2495 2577,2637 1311,2637" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l10"/>
-                <zone points="1314,2561 2579,2561 2579,2694 1314,2694" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l11"/>
-                <zone points="1342,2682 2610,2682 2610,2804 1342,2804" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l12"/>
-                <zone points="1332,2786 2546,2786 2546,2932 1332,2932" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l15"/>
-                <zone points="1324,2874 2587,2874 2587,2996 1324,2996" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l16"/>
-                <zone points="1347,2963 2600,2963 2600,3092 1347,3092" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l17"/>
-                <zone points="1325,3067 2432,3067 2432,3195 1325,3195" rendition="Line"
-                    xml:id="facs_2_region_1581491441374_59l18"/>
+            <zone points="1287,1625 2603,1625 2603,3207 1287,3207" rendition="TextRegion" xml:id="facs_2_region_1581491441374_59">
+                <zone points="1347,1603 2534,1603 2534,1785 1347,1785" rendition="Line" xml:id="facs_2_region_1581491441374_59l1"/>
+                <zone points="1328,1731 2595,1731 2595,1900 1328,1900" rendition="Line" xml:id="facs_2_region_1581491441374_59l2"/>
+                <zone points="1318,1812 2557,1812 2557,1963 1318,1963" rendition="Line" xml:id="facs_2_region_1581491441374_59l3"/>
+                <zone points="1309,1923 2611,1923 2611,2052 1309,2052" rendition="Line" xml:id="facs_2_region_1581491441374_59l4"/>
+                <zone points="1344,2019 2531,2019 2531,2148 1344,2148" rendition="Line" xml:id="facs_2_region_1581491441374_59l5"/>
+                <zone points="1307,2115 2539,2115 2539,2244 1307,2244" rendition="Line" xml:id="facs_2_region_1581491441374_59l6"/>
+                <zone points="1319,2194 2538,2194 2538,2314 1319,2314" rendition="Line" xml:id="facs_2_region_1581491441374_59l7"/>
+                <zone points="1318,2298 2609,2298 2609,2442 1318,2442" rendition="Line" xml:id="facs_2_region_1581491441374_59l8"/>
+                <zone points="1318,2394 2571,2394 2571,2531 1318,2531" rendition="Line" xml:id="facs_2_region_1581491441374_59l9"/>
+                <zone points="1311,2495 2577,2495 2577,2637 1311,2637" rendition="Line" xml:id="facs_2_region_1581491441374_59l10"/>
+                <zone points="1314,2561 2579,2561 2579,2694 1314,2694" rendition="Line" xml:id="facs_2_region_1581491441374_59l11"/>
+                <zone points="1342,2682 2610,2682 2610,2804 1342,2804" rendition="Line" xml:id="facs_2_region_1581491441374_59l12"/>
+                <zone points="1332,2786 2546,2786 2546,2932 1332,2932" rendition="Line" xml:id="facs_2_region_1581491441374_59l15"/>
+                <zone points="1324,2874 2587,2874 2587,2996 1324,2996" rendition="Line" xml:id="facs_2_region_1581491441374_59l16"/>
+                <zone points="1347,2963 2600,2963 2600,3092 1347,3092" rendition="Line" xml:id="facs_2_region_1581491441374_59l17"/>
+                <zone points="1325,3067 2432,3067 2432,3195 1325,3195" rendition="Line" xml:id="facs_2_region_1581491441374_59l18"/>
             </zone>
-            <zone points="1305,3205 2573,3205 2573,3739 1305,3739" rendition="TextRegion"
-                xml:id="facs_2_region_1581491427825_53">
-                <zone points="1512,3210 2523,3210 2523,3364 1512,3364" rendition="Line"
-                    xml:id="facs_2_region_1581491427825_53l1"/>
-                <zone points="1320,3354 2395,3354 2395,3468 1320,3468" rendition="Line"
-                    xml:id="facs_2_region_1581491427825_53l2"/>
-                <zone points="1362,3419 2544,3419 2544,3579 1362,3579" rendition="Line"
-                    xml:id="facs_2_region_1581491427825_53l3"/>
-                <zone points="1331,3567 2575,3567 2575,3644 1331,3644" rendition="Line"
-                    xml:id="facs_2_region_1581491427825_53l4"/>
-                <zone points="1327,3627 2189,3627 2189,3747 1327,3747" rendition="Line"
-                    xml:id="facs_2_region_1581491427825_53l5"/>
+            <zone points="1305,3205 2573,3205 2573,3739 1305,3739" rendition="TextRegion" xml:id="facs_2_region_1581491427825_53">
+                <zone points="1512,3210 2523,3210 2523,3364 1512,3364" rendition="Line" xml:id="facs_2_region_1581491427825_53l1"/>
+                <zone points="1320,3354 2395,3354 2395,3468 1320,3468" rendition="Line" xml:id="facs_2_region_1581491427825_53l2"/>
+                <zone points="1362,3419 2544,3419 2544,3579 1362,3579" rendition="Line" xml:id="facs_2_region_1581491427825_53l3"/>
+                <zone points="1331,3567 2575,3567 2575,3644 1331,3644" rendition="Line" xml:id="facs_2_region_1581491427825_53l4"/>
+                <zone points="1327,3627 2189,3627 2189,3747 1327,3747" rendition="Line" xml:id="facs_2_region_1581491427825_53l5"/>
             </zone>
-            <zone points="800,3750 1166,3750 1166,3940 800,3940" rendition="TextRegion"
-                xml:id="facs_2_region_1581491421278_47">
-                <zone points="842,3772 1164,3772 1164,3916 842,3916" rendition="Line"
-                    xml:id="facs_2_region_1581491421278_47l1"/>
+            <zone points="800,3750 1166,3750 1166,3940 800,3940" rendition="TextRegion" xml:id="facs_2_region_1581491421278_47">
+                <zone points="842,3772 1164,3772 1164,3916 842,3916" rendition="Line" xml:id="facs_2_region_1581491421278_47l1"/>
             </zone>
-            <zone points="1303,3748 2544,3748 2544,3942 1303,3942" rendition="TextRegion"
-                xml:id="facs_2_region_1581491423684_50">
-                <zone points="1354,3754 2522,3754 2522,3955 1354,3955" rendition="Line"
-                    xml:id="facs_2_region_1581491423684_50l1"/>
+            <zone points="1303,3748 2544,3748 2544,3942 1303,3942" rendition="TextRegion" xml:id="facs_2_region_1581491423684_50">
+                <zone points="1354,3754 2522,3754 2522,3955 1354,3955" rendition="Line" xml:id="facs_2_region_1581491423684_50l1"/>
             </zone>
         </surface>
         <surface lrx="2608" lry="4191" ulx="0" uly="0" xml:id="facs_3">
-            <graphic height="4191px"
-                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_03" width="2608px"/>
-            <zone points="1243,295 2572,295 2572,1204 1243,1204" rendition="TextRegion"
-                xml:id="facs_3_region_1581491531614_92">
-                <zone points="1327,322 2508,322 2508,476 1327,476" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l1"/>
-                <zone points="1298,427 2558,427 2558,548 1298,548" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l2"/>
-                <zone points="1302,539 2477,539 2477,652 1302,652" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l3"/>
-                <zone points="1314,610 2531,610 2531,762 1314,762" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l4"/>
-                <zone points="1280,723 2522,723 2522,852 1280,852" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l5"/>
-                <zone points="1302,810 2511,810 2511,940 1302,940" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l6"/>
-                <zone points="1273,890 2562,890 2562,1044 1273,1044" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l7"/>
-                <zone points="1286,1017 2571,1017 2571,1147 1286,1147" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l8"/>
-                <zone points="1285,1106 2201,1106 2201,1228 1285,1228" rendition="Line"
-                    xml:id="facs_3_region_1581491531614_92l9"/>
+            <graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_03" width="2608px"/>
+            <zone points="1243,295 2572,295 2572,1204 1243,1204" rendition="TextRegion" xml:id="facs_3_region_1581491531614_92">
+                <zone points="1327,322 2508,322 2508,476 1327,476" rendition="Line" xml:id="facs_3_region_1581491531614_92l1"/>
+                <zone points="1298,427 2558,427 2558,548 1298,548" rendition="Line" xml:id="facs_3_region_1581491531614_92l2"/>
+                <zone points="1302,539 2477,539 2477,652 1302,652" rendition="Line" xml:id="facs_3_region_1581491531614_92l3"/>
+                <zone points="1314,610 2531,610 2531,762 1314,762" rendition="Line" xml:id="facs_3_region_1581491531614_92l4"/>
+                <zone points="1280,723 2522,723 2522,852 1280,852" rendition="Line" xml:id="facs_3_region_1581491531614_92l5"/>
+                <zone points="1302,810 2511,810 2511,940 1302,940" rendition="Line" xml:id="facs_3_region_1581491531614_92l6"/>
+                <zone points="1273,890 2562,890 2562,1044 1273,1044" rendition="Line" xml:id="facs_3_region_1581491531614_92l7"/>
+                <zone points="1286,1017 2571,1017 2571,1147 1286,1147" rendition="Line" xml:id="facs_3_region_1581491531614_92l8"/>
+                <zone points="1285,1106 2201,1106 2201,1228 1285,1228" rendition="Line" xml:id="facs_3_region_1581491531614_92l9"/>
             </zone>
-            <zone points="1246,1264 2556,1264 2556,1886 1246,1886" rendition="TextRegion"
-                xml:id="facs_3_region_1581491536304_95">
-                <zone points="1449,1260 2526,1260 2526,1404 1449,1404" rendition="Line"
-                    xml:id="facs_3_region_1581491536304_95l1"/>
-                <zone points="1302,1379 2497,1379 2497,1509 1302,1509" rendition="Line"
-                    xml:id="facs_3_region_1581491536304_95l2"/>
-                <zone points="1301,1483 2533,1483 2533,1604 1301,1604" rendition="Line"
-                    xml:id="facs_3_region_1581491536304_95l3"/>
-                <zone points="1288,1579 2554,1579 2554,1701 1288,1701" rendition="Line"
-                    xml:id="facs_3_region_1581491536304_95l5"/>
-                <zone points="1279,1666 2526,1666 2526,1804 1279,1804" rendition="Line"
-                    xml:id="facs_3_region_1581491536304_95l6"/>
-                <zone points="1274,1771 2298,1771 2298,1884 1274,1884" rendition="Line"
-                    xml:id="facs_3_region_1581491536304_95l7"/>
+            <zone points="1246,1264 2556,1264 2556,1886 1246,1886" rendition="TextRegion" xml:id="facs_3_region_1581491536304_95">
+                <zone points="1449,1260 2526,1260 2526,1404 1449,1404" rendition="Line" xml:id="facs_3_region_1581491536304_95l1"/>
+                <zone points="1302,1379 2497,1379 2497,1509 1302,1509" rendition="Line" xml:id="facs_3_region_1581491536304_95l2"/>
+                <zone points="1301,1483 2533,1483 2533,1604 1301,1604" rendition="Line" xml:id="facs_3_region_1581491536304_95l3"/>
+                <zone points="1288,1579 2554,1579 2554,1701 1288,1701" rendition="Line" xml:id="facs_3_region_1581491536304_95l5"/>
+                <zone points="1279,1666 2526,1666 2526,1804 1279,1804" rendition="Line" xml:id="facs_3_region_1581491536304_95l6"/>
+                <zone points="1274,1771 2298,1771 2298,1884 1274,1884" rendition="Line" xml:id="facs_3_region_1581491536304_95l7"/>
             </zone>
-            <zone points="893,1911 1253,1911 1253,2085 893,2085" rendition="TextRegion"
-                xml:id="facs_3_region_1581491517996_86">
-                <zone points="919,1938 1264,1938 1264,2068 919,2068" rendition="Line"
-                    xml:id="facs_3_line_1581492007442_264"/>
+            <zone points="893,1911 1253,1911 1253,2085 893,2085" rendition="TextRegion" xml:id="facs_3_region_1581491517996_86">
+                <zone points="919,1938 1264,1938 1264,2068 919,2068" rendition="Line" xml:id="facs_3_line_1581492007442_264"/>
             </zone>
-            <zone points="1269,1908 2585,1908 2585,3408 1269,3408" rendition="TextRegion"
-                xml:id="facs_3_region_1581491522686_89">
-                <zone points="1354,1940 2520,1940 2520,2076 1354,2076" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l1"/>
-                <zone points="1300,2030 2561,2030 2561,2163 1300,2163" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l2"/>
-                <zone points="1307,2131 2506,2131 2506,2275 1307,2275" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l3"/>
-                <zone points="1282,2210 2531,2210 2531,2364 1282,2364" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l4"/>
-                <zone points="1288,2331 2476,2331 2476,2459 1288,2459" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l5"/>
-                <zone points="1286,2416 2540,2416 2540,2564 1286,2564" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l6"/>
-                <zone points="1297,2522 2538,2522 2538,2631 1297,2631" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l8"/>
-                <zone points="1300,2591 2550,2591 2550,2704 1300,2704" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l9"/>
-                <zone points="1299,2708 2578,2708 2578,2860 1299,2860" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l10"/>
-                <zone points="1292,2802 2553,2802 2553,2927 1292,2927" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l11"/>
-                <zone points="1284,2898 2578,2898 2578,3028 1284,3028" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l12"/>
-                <zone points="1273,3003 2542,3003 2542,3122 1273,3122" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l13"/>
-                <zone points="1300,3075 2577,3075 2577,3250 1300,3250" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l14"/>
-                <zone points="1307,3188 2579,3188 2579,3332 1307,3332" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l15"/>
-                <zone points="1296,3267 1583,3267 1583,3396 1296,3396" rendition="Line"
-                    xml:id="facs_3_region_1581491522686_89l16"/>
+            <zone points="1269,1908 2585,1908 2585,3408 1269,3408" rendition="TextRegion" xml:id="facs_3_region_1581491522686_89">
+                <zone points="1354,1940 2520,1940 2520,2076 1354,2076" rendition="Line" xml:id="facs_3_region_1581491522686_89l1"/>
+                <zone points="1300,2030 2561,2030 2561,2163 1300,2163" rendition="Line" xml:id="facs_3_region_1581491522686_89l2"/>
+                <zone points="1307,2131 2506,2131 2506,2275 1307,2275" rendition="Line" xml:id="facs_3_region_1581491522686_89l3"/>
+                <zone points="1282,2210 2531,2210 2531,2364 1282,2364" rendition="Line" xml:id="facs_3_region_1581491522686_89l4"/>
+                <zone points="1288,2331 2476,2331 2476,2459 1288,2459" rendition="Line" xml:id="facs_3_region_1581491522686_89l5"/>
+                <zone points="1286,2416 2540,2416 2540,2564 1286,2564" rendition="Line" xml:id="facs_3_region_1581491522686_89l6"/>
+                <zone points="1297,2522 2538,2522 2538,2631 1297,2631" rendition="Line" xml:id="facs_3_region_1581491522686_89l8"/>
+                <zone points="1300,2591 2550,2591 2550,2704 1300,2704" rendition="Line" xml:id="facs_3_region_1581491522686_89l9"/>
+                <zone points="1299,2708 2578,2708 2578,2860 1299,2860" rendition="Line" xml:id="facs_3_region_1581491522686_89l10"/>
+                <zone points="1292,2802 2553,2802 2553,2927 1292,2927" rendition="Line" xml:id="facs_3_region_1581491522686_89l11"/>
+                <zone points="1284,2898 2578,2898 2578,3028 1284,3028" rendition="Line" xml:id="facs_3_region_1581491522686_89l12"/>
+                <zone points="1273,3003 2542,3003 2542,3122 1273,3122" rendition="Line" xml:id="facs_3_region_1581491522686_89l13"/>
+                <zone points="1300,3075 2577,3075 2577,3250 1300,3250" rendition="Line" xml:id="facs_3_region_1581491522686_89l14"/>
+                <zone points="1307,3188 2579,3188 2579,3332 1307,3332" rendition="Line" xml:id="facs_3_region_1581491522686_89l15"/>
+                <zone points="1296,3267 1583,3267 1583,3396 1296,3396" rendition="Line" xml:id="facs_3_region_1581491522686_89l16"/>
             </zone>
-            <zone points="1285,3413 2582,3413 2582,3798 1285,3798" rendition="TextRegion"
-                xml:id="facs_3_region_1581491511483_83">
-                <zone points="1499,3436 2555,3436 2555,3601 1499,3601" rendition="Line"
-                    xml:id="facs_3_region_1581491511483_83l1"/>
-                <zone points="1313,3562 2574,3562 2574,3708 1313,3708" rendition="Line"
-                    xml:id="facs_3_region_1581491511483_83l2"/>
-                <zone points="1299,3649 2427,3649 2427,3796 1299,3796" rendition="Line"
-                    xml:id="facs_3_region_1581491511483_83l3"/>
+            <zone points="1285,3413 2582,3413 2582,3798 1285,3798" rendition="TextRegion" xml:id="facs_3_region_1581491511483_83">
+                <zone points="1499,3436 2555,3436 2555,3601 1499,3601" rendition="Line" xml:id="facs_3_region_1581491511483_83l1"/>
+                <zone points="1313,3562 2574,3562 2574,3708 1313,3708" rendition="Line" xml:id="facs_3_region_1581491511483_83l2"/>
+                <zone points="1299,3649 2427,3649 2427,3796 1299,3796" rendition="Line" xml:id="facs_3_region_1581491511483_83l3"/>
             </zone>
-            <zone points="896,3823 1218,3823 1218,3959 896,3959" rendition="TextRegion"
-                xml:id="facs_3_region_1581491504066_77">
-                <zone points="927,3843 1217,3843 1217,3956 927,3956" rendition="Line"
-                    xml:id="facs_3_region_1581491504066_77l1"/>
+            <zone points="896,3823 1218,3823 1218,3959 896,3959" rendition="TextRegion" xml:id="facs_3_region_1581491504066_77">
+                <zone points="927,3843 1217,3843 1217,3956 927,3956" rendition="Line" xml:id="facs_3_region_1581491504066_77l1"/>
             </zone>
-            <zone points="1307,3808 2579,3808 2579,3978 1307,3978" rendition="TextRegion"
-                xml:id="facs_3_region_1581491507275_80">
-                <zone points="1339,3795 2575,3795 2575,3988 1339,3988" rendition="Line"
-                    xml:id="facs_3_region_1581491507275_80l1"/>
+            <zone points="1307,3808 2579,3808 2579,3978 1307,3978" rendition="TextRegion" xml:id="facs_3_region_1581491507275_80">
+                <zone points="1339,3795 2575,3795 2575,3988 1339,3988" rendition="Line" xml:id="facs_3_region_1581491507275_80l1"/>
             </zone>
         </surface>
         <surface lrx="2608" lry="4191" ulx="0" uly="0" xml:id="facs_4">
-            <graphic height="4191px"
-                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_04" width="2608px"/>
-            <zone points="1289,285 2583,285 2583,1573 1289,1573" rendition="TextRegion"
-                xml:id="facs_4_region_1581491599177_120">
-                <zone points="1387,323 2540,323 2540,444 1387,444" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l1"/>
-                <zone points="1348,427 2564,427 2564,507 1348,507" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l2"/>
-                <zone points="1357,514 2539,514 2539,643 1357,643" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l3"/>
-                <zone points="1339,619 2594,619 2594,690 1339,690" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l4"/>
-                <zone points="1339,723 2596,723 2596,817 1339,817" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l5"/>
-                <zone points="1362,810 2523,810 2523,941 1362,941" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l6"/>
-                <zone points="1353,914 2546,914 2546,1012 1353,1012" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l7"/>
-                <zone points="1348,974 2580,974 2580,1107 1348,1107" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l8"/>
-                <zone points="1339,1075 2534,1075 2534,1172 1339,1172" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l9"/>
-                <zone points="1338,1170 2574,1170 2574,1299 1338,1299" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l10"/>
-                <zone points="1317,1276 2548,1276 2548,1395 1317,1395" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l11"/>
-                <zone points="1339,1378 2549,1378 2549,1491 1339,1491" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l12"/>
-                <zone points="1362,1467 1846,1467 1846,1580 1362,1580" rendition="Line"
-                    xml:id="facs_4_region_1581491599177_120l13"/>
+            <graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_04" width="2608px"/>
+            <zone points="1289,285 2583,285 2583,1573 1289,1573" rendition="TextRegion" xml:id="facs_4_region_1581491599177_120">
+                <zone points="1387,323 2540,323 2540,444 1387,444" rendition="Line" xml:id="facs_4_region_1581491599177_120l1"/>
+                <zone points="1348,427 2564,427 2564,507 1348,507" rendition="Line" xml:id="facs_4_region_1581491599177_120l2"/>
+                <zone points="1357,514 2539,514 2539,643 1357,643" rendition="Line" xml:id="facs_4_region_1581491599177_120l3"/>
+                <zone points="1339,619 2594,619 2594,690 1339,690" rendition="Line" xml:id="facs_4_region_1581491599177_120l4"/>
+                <zone points="1339,723 2596,723 2596,817 1339,817" rendition="Line" xml:id="facs_4_region_1581491599177_120l5"/>
+                <zone points="1362,810 2523,810 2523,941 1362,941" rendition="Line" xml:id="facs_4_region_1581491599177_120l6"/>
+                <zone points="1353,914 2546,914 2546,1012 1353,1012" rendition="Line" xml:id="facs_4_region_1581491599177_120l7"/>
+                <zone points="1348,974 2580,974 2580,1107 1348,1107" rendition="Line" xml:id="facs_4_region_1581491599177_120l8"/>
+                <zone points="1339,1075 2534,1075 2534,1172 1339,1172" rendition="Line" xml:id="facs_4_region_1581491599177_120l9"/>
+                <zone points="1338,1170 2574,1170 2574,1299 1338,1299" rendition="Line" xml:id="facs_4_region_1581491599177_120l10"/>
+                <zone points="1317,1276 2548,1276 2548,1395 1317,1395" rendition="Line" xml:id="facs_4_region_1581491599177_120l11"/>
+                <zone points="1339,1378 2549,1378 2549,1491 1339,1491" rendition="Line" xml:id="facs_4_region_1581491599177_120l12"/>
+                <zone points="1362,1467 1846,1467 1846,1580 1362,1580" rendition="Line" xml:id="facs_4_region_1581491599177_120l13"/>
             </zone>
-            <zone points="891,1612 1251,1612 1251,1786 891,1786" rendition="TextRegion"
-                xml:id="facs_4_region_1581491583033_114">
-                <zone points="930,1634 1240,1634 1240,1772 930,1772" rendition="Line"
-                    xml:id="facs_4_region_1581491583033_114l1"/>
+            <zone points="891,1612 1251,1612 1251,1786 891,1786" rendition="TextRegion" xml:id="facs_4_region_1581491583033_114">
+                <zone points="930,1634 1240,1634 1240,1772 930,1772" rendition="Line" xml:id="facs_4_region_1581491583033_114l1"/>
             </zone>
-            <zone points="1308,1615 2590,1615 2590,2424 1308,2424" rendition="TextRegion"
-                xml:id="facs_4_region_1581491590372_117">
-                <zone points="1383,1604 2548,1604 2548,1780 1383,1780" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l1"/>
-                <zone points="1356,1738 2474,1738 2474,1891 1356,1891" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l2"/>
-                <zone points="1344,1827 2594,1827 2594,1983 1344,1983" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l3"/>
-                <zone points="1336,1931 2594,1931 2594,2060 1336,2060" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l4"/>
-                <zone points="1339,2035 2572,2035 2572,2144 1339,2144" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l5"/>
-                <zone points="1332,2097 2524,2097 2524,2236 1332,2236" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l7"/>
-                <zone points="1345,2217 2531,2217 2531,2331 1345,2331" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l8"/>
-                <zone points="1358,2314 2348,2314 2348,2428 1358,2428" rendition="Line"
-                    xml:id="facs_4_region_1581491590372_117l9"/>
+            <zone points="1308,1615 2590,1615 2590,2424 1308,2424" rendition="TextRegion" xml:id="facs_4_region_1581491590372_117">
+                <zone points="1383,1604 2548,1604 2548,1780 1383,1780" rendition="Line" xml:id="facs_4_region_1581491590372_117l1"/>
+                <zone points="1356,1738 2474,1738 2474,1891 1356,1891" rendition="Line" xml:id="facs_4_region_1581491590372_117l2"/>
+                <zone points="1344,1827 2594,1827 2594,1983 1344,1983" rendition="Line" xml:id="facs_4_region_1581491590372_117l3"/>
+                <zone points="1336,1931 2594,1931 2594,2060 1336,2060" rendition="Line" xml:id="facs_4_region_1581491590372_117l4"/>
+                <zone points="1339,2035 2572,2035 2572,2144 1339,2144" rendition="Line" xml:id="facs_4_region_1581491590372_117l5"/>
+                <zone points="1332,2097 2524,2097 2524,2236 1332,2236" rendition="Line" xml:id="facs_4_region_1581491590372_117l7"/>
+                <zone points="1345,2217 2531,2217 2531,2331 1345,2331" rendition="Line" xml:id="facs_4_region_1581491590372_117l8"/>
+                <zone points="1358,2314 2348,2314 2348,2428 1358,2428" rendition="Line" xml:id="facs_4_region_1581491590372_117l9"/>
             </zone>
-            <zone points="1323,2448 2582,2448 2582,2817 1323,2817" rendition="TextRegion"
-                xml:id="facs_4_region_1581491570490_105">
-                <zone points="1518,2474 2569,2474 2569,2635 1518,2635" rendition="Line"
-                    xml:id="facs_4_region_1581491570490_105l1"/>
-                <zone points="1341,2582 2512,2582 2512,2683 1341,2683" rendition="Line"
-                    xml:id="facs_4_region_1581491570490_105l2"/>
-                <zone points="1363,2706 1975,2706 1975,2812 1363,2812" rendition="Line"
-                    xml:id="facs_4_region_1581491570490_105l3"/>
+            <zone points="1323,2448 2582,2448 2582,2817 1323,2817" rendition="TextRegion" xml:id="facs_4_region_1581491570490_105">
+                <zone points="1518,2474 2569,2474 2569,2635 1518,2635" rendition="Line" xml:id="facs_4_region_1581491570490_105l1"/>
+                <zone points="1341,2582 2512,2582 2512,2683 1341,2683" rendition="Line" xml:id="facs_4_region_1581491570490_105l2"/>
+                <zone points="1363,2706 1975,2706 1975,2812 1363,2812" rendition="Line" xml:id="facs_4_region_1581491570490_105l3"/>
             </zone>
-            <zone points="1310,2928 2592,2928 2592,3379 1310,3379" rendition="TextRegion"
-                xml:id="facs_4_region_1581491573279_108">
-                <zone points="1518,2957 2453,2957 2453,3099 1518,3099" rendition="Line"
-                    xml:id="facs_4_region_1581491573279_108l1"/>
-                <zone points="1351,3075 2500,3075 2500,3212 1351,3212" rendition="Line"
-                    xml:id="facs_4_region_1581491573279_108l2"/>
-                <zone points="1311,3187 2553,3187 2553,3307 1311,3307" rendition="Line"
-                    xml:id="facs_4_region_1581491573279_108l4"/>
-                <zone points="1314,3255 2578,3255 2578,3381 1314,3381" rendition="Line"
-                    xml:id="facs_4_region_1581491573279_108l5"/>
+            <zone points="1310,2928 2592,2928 2592,3379 1310,3379" rendition="TextRegion" xml:id="facs_4_region_1581491573279_108">
+                <zone points="1518,2957 2453,2957 2453,3099 1518,3099" rendition="Line" xml:id="facs_4_region_1581491573279_108l1"/>
+                <zone points="1351,3075 2500,3075 2500,3212 1351,3212" rendition="Line" xml:id="facs_4_region_1581491573279_108l2"/>
+                <zone points="1311,3187 2553,3187 2553,3307 1311,3307" rendition="Line" xml:id="facs_4_region_1581491573279_108l4"/>
+                <zone points="1314,3255 2578,3255 2578,3381 1314,3381" rendition="Line" xml:id="facs_4_region_1581491573279_108l5"/>
             </zone>
-            <zone points="1316,3417 2598,3417 2598,3954 1316,3954" rendition="TextRegion"
-                xml:id="facs_4_region_1581491576474_111">
-                <zone points="1536,3428 2507,3428 2507,3580 1536,3580" rendition="Line"
-                    xml:id="facs_4_region_1581491576474_111l1"/>
-                <zone points="1348,3544 2511,3544 2511,3660 1348,3660" rendition="Line"
-                    xml:id="facs_4_region_1581491576474_111l2"/>
-                <zone points="1341,3635 2522,3635 2522,3764 1341,3764" rendition="Line"
-                    xml:id="facs_4_region_1581491576474_111l3"/>
-                <zone points="1363,3716 2596,3716 2596,3867 1363,3867" rendition="Line"
-                    xml:id="facs_4_region_1581491576474_111l4"/>
-                <zone points="1356,3813 2591,3813 2591,3972 1356,3972" rendition="Line"
-                    xml:id="facs_4_region_1581491576474_111l5"/>
+            <zone points="1316,3417 2598,3417 2598,3954 1316,3954" rendition="TextRegion" xml:id="facs_4_region_1581491576474_111">
+                <zone points="1536,3428 2507,3428 2507,3580 1536,3580" rendition="Line" xml:id="facs_4_region_1581491576474_111l1"/>
+                <zone points="1348,3544 2511,3544 2511,3660 1348,3660" rendition="Line" xml:id="facs_4_region_1581491576474_111l2"/>
+                <zone points="1341,3635 2522,3635 2522,3764 1341,3764" rendition="Line" xml:id="facs_4_region_1581491576474_111l3"/>
+                <zone points="1363,3716 2596,3716 2596,3867 1363,3867" rendition="Line" xml:id="facs_4_region_1581491576474_111l4"/>
+                <zone points="1356,3813 2591,3813 2591,3972 1356,3972" rendition="Line" xml:id="facs_4_region_1581491576474_111l5"/>
             </zone>
         </surface>
         <surface lrx="2608" lry="4191" ulx="0" uly="0" xml:id="facs_5">
-            <graphic height="4191px"
-                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_05" width="2608px"/>
-            <zone points="1254,264 2545,264 2545,624 1254,624" rendition="TextRegion"
-                xml:id="facs_5_region_1581491649396_143">
-                <zone points="1332,313 2501,313 2501,435 1332,435" rendition="Line"
-                    xml:id="facs_5_region_1581491649396_143l1"/>
-                <zone points="1300,418 2546,418 2546,540 1300,540" rendition="Line"
-                    xml:id="facs_5_region_1581491649396_143l2"/>
-                <zone points="1305,506 2453,506 2453,643 1305,643" rendition="Line"
-                    xml:id="facs_5_region_1581491649396_143l3"/>
+            <graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_05" width="2608px"/>
+            <zone points="1254,264 2545,264 2545,624 1254,624" rendition="TextRegion" xml:id="facs_5_region_1581491649396_143">
+                <zone points="1332,313 2501,313 2501,435 1332,435" rendition="Line" xml:id="facs_5_region_1581491649396_143l1"/>
+                <zone points="1300,418 2546,418 2546,540 1300,540" rendition="Line" xml:id="facs_5_region_1581491649396_143l2"/>
+                <zone points="1305,506 2453,506 2453,643 1305,643" rendition="Line" xml:id="facs_5_region_1581491649396_143l3"/>
             </zone>
-            <zone points="1251,630 2577,630 2577,997 1251,997" rendition="TextRegion"
-                xml:id="facs_5_region_1581491653401_146">
-                <zone points="1461,667 2579,667 2579,839 1461,839" rendition="Line"
-                    xml:id="facs_5_region_1581491653401_146l1"/>
-                <zone points="1293,794 2553,794 2553,943 1293,943" rendition="Line"
-                    xml:id="facs_5_region_1581491653401_146l2"/>
-                <zone points="1304,874 1696,874 1696,1012 1304,1012" rendition="Line"
-                    xml:id="facs_5_region_1581491653401_146l3"/>
+            <zone points="1251,630 2577,630 2577,997 1251,997" rendition="TextRegion" xml:id="facs_5_region_1581491653401_146">
+                <zone points="1461,667 2579,667 2579,839 1461,839" rendition="Line" xml:id="facs_5_region_1581491653401_146l1"/>
+                <zone points="1293,794 2553,794 2553,943 1293,943" rendition="Line" xml:id="facs_5_region_1581491653401_146l2"/>
+                <zone points="1304,874 1696,874 1696,1012 1304,1012" rendition="Line" xml:id="facs_5_region_1581491653401_146l3"/>
             </zone>
-            <zone points="1251,1031 2584,1031 2584,1577 1251,1577" rendition="TextRegion"
-                xml:id="facs_5_region_1581491640530_140">
-                <zone points="1424,1059 2550,1059 2550,1220 1424,1220" rendition="Line"
-                    xml:id="facs_5_region_1581491640530_140l1"/>
-                <zone points="1295,1179 2448,1179 2448,1316 1295,1316" rendition="Line"
-                    xml:id="facs_5_region_1581491640530_140l2"/>
-                <zone points="1288,1260 2581,1260 2581,1402 1288,1402" rendition="Line"
-                    xml:id="facs_5_region_1581491640530_140l3"/>
-                <zone points="1278,1371 2557,1371 2557,1508 1278,1508" rendition="Line"
-                    xml:id="facs_5_region_1581491640530_140l4"/>
-                <zone points="1260,1467 1948,1467 1948,1595 1260,1595" rendition="Line"
-                    xml:id="facs_5_region_1581491640530_140l5"/>
+            <zone points="1251,1031 2584,1031 2584,1577 1251,1577" rendition="TextRegion" xml:id="facs_5_region_1581491640530_140">
+                <zone points="1424,1059 2550,1059 2550,1220 1424,1220" rendition="Line" xml:id="facs_5_region_1581491640530_140l1"/>
+                <zone points="1295,1179 2448,1179 2448,1316 1295,1316" rendition="Line" xml:id="facs_5_region_1581491640530_140l2"/>
+                <zone points="1288,1260 2581,1260 2581,1402 1288,1402" rendition="Line" xml:id="facs_5_region_1581491640530_140l3"/>
+                <zone points="1278,1371 2557,1371 2557,1508 1278,1508" rendition="Line" xml:id="facs_5_region_1581491640530_140l4"/>
+                <zone points="1260,1467 1948,1467 1948,1595 1260,1595" rendition="Line" xml:id="facs_5_region_1581491640530_140l5"/>
             </zone>
-            <zone points="1258,1751 2423,1751 2423,2070 1258,2070" rendition="TextRegion"
-                xml:id="facs_5_region_1581491630356_134">
-                <zone points="1374,1785 2363,1785 2363,1955 1374,1955" rendition="Line"
-                    xml:id="facs_5_region_1581491630356_134l2"/>
-                <zone points="1288,1930 1684,1930 1684,2060 1288,2060" rendition="Line"
-                    xml:id="facs_5_region_1581491630356_134l3"/>
+            <zone points="1258,1751 2423,1751 2423,2070 1258,2070" rendition="TextRegion" xml:id="facs_5_region_1581491630356_134">
+                <zone points="1374,1785 2363,1785 2363,1955 1374,1955" rendition="Line" xml:id="facs_5_region_1581491630356_134l2"/>
+                <zone points="1288,1930 1684,1930 1684,2060 1288,2060" rendition="Line" xml:id="facs_5_region_1581491630356_134l3"/>
             </zone>
-            <zone points="1242,2082 2590,2082 2590,2619 1242,2619" rendition="TextRegion"
-                xml:id="facs_5_region_1581491635342_137">
-                <zone points="1414,2107 2571,2107 2571,2259 1414,2259" rendition="Line"
-                    xml:id="facs_5_region_1581491635342_137l1"/>
-                <zone points="1306,2219 2565,2219 2565,2333 1306,2333" rendition="Line"
-                    xml:id="facs_5_region_1581491635342_137l2"/>
-                <zone points="1278,2315 2583,2315 2583,2443 1278,2443" rendition="Line"
-                    xml:id="facs_5_region_1581491635342_137l3"/>
-                <zone points="1287,2418 2577,2418 2577,2534 1287,2534" rendition="Line"
-                    xml:id="facs_5_region_1581491635342_137l4"/>
-                <zone points="1308,2526 2394,2526 2394,2587 1308,2587" rendition="Line"
-                    xml:id="facs_5_region_1581491635342_137l5"/>
+            <zone points="1242,2082 2590,2082 2590,2619 1242,2619" rendition="TextRegion" xml:id="facs_5_region_1581491635342_137">
+                <zone points="1414,2107 2571,2107 2571,2259 1414,2259" rendition="Line" xml:id="facs_5_region_1581491635342_137l1"/>
+                <zone points="1306,2219 2565,2219 2565,2333 1306,2333" rendition="Line" xml:id="facs_5_region_1581491635342_137l2"/>
+                <zone points="1278,2315 2583,2315 2583,2443 1278,2443" rendition="Line" xml:id="facs_5_region_1581491635342_137l3"/>
+                <zone points="1287,2418 2577,2418 2577,2534 1287,2534" rendition="Line" xml:id="facs_5_region_1581491635342_137l4"/>
+                <zone points="1308,2526 2394,2526 2394,2587 1308,2587" rendition="Line" xml:id="facs_5_region_1581491635342_137l5"/>
             </zone>
-            <zone points="1252,2668 2588,2668 2588,3817 1252,3817" rendition="TextRegion"
-                xml:id="facs_5_region_1581491624014_131">
-                <zone points="1473,2690 2522,2690 2522,2826 1473,2826" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l1"/>
-                <zone points="1309,2795 2510,2795 2510,2900 1309,2900" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l2"/>
-                <zone points="1281,2882 2533,2882 2533,2988 1281,2988" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l3"/>
-                <zone points="1309,2987 2581,2987 2581,3112 1309,3112" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l5"/>
-                <zone points="1287,3075 2564,3075 2564,3188 1287,3188" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l6"/>
-                <zone points="1296,3140 2573,3140 2573,3277 1296,3277" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l8"/>
-                <zone points="1282,3238 2573,3238 2573,3395 1282,3395" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l9"/>
-                <zone points="1285,3346 2572,3346 2572,3468 1285,3468" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l10"/>
-                <zone points="1302,3451 2523,3451 2523,3564 1302,3564" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l11"/>
-                <zone points="1274,3550 2589,3550 2589,3676 1274,3676" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l12"/>
-                <zone points="1299,3642 2583,3642 2583,3765 1299,3765" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l13"/>
-                <zone points="1291,3760 1490,3760 1490,3829 1291,3829" rendition="Line"
-                    xml:id="facs_5_region_1581491624014_131l14"/>
+            <zone points="1252,2668 2588,2668 2588,3817 1252,3817" rendition="TextRegion" xml:id="facs_5_region_1581491624014_131">
+                <zone points="1473,2690 2522,2690 2522,2826 1473,2826" rendition="Line" xml:id="facs_5_region_1581491624014_131l1"/>
+                <zone points="1309,2795 2510,2795 2510,2900 1309,2900" rendition="Line" xml:id="facs_5_region_1581491624014_131l2"/>
+                <zone points="1281,2882 2533,2882 2533,2988 1281,2988" rendition="Line" xml:id="facs_5_region_1581491624014_131l3"/>
+                <zone points="1309,2987 2581,2987 2581,3112 1309,3112" rendition="Line" xml:id="facs_5_region_1581491624014_131l5"/>
+                <zone points="1287,3075 2564,3075 2564,3188 1287,3188" rendition="Line" xml:id="facs_5_region_1581491624014_131l6"/>
+                <zone points="1296,3140 2573,3140 2573,3277 1296,3277" rendition="Line" xml:id="facs_5_region_1581491624014_131l8"/>
+                <zone points="1282,3238 2573,3238 2573,3395 1282,3395" rendition="Line" xml:id="facs_5_region_1581491624014_131l9"/>
+                <zone points="1285,3346 2572,3346 2572,3468 1285,3468" rendition="Line" xml:id="facs_5_region_1581491624014_131l10"/>
+                <zone points="1302,3451 2523,3451 2523,3564 1302,3564" rendition="Line" xml:id="facs_5_region_1581491624014_131l11"/>
+                <zone points="1274,3550 2589,3550 2589,3676 1274,3676" rendition="Line" xml:id="facs_5_region_1581491624014_131l12"/>
+                <zone points="1299,3642 2583,3642 2583,3765 1299,3765" rendition="Line" xml:id="facs_5_region_1581491624014_131l13"/>
+                <zone points="1291,3760 1490,3760 1490,3829 1291,3829" rendition="Line" xml:id="facs_5_region_1581491624014_131l14"/>
             </zone>
-            <zone points="1435,3814 2566,3814 2566,3963 1435,3963" rendition="TextRegion"
-                xml:id="facs_5_region_1581491618389_128">
-                <zone points="1467,3803 2557,3803 2557,3957 1467,3957" rendition="Line"
-                    xml:id="facs_5_region_1581491618389_128l1"/>
+            <zone points="1435,3814 2566,3814 2566,3963 1435,3963" rendition="TextRegion" xml:id="facs_5_region_1581491618389_128">
+                <zone points="1467,3803 2557,3803 2557,3957 1467,3957" rendition="Line" xml:id="facs_5_region_1581491618389_128l1"/>
             </zone>
         </surface>
         <surface lrx="2608" lry="4191" ulx="0" uly="0" xml:id="facs_6">
-            <graphic height="4191px"
-                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_06" width="2608px"/>
-            <zone points="1320,305 1699,305 1699,428 1320,428" rendition="TextRegion"
-                xml:id="facs_6_region_1581491663624_152">
-                <zone points="1368,329 1688,329 1688,435 1368,435" rendition="Line"
-                    xml:id="facs_6_region_1581491663624_152l1"/>
+            <graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_06" width="2608px"/>
+            <zone points="1320,305 1699,305 1699,428 1320,428" rendition="TextRegion" xml:id="facs_6_region_1581491663624_152">
+                <zone points="1368,329 1688,329 1688,435 1368,435" rendition="Line" xml:id="facs_6_region_1581491663624_152l1"/>
             </zone>
-            <zone points="1303,430 2598,430 2598,1943 1303,1943" rendition="TextRegion"
-                xml:id="facs_6_region_1581491673658_155">
-                <zone points="1475,411 2529,411 2529,556 1475,556" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l1"/>
-                <zone points="1332,490 2504,490 2504,659 1332,659" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l2"/>
-                <zone points="1326,612 2547,612 2547,756 1326,756" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l3"/>
-                <zone points="1338,731 2536,731 2536,835 1338,835" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l4"/>
-                <zone points="1340,795 2575,795 2575,952 1340,952" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l5"/>
-                <zone points="1324,907 2550,907 2550,1017 1324,1017" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l6"/>
-                <zone points="1333,995 2529,995 2529,1116 1333,1116" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l7"/>
-                <zone points="1349,1091 2442,1091 2442,1203 1349,1203" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l8"/>
-                <zone points="1338,1187 2504,1187 2504,1307 1338,1307" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l9"/>
-                <zone points="1333,1290 2516,1290 2516,1412 1333,1412" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l10"/>
-                <zone points="1315,1389 2508,1389 2508,1492 1315,1492" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l11"/>
-                <zone points="1317,1490 2571,1490 2571,1604 1317,1604" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l12"/>
-                <zone points="1330,1586 2565,1586 2565,1717 1330,1717" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l13"/>
-                <zone points="1336,1667 2582,1667 2582,1765 1336,1765" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l14"/>
-                <zone points="1324,1781 2594,1781 2594,1885 1324,1885" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l15"/>
-                <zone points="1302,1843 1952,1843 1952,1955 1302,1955" rendition="Line"
-                    xml:id="facs_6_region_1581491673658_155l16"/>
+            <zone points="1303,430 2598,430 2598,1943 1303,1943" rendition="TextRegion" xml:id="facs_6_region_1581491673658_155">
+                <zone points="1475,411 2529,411 2529,556 1475,556" rendition="Line" xml:id="facs_6_region_1581491673658_155l1"/>
+                <zone points="1332,490 2504,490 2504,659 1332,659" rendition="Line" xml:id="facs_6_region_1581491673658_155l2"/>
+                <zone points="1326,612 2547,612 2547,756 1326,756" rendition="Line" xml:id="facs_6_region_1581491673658_155l3"/>
+                <zone points="1338,731 2536,731 2536,835 1338,835" rendition="Line" xml:id="facs_6_region_1581491673658_155l4"/>
+                <zone points="1340,795 2575,795 2575,952 1340,952" rendition="Line" xml:id="facs_6_region_1581491673658_155l5"/>
+                <zone points="1324,907 2550,907 2550,1017 1324,1017" rendition="Line" xml:id="facs_6_region_1581491673658_155l6"/>
+                <zone points="1333,995 2529,995 2529,1116 1333,1116" rendition="Line" xml:id="facs_6_region_1581491673658_155l7"/>
+                <zone points="1349,1091 2442,1091 2442,1203 1349,1203" rendition="Line" xml:id="facs_6_region_1581491673658_155l8"/>
+                <zone points="1338,1187 2504,1187 2504,1307 1338,1307" rendition="Line" xml:id="facs_6_region_1581491673658_155l9"/>
+                <zone points="1333,1290 2516,1290 2516,1412 1333,1412" rendition="Line" xml:id="facs_6_region_1581491673658_155l10"/>
+                <zone points="1315,1389 2508,1389 2508,1492 1315,1492" rendition="Line" xml:id="facs_6_region_1581491673658_155l11"/>
+                <zone points="1317,1490 2571,1490 2571,1604 1317,1604" rendition="Line" xml:id="facs_6_region_1581491673658_155l12"/>
+                <zone points="1330,1586 2565,1586 2565,1717 1330,1717" rendition="Line" xml:id="facs_6_region_1581491673658_155l13"/>
+                <zone points="1336,1667 2582,1667 2582,1765 1336,1765" rendition="Line" xml:id="facs_6_region_1581491673658_155l14"/>
+                <zone points="1324,1781 2594,1781 2594,1885 1324,1885" rendition="Line" xml:id="facs_6_region_1581491673658_155l15"/>
+                <zone points="1302,1843 1952,1843 1952,1955 1302,1955" rendition="Line" xml:id="facs_6_region_1581491673658_155l16"/>
             </zone>
-            <zone points="1299,1939 2596,1939 2596,2978 1299,2978" rendition="TextRegion"
-                xml:id="facs_6_region_1581491683521_158">
-                <zone points="1493,1933 2572,1933 2572,2077 1493,2077" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l1"/>
-                <zone points="1336,2035 2586,2035 2586,2155 1336,2155" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l2"/>
-                <zone points="1322,2146 2566,2146 2566,2276 1322,2276" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l3"/>
-                <zone points="1344,2205 2559,2205 2559,2354 1344,2354" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l4"/>
-                <zone points="1319,2316 2519,2316 2519,2459 1319,2459" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l5"/>
-                <zone points="1323,2411 2552,2411 2552,2523 1323,2523" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l6"/>
-                <zone points="1311,2483 2531,2483 2531,2627 1311,2627" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l7"/>
-                <zone points="1317,2608 2456,2608 2456,2723 1317,2723" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l8"/>
-                <zone points="1326,2713 2571,2713 2571,2828 1326,2828" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l10"/>
-                <zone points="1339,2796 2500,2796 2500,2932 1339,2932" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l12"/>
-                <zone points="1316,2884 1704,2884 1704,2979 1316,2979" rendition="Line"
-                    xml:id="facs_6_region_1581491683521_158l13"/>
+            <zone points="1299,1939 2596,1939 2596,2978 1299,2978" rendition="TextRegion" xml:id="facs_6_region_1581491683521_158">
+                <zone points="1493,1933 2572,1933 2572,2077 1493,2077" rendition="Line" xml:id="facs_6_region_1581491683521_158l1"/>
+                <zone points="1336,2035 2586,2035 2586,2155 1336,2155" rendition="Line" xml:id="facs_6_region_1581491683521_158l2"/>
+                <zone points="1322,2146 2566,2146 2566,2276 1322,2276" rendition="Line" xml:id="facs_6_region_1581491683521_158l3"/>
+                <zone points="1344,2205 2559,2205 2559,2354 1344,2354" rendition="Line" xml:id="facs_6_region_1581491683521_158l4"/>
+                <zone points="1319,2316 2519,2316 2519,2459 1319,2459" rendition="Line" xml:id="facs_6_region_1581491683521_158l5"/>
+                <zone points="1323,2411 2552,2411 2552,2523 1323,2523" rendition="Line" xml:id="facs_6_region_1581491683521_158l6"/>
+                <zone points="1311,2483 2531,2483 2531,2627 1311,2627" rendition="Line" xml:id="facs_6_region_1581491683521_158l7"/>
+                <zone points="1317,2608 2456,2608 2456,2723 1317,2723" rendition="Line" xml:id="facs_6_region_1581491683521_158l8"/>
+                <zone points="1326,2713 2571,2713 2571,2828 1326,2828" rendition="Line" xml:id="facs_6_region_1581491683521_158l10"/>
+                <zone points="1339,2796 2500,2796 2500,2932 1339,2932" rendition="Line" xml:id="facs_6_region_1581491683521_158l12"/>
+                <zone points="1316,2884 1704,2884 1704,2979 1316,2979" rendition="Line" xml:id="facs_6_region_1581491683521_158l13"/>
             </zone>
-            <zone points="1305,2978 2599,2978 2599,3973 1305,3973" rendition="TextRegion"
-                xml:id="facs_6_region_1581491692372_161">
-                <zone points="1459,2971 2565,2971 2565,3109 1459,3109" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l1"/>
-                <zone points="1336,3083 2543,3083 2543,3204 1336,3204" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l2"/>
-                <zone points="1338,3172 2582,3172 2582,3293 1338,3293" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l3"/>
-                <zone points="1329,3248 2540,3248 2540,3388 1329,3388" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l4"/>
-                <zone points="1338,3337 2558,3337 2558,3485 1338,3485" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l5"/>
-                <zone points="1317,3437 2593,3437 2593,3588 1317,3588" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l6"/>
-                <zone points="1327,3555 2543,3555 2543,3696 1327,3696" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l7"/>
-                <zone points="1344,3663 2568,3663 2568,3786 1344,3786" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l8"/>
-                <zone points="1338,3746 2562,3746 2562,3876 1338,3876" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l9"/>
-                <zone points="1356,3841 2530,3841 2530,3956 1356,3956" rendition="Line"
-                    xml:id="facs_6_region_1581491692372_161l10"/>
+            <zone points="1305,2978 2599,2978 2599,3973 1305,3973" rendition="TextRegion" xml:id="facs_6_region_1581491692372_161">
+                <zone points="1459,2971 2565,2971 2565,3109 1459,3109" rendition="Line" xml:id="facs_6_region_1581491692372_161l1"/>
+                <zone points="1336,3083 2543,3083 2543,3204 1336,3204" rendition="Line" xml:id="facs_6_region_1581491692372_161l2"/>
+                <zone points="1338,3172 2582,3172 2582,3293 1338,3293" rendition="Line" xml:id="facs_6_region_1581491692372_161l3"/>
+                <zone points="1329,3248 2540,3248 2540,3388 1329,3388" rendition="Line" xml:id="facs_6_region_1581491692372_161l4"/>
+                <zone points="1338,3337 2558,3337 2558,3485 1338,3485" rendition="Line" xml:id="facs_6_region_1581491692372_161l5"/>
+                <zone points="1317,3437 2593,3437 2593,3588 1317,3588" rendition="Line" xml:id="facs_6_region_1581491692372_161l6"/>
+                <zone points="1327,3555 2543,3555 2543,3696 1327,3696" rendition="Line" xml:id="facs_6_region_1581491692372_161l7"/>
+                <zone points="1344,3663 2568,3663 2568,3786 1344,3786" rendition="Line" xml:id="facs_6_region_1581491692372_161l8"/>
+                <zone points="1338,3746 2562,3746 2562,3876 1338,3876" rendition="Line" xml:id="facs_6_region_1581491692372_161l9"/>
+                <zone points="1356,3841 2530,3841 2530,3956 1356,3956" rendition="Line" xml:id="facs_6_region_1581491692372_161l10"/>
             </zone>
         </surface>
         <surface lrx="2608" lry="4191" ulx="0" uly="0" xml:id="facs_7">
-            <graphic height="4191px"
-                url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_07" width="2608px"/>
-            <zone points="1249,360 2579,360 2579,1911 1249,1911" rendition="TextRegion"
-                xml:id="facs_7_region_1581491720589_173">
-                <zone points="1346,403 2534,403 2534,507 1346,507" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l3"/>
-                <zone points="1309,475 2539,475 2539,602 1309,602" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l6"/>
-                <zone points="1291,587 2483,587 2483,684 1291,684" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l7"/>
-                <zone points="1306,682 2516,682 2516,813 1306,813" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l8"/>
-                <zone points="1310,750 2468,750 2468,884 1310,884" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l9"/>
-                <zone points="1320,858 2512,858 2512,995 1320,995" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l10"/>
-                <zone points="1312,947 2574,947 2574,1106 1312,1106" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l11"/>
-                <zone points="1303,1061 2525,1061 2525,1188 1303,1188" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l12"/>
-                <zone points="1312,1126 2510,1126 2510,1283 1312,1283" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l13"/>
-                <zone points="1302,1252 2545,1252 2545,1371 1302,1371" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l14"/>
-                <zone points="1304,1331 2563,1331 2563,1491 1304,1491" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l15"/>
-                <zone points="1291,1409 2561,1409 2561,1563 1291,1563" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l16"/>
-                <zone points="1281,1509 2544,1509 2544,1627 1281,1627" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l17"/>
-                <zone points="1339,1607 2528,1607 2528,1763 1339,1763" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l18"/>
-                <zone points="1324,1739 2540,1739 2540,1860 1324,1860" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l19"/>
-                <zone points="1319,1798 2558,1798 2558,1959 1319,1959" rendition="Line"
-                    xml:id="facs_7_region_1581491720589_173l20"/>
+            <graphic height="4191px" url="https://diarium-images.acdh-dev.oeaw.ac.at/ph/C_0074_Seite_07" width="2608px"/>
+            <zone points="1249,360 2579,360 2579,1911 1249,1911" rendition="TextRegion" xml:id="facs_7_region_1581491720589_173">
+                <zone points="1346,403 2534,403 2534,507 1346,507" rendition="Line" xml:id="facs_7_region_1581491720589_173l3"/>
+                <zone points="1309,475 2539,475 2539,602 1309,602" rendition="Line" xml:id="facs_7_region_1581491720589_173l6"/>
+                <zone points="1291,587 2483,587 2483,684 1291,684" rendition="Line" xml:id="facs_7_region_1581491720589_173l7"/>
+                <zone points="1306,682 2516,682 2516,813 1306,813" rendition="Line" xml:id="facs_7_region_1581491720589_173l8"/>
+                <zone points="1310,750 2468,750 2468,884 1310,884" rendition="Line" xml:id="facs_7_region_1581491720589_173l9"/>
+                <zone points="1320,858 2512,858 2512,995 1320,995" rendition="Line" xml:id="facs_7_region_1581491720589_173l10"/>
+                <zone points="1312,947 2574,947 2574,1106 1312,1106" rendition="Line" xml:id="facs_7_region_1581491720589_173l11"/>
+                <zone points="1303,1061 2525,1061 2525,1188 1303,1188" rendition="Line" xml:id="facs_7_region_1581491720589_173l12"/>
+                <zone points="1312,1126 2510,1126 2510,1283 1312,1283" rendition="Line" xml:id="facs_7_region_1581491720589_173l13"/>
+                <zone points="1302,1252 2545,1252 2545,1371 1302,1371" rendition="Line" xml:id="facs_7_region_1581491720589_173l14"/>
+                <zone points="1304,1331 2563,1331 2563,1491 1304,1491" rendition="Line" xml:id="facs_7_region_1581491720589_173l15"/>
+                <zone points="1291,1409 2561,1409 2561,1563 1291,1563" rendition="Line" xml:id="facs_7_region_1581491720589_173l16"/>
+                <zone points="1281,1509 2544,1509 2544,1627 1281,1627" rendition="Line" xml:id="facs_7_region_1581491720589_173l17"/>
+                <zone points="1339,1607 2528,1607 2528,1763 1339,1763" rendition="Line" xml:id="facs_7_region_1581491720589_173l18"/>
+                <zone points="1324,1739 2540,1739 2540,1860 1324,1860" rendition="Line" xml:id="facs_7_region_1581491720589_173l19"/>
+                <zone points="1319,1798 2558,1798 2558,1959 1319,1959" rendition="Line" xml:id="facs_7_region_1581491720589_173l20"/>
             </zone>
-            <zone points="1295,1911 2583,1911 2583,2700 1295,2700" rendition="TextRegion"
-                xml:id="facs_7_region_1581491710727_170">
-                <zone points="1428,1908 2560,1908 2560,2036 1428,2036" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l1"/>
-                <zone points="1320,1993 2547,1993 2547,2116 1320,2116" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l2"/>
-                <zone points="1327,2093 2546,2093 2546,2219 1327,2219" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l3"/>
-                <zone points="1341,2194 2431,2194 2431,2323 1341,2323" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l4"/>
-                <zone points="1306,2291 2525,2291 2525,2403 1306,2403" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l5"/>
-                <zone points="1299,2364 2563,2364 2563,2484 1299,2484" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l6"/>
-                <zone points="1311,2453 2582,2453 2582,2619 1311,2619" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l7"/>
-                <zone points="1321,2595 1776,2595 1776,2708 1321,2708" rendition="Line"
-                    xml:id="facs_7_region_1581491710727_170l8"/>
+            <zone points="1295,1911 2583,1911 2583,2700 1295,2700" rendition="TextRegion" xml:id="facs_7_region_1581491710727_170">
+                <zone points="1428,1908 2560,1908 2560,2036 1428,2036" rendition="Line" xml:id="facs_7_region_1581491710727_170l1"/>
+                <zone points="1320,1993 2547,1993 2547,2116 1320,2116" rendition="Line" xml:id="facs_7_region_1581491710727_170l2"/>
+                <zone points="1327,2093 2546,2093 2546,2219 1327,2219" rendition="Line" xml:id="facs_7_region_1581491710727_170l3"/>
+                <zone points="1341,2194 2431,2194 2431,2323 1341,2323" rendition="Line" xml:id="facs_7_region_1581491710727_170l4"/>
+                <zone points="1306,2291 2525,2291 2525,2403 1306,2403" rendition="Line" xml:id="facs_7_region_1581491710727_170l5"/>
+                <zone points="1299,2364 2563,2364 2563,2484 1299,2484" rendition="Line" xml:id="facs_7_region_1581491710727_170l6"/>
+                <zone points="1311,2453 2582,2453 2582,2619 1311,2619" rendition="Line" xml:id="facs_7_region_1581491710727_170l7"/>
+                <zone points="1321,2595 1776,2595 1776,2708 1321,2708" rendition="Line" xml:id="facs_7_region_1581491710727_170l8"/>
             </zone>
-            <zone points="1794,2706 2239,2706 2239,2930 1794,2930" rendition="TextRegion"
-                xml:id="facs_7_region_1581491704806_167">
-                <zone points="1956,2706 2230,2706 2230,2898 1956,2898" rendition="Line"
-                    xml:id="facs_7_region_1581491704806_167l1"/>
+            <zone points="1794,2706 2239,2706 2239,2930 1794,2930" rendition="TextRegion" xml:id="facs_7_region_1581491704806_167">
+                <zone points="1956,2706 2230,2706 2230,2898 1956,2898" rendition="Line" xml:id="facs_7_region_1581491704806_167l1"/>
             </zone>
         </surface>
     </facsimile>
