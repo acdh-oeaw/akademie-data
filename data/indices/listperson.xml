@@ -4873,7 +4873,7 @@
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49878/</idno>
                <idno type="paas">49878</idno>
             </person>
-            <person xml:id="typaldos-kozakis-kozakes-tupaldos-georgios-georgios">
+            <person xml:id="typaldos-kozakis-georgios">
                <persName>
                   <surname>Typaldos Kozakis/ Κοζάκης-Τυπάλδος</surname>
                   <forename>Georgios/Γεώργιος</forename>
@@ -9540,13 +9540,13 @@
                   <forename>NN</forename>
                </persName>
             </person>
-                        <person xml:id="leibniz-gottfried-wilhelm">
+            <person xml:id="leibniz-gottfried-wilhelm">
                <persName>
                   <surname>Leibniz</surname>
                   <forename>Gottfried Wilhelm</forename>
                </persName>
-               </person>
-                           <person xml:id="vetter-heinrich">
+            </person>
+            <person xml:id="vetter-heinrich">
                <persName>
                   <surname>Vetter</surname>
                   <forename>Heinrich</forename>
@@ -9559,18 +9559,17 @@
                   <date when="1866-02-01">01.02.1866</date>
                   <placeName xmlns="http://www.tei-c.org/ns/1.0">Wien</placeName>
                </death>
-               <occupation code="#4138" scheme="#apis_vocabularies/professiontype/"
-                  >Diener</occupation>
+               <occupation code="#4138" scheme="#apis_vocabularies/professiontype/">Diener</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49390/</idno>
                <idno type="paas">49390</idno>
-               </person>
-                           <person xml:id="natterer-johann">
+            </person>
+            <person xml:id="natterer-johann">
                <persName>
                   <surname>Natterer</surname>
                   <forename>Johann</forename>
                </persName>
-               </person>
-                           <person xml:id="hruschauer-franz">
+            </person>
+            <person xml:id="hruschauer-franz">
                <persName>
                   <surname>Hruschauer</surname>
                   <addName>Dr. med.</addName>
@@ -9583,14 +9582,12 @@
                <death>
                   <date when="1858-06-21">21.06.1858</date>
                </death>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
-               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/"
-                  >Arzt</occupation>
+               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/">Chemiker</occupation>
+               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/">Arzt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/120922150</idno>
                <idno type="paas">2992</idno>
-               </person>
-                <person xml:id="moth-franz">
+            </person>
+            <person xml:id="moth-franz">
                <persName>
                   <surname>Moth</surname>
                   <forename>Franz</forename>
@@ -9602,12 +9599,11 @@
                <death>
                   <date when="1879-05-07">07.05.1879</date>
                </death>
-               <occupation code="#3651" scheme="#apis_vocabularies/professiontype/"
-                  >Mathematiker</occupation>
+               <occupation code="#3651" scheme="#apis_vocabularies/professiontype/">Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1015364284</idno>
                <idno type="paas">4522</idno>
-               </person>
-                           <person xml:id="gmelin-leopold">
+            </person>
+            <person xml:id="gmelin-leopold">
                <persName>
                   <surname>Gmelin</surname>
                   <forename>Leopold</forename>
@@ -9619,12 +9615,11 @@
                <death>
                   <date when="1853-04-13">13.04.1853</date>
                </death>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
+               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/">Chemiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118852655</idno>
                <idno type="paas">2277</idno>
-               </person>
-               <person xml:id="madler-johann-heinrich">
+            </person>
+            <person xml:id="madler-johann-heinrich">
                <persName>
                   <surname>Mädler</surname>
                   <forename>Johann Heinrich</forename>
@@ -9636,12 +9631,11 @@
                <death>
                   <date when="1874-03-14">14.03.1874</date>
                </death>
-               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/"
-                  >Astronom</occupation>
+               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/">Astronom</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118761439</idno>
                <idno type="paas">4132</idno>
-               </person>
-               <person xml:id="schleiden-matthias-jakob">
+            </person>
+            <person xml:id="schleiden-matthias-jakob">
                <persName>
                   <surname>Schleiden</surname>
                   <addName>von</addName>
@@ -9655,16 +9649,13 @@
                <death>
                   <date when="1881-06-23">23.06.1881</date>
                </death>
-               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
-                  >Naturwissenschaftler</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
+               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/">Naturwissenschaftler</occupation>
+               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/">Botaniker</occupation>
+               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/">Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118852116</idno>
                <idno type="paas">5640</idno>
-               </person>
-                           <person xml:id="petrina-franz-adam">
+            </person>
+            <person xml:id="petrina-franz-adam">
                <persName>
                   <surname>Petrina</surname>
                   <addName>Dr. phil.</addName>
@@ -9678,14 +9669,12 @@
                   <date when="1855-06-27">27.06.1855</date>
                   <placeName>Prag</placeName>
                </death>
-               <occupation code="#3631" scheme="#apis_vocabularies/professiontype/"
-                  >Physiker</occupation>
-               <occupation code="#3651" scheme="#apis_vocabularies/professiontype/"
-                  >Mathematiker</occupation>
+               <occupation code="#3631" scheme="#apis_vocabularies/professiontype/">Physiker</occupation>
+               <occupation code="#3651" scheme="#apis_vocabularies/professiontype/">Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10417353X</idno>
                <idno type="paas">4935</idno>
-               </person>
-                  <person xml:id="corda-august-josef">
+            </person>
+            <person xml:id="corda-august-josef">
                <persName>
                   <surname>Corda</surname>
                   <forename>August Josef</forename>
@@ -9696,22 +9685,16 @@
                <death>
                   <date when="1849-09-01">01.09.1849</date>
                </death>
-               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
-                  >Naturwissenschaftler</occupation>
-               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/"
-                  >Paläontologe</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
-               <occupation code="#3774" scheme="#apis_vocabularies/professiontype/"
-                  >Zeichner</occupation>
-               <occupation code="#3880" scheme="#apis_vocabularies/professiontype/"
-                  >Lithograf</occupation>
-               <occupation code="#3945" scheme="#apis_vocabularies/professiontype/"
-                  >Mykologe</occupation>
+               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/">Naturwissenschaftler</occupation>
+               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/">Paläontologe</occupation>
+               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/">Botaniker</occupation>
+               <occupation code="#3774" scheme="#apis_vocabularies/professiontype/">Zeichner</occupation>
+               <occupation code="#3880" scheme="#apis_vocabularies/professiontype/">Lithograf</occupation>
+               <occupation code="#3945" scheme="#apis_vocabularies/professiontype/">Mykologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11667153X</idno>
                <idno type="paas">1356</idno>
-               </person>
-                           <person xml:id="humboldt-von-alexander-friedrich">
+            </person>
+            <person xml:id="humboldt-von-alexander-friedrich">
                <persName>
                   <surname>Humboldt</surname>
                   <addName>Freiherr von</addName>
@@ -9725,24 +9708,18 @@
                <death>
                   <date when="1859-05-06">06.05.1859</date>
                </death>
-               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
-                  >Naturwissenschaftler</occupation>
-               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/"
-                  >Arzt</occupation>
-               <occupation code="#3653" scheme="#apis_vocabularies/professiontype/"
-                  >Forschungsreisender</occupation>
-               <occupation code="#3656" scheme="#apis_vocabularies/professiontype/"
-                  >Geograf</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
+               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/">Naturwissenschaftler</occupation>
+               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/">Arzt</occupation>
+               <occupation code="#3653" scheme="#apis_vocabularies/professiontype/">Forschungsreisender</occupation>
+               <occupation code="#3656" scheme="#apis_vocabularies/professiontype/">Geograf</occupation>
+               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/">Schriftsteller</occupation>
                <occupation code="#3807" scheme="#apis_vocabularies/professiontype/">Geheimer
                   Rat</occupation>
-               <occupation code="#3949" scheme="#apis_vocabularies/professiontype/"
-                  >Gelehrter</occupation>
+               <occupation code="#3949" scheme="#apis_vocabularies/professiontype/">Gelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118554700</idno>
                <idno type="paas">3020</idno>
-               </person>
-                           <person xml:id="buch-leopold">
+            </person>
+            <person xml:id="buch-leopold">
                <persName>
                   <surname>Buch</surname>
                   <addName>von</addName>
@@ -9756,16 +9733,13 @@
                <death>
                   <date when="1853-03-04">04.03.1853</date>
                </death>
-               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/"
-                  >Geologe</occupation>
-               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/"
-                  >Paläontologe</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
+               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/">Geologe</occupation>
+               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/">Paläontologe</occupation>
+               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/">Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116817569</idno>
                <idno type="paas">1176</idno>
-               </person>
-                 <person xml:id="brown-robert">
+            </person>
+            <person xml:id="brown-robert">
                <persName>
                   <surname>Brown</surname>
                   <forename>Robert</forename>
@@ -9777,16 +9751,13 @@
                <death>
                   <date when="1858-06-10">10.06.1858</date>
                </death>
-               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
-                  >Naturwissenschaftler</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
-               <occupation code="#3670" scheme="#apis_vocabularies/professiontype/"
-                  >Biologe</occupation>
+               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/">Naturwissenschaftler</occupation>
+               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/">Botaniker</occupation>
+               <occupation code="#3670" scheme="#apis_vocabularies/professiontype/">Biologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118674455</idno>
                <idno type="paas">1135</idno>
-               </person>
-                           <person xml:id="mitscherlich-eilhard">
+            </person>
+            <person xml:id="mitscherlich-eilhard">
                <persName>
                   <surname>Mitscherlich</surname>
                   <forename>Eilhard</forename>
@@ -9798,14 +9769,12 @@
                <death>
                   <date when="1863-08-28">28.08.1863</date>
                </death>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
-               <occupation code="#3629" scheme="#apis_vocabularies/professiontype/"
-                  >Mineraloge</occupation>
+               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/">Chemiker</occupation>
+               <occupation code="#3629" scheme="#apis_vocabularies/professiontype/">Mineraloge</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11858281X</idno>
                <idno type="paas">4443</idno>
-               </person>
-                <person xml:id="wohler-friedrich">
+            </person>
+            <person xml:id="wohler-friedrich">
                <persName>
                   <surname>Wöhler</surname>
                   <forename>Friedrich</forename>
@@ -9817,16 +9786,13 @@
                <death>
                   <date when="1882-09-23">23.09.1882</date>
                </death>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
-               <occupation code="#3688" scheme="#apis_vocabularies/professiontype/"
-                  >Publizist</occupation>
-               <occupation code="#3700" scheme="#apis_vocabularies/professiontype/"
-                  >Lehrer</occupation>
+               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/">Chemiker</occupation>
+               <occupation code="#3688" scheme="#apis_vocabularies/professiontype/">Publizist</occupation>
+               <occupation code="#3700" scheme="#apis_vocabularies/professiontype/">Lehrer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118634488</idno>
                <idno type="paas">7077</idno>
-               </person>
-               <person xml:id="elie-de-beaumont-leonce">
+            </person>
+            <person xml:id="elie-de-beaumont-leonce">
                <persName>
                   <surname>Élie De Beaumont</surname>
                   <forename>Léonce</forename>
@@ -9838,12 +9804,11 @@
                <death>
                   <date when="1874-09-21">21.09.1874</date>
                </death>
-               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/"
-                  >Geologe</occupation>
+               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/">Geologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116098627</idno>
                <idno type="paas">1751</idno>
-               </person>
-               <person xml:id="dumas-jean-baptiste">
+            </person>
+            <person xml:id="dumas-jean-baptiste">
                <persName>
                   <surname>Dumas</surname>
                   <forename>Jean Baptiste</forename>
@@ -9855,27 +9820,25 @@
                <death>
                   <date when="1884-04-11">11.04.1884</date>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
+               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/">Politiker</occupation>
+               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/">Chemiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100828051</idno>
                <idno type="paas">1628</idno>
-               </person>
-                <person xml:id="verrier-le-nn">
+            </person>
+            <person xml:id="verrier-le-nn">
                <persName>
                   <surname>Verrier</surname>
                   <forename>le</forename>
                   <forename>NN</forename>
                </persName>
-               </person>
-               <person xml:id="hoffner-josef">
+            </person>
+            <person xml:id="hoffner-josef">
                <persName>
                   <surname>Hoffner</surname>
                   <forename>Josef</forename>
                </persName>
-               </person>
-                           <person xml:id="weimar-franz">
+            </person>
+            <person xml:id="weimar-franz">
                <persName>
                   <surname>Weimar</surname>
                   <forename>Franz</forename>
@@ -9888,24 +9851,23 @@
                   <date when="1855-09-15">15.09.1855</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#4137" scheme="#apis_vocabularies/professiontype/"
-                  >Kanzlist</occupation>
+               <occupation code="#4137" scheme="#apis_vocabularies/professiontype/">Kanzlist</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49384/</idno>
                <idno type="paas">49384</idno>
-               </person>
-               <person xml:id="capellmann-alois">
+            </person>
+            <person xml:id="capellmann-alois">
                <persName>
                   <surname>Capellmann</surname>
                   <forename>Alois</forename>
                </persName>
-               </person>
-                           <person xml:id="belnos-sophie-charlotte">
+            </person>
+            <person xml:id="belnos-sophie-charlotte">
                <persName>
                   <surname>Belnos</surname>
                   <forename>Sophie Charlotte</forename>
                </persName>
-               </person>
-                           <person xml:id="barrande-joachim">
+            </person>
+            <person xml:id="barrande-joachim">
                <persName>
                   <surname>Barrande</surname>
                   <forename>Joachim</forename>
@@ -9917,16 +9879,13 @@
                <death>
                   <date when="1883-10-05">05.10.1883</date>
                </death>
-               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/"
-                  >Geologe</occupation>
-               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/"
-                  >Paläontologe</occupation>
-               <occupation code="#3731" scheme="#apis_vocabularies/professiontype/"
-                  >Ingenieur</occupation>
+               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/">Geologe</occupation>
+               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/">Paläontologe</occupation>
+               <occupation code="#3731" scheme="#apis_vocabularies/professiontype/">Ingenieur</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116059532</idno>
                <idno type="paas">739</idno>
-               </person>
-                           <person xml:id="de-visiani-roberto">
+            </person>
+            <person xml:id="de-visiani-roberto">
                <persName>
                   <surname>De Visiani</surname>
                   <forename>Roberto</forename>
@@ -9942,12 +9901,11 @@
                <death>
                   <date when="1878-01-01">01.01.1878</date>
                </death>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
+               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/">Botaniker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100681069</idno>
                <idno type="paas">27903</idno>
-               </person>
-                           <person xml:id="struve-friedrich-georg-wilhelm">
+            </person>
+            <person xml:id="struve-friedrich-georg-wilhelm">
                <persName>
                   <surname>Struve</surname>
                   <forename>Friedrich Georg</forename>
@@ -9959,14 +9917,346 @@
                <death>
                   <date when="1864-11-23">23.11.1864</date>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/"
-                  >Astronom</occupation>
-               <occupation code="#3709" scheme="#apis_vocabularies/professiontype/"
-                  >Geodät</occupation>
+               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/">Hochschullehrer</occupation>
+               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/">Astronom</occupation>
+               <occupation code="#3709" scheme="#apis_vocabularies/professiontype/">Geodät</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118988255</idno>
                <idno type="paas">6278</idno>
+            </person>
+            <person xml:id="schonbein-christian-friedrich">
+               <persName>
+                  <surname>Schönbein</surname>
+                  <forename>Christian Friedrich</forename>
+               </persName>
+            </person>
+            <person xml:id="eotvos-jozsef">
+               <persName>
+                  <surname>Eötvos</surname>
+                  <nameLink>von</nameLink>
+                  <forename>József</forename>
+               </persName>
+            </person>
+            <person xml:id="borghesi-bartolomeo">
+               <persName>
+                  <surname>Borghesi</surname>
+                  <forename>Bartolomeo</forename>
+               </persName>
+            </person>
+            <person xml:id="coussemaker-de-edmond">
+               <persName>
+                  <surname>Coussemaker</surname>
+                  <addName>de</addName>
+                  <forename>Charles</forename>
+               </persName>
+               <birth>
+                  <date when="1805-04-19">19.04.1805</date>
+                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Bailleul</placeName>
+               </birth>
+               <death>
+                  <date when="1876-01-10">10.01.1876</date>
+               </death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119430959</idno>
+               <idno type="paas">1370</idno>
+            </person>
+            <person xml:id="jenull-sebastian">
+               <persName>
+                  <surname>Jenull</surname>
+                  <forename>Sebastian</forename>
+               </persName>
+            </person>
+            <person xml:id="diderot-denis">
+               <persName>
+                  <surname>Diderot</surname>
+                  <forename>Denis</forename>
+               </persName>
+            </person>
+            <person xml:id="alembert-de-jean-le-rond">
+               <persName>
+                  <surname>Alembert</surname>
+                  <forename>de</forename>
+                  <forename>Jean Le Rond</forename>
+               </persName>
+            </person>
+            <person xml:id="ochs-peter">
+               <persName>
+                  <surname>Ochs</surname>
+                  <forename>Peter</forename>
+               </persName>
+            </person>
+            <person xml:id="ragusa-johannes">
+               <persName>
+                  <surname>Ragusa</surname>
+                  <nameLink>von</nameLink>
+                  <forename>Johannes</forename>
+               </persName>
+            </person>
+            <person xml:id="lazar-wolfgang">
+               <persName>
+                  <surname>Lázár</surname>
+                  <nameLink>von</nameLink>
+                  <forename>Wolfgang</forename>
+               </persName>
+            </person>
+            <person xml:id="arneth-alfred">
+               <persName>
+                  <surname>Arneth</surname>
+                  <addName>Ritter von</addName>
+                  <nameLink>von</nameLink>
+                  <forename>Alfred</forename>
+               </persName>
+               <birth>
+                  <date when="1819-07-10">10.07.1819</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1897-07-30">30.07.1897</date>
+               </death>
+               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/">Politiker</occupation>
+               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/">Historiker</occupation>
+               <occupation code="#3650" scheme="#apis_vocabularies/professiontype/">Archivar</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116344857</idno>
+               <idno type="paas">641</idno>
+            </person>
+            <person xml:id="biechl-friedrich">
+               <persName>
+                  <surname>Biechl</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+            </person>
+            <person xml:id="panizza">
+               <persName>
+                  <surname>Panizza</surname>
+                  <addName>Ritter von</addName>
+                  <nameLink>von</nameLink>
+                  <forename>Bartolomeo</forename>
+               </persName>
+               <birth>
+                  <date when="1785-08-15">15.08.1785</date>
+                  <placeName>Pavia</placeName>
+               </birth>
+               <death>
+                  <date when="1867-04-17">17.04.1867</date>
+               </death>
+               <occupation code="#3757" scheme="#apis_vocabularies/professiontype/">Anatom</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117684481</idno>
+               <idno type="paas">4833</idno>
+            </person>
+            <person xml:id="colloredo-mannfeld-ferdinand">
+               <persName>
+                  <surname>Colloredo-Mannfeld</surname>
+                  <nameLink>von</nameLink>
+                  <forename>Ferdinand</forename>
+               </persName>
+            </person>
+            <person xml:id="habsburg-lothringen-ludwig-joseph">
+               <persName>
+                  <surname>Habsburg</surname>
+                  <addName>Erzherzog von Österreich</addName>
+                  <nameLink>von</nameLink>
+                  <forename>Ludwig Joseph</forename>
+               </persName>
+               <birth>
+                  <date when="1784-12-13">13.12.1784</date>
+                  <placeName>Florenz</placeName>
+               </birth>
+               <death>
+                  <date when="1864-12-21">21.12.1864</date>
+               </death>
+               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/">Politiker</occupation>
+               <occupation code="#3967" scheme="#apis_vocabularies/professiontype/">General</occupation>
+               <occupation code="#3972" scheme="#apis_vocabularies/professiontype/">Soldat</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/130256811</idno>
+               <idno type="paas">2485</idno>
+            </person>
+            <person xml:id="habsburg-lothringen-franz-karl">
+               <persName>
+                  <surname>Habsburg</surname>
+                  <addName>Erzherzog von Österreich</addName>
+                  <nameLink>von</nameLink>
+                  <forename>Franz Karl</forename>
+               </persName>
+               <birth>
+                  <date when="1802-12-07">07.12.1802</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1878-03-08">08.03.1878</date>
+               </death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/131412000</idno>
+               <idno type="paas">2481</idno>
+            </person>
+            <person xml:id="hoffirek-anna">
+               <persName>
+                  <surname>Hoffirek</surname>
+                  <forename>Anna</forename>
+               </persName>
+            </person>
+            <person xml:id="gerold-carl">
+               <persName>
+                  <surname>Gerold</surname>
+                  <forename>Carl</forename>
+               </persName>
+            </person>
+            <person xml:id="sainte-claire-deville-henri-etienne">
+               <persName>
+                  <surname>Sainte-Claire Deville</surname>
+                  <forename>Henri Étienne</forename>
+               </persName>
+            </person>
+               <person xml:id="skalitzky-nn">
+               <persName>
+                  <surname>Skalitzky</surname>
+                  <nameLink>von</nameLink>
+                  <forename>NN</forename>
+               </persName>
+               </person>
+                           <person xml:id="smith-w-h">
+               <persName>
+                  <surname>Smith</surname>
+                  <forename>W. H.</forename>
+               </persName>
+               </person>
+                           <person xml:id="helmreichen-virgil">
+               <persName>
+                  <surname>Helmreichen</surname>
+                  <nameLink>von</nameLink>
+                  <forename>Virgil</forename>
+               </persName>
+               </person>
+                               <person xml:id="habsburg-rudolf-i">
+                    <persName>
+                        <surname>Habsburg</surname>
+                        <nameLink>von</nameLink>
+                        <forename>Rudolf I.</forename>
+                    </persName>
+                    </person>
+                                    <person xml:id="montecuccoli-albert">
+                    <persName>
+                        <surname>Montecuccoli</surname>
+                        <nameLink>von</nameLink>
+                        <forename>Albert</forename>
+                    </persName>
+                    </person>
+                                <person xml:id="hofmann-von-august-wilhelm">
+               <persName>
+                  <surname>Hofmann</surname>
+                  <forename>August Wilhelm</forename>
+               </persName>
+               <birth>
+                  <date when="1818-04-08">08.04.1818</date>
+                  <placeName>Gießen</placeName>
+               </birth>
+               <death>
+                  <date when="1892-05-05">05.05.1892</date>
+               </death>
+               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
+                  >Chemiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118552627</idno>
+               <idno type="paas">2905</idno>
+               </person>
+                           <person xml:id="hue-marquis-de-caligny-anatole-francois">
+               <persName>
+                  <surname>Hüe</surname>
+                  <forename>Marquis de Caligny</forename>
+                  <forename>Anatole François</forename>
+               </persName>
+               </person>
+                           <person xml:id="kolenati-friedrich">
+               <persName>
+                  <surname>Kolenati</surname>
+                  <forename>Friedrich</forename>
+               </persName>
+               </person>
+                           <person xml:id="klaps-jacob">
+               <persName>
+                  <surname>Klaps</surname>
+                  <forename>Jacob</forename>
+               </persName>
+               </person>
+                           <person xml:id="kappeller-heinrich">
+               <persName>
+                  <surname>Kappeller</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               </person>
+                           <person xml:id="agassiz-louis">
+               <persName>
+                  <surname>Agassiz</surname>
+                  <forename>Louis</forename>
+               </persName>
+               <birth>
+                  <date when="1807-05-28">28.05.1807</date>
+                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Mottier</placeName>
+               </birth>
+               <death>
+                  <date when="1873-12-14">14.12.1873</date>
+               </death>
+               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
+                  >Naturwissenschaftler</occupation>
+               <occupation code="#3668" scheme="#apis_vocabularies/professiontype/"
+                  >Zoologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118643967</idno>
+               <idno type="paas">533</idno>
+               </person>
+                           <person xml:id="kamtz-ludwig-friedrich">
+               <persName>
+                  <surname>Kämtz</surname>
+                  <forename>Ludwig Friedrich</forename>
+               </persName>
+               </person>
+                           <person xml:id="reslhuber-augustin-wolfgang">
+               <persName>
+                  <surname>Reslhuber</surname>
+                  <forename>Augustin Wolfgang</forename>
+               </persName>
+               <birth>
+                  <date when="1808-07-05">05.07.1808</date>
+                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Garsten</placeName>
+               </birth>
+               <death>
+                  <date when="1875-09-29">29.09.1875</date>
+               </death>
+               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/"
+                  >Astronom</occupation>
+               <occupation code="#3951" scheme="#apis_vocabularies/professiontype/">Abt</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116449284</idno>
+               <idno type="paas">5306</idno>
+               </person>
+                           <person xml:id="weisse-max">
+               <persName>
+                  <surname>Weisse</surname>
+                  <addName>Ritter von</addName>
+                  <addName>Dr. phil.</addName>
+                  <addName>Dr. iur.</addName>
+                  <nameLink>von</nameLink>
+                  <forename>Max</forename>
+               </persName>
+               <birth>
+                  <date when="1798-10-16">16.10.1798</date>
+                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Ladendorf</placeName>
+               </birth>
+               <death>
+                  <date when="1863-10-10">10.10.1863</date>
+                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Wels</placeName>
+               </death>
+               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
+                  >Jurist</occupation>
+               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/"
+                  >Astronom</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117300292</idno>
+               <idno type="paas">6863</idno>
+               </person>
+                           <person xml:id="biasoletto-bartolomeo">
+               <persName>
+                  <surname>Biasoletto</surname>
+                  <forename>Bartolomeo</forename>
+               </persName>
+               </person>
+                           <person xml:id="pietruski-stanislaw-konstanty">
+               <persName>
+                  <surname>Pietruski</surname>
+                  <forename>Stanisław Konstanty</forename>
+               </persName>
                </person>
          </listPerson>
       </body>
