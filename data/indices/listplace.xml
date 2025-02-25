@@ -37,6 +37,14 @@
 
                     <idno type="paas">10758</idno>
                 </place>
+                <place xml:id="tetschen">
+                    <placeName>Tetschen</placeName>
+                    <location>
+                        <geo>50.78215 14.21478</geo>
+                     </location>
+                    <idno type="URL">https://sws.geonames.org/3077244/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4106190-1</idno>
+                </place>
                 <place xml:id="london">
                     <placeName>London</placeName>
                     <placeName  type="alt" xml:lang="eng">City of

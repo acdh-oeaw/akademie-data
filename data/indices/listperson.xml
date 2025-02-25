@@ -17,6 +17,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="leo-thun-hohenstein">
+               <persName>
+                  <surname>Leo</surname>
+               </persName>
+               <persName type="alt">Thun-Hohenstein, Leo</persName>
+               <birth>
+                  <date when="1811-04-07">7.4.1811</date>
+                  <placeName>Tetschen</placeName>
+               </birth>
+               <death>
+                  <date when="1888-12-17">17.12.1888</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Kultusminister</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
+              </person>
             <person xml:id="michel-francois-xavier">
                <persName>
                   <surname>Michel</surname>
