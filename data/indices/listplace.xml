@@ -144,10 +144,12 @@
                     <placeName type="alt" xml:lang="None">Trento</placeName>
                     <placeName type="alt" xml:lang="None">Trient (Trento)</placeName>
                     <placeName type="alt" xml:lang="None">Comune di Trento</placeName>
+                    <location>
+                        <geo>46.06787 11.12108</geo>
+                    </location><idno type="paas">37539</idno>
                     <idno type="URL">https://sws.geonames.org/3165243/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4078405-8</idno>
-                    <idno type="paas">37539</idno>
-                </place>
+                    </place>
                 <place xml:id="colmar">
                     <placeName>Colmar</placeName>
                     <placeName type="alt" xml:lang="deu">Colmar</placeName>
@@ -418,7 +420,9 @@
                     <placeName type="alt" xml:lang="None">Brussel-stad</placeName>
                     <placeName type="alt" xml:lang="None">Région de Bruxelles-Capitale</placeName>
                     <placeName type="alt" xml:lang="None">Bruselas</placeName>
-                    <idno type="URL">https://sws.geonames.org/2800866/</idno>
+                    <location>
+                        <geo>50.85045 4.34878</geo>
+                    </location><idno type="URL">https://sws.geonames.org/2800866/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008460-7</idno>
                     <idno type="paas">29483</idno>
                 </place>
@@ -1424,7 +1428,11 @@
                 <place xml:id="budapest">
                     <placeName>Budapest</placeName>
                     <placeName type="alt" xml:lang="eng">Budapest</placeName>
+                    <location>
+                        <geo>47.49835 19.04045</geo>
+                    </location>
                     <idno type="URL">https://sws.geonames.org/3054643/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008684-7</idno>
                     <idno type="paas">10780</idno>
                 </place>
                 <place xml:id="altenburg">
@@ -1798,6 +1806,9 @@
                     <placeName type="alt" xml:lang="None">Stadtkreis Halle</placeName>
                     <placeName type="alt" xml:lang="None">Hala Saxonia</placeName>
                     <placeName type="alt" xml:lang="None">Halle im Magdeburgischen</placeName>
+                    <location>
+                        <geo>51.48298 11.97202</geo>
+                    </location>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4023025-9</idno>
                     <idno type="paas">29207</idno>
                 </place>
