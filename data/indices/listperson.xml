@@ -16,10 +16,12 @@
    </teiHeader>
    <text>
       <body>
-         <listPerson>
-            <person xml:id="leo-thun-hohenstein">
+         <listPerson>            
+            <person xml:id="thun-hohenstein-leo">
                <persName>
-                  <surname>Leo</surname>
+                  <forename>Leo</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Thun-Hohenstein</surname>
                </persName>
                <persName type="alt">Thun-Hohenstein, Leo</persName>
                <birth>
