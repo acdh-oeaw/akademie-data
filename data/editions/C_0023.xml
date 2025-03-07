@@ -304,10 +304,7 @@
                     <p facs="#facs_1_region_1575966510591_22" rendition="#?12-83-95--302-2353" xml:id="p7" xml:space="preserve">
                                     <lb/>Anwesend: Der <choice>
                                         <expan>Herr</expan>
-                                        <abbr>
-                                            <expan>H<ex>er</ex>r</expan>
-                                            <am>.</am>
-                                        </abbr>
+                                        <abbr>Hr<am>.</am></abbr>
                                     </choice> Präsident Freiherr <choice>
                                         <expan>
                                             <rs ref="#hammer-purgstall-von-joseph" type="person">von</rs>
@@ -361,10 +358,7 @@
                                 </choice>
                                 <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.<lb/>Als Gast der <choice>
                                     <expan>Herr</expan>
-                                    <abbr>
-                                        <expan>H<ex>er</ex>r</expan>
-                                        <am>.</am>
-                                    </abbr>
+                                    <abbr>Hr<am>.</am></abbr>
                                 </choice> General-Secretär <choice>
                                     <expan>
                                         <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
@@ -374,25 +368,17 @@
                             </choice>
                             <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>.</p>
                     <p facs="#facs_1_region_1575966529161_25" rendition="#r" xml:id="p8" xml:space="preserve">
-                                <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
+                                <lb/>(<num>526</num>) Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
                                     liest ein Schreiben
-                                <lb/>des wirklichen auswärtigen Mitgliedes</p>
-                    <p facs="#facs_1_region_1575966534992_28" rendition="#?33-66-99--814-2458" xml:id="p9" xml:space="preserve">
-                                    <lb/>(<num>526</num>) <choice>
+                                <lb/>des wirklichen auswärtigen Mitgliedes
+                                    <lb/><choice>
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
                                 </choice>
                                 <choice>
                                     <expan>Professor</expan>
-                                    <abbr>
-                                        <expan>Prof<choice>
-                                            <am>.</am>
-                                            <ex>essor</ex>
-                                        </choice>
-                                    </expan>
-                                    <am>.</am>
-                                </abbr>
+                                    <abbr>Prof<am>.</am></abbr>
                             </choice>
                             <choice>
                                 <expan>
@@ -465,10 +451,7 @@
                             <lb/>
                             <choice>
                                 <expan>Herr</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
+                                <abbr>Hr<am>.</am></abbr>
                             </choice>
                             <choice>
                                 <expan>Doctor</expan>
@@ -623,8 +606,7 @@
                             <expan>kaiserlicher</expan>
                             <abbr>k<am>.</am></abbr>
                     </choice> Rath <hi>
-                        <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
-                    </hi>
+                        <rs ref="#bergmann-joseph" type="person">Bergmann</rs></hi>
                         liest einen
                     <lb/>
                         für die "Berichte" bestimmten Aufsatz
@@ -643,10 +625,7 @@
                     <lb/>
                     <choice>
                         <expan>Herr</expan>
-                        <abbr>
-                            <expan>H<ex>er</ex>r</expan>
-                            <am>.</am>
-                        </abbr>
+                        <abbr>Hr<am>.</am></abbr>
                     </choice> Regierungsrath <hi>
                         <rs ref="#chmel-joseph" type="person">Chmel</rs>
                     </hi>
