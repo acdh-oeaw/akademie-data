@@ -242,9 +242,7 @@
                                                 <lb/>
                                                 <choice>
                                                     <expan>Herr</expan>
-                                                    <abbr>
-                                                        <expan>H<ex>er</ex>r</expan>
-                                                        <am>.</am>
+                                                    <abbr>Hr<am>.</am>
                                                     </abbr>
                                                 </choice>
                                                 <rs ref="#chmel-joseph" type="person">Chmel</rs>
@@ -350,15 +348,9 @@
                                             <lb/>Honorar von <num>20</num>
                                             <choice>
                                                 <expan>Gulden</expan>
-                                                <abbr>
-                                                    <choice>
-                                                        <abbr>fl<am>.</am>
-                                                    </abbr>
-                                                    <expan>Gulden</expan>
-                                                </choice>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice>
+                                                <abbr>fl<am>.</am></abbr>
+                                            </choice>
+                                                
                                         <choice>
                                             <expan>Conventionsmünze</expan>
                                             <abbr>CM<am>.</am>
@@ -381,8 +373,7 @@
                                                 <abbr>Hrn<am>.</am>
                                             </abbr>
                                         </choice> Regierungsrathes <hi>
-                                            <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
-                                            , seinen
+                                            <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>, seinen
                                         <lb/>
                                             Vorschlag wegen Errichtung eines
                                             histo-
@@ -411,10 +402,7 @@
                                                 <lb/>
                                                 <choice>
                                                     <expan>Herr</expan>
-                                                    <abbr>
-                                                        <expan>H<ex>er</ex>r</expan>
-                                                        <am>.</am>
-                                                    </abbr>
+                                                    <abbr>Hr<am>.</am></abbr>
                                                 </choice> Regierungsrath <hi>
                                                     <rs ref="#chmel-joseph" type="person">Chmel</rs>
                                                 </hi>
