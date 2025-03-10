@@ -16,7 +16,15 @@
    </teiHeader>
    <text>
       <body>
-         <listPerson>     
+         <listPerson>
+            <person xml:id="riccio-gennaro">
+               <persName>
+                  <forename>Gennaro</forename>
+                  <surname>Riccio</surname>
+               </persName>
+               <occupation>Archäologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116504579</idno>
+            </person>
             <person xml:id="lippka-johanna">
                <persName>
                   <forename>Johanna</forename>
