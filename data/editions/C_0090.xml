@@ -403,9 +403,7 @@
                                         <lb/>Anwesend: Der Alters-Präsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
                                         <lb/>Die wirklichen Mitglieder <choice>
                                             <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
+                                            <abbr>Hr<am>.</am>
                                             </abbr>
                                         </choice>
                                         <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
@@ -491,8 +489,7 @@
                             </choice>
                                 Hofrath Professor
                             <lb/>
-                            <rs ref="#bahr-johann-christian-felix" type="person">Bähr</rs>
-                                , Oberbibliothekar zu
+                            <rs ref="#bahr-johann-christian-felix" type="person">Bähr</rs>, Oberbibliothekar zu
                             <rs ref="#heidelberg" type="place">Heidel-<lb/>berg</rs>, Schreiben worin er anzeigt,<lb/>daß die für <choice>
                                 <expan>Herrn</expan>
                                 <abbr>Hrn<am>.</am>
@@ -538,9 +535,7 @@
     </choice> Gesandtschaft zu <rs ref="#karlsruhe" type="place">Karlsruhe</rs>
     <choice>
         <expan>Herrn</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
+        <abbr>Hr<am>.</am>
         </abbr>
     </choice>
     <lb/>
@@ -560,7 +555,8 @@
                 <expan>Herrn</expan>
                 <abbr>Hrn<am>.</am>
             </abbr>
-        </choice> Doctor#D Robert <rs ref="#naumann-robert" type="person">Naumann</rs>,<lb/>Vorsteher der Stadtbibliothek zu <rs ref="#leipzig" type="place">Leipzig</rs>,<lb/>
+        </choice> 
+        <choice><expan>Doctor</expan><abbr>D<hi rend="super">or</hi></abbr></choice> Robert <rs ref="#naumann-robert" type="person">Naumann</rs>,<lb/>Vorsteher der Stadtbibliothek zu <rs ref="#leipzig" type="place">Leipzig</rs>,<lb/>
             Schreiben einbegleitend die
             mitfol-
         <lb/>gende Zusendung der für <choice>
@@ -572,8 +568,7 @@
     <lb/>
         erbetenen, dieser Bibliothek
         gehöri-
-    <lb/>gen und mit Sl. <num>11</num>
-        . bezeichneten
+    <lb/>gen und mit Sl. <num>11</num>. bezeichneten
     <lb/>ungrischen Liederhandschrift,<lb/>
         deren Entlehnung auf ein
         Vier-
@@ -617,8 +612,7 @@
     </expan>
     <am>.</am>
 </abbr>
-</choice> zu <rs ref="#graz" type="place">Gratz</rs>
-    , Antwort auf die
+</choice> zu <rs ref="#graz" type="place">Gratz</rs>, Antwort auf die
 <lb/>an den <choice>
     <expan>Herrn</expan>
     <abbr>Hrn<am>.</am>
@@ -677,7 +671,7 @@
             <div n="3" type="page" xml:id="d5">
                 <pb facs="#facs_3" n="3" xml:id="pag3"/>
                 <div xml:id="d6">
-                    <p facs="#facs_3_region_1578583747795_220" rendition="#fc" xml:id="p11" xml:space="preserve">
+                    <p facs="#facs_3_region_1578583747795_220" rendition="#f" xml:id="p11" xml:space="preserve">
             <lb/>der I. Abtheilung zu bitten.</p>
                     <p facs="#facs_3_region_1578583760781_223" rendition="#?16-84-100--246-1540" xml:id="p12" xml:space="preserve">
                 <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
@@ -688,7 +682,7 @@
                 <lb/>
                     demie den Antrag stellen, daß
                     die-
-                <lb/>ses Werk <rs ref="#muchar-albert-anton" type="person">Muchar's</rs>
+                <lb/>ses Werk <rs ref="#muchar-albert-anton" type="person">Muchar</rs>'s
                     unter der
                 <lb/>Redaction des <choice>
                     <expan>Herrn</expan>
@@ -697,14 +691,7 @@
             </choice>
             <choice>
                 <expan>Professor</expan>
-                <abbr>
-                    <expan>Prof<choice>
-                        <am>.</am>
-                        <ex>essor</ex>
-                    </choice>
-                </expan>
-                <am>.</am>
-            </abbr>
+                <abbr>Prof<am>.</am></abbr>
         </choice>
         <rs ref="#prangner-matthaus-p-engelbert-osb" type="person">Prangner</rs>
         <lb/>
@@ -737,15 +724,8 @@
 <lb/>Correctur ein Honorar von <num>15</num>
 <choice>
     <expan>Gulden</expan>
-    <abbr>
-        <choice>
-            <abbr>fl<am>.</am>
-        </abbr>
-        <expan>Gulden</expan>
+    <abbr>fl<am>.</am></abbr>
     </choice>
-    <am>.</am>
-</abbr>
-</choice>
 <choice>
     <expan>Conventionsmünze</expan>
     <abbr>CM<am>.</am>
@@ -766,8 +746,7 @@
                     <p facs="#facs_3_region_1578583771048_226" rendition="#?16-84-100--243-1544" xml:id="p13" xml:space="preserve">
     <lb/>
         Die Classe billigt zwar den
-    <lb/>Vorschlag des <rs ref="#wolf-ferdinand" type="person">Secretärs</rs>
-        , hält es
+    <lb/>Vorschlag des <rs ref="#wolf-ferdinand" type="person">Secretärs</rs>, hält es
     <lb/>
         aber für rathsam, daß er
         vor-
@@ -778,15 +757,8 @@
 </choice>
 <choice>
     <expan>Professor</expan>
-    <abbr>
-        <expan>Prof<choice>
-            <am>.</am>
-            <ex>essor</ex>
-        </choice>
-    </expan>
-    <am>.</am>
-</abbr>
-</choice>
+    <abbr>Prof</abbr><am>.</am>
+            </choice>    
 <rs ref="#prangner-matthaus-p-engelbert-osb" type="person">Prangner</rs>
 <lb/>
     schreibe um anzufragen, ob die
@@ -825,7 +797,7 @@
                 <pb facs="#facs_4" n="4" xml:id="pag4"/>
                 <div xml:id="d8">
                     <p facs="#facs_4_region_1578583828351_250" rendition="#?14-84-98--222-1533" xml:id="p15" xml:space="preserve">
-            <lb/>über <rs ref="#delvert-christian" type="person">d'Elvert's</rs>
+            <lb/>über <rs ref="#delvert-christian" type="person">d'Elvert</rs>'s
                 Geschichte von
             <lb/>
             <rs ref="#jihlava" type="place">Iglau</rs>
@@ -851,8 +823,7 @@
                     . c. Von dem correspondirenden
                 <lb/>Mitgliede der <choice>
                     <expan>mathematisch-naturwissenschaftlichen</expan>
-                    <abbr>mathemat<am>.</am>
-                    <am>-</am>naturw<am>.</am>
+                    <abbr>mathemat<am>.</am><am>-</am>naturw<am>.</am>
                 </abbr>
             </choice>
             <lb/>Classe, <choice>
@@ -862,8 +833,7 @@
         </choice> Heinrich <rs ref="#freyer-heinrich" type="person">Freyer</rs>
             aus
         <lb/>
-        <rs ref="#laibach" type="place">Laibach</rs>
-            , Einsendung der auf seiner
+        <rs ref="#laibach" type="place">Laibach</rs>, Einsendung der auf seiner
         <lb/>
             geognostischen Bereisung
             Unter-
@@ -912,10 +882,8 @@
             <abbr>D<hi rend="super">or</hi>
         </abbr>
     </choice>
-    <rs ref="#hofler-constantin" type="person">Höfler</rs>
-        , Archivar
-    <lb/>zu <rs ref="#bamberg" type="place">Bamberg</rs>
-        , Dankschreiben im
+    <rs ref="#hofler-constantin" type="person">Höfler</rs>, Archivar
+    <lb/>zu <rs ref="#bamberg" type="place">Bamberg</rs>, Dankschreiben im
     <lb/>Namen des <choice>
         <expan>historischen</expan>
         <abbr>histor<am>.</am>
@@ -929,7 +897,7 @@
 <lb/>
     Nachricht über die nächsten
 <lb/>Arbeiten dieses Vereines.</p>
-                    <p facs="#facs_4_region_1578583794550_235" rendition="#fc" xml:id="p20" xml:space="preserve">
+                    <p facs="#facs_4_region_1578583794550_235" rendition="#f" xml:id="p20" xml:space="preserve">
     <lb/>Zur Wissenschaft.</p>
                     <p facs="#facs_4_region_1578583798535_238" rendition="#f" xml:id="p21" xml:space="preserve">
         <lb/>
@@ -943,16 +911,13 @@
             <lb/>
                 der Norwegischen Bibelgesellschaft zu
             <lb/>
-            <rs ref="#oslo" type="place">Christiania</rs>, Schreiben mit Zusendung <choice>
-                <expan>eines</expan>
-                <abbr>eine</abbr>
-            </choice>
-            <lb/>
+            <rs ref="#oslo" type="place">Christiania</rs>, Schreiben mit Zusendung eines
+                <lb/>
                 Exemplars der von ihr herausgegebenen
             <lb/>
                 "Lappländischen Übersetzung des neuen
             <lb/>Testaments.</p>
-                    <p facs="#facs_5_region_1578583847120_262" rendition="#fc" xml:id="p23" xml:space="preserve">
+                    <p facs="#facs_5_region_1578583847120_262" rendition="#f" xml:id="p23" xml:space="preserve">
                 <lb/>Zu danken.</p>
                     <p facs="#facs_5_region_1578583859903_265" rendition="#f" xml:id="p24" xml:space="preserve">
                     <lb/>
@@ -967,8 +932,7 @@
                 </abbr>
             </choice> Ignatz <rs ref="#wildner-von-maithstein-ignaz" type="person">
                 <rs ref="#wildner-von-maithstein-ignaz" type="person">Wildner</rs>-<rs ref="#wildner-von-maithstein-ignaz" type="person">Maith-<lb/>stein</rs>
-            </rs>
-                , Schreiben und Verzeichniß der
+            </rs>, Schreiben und Verzeichniß der
             <lb/>
                 mitgesendeten, von ihm verfaßten
             <lb/>
@@ -982,7 +946,7 @@
                     Gewährung und Dank; als
                     Er-
                 <lb/>
-                    wiederung sind die beiden Werken der
+                    wiederung sind die beiden Werke des
                 <lb/>
                 <choice>
                     <expan>Herrn</expan>
@@ -1020,7 +984,7 @@
     </abbr>
 </choice>
 <rs ref="#kremer-alfred" type="person">Kremer</rs>
-<lb/>aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>1</num>. December <num>1850</num>
+<lb/>aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>1</num>. December <num>1850</num>.
 </p>
                     <p facs="#facs_5_region_1578583880687_274" rendition="#?16-83-99--248-1549" xml:id="p27" xml:space="preserve">
     <lb/>
@@ -1029,23 +993,19 @@
     <lb/>zungsbericht.</p>
                     <p facs="#facs_5_region_1578583896767_277" rendition="#f" xml:id="p28" xml:space="preserve">
         <lb/>
-        <num>12</num>/<num>1851</num>
-            . Derselbe erstattet Bericht
+        <num>12</num>/<num>1851</num>. <rs ref="#hammer-purgstall-von-joseph" type="person">Derselbe</rs> erstattet Bericht
         <lb/>über den II. <choice>
             <expan>Band</expan>
             <abbr>Bd<am>.</am>
         </abbr>
-    </choice> von <rs ref="#charriere-ernest" type="person">Charrière's</rs>
+    </choice> von <rs ref="#charriere-ernest" type="person">Charrière</rs>'s
     <lb/>Négociations dans le Levant.</p>
                     <p facs="#facs_5_region_1578583903565_280" rendition="#?16-84-100--252-1563" xml:id="p29" xml:space="preserve">
         <lb/>
             In der vertraulichen Sitzung
         <lb/>erstattet <choice>
             <expan>Herr</expan>
-            <abbr>
-                <expan>H<ex>er</ex>r</expan>
-                <am>.</am>
-            </abbr>
+            <abbr>Hr<am>.</am></abbr>
         </choice>
         <choice>
             <expan>Regierungsrath</expan>
@@ -1101,7 +1061,7 @@
                     <abbr>D<hi rend="super">r</hi>
                 </abbr>
             </choice>
-            <rs ref="#carrara-franz" type="person">Carrara's</rs>
+            <rs ref="#carrara-franz" type="person">Carrara</rs>'s
                 Ausgrabungen keine
             <lb/>
                 bedeutenden Resultate gewährt und
@@ -1157,7 +1117,7 @@
         all-
     <lb/>
         jährlich erneute Unterstützungen
-    <lb/>ihre Fonds zu vergeuden. <lb/>
+    <lb/>ihre Fonds zu vergeuden, <lb/>
     <choice>
         <expan>Herrn</expan>
         <abbr>Hrn<am>.</am>
@@ -1250,22 +1210,19 @@
     <lb/>unterstützen.</p>
                     <p facs="#facs_7_region_1578583984232_307" rendition="#f" xml:id="p36" xml:space="preserve">
         <lb/>
-        <num>1</num>
-        <hi rend="super">o</hi>
+        <num>1</num><hi rend="super">o</hi>
             die Herstellung der
             Wasser-
         <lb/>leitung von <rs ref="#salona" type="place">Salona</rs> bis <rs ref="#split-dalmatien" type="place">Spalato</rs>,</p>
                     <p facs="#facs_7_region_1578583988014_310" rendition="#f" xml:id="p37" xml:space="preserve">
             <lb/>
-            <num>2</num>
-            <hi rend="super">o</hi>
+            <num>2</num><hi rend="super">o</hi>
                 die Räumung der
                 Substructio-
-            <lb/>nen des Diocletian'schen Palastes;</p>
+            <lb/>nen des <rs type="person" ref="#diokletian">Diocletian</rs>'schen Palastes;</p>
                     <p facs="#facs_7_region_1578583992577_313" rendition="#f" xml:id="p38" xml:space="preserve">
                 <lb/>
-                <num>3</num>
-                <hi rend="super">o</hi>
+                <num>3</num><hi rend="super">o</hi>
                     die Aufsicht über das
                     Unter-
                 <lb/>nehmen zu <rs ref="#split-dalmatien" type="place">Spalato</rs>
@@ -1281,8 +1238,7 @@
             <lb/>der Geschichte zu übertragen;</p>
                     <p facs="#facs_7_region_1578584000875_316" rendition="#f" xml:id="p39" xml:space="preserve">
                 <lb/>
-                <num>4</num>
-                <hi rend="super">o</hi>
+                <num>4</num><hi rend="super">o</hi>
                     die übrigen projectirten
                     Nach-
                 <lb/>
@@ -1309,8 +1265,7 @@
                 <div xml:id="d16">
                     <p facs="#facs_8_region_1578584029222_328" rendition="#f" xml:id="p40" xml:space="preserve">
                 <lb/>
-                <num>5</num>
-                <hi rend="super">o</hi> die Verordnungen vom <choice>
+                <num>5</num><hi rend="super">o</hi> die Verordnungen vom <choice>
                     <expan>Jahre</expan>
                     <abbr>J<am>.</am>
                 </abbr>
@@ -1331,31 +1286,18 @@
                 <abbr>u<am>.</am>
             </abbr>
         </choice>
-        <num>6</num>
-        <hi rend="super">o</hi>
+        <num>6</num><hi rend="super">o</hi>
             aus dem dalmatinischen Studien
         <lb/>Fonde <num>800</num>
         <choice>
             <expan>Gulden</expan>
-            <abbr>
-                <choice>
-                    <abbr>fl<am>.</am>
-                </abbr>
-                <expan>Gulden</expan>
-            </choice>
-            <am>.</am>
-        </abbr>
-    </choice> auszuscheiden, – <num>400</num>
+            <abbr>fl<am>.</am></abbr>
+                </choice>
+            auszuscheiden, – <num>400</num>
     <choice>
         <expan>Gulden</expan>
-        <abbr>
-            <choice>
-                <abbr>fl<am>.</am>
-            </abbr>
-            <expan>Gulden</expan>
-        </choice>
-    </abbr>
-</choice>
+        <abbr>fl<am>.</am></abbr>
+    </choice>
 <lb/>für das Museum zu <rs ref="#zadar" type="place">Zara</rs>
 <choice>
     <expan>und</expan>
@@ -1365,14 +1307,7 @@
 <num>400</num>
 <choice>
     <expan>Gulden</expan>
-    <abbr>
-        <choice>
-            <abbr>fl<am>.</am>
-        </abbr>
-        <expan>Gulden</expan>
-    </choice>
-    <am>.</am>
-</abbr>
+    <abbr>fl<am>.</am></abbr>
 </choice>
 <lb/>für das in <rs ref="#split-dalmatien" type="place">Spalato</rs>
     und auf zufällig
