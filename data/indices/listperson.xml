@@ -17,6 +17,54 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="conrad-gustav">
+               <persName>
+                  <forename>Gustav</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Conrad</surname>
+               </persName>
+               <birth>
+                  <date when="1819-11-25">25.11.1819</date>
+                  <placeName>Schloß Kainberg</placeName>
+               </birth>
+               <death>
+                  <date when="1904-04-12">12.04.1904</date>
+                  <placeName>Graz</placeName></death>
+               <occupation>Archivar des Kurators der Akademie</occupation>
+            </person>
+            <person xml:id="stummer-von-traunfels-josef">
+               <persName>
+                  <forename>Josef</forename>
+                  <surname>Stummer (ab 1866: von Traunfels)</surname>
+               </persName>
+               <birth>
+                  <date when="1808-03-18">18.3.1808</date>
+                  <placeName>Korneuburg</placeName>
+               </birth>
+               <death>
+                  <date when="1891-02-12">12.2.1891</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Bauingenieur</occupation>
+               <occupation>Architekt</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/122985923</idno>
+            </person>
+            <person xml:id="petzval-josef">
+               <persName>
+                  <forename>Josef Maximilian</forename>
+                  <nameLink>Adelsprädikat</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Petzval</surname>
+               </persName>
+               <birth>
+                  <date when="1807-01-06">6.1.1807</date>
+                  <placeName>Spišská Belá</placeName>
+               </birth>
+               <death>
+                  <date when="1891-09-17">17.09.1891</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Mathematiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117703338</idno>
+            </person>
             <person xml:id="diokletian">
                <persName>
                   <surname>Diokletian</surname>
@@ -1765,7 +1813,7 @@
                </birth>
                <death>
                   <date when="1860-05-30">30.05.1860</date>
-               </death>
+                  <placeName>Wien</placeName></death>
                <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
                   >Naturwissenschaftler</occupation>
                <occupation code="#3668" scheme="#apis_vocabularies/professiontype/"
@@ -2075,7 +2123,7 @@
                </birth>
                <death>
                   <date when="1861-06-15">15.06.1861</date>
-               </death>
+                  <placeName>Graz</placeName> </death>
                <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
                   >Historiker</occupation>
                <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
@@ -3630,6 +3678,7 @@
                </birth>
                <death>
                   <date when="1849-06-06">06.06.1849</date>
+                  <placeName>Graz</placeName>
                </death>
                <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
                   >Philologe</occupation>
@@ -9611,10 +9660,19 @@
             </person>
             <person xml:id="rossi-de-giovanni-battista">
                <persName>
-                  <surname>Rossi</surname>
-                  <forename>de</forename>
+                  <surname>de Rossi</surname>
                   <forename>Giovanni Battista</forename>
                </persName>
+               <birth>
+                  <date when="1822-02-23">23.02.1822</date>
+                  <placeName>Rom</placeName>
+               </birth>
+               <death>
+                  <date when="1894-09-20">20.09.1894</date>
+                  <placeName>Castel Gandolfo</placeName></death>
+               <occupation>Archäologe</occupation>
+               <occupation>Epigraphiker</occupation>
+               <idno subtype="GND" type="URL"> https://d-nb.info/gnd/119120852</idno>
             </person>
             <person xml:id="hoffirek-jacob">
                <persName>
@@ -10478,7 +10536,7 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1020770511</idno>
                <idno type="paas">5478</idno>
             </person>
-            <person>
+            <person xml:id="melloni-macedonio">
                <persName>
                   <surname>Melloni</surname>
                   <forename>Macedonio</forename>
@@ -11101,7 +11159,7 @@
                   <forename>Friedrich</forename>
                </persName>
             </person>
-            <person xml:id="panizza">
+            <person xml:id="panizza-bartolomeo">
                <persName>
                   <surname>Panizza</surname>
                   <addName>Ritter von</addName>
@@ -11110,11 +11168,11 @@
                </persName>
                <birth>
                   <date when="1785-08-15">15.08.1785</date>
-                  <placeName>Pavia</placeName>
+                  <placeName>Vicenza</placeName>
                </birth>
                <death>
                   <date when="1867-04-17">17.04.1867</date>
-               </death>
+                  <placeName>Pavia</placeName></death>
                <occupation code="#3757" scheme="#apis_vocabularies/professiontype/"
                   >Anatom</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117684481</idno>

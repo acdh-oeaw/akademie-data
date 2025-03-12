@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="pulkowo">
+                    <placeName>Pulkowo, Observatorium</placeName>
+                    <placeName type="alt">Пулковская обсерватория</placeName>
+                    <location>
+                        <geo>59.77161 30.32707</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/504176/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4394402-4</idno>
+                </place>
                 <place xml:id="wien">
                     <placeName>Wien</placeName>
                     <placeName type="alt" xml:lang="eng">Vienna</placeName>
