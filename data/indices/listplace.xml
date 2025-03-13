@@ -16,6 +16,30 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="belgrad">
+                    <placeName>Belgrad</placeName>
+                    <location>
+                        <geo>44.80401 20.46513</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/792680</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4005411-1</idno>
+                </place>
+                <place xml:id="manchester">
+                    <placeName>Manchester</placeName>
+                    <location>
+                        <geo>53.48095 -2.23743</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2643123</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4037286-8</idno>
+                </place>
+                <place xml:id="rovereto">
+                    <placeName>Rovereto</placeName>
+                    <location>
+                        <geo>45.8904 11.04053</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3168854</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4076860-0</idno>
+                </place>
                 <place xml:id="pulkowo">
                     <placeName>Pulkowo, Observatorium</placeName>
                     <placeName type="alt">Пулковская обсерватория</placeName>
