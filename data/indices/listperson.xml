@@ -17,6 +17,113 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="jakschitsch-wladimir">
+               <persName>
+                  <forename>Wladimir</forename>
+                  <surname>Jakschitsch</surname>
+               </persName>
+               <persName type="alt">Vladimir Jakšić</persName>
+               <persName type="alt">Владимир Јакшић</persName>
+               <birth>
+                  <date when="1824-04-23">23.04.1824</date>
+                  <placeName>Kragujevac</placeName></birth>
+               <death>
+                  <date when="1899-08-16">16.08.1899</date>
+                  <placeName>Belgrad</placeName></death>
+               <occupation>Meteorologe</occupation>
+               <occupation>Statistiker</occupation>
+               <occupation>Staatswissenschaftler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117067377</idno>
+            </person>
+            <person xml:id="rosmini-serbati-antonio">
+               <persName>
+                  <forename>Antonio</forename>
+                  <surname>Rosmini Serbati</surname>
+               </persName>
+               <birth>
+                  <date when="1797-03-25">25.03.1797</date>
+                  <placeName>Rovereto</placeName>
+               </birth>
+               <death>
+                  <date when="1855-07-01">01.07.1855</date>
+                  <placeName>Stresa</placeName></death>
+               <occupation>katholischer Geistlicher</occupation>
+               <occupation>Philosoph</occupation>
+               <occupation>Ordensgründer</occupation>
+               <occupation>Universalgelehrter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118602888</idno>
+            </person>
+            <person xml:id="päumann-von-johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Päumann</surname>
+               </persName>
+               <birth>
+                  <date>um 1822</date>
+                  <placeName>Lemberg/Galizien</placeName>
+               </birth>
+               <death>
+                  <date when="1886-10-04">04.10.1886</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Bibliothekar</occupation>
+               <occupation>zuletzt Sektionsrat</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1158402627</idno>
+            </person>
+            <person xml:id="schmierer-georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Schmierer</surname>
+               </persName>
+               <occupation>Hausinspektor am Polytechnischen Institut</occupation>
+            </person>
+            <person xml:id="vetter-madgalena">
+               <persName>
+                  <forename>Magdalena</forename>
+                  <surname>Vetter, geb. Lackner</surname>
+               </persName>
+               <birth>
+                  <date when="1822-07-22">22.07.1822</date>
+                  <placeName>Möllersdorf/Niederösterreich</placeName>
+               </birth>
+               <death>
+                  <date when="1860-02-23">23.02.1860</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>(Zweite) Ehefrau von Heinrich Vetter</occupation>
+               </person>
+            <person xml:id="beutel-johann">
+               <persName>
+                  <forename>Johann Alois</forename>
+                  <surname>Beutel</surname>
+               </persName>
+               <birth>
+                  <date when="1797-11-02">2.11.1797</date>
+                  <placeName>Triblitz/Nord-Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1877-08-13">13.08.1877</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Zweiter Aktuar der Akademie</occupation>
+               <occupation>Autor</occupation>
+               <occupation>Journalist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1313134856</idno>
+            </person>
+            <person xml:id="obermayer-peter-eugen">
+               <persName>
+                  <forename>Peter Maria Josef Eugen</forename>
+                  <surname>Obermayer</surname>
+               </persName>
+               <birth>
+                  <date when="1820-05-25">25.05.1820</date>
+                  <placeName>Cremona/Lombardei</placeName>
+               </birth>
+               <death>
+                  <date when="1897-07-07">07.07.1897</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Aktuar der Akademie</occupation>
+               <occupation>Schriftsteller</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117077453</idno>
+            </person>
             <person xml:id="conrad-gustav">
                <persName>
                   <forename>Gustav</forename>
