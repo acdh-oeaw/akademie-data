@@ -259,9 +259,7 @@
                                 Scriptor
                             <lb/>
                             <hi>
-                                <rs ref="#birk-von-ernst" type="person">Birk</rs>
-                            </hi>
-                                , worin er seine
+                                <rs ref="#birk-von-ernst" type="person">Birk</rs></hi>, worin er seine
                                 Bereitwillig-
                             <lb/>
                                 keit erklärt, sich bei der
@@ -299,7 +297,7 @@
                             <rs ref="#palacky-franz" type="person">Palacky</rs>
                                 zu wenden unter
                                 Mit-
-                            <lb/>theilung von <rs ref="#birk-von-ernst" type="person">Birk's</rs> Anfrage.</p>
+                            <lb/>theilung von <rs ref="#birk-von-ernst" type="person">Birk</rs>'s Anfrage.</p>
                     <p facs="#facs_2_region_1577963671419_626" rendition="#f" xml:id="p12" xml:space="preserve">
                                 <lb/>(ad <num>360</num>/<num>1848</num>) b. Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
                                     fragt an, was mit
@@ -311,23 +309,10 @@
                             <lb/>
                             <choice>
                                 <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
-                        <choice>
-                            <expan>
-                                <rs ref="#muchar-albert-anton" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                        </abbr>
-                    </choice>
-                    <rs ref="#muchar-albert-anton" type="person">Muchar's</rs>
+                                <abbr>Prof<am>.</am></abbr>
+                            </choice>
+                    <rs ref="#muchar-albert-anton" type="person">    
+                        <choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Muchar</rs>'s
                         handschriftlich
                     <lb/>
                         eingesendeter: Geschichte von
@@ -377,24 +362,16 @@
                         </abbr>
                     </choice>
                     <hi>
-                        <rs ref="#blumberger-friedrich" type="person">Blum-<lb/>berger</rs>
-                    </hi>, über des <choice>
+                        <rs ref="#blumberger-friedrich" type="person">Blum-<lb/>berger</rs></hi>, über des <choice>
                         <expan>Herrn</expan>
                         <abbr>Hrn<am>.</am>
                     </abbr>
                 </choice>
                 <choice>
                     <expan>Professor</expan>
-                    <abbr>
-                        <expan>Prof<choice>
-                            <am>.</am>
-                            <ex>essor</ex>
+                    <abbr>Prof<am>.</am></abbr>
                         </choice>
-                    </expan>
-                    <am>.</am>
-                </abbr>
-            </choice>
-            <rs ref="#richter-franz-x-johann" type="person">Richter's</rs>
+                    <rs ref="#richter-franz-x-johann" type="person">Richter</rs>'s
             <lb/>
                 eingesandten Aufsatz, in Beziehung
             <lb/>auf <choice>
@@ -402,7 +379,7 @@
                 <abbr>D<hi rend="super">r</hi>
             </abbr>
         </choice>
-        <rs ref="#wattenbach-wilhelm" type="person">Wattenbach's</rs>
+        <rs ref="#wattenbach-wilhelm" type="person">Wattenbach</rs>'s
             "Beiträge zur
         <lb/>
             Geschichte der christlichen Kirche in
@@ -420,14 +397,7 @@
     </choice>
     <choice>
         <expan>Professor</expan>
-        <abbr>
-            <expan>Prof<choice>
-                <am>.</am>
-                <ex>essor</ex>
-            </choice>
-        </expan>
-        <am>.</am>
-    </abbr>
+        <abbr>Prof<am>.</am></abbr>
 </choice>
 <lb/>
 <rs ref="#richter-franz-x-johann" type="person">Richter</rs>
@@ -438,15 +408,10 @@
     <lb/>
     <num>635</num>. Der <choice>
         <expan>Herr</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
-        </abbr>
+        <abbr>Hr<am>.</am></abbr>
     </choice>
     <hi>
-        <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs>
-    </hi>
-        liest die
+        <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi> liest die
     <lb/>
     <num>1</num>
     <hi rend="super">te</hi>
@@ -459,7 +424,7 @@
                 <pb facs="#facs_3" n="3" xml:id="pag3"/>
                 <div xml:id="d6">
                     <p facs="#facs_3_region_1577963684218_632" rendition="#f" xml:id="p16" xml:space="preserve">
-            <lb/>über <rs ref="#reinaud-joseph-toussaint" type="person">Reinaud's</rs>
+            <lb/>über <rs ref="#reinaud-joseph-toussaint" type="person">Reinaud</rs>'s
                 französische
                 Überset-
             <lb/>zung der Geographie Abulseda.</p>
@@ -472,16 +437,16 @@
                         <am>.</am>
                     </abbr>
                 </choice>
-                <choice>
+                <rs ref="#karajan-von-theodor-georg" type="person">
+                    <choice>
                     <expan>
-                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                        von
                     </expan>
                     <abbr>v<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                setzt die
-                Le-
+            Karajan</rs>
+                setzt die Le-
             <lb/>
                 sung seiner Abhandlung über das
             <lb/>Concil von <rs ref="#lyon" type="place">Lyon</rs> im <choice>
@@ -496,10 +461,7 @@
                 Mit-
             <lb/>glied <choice>
                 <expan>Herr</expan>
-                <abbr>
-                    <expan>H<ex>er</ex>r</expan>
-                    <am>.</am>
-                </abbr>
+                <abbr>Hr<am>.</am></abbr>
             </choice> Custos <hi>
                 <rs ref="#seidl-johann-gabriel" type="person">Seidl</rs>
             </hi>
@@ -521,16 +483,12 @@
             <abbr>Hrn<am>.</am>
         </abbr>
     </choice>
-    <rs ref="#arneth-joseph-calasanz" type="person">Arneth's</rs>
+    <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>'s
         Zustimmung
     <lb/>angenommen wird.</p>
                     <p facs="#facs_3_region_1577963702142_641" rendition="#?35-57-92--463-1209" xml:id="p19" xml:space="preserve">
-        <lb/>
-        <rs ref="#hammer-purgstall-von-joseph" type="person">DrHammerPurgstall</rs>
-    </p>
-                    <p facs="#facs_3_region_1577963704345_644" rendition="#fc" xml:id="p20" xml:space="preserve">
-        <lb/>
-        <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+        <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">DrHammerPurgstall</rs>
+        <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
     </p>
                 </div>
             </div>
