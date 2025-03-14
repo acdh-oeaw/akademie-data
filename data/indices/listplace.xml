@@ -16,6 +16,14 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="washington">
+                   <placeName>Washington</placeName>
+                   <location>
+                       <geo>38.89511 -77.03637</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/4140963</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4064682-8</idno>
+               </place>
                <place xml:id="thessaloniki">
                    <placeName>Thessaloniki</placeName>
                    <location>
