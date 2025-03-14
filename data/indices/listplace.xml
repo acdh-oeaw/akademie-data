@@ -15,8 +15,16 @@
     </teiHeader>
     <text>
         <body>
-            <listPlace>
-                <place xml:id="belgrad">
+           <listPlace>
+               <place xml:id="thessaloniki">
+                   <placeName>Thessaloniki</placeName>
+                   <location>
+                       <geo>40.64361 22.93086</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/734077</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4051394-4</idno>
+               </place>
+               <place xml:id="belgrad">
                     <placeName>Belgrad</placeName>
                     <location>
                         <geo>44.80401 20.46513</geo>
