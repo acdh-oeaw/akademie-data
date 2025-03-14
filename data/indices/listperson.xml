@@ -17,6 +17,42 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="flugel-johann-gottfried">
+               <persName>
+                  <forename>Johann Gottfried</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Flügel</surname>
+               </persName>
+               <birth>
+                  <date when="1788-11-22">22.11.1788</date>
+                  <placeName>Barby</placeName>
+               </birth>
+               <death>
+                  <date when="1855-06-24">24.06.1855</date>
+                  <placeName>Leipzig</placeName></death>
+               <occupation>Lexikograph</occupation>
+               <occupation>Anglist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119237652</idno>
+            </person>
+            <person xml:id="hietzinger-karl">
+               <persName>
+                  <forename>Karl Bernhard</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Hietzinger</surname>
+               </persName>
+               <birth>
+                  <date when="1786-11-03">03.11.1786</date>
+                  <placeName>Czernowitz</placeName>
+               </birth>
+               <death>
+                  <date when="1864-03-26">26.03.1864</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Militärbeamter</occupation>
+               <occupation>Präsident der Österreichischen Geographischen Gesellschaft
+                  (1860/61)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/115485414</idno>
+            </person>
             <person xml:id="schmidt-august">
                <persName>
                   <forename>August</forename>
@@ -138,7 +174,7 @@
                   <date when="1860-02-23">23.02.1860</date>
                   <placeName>Wien</placeName></death>
                <occupation>(Zweite) Ehefrau von Heinrich Vetter</occupation>
-               </person>
+            </person>
             <person xml:id="beutel-johann">
                <persName>
                   <forename>Johann Alois</forename>
@@ -2278,7 +2314,8 @@
                </birth>
                <death>
                   <date when="1861-06-15">15.06.1861</date>
-                  <placeName>Graz</placeName> </death>
+                  <placeName>Graz</placeName>
+               </death>
                <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
                   >Historiker</occupation>
                <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
