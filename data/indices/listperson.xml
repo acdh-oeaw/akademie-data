@@ -17,6 +17,54 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="schmidt-august">
+               <persName>
+                  <forename>August</forename>
+                  <surname>Schmidt</surname>
+               </persName>
+               <birth>
+                  <date>um 1835</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <occupation>Diurnist</occupation>
+            </person>
+            <person xml:id="hartl-wenzel">
+               <persName>
+                  <forename>Wenzel</forename>
+                  <surname>Hartl</surname>
+               </persName>
+               <birth>
+                  <date>um 1830</date>
+                  <placeName>Brünn</placeName>
+               </birth>
+               <occupation>Collaborateur in der k.k. Hofbibliothek</occupation>
+            </person>
+            <person xml:id="wöber-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Wöber</surname>
+               </persName>
+               <birth>
+                  <date when="1830-11-19">30.11.1830</date>
+                  <placeName>Wien, Pfarre Neulerchenfeld</placeName>
+               </birth>
+               <occupation>Collaborateur in der k.k. Hofbibliothek</occupation>
+            </person>
+            <person xml:id="scharler-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Scharler</surname>
+               </persName>
+               <birth>
+                  <date when="1821-09-20">20.09.1821</date>
+                  <placeName>Hofstätten an der Raab/Steiermark</placeName>
+               </birth>
+               <death>
+                  <date when="1876-05-19">19.05.1876</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Aktuar der Akademie</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/133085341</idno>
+            </person>
             <person xml:id="jakschitsch-wladimir">
                <persName>
                   <forename>Wladimir</forename>
