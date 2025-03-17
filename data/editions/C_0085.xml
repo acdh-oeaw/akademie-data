@@ -308,12 +308,10 @@
                                     </abbr>
                                 </choice>
                                 <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                                <lb/>Die wirklichen Mitglieder <choice>
+                                <lb/>Die wirklichen Mitglieder 
+                                <choice>
                                     <expan>Herr</expan>
-                                    <abbr>
-                                        <expan>H<ex>er</ex>r</expan>
-                                        <am>.</am>
-                                    </abbr>
+                                    <abbr>Hr<am>.</am></abbr>
                                 </choice>
                                 <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
                                 <lb/>
@@ -476,8 +474,7 @@
                 <pb facs="#facs_2" n="2" xml:id="pag2"/>
                 <div xml:id="d4">
                     <p facs="#facs_2_region_1579081586741_45" rendition="#?11-88-99--172-1496" xml:id="p11" xml:space="preserve">
-            <lb/>Habsburgica <num>2</num>
-            <hi rend="super">te</hi>
+            <lb/>Habsburgica <num>2</num><hi rend="super">te</hi>
                 Reihe,
                 Regie-
             <lb/>rung <choice>
@@ -823,8 +820,7 @@
     </choice> Bogen (= <num>200</num>
     <choice>
         <expan>Gulden</expan>
-        <abbr>fl<am>.</am></abbr>
-            </choice>) bewilligen
+        <abbr>fl<am>.</am></abbr></choice>) bewilligen
 <lb/>zu wollen.</p>
                     <p facs="#facs_5_region_1579081730200_90" rendition="#f" xml:id="p27" xml:space="preserve">
     <lb/>
@@ -867,9 +863,7 @@
         er-
     <lb/>
         stattet im Namen der Commission
-    <lb/>(<rs ref="#karajan-von-theodor-georg" type="person">
-        <choice>
-            <expan>von</expan>
+    <lb/>(<rs ref="#karajan-von-theodor-georg" type="person"><choice><expan>von</expan>
             <abbr>v<am>.</am>
         </abbr>
     </choice> Karajan</rs> und <rs ref="#diemer-josef" type="person">Diemer</rs>) Bericht
@@ -882,8 +876,7 @@
     der
 <lb/>
     Akademie zur Begutachtung
-<lb/>handschriftlich vorgelegte <num>2</num>
-<hi rend="super">te</hi>
+<lb/>handschriftlich vorgelegte <num>2</num><hi rend="super">te</hi>
 <lb/>Auflage seines "Niederöster-<lb/>
     reichischen Idiotikon's" und
 <lb/>

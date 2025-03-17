@@ -163,10 +163,7 @@
                                 <lb/>Anwesend: Der Herr Präsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
                                 <lb/>Die wirklichen Mitglieder <choice>
                                     <expan>Herr</expan>
-                                    <abbr>
-                                        <expan>H<ex>er</ex>r</expan>
-                                        <am>.</am>
-                                    </abbr>
+                                    <abbr>Hr<am>.</am></abbr>
                                 </choice>
                                 <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                                 <lb/>
@@ -192,14 +189,11 @@
                                         <am>"</am>
                                     </abbr>
                                 </choice>
-                                <choice>
-                                    <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                    </expan>
-                                    <abbr>v<am>.</am>
-                                </abbr>
-                            </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                    <rs ref="#karajan-von-theodor-georg" type="person">
+                                        <choice>
+                                    <expan>von</expan>
+                                    <abbr>v<am>.</am></abbr>
+                            </choice></rs>
                             <lb/>
                             <choice>
                                 <expan>Herr</expan>
@@ -240,16 +234,12 @@
                             <rs ref="#seidl-johann-gabriel" type="person">Seidl</rs>
                             <lb/>Als Gast <choice>
                                 <expan>Herr</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
+                                <abbr>Hr<am>.</am></abbr>
                             </choice> Magistrats-Secretär <rs ref="#barbier-franz-xaver-anton-mathias" type="person">Barbier</rs>
                         </p>
                     <p facs="#facs_1_region_1577963610286_602" rendition="#r" xml:id="p8" xml:space="preserve">
                             <lb/>Der <hi>
-                                <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                            </hi> legt vor:</p>
+                                <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> legt vor:</p>
                     <p facs="#facs_1_region_1577963616989_605" rendition="#?39-61-100--983-2498" xml:id="p9" xml:space="preserve">
                                 <lb/>(<num>633</num>) a. Ein Schreiben von <choice>
                                     <expan>Herrn</expan>
@@ -413,8 +403,7 @@
     <hi>
         <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi> liest die
     <lb/>
-    <num>1</num>
-    <hi rend="super">te</hi>
+    <num>1</num><hi rend="super">te</hi>
         Abtheilung seines für die
         Sitzungs-
     <lb/>berichte bestimmte Aufsatzes</p>
