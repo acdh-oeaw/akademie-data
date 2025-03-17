@@ -17,6 +17,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="argelander-friedrich-wilhelm">
+               <persName>
+                  <forename>Friedrich Wilhelm</forename>
+                  <surname>Argelander</surname>
+               </persName>
+               <birth>
+                  <date when="1799-03-22">22.03.1799</date>
+                  <placeName>Memel</placeName>
+               </birth>
+               <death>
+                  <date when="1875-02-17">17.02.1875</date>
+                  <placeName>Bonn</placeName></death>
+               <occupation>Astronom</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119228432</idno>
+            </person>
             <person xml:id="henry-joseph">
                <persName>
                   <forename>Joseph</forename>
