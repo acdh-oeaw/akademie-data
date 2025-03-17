@@ -17,6 +17,40 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="henry-joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Henry</surname>
+               </persName>
+               <birth>
+                  <date when="1797-12-17">17.12.1797</date>
+                  <placeName>Albany/NY</placeName>
+               </birth>
+               <death>
+                  <date when="1878-05-13">13.05.1878</date>
+                  <placeName>Washington, D.C.</placeName></death>
+               <occupation>Physiker</occupation>
+               <occupation>Astronom</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119093839</idno>
+            </person>
+            <person xml:id="wurzbach-constantin">
+               <persName>
+                  <forename>Constantin</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Wurzbach</surname>
+               </persName>
+               <persName type="alt">Wurzbach von Tannenberg</persName>
+               <birth>
+                  <date when="1818-04-11">11.4.1818</date>
+                  <placeName>Laibach</placeName>
+               </birth>
+               <death>
+                  <date when="1893-08-18">18.08.1893</date>
+                  <placeName>Berchtesgaden</placeName></death>
+               <occupation>Lexikograph</occupation>
+               <occupation>Bibliothekar</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119532522</idno>
+            </person>
             <person xml:id="flugel-johann-gottfried">
                <persName>
                   <forename>Johann Gottfried</forename>
