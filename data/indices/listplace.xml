@@ -16,6 +16,14 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="wipperfürth">
+                   <placeName>Wipperfürth</placeName>
+                   <location>
+                       <geo>51.1161 7.39865</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2807594</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4066347-4</idno>
+               </place>
                <place xml:id="groß-kanischa">
                    <placeName>Nagykanizsa</placeName>
                    <location>
