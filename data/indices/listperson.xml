@@ -17,6 +17,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="pollender-alois">
+               <persName>
+                  <forename>Franz Anton Alois</forename>
+                  <surname>Pollender</surname>
+               </persName>
+               <birth>
+                  <date when="1799-01-26">26.01.1799</date>
+                  <placeName>(Wuppertal-)Barmen</placeName>
+               </birth>
+               <death>
+                  <date when="1879-08-16">16.08.1879</date>
+                  <placeName>(Wuppertal-)Barmen</placeName></death>
+               <occupation>Mediziner</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116264691</idno>
+            </person>
             <person xml:id="argelander-friedrich-wilhelm">
                <persName>
                   <forename>Friedrich Wilhelm</forename>
