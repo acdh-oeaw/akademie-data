@@ -246,21 +246,7 @@
                                 <rs ref="#springer-johann" type="person">Springer</rs>
                                 <lb/>Der Secretär <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.</p>
                     <p facs="#facs_1_region_1575469918222_21" rendition="#?25-74-99--601-2371" xml:id="p8" xml:space="preserve">
-                                    <lb/>Der <choice>
-                                        <expan>provisorische</expan>
-                                        <abbr>prov<am>.</am>
-                                    </abbr>
-                                </choice> General-Secretär, <choice>
-                                    <expan>Professor</expan>
-                                    <abbr>
-                                        <expan>Prof<choice>
-                                            <am>.</am>
-                                            <ex>essor</ex>
-                                        </choice>
-                                    </expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                    <lb/>Der <choice><expan>provisorische</expan><abbr>prov<am>.</am></abbr></choice> General-Secretär, <choice><expan>Professor</expan><abbr><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan><am>.</am></abbr></choice>
                             <rs ref="#schrotter-anton" type="person">Schrötter</rs>.<lb/>Die <choice>
                                 <expan>Herrn</expan>
                                 <abbr>Hrn</abbr>
@@ -404,17 +390,7 @@
                                                             <am>.</am>
                                                         </abbr>
                                                     </choice>
-                                                    <choice>
-                                                        <expan>Professor</expan>
-                                                        <abbr>
-                                                            <expan>Prof<choice>
-                                                                <am>.</am>
-                                                                <ex>essor</ex>
-                                                            </choice>
-                                                        </expan>
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice>
+                                                    <choice><expan>Professor</expan><abbr><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan><am>.</am></abbr></choice>
                                                 <hi>
                                                     <rs ref="#grauert-wilhelm-heinrich" type="person">Grauert</rs>
                                                 </hi>
