@@ -16,6 +16,15 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="adelsberg">
+                   <placeName>Adelsberg</placeName>
+                   <placeName type="alt">Postojna</placeName>
+                   <location>
+                       <geo>45.77435 14.21528</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/3192673</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4068410-6</idno>
+               </place>
                <place xml:id="wipperfürth">
                    <placeName>Wipperfürth</placeName>
                    <location>
