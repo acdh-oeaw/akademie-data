@@ -16,6 +16,14 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="lissabon">
+                   <placeName>Lissabon</placeName>
+                   <location>
+                       <geo>38.71667 -9.13333</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2267057</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4035919-0</idno>
+               </place>
                <place xml:id="adelsberg">
                    <placeName>Adelsberg</placeName>
                    <placeName type="alt">Postojna</placeName>
