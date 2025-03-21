@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="hartinger-anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Hartinger</surname>
+               </persName>
+               <birth>
+                  <date when="1806-08-06">06.08.1806</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1890-01-07">07.01.1890</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Maler</occupation>
+               <occupation>Lithograf</occupation>
+               <occupation>Direktor der lithograpischen Abteilung der Hofdruckerei</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/132032716</idno>
+            </person>
             <person xml:id="rassmann-julius">
                <persName>
                   <forename>Julius</forename>
