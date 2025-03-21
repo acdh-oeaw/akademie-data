@@ -17,6 +17,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="lerch-joseph-udo">
+               <persName>
+                  <forename>Joseph Udo</forename>
+                  <surname>Lerch</surname>
+               </persName>
+               <birth>
+                  <date when="1816-05-03">3.5.1816</date>
+                  <placeName>Nepomuk/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1892-03-05">05.03.1892</date>
+                  <placeName>Prag</placeName></death>
+               <occupation>Pharmazeut</occupation>
+               <occupation>Chemiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117668133</idno>
+            </person>
             <person xml:id="pollender-alois">
                <persName>
                   <forename>Franz Anton Alois</forename>
