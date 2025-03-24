@@ -301,7 +301,7 @@
                                     <lb/>Akademie nicht genehmer wäre,<lb/>
                                         statt der Dissertationen von der
                                     <lb/>
-                                        Berliner Universität die
+                                        <rs type="place" ref="#berlin">Berlin</rs>er Universität die
                                         Ab-
                                     <lb/>
                                         handlungen der dortigen Akademie
@@ -354,11 +354,9 @@
                                     <lb/>
                                     <choice>
                                         <expan>Herr</expan>
-                                        <abbr>
-                                            <expan>H<ex>er</ex>r</expan>
-                                            <am>.</am>
-                                        </abbr>
-                                    </choice> Regierungsrath <hi><rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>
+                                        <abbr>Hr<am>.</am></abbr>
+                                    </choice>
+                                        Regierungsrath <hi><rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>
                                     <lb/>
                                         erstattet sein Gutachten über
                                     <lb/>
