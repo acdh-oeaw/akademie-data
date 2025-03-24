@@ -247,14 +247,7 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
-                                        <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Karajan</rs>
                                 <lb/>
                                 <choice>
                                     <expan>Herr</expan>
@@ -294,16 +287,7 @@
                                     </abbr>
                                 </choice>
                                 <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.<lb/>Als Gäste die Herren: <choice>
-                                    <expan>Professor</expan>
-                                    <abbr>
-                                        <expan>Prof<choice>
-                                            <am>.</am>
-                                            <ex>essor</ex>
-                                        </choice>
-                                    </expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                    <expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                             <rs ref="#kollar-jan" type="person">Kollar</rs>, <rs ref="#dolezalek-antonin-josef" type="person">Dolezalek</rs>.</p>
                     <p facs="#facs_1_region_1578906796282_29" rendition="#r" xml:id="p8" xml:space="preserve">
                                 <lb/>Der <hi>
@@ -314,8 +298,7 @@
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
-                                </choice> Bibliothekar</p>
-                    <p facs="#facs_1_region_1578906809381_35" rendition="#r" xml:id="p10" xml:space="preserve">
+                                </choice> Bibliothekar
                                     <lb/>
                                     <hi><rs ref="#richter-franz-x-johann" type="person">Richter</rs></hi>, nebst einer Abschrift des
                                     <lb/>
@@ -332,8 +315,7 @@
                                         </abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                    </hi>,<lb/>
+                                        <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>,<lb/>
                                         etwa zur Aufnahme in das Archiv
                                     <lb/>übergeben.</p>
                     <p facs="#facs_1_region_1578906822957_41" rendition="#r" xml:id="p12" xml:space="preserve">
@@ -353,14 +335,7 @@
                                         </choice>
                                             Baron
                                         <lb/>
-                                        <choice>
-                                            <expan>
-                                                <rs ref="#hugel-karl-alexander" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#hugel-karl-alexander" type="person">Hügel</rs>: "Über das Becken von <rs ref="#kabul" type="place">Kabul</rs>,"<lb/>
+                                        <rs type="person" ref="#hugel-karl-alexander"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Hügel</rs>: "Über das Becken von <rs ref="#kabul" type="place">Kabul</rs>,"<lb/>
                                         die nun an die Reihe zum Abdruck
                                         ge-
                                     <lb/>
@@ -375,12 +350,9 @@
                                         besor-
                                     <lb/>
                                         gen, da es sich gezeigt, daß der
-                                    <rs ref="#wolf-ferdinand" type="person">Secre-<lb/>tär</rs> bei dem unfertigen Zustande</p>
-                    <p facs="#facs_2_region_1578907769491_179" rendition="#f" xml:id="p14" xml:space="preserve">
-                                        <lb/>
-                                            der Handschrift die Verantwortung
-                                        <lb/>
-                                            für die erforderliche Correctheit nicht
+                                    <rs ref="#wolf-ferdinand" type="person">Secre-<lb/>tär</rs> bei dem unfertigen Zustande
+                                        <lb/>der Handschrift die Verantwortung
+                                        <lb/>für die erforderliche Correctheit nicht
                                         <lb/>auf sich nehmen könne?</p>
                     <p facs="#facs_2_region_1578907775649_182" rendition="#f" xml:id="p15" xml:space="preserve">
                                             <lb/>
@@ -405,24 +377,20 @@
                                     <rs ref="#hugel-karl-alexander" type="person">Hügel</rs> zu schreiben.</p>
                     <p facs="#facs_2_region_1578907788937_185" rendition="#f" xml:id="p16" xml:space="preserve">
                                         <lb/>
-                                        <num>2</num>
-                                            . Wegen der der ungrischen
-                                            Ab-
+                                        <num>2</num>. Wegen der der ungrischen Ab-
                                         <lb/>handlung des <choice>
                                             <expan>Herrn</expan>
                                             <abbr>Hrn<am>.</am>
                                         </abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#toldy-franz" type="person">Toldy</rs>
-                                    </hi>                                        
+                                        <rs ref="#toldy-franz" type="person">Toldy</rs></hi>                                        
                                         beizugeben-
                                     <lb/>den Übersetzung.</p>
                     <p facs="#facs_2_region_1578907798035_188" rendition="#f" xml:id="p17" xml:space="preserve">
                                         <lb/>
                                             Die Classe beschließt auch den
-                                        <lb/>Abdruck dieser Abhandlung zu <hi>sus-<lb/>pendiren</hi>
-                                            , bis man über die
+                                        <lb/>Abdruck dieser Abhandlung zu <hi>sus-<lb/>pendiren</hi>, bis man über die
                                             beizu-
                                         <lb/>
                                             gebende Übersetzung die Meinung
@@ -430,8 +398,7 @@
                                             des Verfassers eingeholt, und tragt dem
                                         <lb/>
                                         <hi>
-                                            <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                        </hi>
+                                            <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
                                             auf, sich deßhalb nochmals
                                         <lb/>brieflich an den <rs ref="#toldy-franz" type="person">Verfasser</rs> zu wenden.</p>
                     <p facs="#facs_2_region_1578907810927_191" rendition="#f" xml:id="p18" xml:space="preserve">
@@ -475,8 +442,8 @@
                                             <rs ref="#prokesch-osten-anton" type="person">Verfas-<lb/>sers</rs>
                                                 Entschluß darüber einzuholen, und
                                             <lb/>ersucht den Freiherrn <hi>
-                                                <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                                            </hi>,<lb/>brieflich bei ihm anzufragen.</p>
+                                                <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs></hi>,
+                                            <lb/>brieflich bei ihm anzufragen.</p>
                     <p facs="#facs_3_region_1578908535051_253" rendition="#?10-88-98--149-1419" xml:id="p20" xml:space="preserve">
                                                 <lb/>Freiherr <hi>
                                                     <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
@@ -484,7 +451,7 @@
                                                 <lb/>
                                                     liest die zweite Hälfte seines Berichtes
                                                 <lb/>über <hi>
-                                                    <rs ref="#reinaud-joseph-toussaint" type="person">Reinaud's</rs>
+                                                    <rs ref="#reinaud-joseph-toussaint" type="person">Reinaud</rs>'s
                                                 </hi>
                                                     französische
                                                     Über-
@@ -493,19 +460,8 @@
                                                     <lb/>
                                                     <choice>
                                                         <expan>Herr</expan>
-                                                        <abbr>
-                                                            <expan>H<ex>er</ex>r</expan>
-                                                            <am>.</am>
-                                                        </abbr>
-                                                    </choice>
-                                                    <choice>
-                                                        <expan>
-                                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                                        </expan>
-                                                        <abbr>v<am>.</am>
-                                                    </abbr>
-                                                </choice>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                                        <abbr>Hr<am>.</am></abbr></choice>
+                                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Karajan</rs>
                                                     beschließt die
                                                     Le-
                                                 <lb/>
@@ -520,22 +476,10 @@
                                                 <lb/>
                                                 <choice>
                                                     <expan>Herr</expan>
-                                                    <abbr>
-                                                        <expan>H<ex>er</ex>r</expan>
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice>
+                                                    <abbr>Hr<am>.</am></abbr></choice>
                                                 <choice>
                                                     <expan>Professor</expan>
-                                                    <abbr>
-                                                        <expan>Prof<choice>
-                                                            <am>.</am>
-                                                            <ex>essor</ex>
-                                                        </choice>
-                                                    </expan>
-                                                    <am>.</am>
-                                                </abbr>
-                                            </choice>
+                                                    <abbr>Prof<am>.</am></abbr></choice>
                                             <hi>
                                                 <rs ref="#kollar-jan" type="person">Kollar</rs>
                                             </hi>
@@ -557,23 +501,19 @@
                                                 </abbr>
                                             </choice>
                                             <hi>
-                                                <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                                            </hi>
+                                                <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>
                                                 und
                                             <lb/>
                                             <hi>
-                                                <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
-                                            </hi>
+                                                <rs ref="#miklosich-von-franz" type="person">Miklosich</rs></hi>
                                                 zur Begutachtung
                                                 zu-
                                             <lb/>gewiesen.</p>
                     <p facs="#facs_3_region_1578908628325_277" rendition="#f" xml:id="p24" xml:space="preserve">
                                                 <lb/>
-                                                <num>694</num> Der <hi>Secretär <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
-                                            </hi>
+                                                <num>694</num> Der <hi>Secretär <rs ref="#wolf-ferdinand" type="person">Wolf</rs></hi>
                                                 legt
-                                            <lb/>seine für die Denkschriften</p>
-                    <p facs="#facs_3_region_1578908636767_280" rendition="#?11-89-100--152-1445" xml:id="p25" xml:space="preserve">
+                                            <lb/>seine für die Denkschriften
                                                 <lb/>bestimmte Abhandlung vor:<lb/>
                                                     "Über eine Sammlung spanischer
                                                 <lb/>
@@ -594,14 +534,8 @@
                                                     <lb/>
                                                     <choice>
                                                         <expan>Herr</expan>
-                                                        <abbr>
-                                                            <expan>H<ex>er</ex>r</expan>
-                                                            <am>.</am>
-                                                        </abbr>
-                                                    </choice>
-                                                    <choice>
-                                                        <expan>Doctor</expan>
-                                                        <abbr>D<hi rend="super">or</hi>
+                                                        <abbr>Hr<am>.</am></abbr></choice>
+                                                    <choice><expan>Doctor</expan><abbr>D<hi rend="super">or</hi>
                                                     </abbr>
                                                 </choice>
                                                 <hi>
@@ -609,8 +543,7 @@
                                                 </hi>
                                                 <lb/>
                                                     liest seinen Bericht: über
-                                                <lb/>die von Baron <rs ref="#hugel-karl-alexander" type="person">von Hügel</rs>
-                                            </p>
+                                                <lb/>die von Baron <rs ref="#hugel-karl-alexander" type="person">von Hügel</rs></p>
                 </div>
             </div>
             <div n="4" type="page" xml:id="d7">
