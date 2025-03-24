@@ -17,6 +17,17 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="gibert-victor">
+               <persName>
+                  <forename>Victor</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Gibert</surname>
+               </persName>
+               <death>
+                  <date when="1869-07-27">27.07.1869</date>
+                  <placeName>Barcelona</placeName></death>
+               <occupation>k.k. Konsul in Barcelona</occupation>
+           </person>
             <person xml:id="hartinger-anton">
                <persName>
                   <forename>Anton</forename>
