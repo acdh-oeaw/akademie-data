@@ -402,7 +402,7 @@
                     <p facs="#facs_1_region_1580289327753_177" rendition="#fc" xml:id="p6" xml:space="preserve">
                                     <lb/>am <num>20</num>. Februar <num>1850</num>
                                 </p>
-                    <p facs="#facs_1_region_1580289346912_180" rendition="#fc" xml:id="p7" xml:space="preserve">
+                    <p facs="#facs_1_region_1580289346912_180" rendition="#f" xml:id="p7" xml:space="preserve">
                                     <lb/>Anwesend: Der <choice>
                                         <expan>Alterspräsident</expan>
                                         <abbr>Alterspräs<am>.</am>
@@ -545,14 +545,11 @@
 <lb/>
 <choice>
     <expan>Herr</expan>
-    <abbr>
-        <expan>H<ex>er</ex>r</expan>
-        <am>.</am>
-    </abbr>
+    <abbr>Hr<am>.</am></abbr>
 </choice>
 <choice>
     <expan>Doctor</expan>
-    <abbr>D<hi rend="super">or.</hi>
+    <abbr>D<hi rend="super">or</hi>
 </abbr>
 </choice>
 <rs ref="#boue-ami" type="person">Boué</rs>
@@ -573,16 +570,7 @@
         </choice>
         <lb/>
             wegen des Reisenden
-        <lb/>Herrn <choice>
-            <expan>
-                <rs ref="#kremer-alfred" type="person">von</rs>
-            </expan>
-            <abbr>v<am>.</am>
-        </abbr>
-    </choice>
-    <hi>
-        <rs ref="#kremer-alfred" type="person">Kremer</rs>.</hi>
-    </p>
+        <lb/>Herrn <rs type="person" ref="#kremer-alfred"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> <hi>Kremer</hi></rs>.</p>
                     <p facs="#facs_1_region_1580289391306_195" rendition="#r" xml:id="p12" xml:space="preserve">
         <lb/>Zur Wissenschaft.</p>
                 </div>
@@ -592,10 +580,8 @@
                 <div xml:id="d4">
                     <p facs="#facs_2_region_1580310149991_31" rendition="#f" xml:id="p13" xml:space="preserve">
             <lb/>(<num>162</num>) b) c) Vom <hi>Ministerium des</hi>
-            <lb/>(<num>182</num>) <hi>Handels</hi>, Abschrift des die</p>
-                    <p facs="#facs_2_region_1580310170791_34" rendition="#?20-79-99--326-1610" xml:id="p14" xml:space="preserve">
-                <lb/>
-                    Akademie betreffenden Absatzes
+            <lb/>(<num>182</num>) <hi>Handels</hi>, Abschrift des die
+                <lb/> Akademie betreffenden Absatzes
                 <lb/>aus einem Bericht des <choice>
                     <expan>österreichischen</expan>
                     <abbr>österr<am>.</am>
@@ -629,29 +615,23 @@
     <lb/>
         zugemittelte Werk des
     <lb/>Herrn <rs ref="#bastus-y-carrera-vicente-joaquin-vicenc-joaquim" type="person">Bastús</rs> in <rs ref="#barcelona" type="place">Barcelona</rs>
-</p>
-                    <p facs="#facs_2_region_1580310211975_43" rendition="#?21-79-100--341-1614" xml:id="p15" xml:space="preserve">
     <lb/>"Curso de Declamacion (Sen-<lb/>dung <choice>
         <expan>Nummer</expan>
         <abbr>N<hi rend="super">o</hi>
     </abbr>
 </choice>
-<num>1042</num>/<num>1849</num>
-    ) erhalten und
+<num>1042</num>/<num>1849</num>) erhalten und
 <lb/>beifällig aufgenommen,<lb/>
     und ob sie geneigt sei
 <lb/>
     ein anderes Werk
-<rs ref="#bastus-y-carrera-vicente-joaquin-vicenc-joaquim" type="person">des-<lb/>selben</rs>
-    : "Diccionario
-    hi-
+<rs ref="#bastus-y-carrera-vicente-joaquin-vicenc-joaquim" type="person">des-<lb/>selben</rs>: "Diccionario hi-
 <lb/>stórico-enciclopédico"<lb/>(<rs ref="#barcelona" type="place">Barcelona</rs>, <num>1833</num>. <num>5</num>
 <choice>
     <expan>Volumina</expan>
     <abbr>Voll<am>.</am>
 </abbr>
-</choice> in <num>4</num>
-<hi rend="super">to</hi>)<lb/>
+</choice> in <num>4</num><hi rend="super">to</hi>)<lb/>
     entgegen zu nehmen, so
 <lb/>
     wie durch seine Vermittelung
@@ -662,10 +642,7 @@
     in
 <lb/>Verbindung zu treten?</p>
                     <p facs="#facs_2_region_1580310224335_46" rendition="#?23-77-100--377-1619" xml:id="p16" xml:space="preserve">
-    <lb/>Der <hi>
-        <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-    </hi>
-        wird
+    <lb/>Der <hi><rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> wird
     <lb/>
         beauftragt, dem hohen
         Mini-
@@ -730,10 +707,8 @@
     Gegen-
 <lb/>
     ständen gemeint sei, indem
-<lb/>die kaiserliche Akademie nicht</p>
-                    <p facs="#facs_3_region_1580311913726_136" rendition="#f" xml:id="p18" xml:space="preserve">
-    <lb/>
-        beabsichtigen könne, ähnliche
+<lb/>die kaiserliche Akademie nicht
+    <lb/>beabsichtigen könne, ähnliche
     <lb/>Sammlungen anzulegen;<lb/>daß aber das löbliche <choice>
         <expan/>
         <abbr>k<am>.</am>
@@ -844,15 +819,8 @@
     <abbr>hist<am>.</am>
 </abbr>
 </choice>
-<choice>
-    <expan>enciclopédico</expan>
-    <abbr>enciclop<am>.</am>
-</abbr>
-</choice>
-    "
-    entgegenzu-
-<lb/>nehmen, sondern auch ihren</p>
-                    <p facs="#facs_4_region_1580313159652_221" rendition="#?23-77-100--369-1635" xml:id="p21" xml:space="preserve">
+<choice><expan>enciclopédico</expan><abbr>enciclop<am>.</am></abbr></choice>" entgegenzu-
+<lb/>nehmen, sondern auch ihren
     <lb/>
         Wunsch mitzutheilen, durch
     <lb/>
@@ -877,8 +845,6 @@
             <abbr>schweizer<am>.</am>
         </abbr>
     </choice> ge-</hi>
-</p>
-                    <p facs="#facs_4_region_1580313185420_227" rendition="#?22-78-100--358-1631" xml:id="p23" xml:space="preserve">
     <lb/>
     <hi>schichtsforschenden Gesell-<lb/>schaft in <rs ref="#basel" type="place">Basel</rs>
 </hi>
@@ -895,8 +861,7 @@
     <expan>Heft</expan>
     <abbr>Hft</abbr>
 </choice>
-<num>1</num>. <num>2</num>
-    . mit dem
+<num>1</num>. <num>2</num>. mit dem
 <lb/>
     Ersuchen um Gegensendung
 <lb/>der Schriften der Akademie.</p>
@@ -919,18 +884,11 @@
                 entgegenzusenden. (exequatur
             <lb/>Kanzlei!).</p>
                     <p facs="#facs_5_region_1580314020914_325" rendition="#f" xml:id="p26" xml:space="preserve">
-                <lb/>(<num>181</num>) c) Von Herrn <choice>
-                    <expan>Johann#Joh</expan>
-                    <abbr>Jos<am>.</am>
-                </abbr>
-            </choice>
+                <lb/>(<num>181</num>) c) Von Herrn <choice><expan>Josef</expan><abbr>Jos<am>.</am></abbr></choice>
             <hi>
                 <rs ref="#scheuba-heinrich-johann-evangelist-joseph" type="person">Scheuba</rs>
             </hi>
-        </p>
-                    <p facs="#facs_5_region_1580314032833_328" rendition="#?25-73-98--428-1663" xml:id="p27" xml:space="preserve">
-            <lb/>in <rs ref="#linz" type="place">Linz</rs>
-                , Antrag der
+            <lb/>in <rs ref="#linz" type="place">Linz</rs>, Antrag der
                 Akade-
             <lb/>
                 mie Mittheilungen aus
@@ -968,15 +926,11 @@
             </choice>
             <hi>
                 <rs ref="#muller-john-w" type="person">Müller</rs>,</hi>
-            </p>
-                    <p facs="#facs_5_region_1580314060954_337" rendition="#?23-77-100--384-1689" xml:id="p30" xml:space="preserve">
                 <lb/>
                     Aufforderung, ihm auch
                 <lb/>von der <choice>
                     <expan>philosophisch-historischen</expan>
-                    <abbr>philos<am>.</am>
-                    <am>-</am>hist<am>.</am>
-                </abbr>
+                    <abbr>philos<am>.</am><am>-</am>hist<am>.</am></abbr>
             </choice>
                 Classe
                 In-
@@ -991,18 +945,16 @@
             <lb/>zu ertheilen.</p>
                     <p facs="#facs_5_region_1580314073154_340" rendition="#?24-75-99--415-1687" xml:id="p31" xml:space="preserve">
                 <lb/>Herr <hi>
-                    <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                </hi>
+                    <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>
                     erbietet
                 <lb/>
-                    sich zu einer solchen
-                    Instruc-
+                    sich zu einer solchen Instruc-
                 <lb/>
                     tion über antiquarische
                     Ge-
                 <lb/>genstände.</p>
                     <p facs="#facs_5_region_1580314078834_343" rendition="#?24-76-100--413-1697" xml:id="p32" xml:space="preserve">
-                    <lb/>Herrn <rs ref="#braumuller-von-wilhelm" type="person">Braumüller's</rs>                        
+                    <lb/>Herrn <rs ref="#braumuller-von-wilhelm" type="person"><hi>Braumüller</hi></rs>'s                        
                         Auf-
                     <lb/>forderung auf <rs ref="#lepsius-karl-richard" type="person">Lepsius</rs> "Denk-</p>
                 </div>
@@ -1045,10 +997,7 @@
                             </abbr>
                         </choice>
                         <rs ref="#boue-ami" type="person">
-                            <hi>Boué</hi>
-                        </rs>
-                            liest einen
-                            Auf-
+                            <hi>Boué</hi></rs> liest einen Auf-
                         <lb/>
                             satz "über die sogenannten
                         <lb/>
@@ -1059,8 +1008,7 @@
                                 Herr Regierungsrath
                             <lb/>
                             <hi>
-                                <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                            </hi>
+                                <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>
                                 legt einige
                                 antiqua-
                             <lb/>
@@ -1073,22 +1021,19 @@
                             Geheimen Justizrath
                         <lb/>
                         <hi>
-                            <rs ref="#neigebaur-johann-daniel-ferdinand" type="person">Neugebaur</rs>
-                        </hi>
+                            <rs ref="#neigebaur-johann-daniel-ferdinand" type="person">Neugebaur</rs></hi>
                             vor, im Falle die
                         <lb/>Classe sie abdrucken lassen wolle?<lb/>
                             Herrn Regierungsrath
                         <lb/>
                         <hi>
-                            <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                        </hi>
+                            <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
                             für das Archiv
                             zugewie-
                         <lb/>sen.</p>
                     <p facs="#facs_6_region_1580314908706_432" rendition="#f" xml:id="p36" xml:space="preserve">
                             <lb/>Dann setzt <hi>
-                                <rs ref="#arneth-joseph-calasanz" type="person">derselbe</rs>
-                            </hi>
+                                <rs ref="#arneth-joseph-calasanz" type="person">derselbe</rs></hi>
                                 die
                             <lb/>
                                 Lesung seines Berichtes über
@@ -1103,18 +1048,14 @@
                         </abbr>
                     </choice>
                     <hi>
-                        <rs ref="#kandler-peter" type="person">Kandler</rs>
-                    </hi>                        
+                        <rs ref="#kandler-peter" type="person">Kandler</rs></hi>                        
                         ein-
                     <lb/>gesandten Werke fort.</p>
                     <p facs="#facs_6_region_1580314914274_435" rendition="#f" xml:id="p37" xml:space="preserve">
                         <lb/>
                         <choice>
                             <expan>Herr</expan>
-                            <abbr>
-                                <expan>H<ex>er</ex>r</expan>
-                                <am>.</am>
-                            </abbr>
+                            <abbr>Hr<am>.</am></abbr>
                         </choice>
                         <choice>
                             <expan>Doctor</expan>
@@ -1122,8 +1063,7 @@
                         </abbr>
                     </choice>
                     <hi>
-                        <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
-                    </hi>
+                        <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs></hi>
                         liest
                     <lb/>einen Aufsatz: "Bemerkungen</p>
                 </div>
@@ -1139,27 +1079,14 @@
                         <lb/>Sprache von Sagalien.</p>
                     <p facs="#facs_7_region_1580376885055_79" rendition="#f" xml:id="p39" xml:space="preserve">
                             <lb/>
-                            <choice>
-                                <expan>Herr</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                           <choice>
+                            <expan>Herr</expan>
+                            <abbr>Hr<am>.</am></abbr>
+                        </choice>
                             <choice>
                                 <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
-                        <hi>
-                            <rs ref="#suttner-hermann" type="person">Suttner</rs>
-                        </hi>
+                                <abbr>Prof<am>.</am></abbr></choice>
+                        <hi><rs ref="#suttner-hermann" type="person">Suttner</rs></hi>
                             liest als
                         <lb/>
                             Gast einen Aufsatz: über
@@ -1168,14 +1095,9 @@
                     <p facs="#facs_7_region_1580376892486_82" rendition="#f" xml:id="p40" xml:space="preserve">
                             <lb/>
                             <choice>
-                                <expan>Herr</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice> Ministerialrath <hi>
-                                <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
-                            </hi>
+                            <expan>Herr</expan>
+                            <abbr>Hr<am>.</am></abbr>
+                        </choice> Ministerialrath <hi><rs ref="#exner-franz-seraphin" type="person">Exner</rs></hi>
                             <lb/>
                                 wird ersucht zu bestimmen, ob
                             <lb/>
@@ -1185,8 +1107,7 @@
                                 <lb/>
                                     In der vertraulichen
                                 <lb/>Sitzung theilt der <hi>
-                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                </hi>
+                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
                                     den
                                 <lb/>Commissionsbericht über <choice>
                                     <expan>Herrn</expan>
@@ -1194,18 +1115,8 @@
                                 </abbr>
                             </choice>
                             <lb/>
-                            <choice>
-                                <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
-                        <rs ref="#kollar-jan" type="person">Kollár's</rs>
+                            <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
+                        <rs ref="#kollar-jan" type="person">Kollár</rs>'s
                             gelesene
                             Ab-
                         <lb/>
@@ -1226,11 +1137,10 @@
                         </hi>
                             eingesandten
                             Com-
-                        <lb/>missionsbericht über <rs ref="#kollar-vincenz" type="person">Kollár's</rs>
-                    </p>
+                        <lb/>missionsbericht über <rs ref="#kollar-vincenz" type="person">Kollár</rs>'s
+                        <lb/>"Starirlalia slawjanská".</p>
                     <p facs="#facs_7_region_1580376938511_88" rendition="#f" xml:id="p42" xml:space="preserve">
-                        <lb/>"Starirlalia slawjanská".<lb/>
-                            Die Classe beschließt die
+                        <lb/>Die Classe beschließt die
                         <lb/>
                             Entscheidung über die
                             Aufnah-
@@ -1285,11 +1195,7 @@
                     nehmen könne, es ihm aber
                 <lb/>sehr erwünscht sein würde,<lb/>wenn <choice>
                     <expan>Herr</expan>
-                    <abbr>
-                        <expan>H<ex>er</ex>r</expan>
-                        <am>.</am>
-                    </abbr>
-                </choice>
+                    <abbr>Hr<am>.</am></abbr></choice>
                 <choice>
                     <expan>Doctor</expan>
                     <abbr>D<hi rend="super">or</hi>
@@ -1345,11 +1251,7 @@
 </abbr>
 </choice>
 <choice>
-    <expan>Conventionsmünze</expan>
-    <abbr>CM<am>.</am>
-</abbr>
-</choice>
-    , und für den
+    <expan>Conventionsmünze</expan><abbr>CM<am>.</am></abbr></choice>, und für den
     Druckbo-
 <lb/>
     gen der Anmerkungen und
@@ -1357,15 +1259,8 @@
 <lb/>weisstücke à <num>1</num>
 <choice>
     <expan>Gulden</expan>
-    <abbr>
-        <choice>
-            <abbr>fl<am>.</am>
-        </abbr>
-        <expan>Gulden</expan>
-    </choice>
-    <am>.</am>
-</abbr>
-</choice>
+    <abbr>fl<am>.</am></abbr>
+        </choice>
 <num>30</num>
 <choice>
     <expan>Kreuzer</expan>
@@ -1374,16 +1269,14 @@
 </choice>
 <choice>
     <expan>Conventionsmünze</expan>
-    <abbr>CM<am>.</am>
-</abbr>
-</choice>, aus-</p>
+    <abbr>CM<am>.</am></abbr></choice>, aus-</p>
                     <p facs="#facs_8_region_1580379206284_186" rendition="#f" xml:id="p46" xml:space="preserve">
     <lb/>bezahle und dem <choice>
         <expan>Herrn</expan>
         <abbr>Hrn<am>.</am>
     </abbr>
 </choice>
-    Baron
+    <rs type="person" ref="#prokesch-osten-anton">Baron</rs>
 <lb/>
     als Vorauslage der
     Druckko-
@@ -1396,11 +1289,7 @@
     <lb/>
     <choice>
         <expan>Herr</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
-        </abbr>
-    </choice> Ministerialrath <hi>
+        <abbr>Hr<am>.</am></abbr></choice> Ministerialrath <hi>
         <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
     </hi>
     <lb/>
@@ -1415,17 +1304,8 @@
 <lb/>
 <choice>
     <expan>Professor</expan>
-    <abbr>
-        <expan>Prof<choice>
-            <am>.</am>
-            <ex>essor</ex>
-        </choice>
-    </expan>
-    <am>.</am>
-</abbr>
-</choice>
-<rs ref="#suttner-hermann" type="person">Suttner</rs>
-    , um über die
+    <abbr>Prof<am>.</am></abbr></choice>
+<rs ref="#suttner-hermann" type="person">Suttner</rs>, um über die
     Auf-
 <lb/>nahme desselben zu bestimmen.</p>
                     <p facs="#facs_8_region_1580379225419_192" rendition="#rc" xml:id="p48" xml:space="preserve">
