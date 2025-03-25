@@ -248,7 +248,7 @@
 <lb/>Anwesend: Der Alters-Präsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
 <lb/>Die wirklichen Mitglieder Herr <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
 <lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#chmel-joseph" type="person">Chmel</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <choice><expan><rs ref="#karajan-von-theodor-georg" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs type="person" ref="#karajan-von-theodor-georg"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Karajan</rs>
 <lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
 <lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#diemer-josef" type="person">Diemer</rs>
 <lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#springer-johann" type="person">Springer</rs>
@@ -257,8 +257,7 @@
                     <p facs="#facs_1_region_1578910509466_476" rendition="#r" xml:id="p8" xml:space="preserve">
 <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:</p>
                     <p facs="#facs_1_region_1578910514307_479" rendition="#?36-64-100--875-2420" xml:id="p9" xml:space="preserve">
-<lb/>(<num>817</num>) <hi>a</hi>. von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <hi><rs ref="#fassel-hirsch-baer" type="person">Fassel</rs>,</hi> den ersten Theil</p>
-                    <p facs="#facs_1_region_1578910528531_482" rendition="#?46-53-100--1123-2416" xml:id="p10" xml:space="preserve">
+<lb/>(<num>817</num>) <hi>a</hi>. von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <hi><rs ref="#fassel-hirsch-baer" type="person">Fassel</rs>,</hi> den ersten Theil
 <lb/>seines "Mosaischrabbinischen
 Civil-<lb/>rechts" im Manuscript, mit dem
 Ge-<lb/>suche um Prüfung und Veröffentlichung.
@@ -266,8 +265,7 @@ Ge-<lb/>suche um Prüfung und Veröffentlichung.
 <lb/>Bericht; (mit gewöhnlichem
 Einbeglei-<lb/>tungsschreiben durch die Kanzlei.)</p>
                     <p facs="#facs_1_region_1578910534291_485" rendition="#?37-62-99--891-2402" xml:id="p11" xml:space="preserve">
-<lb/>(<num>812</num>) <hi>b</hi>. von <choice><expan>Doctor</expan><abbr>D<hi rend="super">r</hi></abbr></choice> Constantin <hi><rs ref="#hofler-constantin" type="person">Höfler</rs></hi> in</p>
-                    <p facs="#facs_1_region_1578910545506_488" rendition="#r" xml:id="p12" xml:space="preserve">
+<lb/>(<num>812</num>) <hi>b</hi>. von <choice><expan>Doctor</expan><abbr>D<hi rend="super">r</hi></abbr></choice> Constantin <hi><rs ref="#hofler-constantin" type="person">Höfler</rs></hi> in
 <lb/><rs ref="#bamberg" type="place">Bamberg</rs>, den <num>1</num>. und <num>2</num>. Theil seiner
 <lb/>Quellensammlung zur fränkischen
 <lb/>Geschichte" mit dem Erbieten, Arbeiten
@@ -290,9 +288,9 @@ einzu-<lb/>senden.</p>
                     <p facs="#facs_2_region_1578911519786_614" rendition="#f" xml:id="p15" xml:space="preserve">
 <lb/>(<num>734</num>) <hi>d</hi>. von der <hi>Bibliothèque royale de</hi>
 <lb/> <hi><rs ref="#brussel" type="place">Bruxelles</rs></hi> durch ihren Director Baron
-<lb/><choice><expan><rs ref="#reiffenberg-de-frederic" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <hi><rs ref="#reiffenberg-de-frederic" type="person">Reiffenberg</rs></hi> dessen "Monuments pour
+<lb/><rs type="person" ref="#reiffenberg-de-frederic"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> <hi>Reiffenberg</hi></rs> dessen "Monuments pour
 <lb/>servir à l'histoire des provinces de <rs ref="#namur" type="place">Namur</rs>
-<lb/>etcetera. <choice><expan>Tome</expan><abbr>T<am>.</am></abbr></choice> V. VI. VII., mit dem Gesuche um
+<lb/><choice><expan>etcetera</expan><abbr>etc</abbr></choice>. <choice><expan>Tome</expan><abbr>T<am>.</am></abbr></choice> V. VI. VII., mit dem Gesuche um
 Er-<lb/>wiederung durch Publicationen der
 <lb/>Akademie.</p>
                     <p facs="#facs_2_region_1578911533730_617" rendition="#?15-85-100--222-1527" xml:id="p16" xml:space="preserve">
@@ -304,8 +302,7 @@ vorläu-<lb/>fig die Geschenke der Société d'Archéologie
 <lb/>Frage aufgeworfen wird, ob die Classe
 <lb/>berechtiget sei, <hi>ohne vorgängige
 An-<lb/>zeige</hi> bei der Gesammtakademie auf
-<lb/>diese Weise über <hi>ihre</hi> Publicationen</p>
-                    <p facs="#facs_2_region_1578911548466_620" rendition="#?15-85-100--229-1524" xml:id="p17" xml:space="preserve">
+<lb/>diese Weise über <hi>ihre</hi> Publicationen
 <lb/>zu verfügen, und durch vota majora
 <lb/>(eigentlich <hi>paria</hi>, nämlich <hi>gegen</hi> die Anfrage
 <lb/><rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>, <rs ref="#chmel-joseph" type="person">Chmel</rs>, <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs> <choice><expan>und</expan><abbr>u<am>.</am></abbr></choice> <rs ref="#wolf-ferdinand" type="person">Wolf</rs>; <hi>für</hi> die
@@ -327,16 +324,16 @@ ent-<lb/>schieden wurde, deßhalb bei der nächsten
 <lb/>nach der definitiven Lösung dieser
 <lb/>Frage suspendirt.</p>
                     <p facs="#facs_3_region_1578929854880_86" rendition="#f" xml:id="p19" xml:space="preserve">
-<lb/>(<num>772</num>) e.) von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan><am>.</am></abbr></choice> <hi><rs ref="#jager-albert" type="person">Jäger</rs>,</hi> Gutachten
-<lb/>über <rs ref="#emmert-anton" type="person">Emmert's</rs> Urkunden-Angebot <choice><expan>und</expan><abbr>u<am>.</am></abbr></choice>
+<lb/>(<num>772</num>) e.) von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice> <hi><rs ref="#jager-albert" type="person">Jäger</rs>,</hi> Gutachten
+<lb/>über <rs ref="#emmert-anton" type="person">Emmert</rs>'s Urkunden-Angebot <choice><expan>und</expan><abbr>u<am>.</am></abbr></choice>
 <lb/>Unterstützungsgesuch.</p>
                     <p facs="#facs_3_region_1578929869456_89" rendition="#?12-88-100--182-1480" xml:id="p20" xml:space="preserve">
 <lb/>Die Classe, die <hi>Abweisungsgründe</hi>
-<lb/>des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan><am>.</am></abbr></choice> <rs ref="#jager-albert" type="person">Jäger</rs> würdigend, beschließt
+<lb/>des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice> <rs ref="#jager-albert" type="person">Jäger</rs> würdigend, beschließt
 <lb/>(durch ihren <rs ref="#wolf-ferdinand" type="person">Secretär</rs>) <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs ref="#emmert-anton" type="person">Emmert</rs> in
 <lb/>diesem Sinne bescheiden zu lassen.</p>
                     <p facs="#facs_3_region_1578929891112_92" rendition="#f" xml:id="p21" xml:space="preserve">
-<lb/>(<num>824</num>.) <hi>f.</hi> von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <hi>Salomon Pollak</hi>,
+<lb/>(<num>824</num>.) <hi>f.</hi> von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <hi>Salomon <rs type="person" ref="#pollak-salomon">Pollak</rs></hi>,
 sei-<lb/>nes Vaters <hi><rs ref="#pollak-joachim-chaim-josef" type="person">Joachim</rs>,</hi> Werk: "Akedath
 <lb/>Jizchak und Chaxath Hascha" mit
 <lb/>der Bitte und Beurtheilung.</p>
@@ -344,7 +341,7 @@ sei-<lb/>nes Vaters <hi><rs ref="#pollak-joachim-chaim-josef" type="person">Joac
 <lb/><choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Doctor</expan><abbr>D<hi rend="super">r</hi></abbr></choice> <hi><rs ref="#goldenthal-jakob" type="person">Goldenthal</rs></hi> zugewiesen (durch
 <lb/>die <hi>Kanzlei</hi> zu expediren.)</p>
                     <p facs="#facs_3_region_1578929913816_98" rendition="#?13-86-99--195-1471" xml:id="p23" xml:space="preserve">
-<lb/><choice><expan>Herr</expan><abbr><expan>H<ex>er</ex>r</expan><am>.</am></abbr></choice> Regierungsrath <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> macht
+<lb/><choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> Regierungsrath <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> macht
 <lb/>folgende Mittheilungen:</p>
                     <p facs="#facs_3_region_1578929922136_101" rendition="#?13-87-100--195-1482" xml:id="p24" xml:space="preserve">
 <lb/><num>1</num><hi rend="super">tens</hi> von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan><am>.</am></abbr></choice> <hi><rs ref="#jager-albert" type="person">Jäger</rs></hi> im Namen
@@ -354,10 +351,9 @@ zu-<lb/>nächst beabsichtigten Ausgaben von
 <lb/>Geschichte, und dessen Ersuchen, die von
 <lb/>der Akademie zur Unterstützung
 <lb/>tirolischer Geschichtsforschung
-be-<lb/>reits bewilligten <num>200</num> <choice><expan>Gulden</expan><abbr><choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice><am>.</am></abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CM<am>.</am></abbr></choice> zur
-Vor-<lb/>bereitung der Herausgabe von</p>
-                    <p facs="#facs_3_region_1578929932624_104" rendition="#?14-86-100--204-1483" xml:id="p25" xml:space="preserve">
-<lb/><rs ref="#roschmann-anton" type="person">Roschmann's</rs> handschriftlich
+be-<lb/>reits bewilligten <num>200</num> <choice><expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CM<am>.</am></abbr></choice> zur
+Vor-<lb/>bereitung der Herausgabe von
+<lb/><rs ref="#roschmann-anton" type="person">Roschmann</rs>'s handschriftlich
 hinter-<lb/>lassenem Werke über die
 Alter-<lb/>thümer Tirols mit Ergänzungen
 <lb/>verwenden zu dürfen.</p>
@@ -369,23 +365,23 @@ Alter-<lb/>thümer Tirols mit Ergänzungen
                     <p facs="#facs_4_region_1578931303904_226" rendition="#?19-80-100--321-1643" xml:id="p26" xml:space="preserve">
 <lb/>Die Classe ersucht <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>, nicht nur dieses
 <lb/>Gesuch <hi>bejahend</hi> zu beantworten, sondern auch
-<lb/>den Abdruck des <rs ref="#roschmann-anton" type="person">Roschmann'schen</rs> Werkes in
-<lb/>den <hi>Fontes</hi> der Akademie, anzubieten. <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan><am>.</am></abbr></choice>
-<lb/><rs ref="#jager-albert" type="person">Jäger's</rs> Bericht wird aber zur Aufnahme in
+<lb/>den Abdruck des <rs ref="#roschmann-anton" type="person">Roschmann</rs>'schen Werkes in
+<lb/>den <hi>Fontes</hi> der Akademie, anzubieten. <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
+<lb/><rs ref="#jager-albert" type="person">Jäger</rs>'s Bericht wird aber zur Aufnahme in
 <lb/>die Sitzungsberichte bestimmt.</p>
                     <p facs="#facs_4_region_1578931329608_229" rendition="#f" xml:id="p27" xml:space="preserve">
 <lb/>(<num>949</num>) <num>2</num>. von dem <choice><expan>correspondierenden</expan><abbr>corresp<am>.</am></abbr></choice> Mitglied <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <hi><rs ref="#schuller-johann-karl" type="person">Schuller</rs></hi>
 <lb/>handschriftliche "Proben seiner Etymologie
 <lb/><choice><expan>und</expan><abbr>u<am>.</am></abbr></choice> Analogien der siebenbürgisch-sächsi-<lb/>schen Mundart.</p>
                     <p facs="#facs_4_region_1578931341472_232" rendition="#?21-73-94--341-1545" xml:id="p28" xml:space="preserve">
-<lb/>Wurde <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan><rs ref="#karajan-von-theodor-georg" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <hi><rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs></hi> zur
+<lb/>Wurde <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs type="person" ref="#karajan-von-theodor-georg"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> <hi>Karajan</hi></rs> zur
 <lb/>Prüfung übergeben.</p>
                     <p facs="#facs_4_region_1578931356336_235" rendition="#?20-80-100--327-1642" xml:id="p29" xml:space="preserve">
-<lb/>Dann stellt <choice><expan>Herr</expan><abbr><expan>H<ex>er</ex>r</expan><am>.</am></abbr></choice> <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> das Ansuchen,<lb/>die für das Archiv und die Fontes von <num>100</num>
+<lb/>Dann stellt <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> das Ansuchen,<lb/>die für das Archiv und die Fontes von <num>100</num>
 <lb/>Druckbogen um <hi><num>50</num></hi> vermehren zu wollen
 <lb/>und zwar unter denselben
 Bedingun-<lb/>gen, was also nur eine Mehrausgabe
-<lb/>von <num>750</num> <choice><expan>Gulden</expan><abbr><choice><abbr>fl<am>.</am></abbr><expan>Gulden</expan></choice><am>.</am></abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CM<am>.</am></abbr></choice> ausmachen würde, und sich
+<lb/>von <num>750</num> <choice><expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CM<am>.</am></abbr></choice> ausmachen würde, und sich
 <lb/>bei dem bedeutenden Vorrath und von
 <lb/>allen Seiten eingehenden Zuwachs von
 <lb/>Material umsomehr als dringend
@@ -393,16 +389,15 @@ Bedingun-<lb/>gen, was also nur eine Mehrausgabe
 <lb/>möglich schnellen Abdruck der
 Einsen-<lb/>dungen die auch in den Provinzen
 <lb/>für die historischen Arbeiten der
-<lb/>Akademie rege geworden Theilnahme</p>
-                    <p facs="#facs_4_region_1578931368992_238" rendition="#fc" xml:id="p30" xml:space="preserve">
+<lb/>Akademie rege geworden Theilnahme
 <lb/>unterhalten wird.</p>
                     <p facs="#facs_4_region_1578931377593_241" rendition="#?21-79-100--350-1648" xml:id="p31" xml:space="preserve">
 <lb/>Die Classe beauftragt ihren <hi><rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
 <lb/>in ihrem Namen dieses Ansuchen an die
 <lb/>Gesammtakademie zu stellen.</p>
                     <p facs="#facs_4_region_1578931399280_244" rendition="#?21-79-100--346-1642" xml:id="p32" xml:space="preserve">
-<lb/><choice><expan>Herr</expan><abbr><expan>H<ex>er</ex>r</expan><am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr><expan>Prof<choice><am>.</am><ex>essor</ex></choice></expan><am>.</am></abbr></choice> <hi><rs ref="#goldenthal-jakob" type="person">Goldenthal</rs></hi> liest seinen
-Be-<lb/>richt über <rs ref="#stern-max-emanuel" type="person">Stern's</rs> Ausgabe von Parchon's
+<lb/><choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice> <hi><rs ref="#goldenthal-jakob" type="person">Goldenthal</rs></hi> liest seinen
+Be-<lb/>richt über <rs ref="#stern-max-emanuel" type="person">Stern</rs>'s Ausgabe von <rs type="person" ref="#parchon">Parchon</rs>'s
 <lb/>hebräischem Lexicon, der zum Abdruck
 <lb/>in den Sitzungsberichten bestimmt wird.</p>
                     <p facs="#facs_4_region_1578931406064_247" rendition="#?46-33-80--761-1313" xml:id="p33" xml:space="preserve">
