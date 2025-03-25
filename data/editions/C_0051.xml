@@ -291,8 +291,7 @@
                             <rs ref="#kollar-jan" type="person">Kollar</rs>, <rs ref="#dolezalek-antonin-josef" type="person">Dolezalek</rs>.</p>
                     <p facs="#facs_1_region_1578906796282_29" rendition="#r" xml:id="p8" xml:space="preserve">
                                 <lb/>Der <hi>
-                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                </hi> legt vor:</p>
+                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> legt vor:</p>
                     <p facs="#facs_1_region_1578906802790_32" rendition="#?39-61-100--965-2461" xml:id="p9" xml:space="preserve">
                                     <lb/>(<num>693</num>) Ein Schreiben von <choice>
                                         <expan>Herrn</expan>
@@ -304,9 +303,9 @@
                                     <lb/>
                                         Prologus Johannis pauperis zu einem
                                     <lb/>
-                                        für die Wittwe Kaisers Heinrich
+                                        für die <rs type="person" ref="#agnes-von-poitou">Wittwe Kaisers Heinrich</rs>
                                     <lb/>
-                                        III. Agnes geschriebenen Erbauungs-
+                                        <rs type="person" ref="#agnes-von-poitou">III. Agnes</rs> geschriebenen Erbauungs-
                                     <lb/>buch.</p>
                     <p facs="#facs_1_region_1578906816510_38" rendition="#r" xml:id="p11" xml:space="preserve">
                                         <lb/>Die Abschrift wird <choice>
@@ -367,14 +366,15 @@
                                         </choice>
                                             Baron
                                         <lb/>
+                                    <rs type="person" ref="#hugel-karl-alexander">
                                         <choice>
                                             <expan>
-                                                <rs ref="#hugel-karl-alexander" type="person">von</rs>
+                                                von
                                             </expan>
                                             <abbr>v<am>.</am>
-                                        </abbr>
+                                            </abbr>
                                     </choice>
-                                    <rs ref="#hugel-karl-alexander" type="person">Hügel</rs> zu schreiben.</p>
+                                        Hügel</rs> zu schreiben.</p>
                     <p facs="#facs_2_region_1578907788937_185" rendition="#f" xml:id="p16" xml:space="preserve">
                                         <lb/>
                                         <num>2</num>. Wegen der der ungrischen Ab-
@@ -395,7 +395,7 @@
                                         <lb/>
                                             gebende Übersetzung die Meinung
                                         <lb/>
-                                            des Verfassers eingeholt, und tragt dem
+                                            des <rs type="person" ref="#toldy-franz">Verfasser</rs>s eingeholt, und tragt dem
                                         <lb/>
                                         <hi>
                                             <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
@@ -411,8 +411,7 @@
                                             </abbr>
                                         </choice>
                                         <hi>
-                                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                                        </hi> über des Freiherrn <rs ref="#prokesch-osten-anton" type="person">von</rs>
+                                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi> über des Freiherrn <rs ref="#prokesch-osten-anton" type="person">von</rs>
                                         <lb/>
                                         <rs ref="#prokesch-osten-anton" type="person">Prokesch</rs>
                                             "Geschichte des
@@ -439,7 +438,7 @@
                                                 an-
                                             <lb/>gemessener, <hi>vorher noch</hi>
                                                 des
-                                            <rs ref="#prokesch-osten-anton" type="person">Verfas-<lb/>sers</rs>
+                                            <rs ref="#prokesch-osten-anton" type="person">Verfas-<lb/>ser</rs>s
                                                 Entschluß darüber einzuholen, und
                                             <lb/>ersucht den Freiherrn <hi>
                                                 <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs></hi>,
@@ -481,8 +480,7 @@
                                                     <expan>Professor</expan>
                                                     <abbr>Prof<am>.</am></abbr></choice>
                                             <hi>
-                                                <rs ref="#kollar-jan" type="person">Kollar</rs>
-                                            </hi>
+                                                <rs ref="#kollar-jan" type="person">Kollar</rs></hi>
                                                 liest als Gast
                                                 ei-
                                             <lb/>
