@@ -17,6 +17,58 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="pollak-salomon">
+               <persName>
+                  <forename>Salomon</forename>
+                  <surname>Pollak</surname>
+               </persName>
+               <birth>
+                  <date when="1825-12-28">28.12.1825</date>
+                  <placeName>Trebitsch</placeName>
+               </birth>
+               <occupation>"des Rabbinats und der philosoph. Doctorwürde Candidat" (1849)</occupation>
+               </person>
+            <person xml:id="parchon">
+               <persName>
+                  <forename>Salomon Ibn</forename>
+                  <surname>Parchon</surname>
+               </persName>
+               <birth>
+                  <date>um 1130</date>
+               </birth>
+               <occupation>Lexikograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/104278153</idno>
+            </person>
+            <person xml:id="agnes-von-poitou">
+               <persName>
+                  <forename>Agnes</forename>
+                  <surname>von Poitou</surname>
+               </persName>
+               <birth>
+                  <date>um 1025</date>
+               </birth>
+               <death>
+                  <date when="1077-12-14">14.12.1077</date>
+                  <placeName>Rom</placeName></death>
+               <occupation>Königin (seit 1043)</occupation>
+               <occupation>Kaiserin (seit 1046)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118647318</idno>
+            </person>
+            <person xml:id="heinrich_III_kaiser">
+               <persName>
+                  <forename>Heinrich III.</forename>
+                  <surname>aus dem Haus der Salier</surname>
+               </persName>
+               <birth>
+                  <date when="1016-10-28">28.10.1016</date>
+               </birth>
+               <death>
+                  <date when="1056-10-05">05.10.1056</date>
+                  <placeName>Bodfeld</placeName></death>
+               <occupation>König (seit 1039)</occupation>
+               <occupation>Kaiser (seit 1046)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118548263</idno>
+            </person>
             <person xml:id="gibert-victor">
                <persName>
                   <forename>Victor</forename>
@@ -27,7 +79,7 @@
                   <date when="1869-07-27">27.07.1869</date>
                   <placeName>Barcelona</placeName></death>
                <occupation>k.k. Konsul in Barcelona</occupation>
-           </person>
+            </person>
             <person xml:id="hartinger-anton">
                <persName>
                   <forename>Anton</forename>
@@ -5083,14 +5135,17 @@
             <person xml:id="pollak-joachim-chaim-josef">
                <persName>
                   <surname>Pollak</surname>
-                  <forename>Joachim (Chaim Josef)</forename>
+                  <forename>Joachim (hebr.: Chaim Josef)</forename>
                </persName>
                <birth>
                   <date when="1798-12-16">16.12.1798</date>
+                  <placeName>Trebitsch</placeName>
                </birth>
                <death>
                   <date when="1879-12-16">16.12.1879</date>
+                  <placeName>Trebitsch</placeName>
                </death>
+               <occupation>Rabbiner in Trebitsch/Mähren</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50168/</idno>
                <idno type="paas">50168</idno>
             </person>
