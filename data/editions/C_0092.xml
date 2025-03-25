@@ -384,15 +384,8 @@
                                 </abbr>
                             </choice>
                             <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                        </p>
-                    <p facs="#facs_1_region_1577714599665_187" rendition="#?27-69-96--644-2326" xml:id="p8" xml:space="preserve">
                             <lb/>Die wirklichen Mitglieder <choice>
-                                <expan>Herr</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                <expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                             <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
                             <lb/>
                             <choice>
@@ -471,24 +464,9 @@
                                     <expan>provisorische</expan>
                                     <abbr>prov<am>.</am>
                                 </abbr>
-                            </choice> General-Secretär <choice>
-                                <expan>Herr</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
-                            <choice>
-                                <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
+                            </choice> General-Secretär 
+                            <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
+                            <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                         <rs ref="#schrotter-anton" type="person">Schrötter</rs>
                         <lb/>und mehrere Gäste</p>
                     <p facs="#facs_1_region_1577714611807_193" rendition="#r" xml:id="p10" xml:space="preserve">
@@ -502,12 +480,8 @@
                                     Direc-
                                 <lb/>                                    
                                     tor der Akademia española de
-                                <lb/>Arqueologia zu <rs ref="#madrid" type="place">Madrid</rs>                                    
-                                    , Herr
-                                <lb/>
-                                <hi>
-                                    <rs ref="#castellanos-de-losada-basilio-sebastian" type="person">Castellanos</rs>
-                                </hi>                                    
+                                <lb/>Arqueologia zu <rs ref="#madrid" type="place">Madrid</rs>, Herr
+                                <lb/><hi><rs ref="#castellanos-de-losada-basilio-sebastian" type="person">Castellanos</rs></hi>                                    
                                     an das Präsidium der
                                 <lb/>                                    
                                     kaiserlichen Akademie, worin er
@@ -645,8 +619,7 @@
                                                 <lb/>                                                    
                                                     botenen Ernennungen mit der
                                                     aus-
-                                                <lb/>gesprochenen Erwartung der <hi>Erwie-<lb/>derung</hi>                                                    
-                                                    , müsse er die Classe
+                                                <lb/>gesprochenen Erwartung der <hi>Erwie-<lb/>derung</hi>, müsse er die Classe
                                                     auf-
                                                 <lb/>                                                    
                                                     merksam machen, daß ihr dafür
@@ -659,16 +632,10 @@
                                                     entwe-
                                                 <lb/>der <hi>ganz</hi>                                                    
                                                     ablehnen müsse, oder
-                                                <lb/>höchstens nur für <hi>Ein</hi> Mitglied – <lb xmlns:akp="http://akademieprotokolle.acdh-dev.oeaw.ac.at"/>wozu dann natürlich <choice>
-                                                    <expan>Herr</expan>
-                                                    <abbr>
-                                                        <expan>H<ex>er</ex>r</expan>
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice>                                                    
+                                                <lb/>höchstens nur für <hi>Ein</hi> Mitglied – <lb xmlns:akp="http://akademieprotokolle.acdh-dev.oeaw.ac.at"/>wozu dann natürlich 
+                                                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>                                                    
                                                     Regie-
-                                                <lb/>rungsrath <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>                                                    
-                                                    , als der
+                                                <lb/>rungsrath <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>, als der
                                                     Ver-
                                                 <lb/>                                                    
                                                     treter des archäologischen Faches
@@ -772,8 +739,7 @@
                                                     <lb/>                                                        
                                                         Bibliothekar der Westphälischen
                                                         Ge-
-                                                    <lb/>sellschaft zu <rs ref="#minden" type="place">Minden</rs>                                                        
-                                                        , ein
+                                                    <lb/>sellschaft zu <rs ref="#minden" type="place">Minden</rs>, ein
                                                         Schrei-
                                                     <lb/>                                                        
                                                         ben, womit er die Einsendung
@@ -789,8 +755,7 @@
                                                     <lb/>                                                        
                                                         Sicilien's von den Herzogen
                                                     <lb/>der Normandie" (<rs ref="#minden" type="place">Minden</rs>
-                                                    <num>1850</num> in <num>4</num>
-                                                    <hi rend="super">ta</hi>)<lb/>                                                        
+                                                    <num>1850</num> in <num>4</num><hi rend="super">ta</hi>)<lb/>                                                        
                                                         einbegleitet, indem er um die
                                                     <lb/>                                                        
                                                         Aufnahme eines derselben von
@@ -800,7 +765,8 @@
                                                     <lb/>                                                        
                                                         tet, und um die
                                                         Weiterbeför-
-                                                    <lb/>derung der übrigen nach Süd-Ita-<lb/>lien durch dieselbe ersucht.</p>
+                                                    <lb/>derung der übrigen nach Süd-Ita-
+                                                    <lb/>lien durch dieselbe ersucht.</p>
                     <p facs="#facs_4_region_1577714705584_226" rendition="#?14-86-100--216-1502" xml:id="p20" xml:space="preserve">
                                                         <lb/>                                                            
                                                             Für das der Akademie
@@ -833,8 +799,7 @@
                                                             <abbr>A<am>.</am>
                                                         </abbr>
                                                     </choice>
-                                                    <rs ref="#kremer-alfred" type="person">von Kremer</rs>,<lb/>Schreiben aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>28</num>                                                        
-                                                        .
+                                                    <rs ref="#kremer-alfred" type="person">von Kremer</rs>,<lb/>Schreiben aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>28</num>.
                                                         De-
                                                     <lb/>cember <choice>
                                                         <expan>vorigen Jahres</expan>
@@ -845,8 +810,7 @@
                                                 <lb/>                                                    
                                                     Abtheilung der Reisen des
                                                 <lb/>Scheichs <rs ref="#al-ghani-al-nabulusi-abd" type="person">Abd-ol-Ghanij-en
-<lb/>Nâbolsî</rs>                                                    
-                                                    , dessen Reise im
+                                                <lb/>Nâbolsî</rs>, dessen Reise im
                                                     wü-
                                                 <lb/>sten Arabien enthaltend.<lb/>                                                    
                                                     Schreiben und Aufsatz zum
@@ -855,35 +819,27 @@
                                                 <lb/>te bestimmt.</p>
                     <p facs="#facs_5_region_1577714747339_241" rendition="#?16-84-100--251-1564" xml:id="p22" xml:space="preserve">
                                                     <lb/>
-                                                    <choice>
-                                                        <expan>Herr</expan>
-                                                        <abbr>
-                                                            <expan>H<ex>er</ex>r</expan>
-                                                            <am>.</am>
-                                                        </abbr>
-                                                    </choice>
+                                                    <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                                     <choice>
                                                         <expan>Regierungsrath</expan>
                                                         <abbr>Regierungsr<am>.</am>
                                                     </abbr>
                                                 </choice>
-                                                <choice>
-                                                    <expan>von</expan>
-                                                    <abbr>v<am>.</am>
-                                                </abbr>
-                                            </choice>
-                                            <hi>Arneth</hi>
-                                            <lb/>liest einen Brief <rs ref="#delgado-y-hernandez-antonio" type="person">
-                                                <hi>Delgado's</hi>
-                                            </rs>                                                
+                                                <rs type="person" ref="#arneth-joseph-calasanz"><choice>
+                                                        <expan>von</expan>
+                                                        <abbr>v<am>.</am>
+                                                        </abbr>
+                                                </choice>
+                                                    <hi>Arneth</hi></rs>
+                        <lb/>liest einen Brief <rs ref="#delgado-y-hernandez-antonio" type="person">
+                                                <hi>Delgado</hi>'s</rs>                                                
                                                 in
                                             <lb/>Betreff seines Aufsatzes: Votiv-<lb/>                                                
                                                 Schild des Theodosius; ferner
                                             <lb/>                                                
                                                 über die wissenschaftlichen
                                                 An-
-                                            <lb/>stalten <rs ref="#madrid" type="place">Madrid's</rs>                                                
-                                                , und seine
+                                            <lb/>stalten <rs ref="#madrid" type="place">Madrid</rs>'s, und seine
                                             <lb/>numismatischen Projecte. </p>
                     <p facs="#facs_5_region_1577714751121_244" rendition="#?17-81-98--269-1533" xml:id="p23" xml:space="preserve">
                                                 <lb/>
@@ -892,7 +848,7 @@
                                                 </hi>                                                    
                                                     liest einen Brief
                                                 <lb/>
-                                                <rs ref="#valentinelli-giuseppe" type="person">Valentinelli's</rs>.</p>
+                                                <rs ref="#valentinelli-giuseppe" type="person">Valentinelli</rs>'s.</p>
                     <p facs="#facs_5_region_1577714756450_247" rendition="#?16-84-100--256-1567" xml:id="p24" xml:space="preserve">
                                                     <lb/>
                                                     <hi>
@@ -961,7 +917,7 @@
                                                             gemil-
                                                         <lb/>dert wünscht.</p>
                     <p facs="#facs_6_region_1577714794861_265" rendition="#f" xml:id="p29" xml:space="preserve">
-                                                            <lb/>Die Classe ersucht der <choice>
+                                                            <lb/>Die Classe ersucht den <choice>
                                                                 <expan>provisorischen</expan>
                                                                 <abbr>prov<am>.</am>
                                                             </abbr>
@@ -973,9 +929,7 @@
                                                                 <abbr>Hrn<am>.</am>
                                                             </abbr>
                                                         </choice>
-                                                        <rs ref="#schrotter-anton" type="person">General</rs>-<rs ref="#schrotter-anton" type="person">Secretär</rs>
-                                                    </hi>                                                        
-                                                        die-
+                                                        <rs ref="#schrotter-anton" type="person">General</rs>-<rs ref="#schrotter-anton" type="person">Secretär</rs></hi> die-
                                                     <lb/>se Antwort des <choice>
                                                         <expan>Herrn</expan>
                                                         <abbr>Hrn<am>.</am>
@@ -1068,17 +1022,15 @@
                                     <lb/>                                        
                                         tragenen Bericht über Herrn
                                     <lb/>
-                                    <hi>Carl <rs ref="#hummelauer-karl-hermann-joachim" type="person">von Hummelauer's</rs>
+                                    <hi>Carl <rs ref="#hummelauer-karl-hermann-joachim" type="person">von Hummelauer</rs>'s
                                 </hi> "Lin-<lb/>                                    
                                     guistische Fragmente", welchem
                                 <lb/>                                    
                                     sich das Mitglied der
                                     Commissi-
                                 <lb/>von <choice>
-                                    <expan>Herr</expan>
-                                    <abbr>
-                                        <expan>H<ex>er</ex>r</expan>
-                                        <am>.</am>
+                                        <expan>Herrn</expan>
+                                        <abbr>Hrn<am>.</am>
                                     </abbr>
                                 </choice> Custos <hi>
                                     <rs ref="#diemer-josef" type="person">Diemer</rs>
@@ -1100,26 +1052,19 @@
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#hummelauer-karl-hermann-joachim" type="person">von Hummelauer</rs>                                    
-                                    : daß
+                                <rs ref="#hummelauer-karl-hermann-joachim" type="person">von Hummelauer</rs>: daß
                                 <lb/>die Akademie dessen "Fragmente"<lb/>                                    
                                     als ein besonderes Werk, auf
                                 <lb/>                                    
                                     ihre Kosten, und unter ihrer
                                 <lb/>Ägyde veröffentliche, <hi>nicht ein-
-<lb/>gehen</hi>                                    
-                                    ; überlassen es
-                                    übri-
+                                <lb/>gehen</hi>; überlassen es übri-
                                 <lb/>gens dem Ermessen der Classe,<lb/>ob sie nicht vielleicht <choice>
                                     <expan>Herrn</expan>
                                     <abbr>Hrn<am>.</am>
                                 </abbr>
-                            </choice>
-                            <rs ref="#hummelauer-karl-hermann-joachim" type="person">von</rs>
-                            <lb/>
-                            <rs ref="#hummelauer-karl-hermann-joachim" type="person">Hummelauer</rs>                                
-                                auffordern wolle,
-                                sei-
+                            </choice> <rs type="person" ref="#hummelauer-karl-hermann-joachim">von <lb/>
+                                Hummelauer</rs> auffordern wolle, sei-
                             <lb/>                                
                                 ne Fragmente in einer
                                 Clas-
@@ -1156,9 +1101,7 @@
                                     </abbr>
                                 </choice>
                                 <rs ref="#hummelauer-karl-hermann-joachim" type="person">Hummelauer</rs>
-                                <lb/>                                    
-                                    in diesem Sinne zu
-                                    beschei-
+                                <lb/>in diesem Sinne zu beschei-
                                 <lb/>den.</p>
                     <p facs="#facs_7_region_1577714838319_283" rendition="#?40-32-72--533-952" xml:id="p34" xml:space="preserve">
                                     <lb/>
