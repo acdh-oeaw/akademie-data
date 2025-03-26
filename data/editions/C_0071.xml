@@ -273,13 +273,8 @@
                                     <hi rend="super">ten</hi> April <num>1850</num>
                                 </p>
                     <p facs="#facs_1_region_1575626310496_22" rendition="#?14-83-97--367-2507" xml:id="p7" xml:space="preserve">
-                                    <lb/>Anwesend: Der <choice>
-                                        <expan>Herr</expan>
-                                        <abbr>
-                                            <expan>H<ex>er</ex>r</expan>
-                                            <am>.</am>
-                                        </abbr>
-                                    </choice> Alters-Präsident <choice>
+                                    <lb/>Anwesend: Der 
+                        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> Alters-Präsident <choice>
                                         <expan>Freiherr</expan>
                                         <abbr>Freih<am>.</am>
                                     </abbr>
@@ -290,14 +285,7 @@
                                     <abbr>Mitgl<am>.</am>
                                 </abbr>
                             </choice>
-                            <choice>
-                                <expan>Herr</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
-                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>.<lb/>
+                        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>.<lb/>
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
@@ -319,14 +307,14 @@
                                     <am>-</am>
                                 </abbr>
                             </choice>
-                            <choice>
-                                <expan>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                </expan>
-                                <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>.<lb/>
+                            <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                    <expan>
+                                        von
+                                    </expan>
+                                    <abbr>v<am>.</am>
+                                    </abbr>
+                            </choice>
+                                Karajan</rs>.<lb/>
                         <choice>
                             <expan>Herr</expan>
                             <abbr>
@@ -412,13 +400,7 @@
                     <p facs="#facs_1_region_1575626320607_25" rendition="#r" xml:id="p8" xml:space="preserve">
     <lb/>Protokoll unbeanstandet angenommen.<lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:</p>
                     <p facs="#facs_1_region_1575626325452_28" rendition="#?32-68-100--830-2575" xml:id="p9" xml:space="preserve">
-        <lb/>(<num>456</num>) a) Ein Schreiben von <choice>
-            <expan>Herrn</expan>
-            <abbr>
-                <expan>H<ex>er</ex>r</expan>
-                <am>.</am>
-            </abbr>
-        </choice>
+        <lb/>(<num>456</num>) a) Ein Schreiben von <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
         <rs ref="#palacky-franz" type="person">Palacky</rs>
         <lb/>an den <choice>
             <expan>Referenten</expan>
@@ -439,30 +421,17 @@
     <abbr>saec<am>.</am>
 </abbr>
 </choice> XV<hi rend="super">i</hi>,<lb/>
-<choice>
-    <expan>Herr</expan>
-    <abbr>
-        <expan>H<ex>er</ex>r</expan>
-        <am>.</am>
-    </abbr>
-</choice>
-<choice>
-    <expan>
-        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-    </expan>
-    <abbr>v<am>.</am>
-</abbr>
-</choice>
-<hi>
-    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>,</hi> über die Funde.<lb/>
-    <choice>
-        <expan>Herr</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
+<choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
+<rs type="person" ref="#karajan-von-theodor-georg"><choice>
+        <expan>
+            von
+        </expan>
+        <abbr>v<am>.</am>
         </abbr>
-    </choice>
-    <rs ref="#tomek-josef-wenzel-vladivoj" type="person">Tomek's</rs>
+</choice>
+    <hi>
+        Karajan</hi></rs>, über die Funde.<lb/>
+    <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><rs ref="#tomek-josef-wenzel-vladivoj" type="person">Tomek's</rs>
         in den Pariser
     <lb/>
         Bibliotheken, um die dadurch
@@ -474,14 +443,7 @@
                 <div xml:id="d4">
                     <p facs="#facs_2_region_1581413411113_199" rendition="#l" xml:id="p10" xml:space="preserve">
             <lb/>Abschriften dortiger Codices.<lb/>
-            <choice>
-                <expan>Herrn</expan>
-                <abbr>
-                    <expan>H<ex>er</ex>r</expan>
-                    <am>.</am>
-                </abbr>
-            </choice>
-            <choice>
+            <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><choice>
                 <expan>
                     <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
                 </expan>
@@ -492,20 +454,13 @@
             <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
         </hi> um Bericht.</p>
                     <p facs="#facs_2_region_1581413419554_202" rendition="#l" xml:id="p11" xml:space="preserve">
-            <lb/>(<num>454</num>) b) Ein Schreiben des <choice>
-                <expan>Herrn</expan>
-                <abbr>
-                    <expan>H<ex>er</ex>r</expan>
-                    <am>.</am>
-                </abbr>
-            </choice>
+            <lb/>(<num>454</num>) b) Ein Schreiben des <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
             <hi>
                 <rs ref="#schneller-joseph" type="person">Schneller</rs>
             </hi>
         </p>
                     <p facs="#facs_2_region_1581413432081_205" rendition="#?21-76-98--356-1632" xml:id="p12" xml:space="preserve">
-            <lb/>aus <rs ref="#luzern" type="place">Lucern</rs>
-                , worin er unter andern
+            <lb/>aus <rs ref="#luzern" type="place">Lucern</rs>, worin er unter andern
             <lb/>
                 die Akademie ersucht, ihm die in
             <lb/>
@@ -531,14 +486,7 @@
     </choice>
         Akademie weder die von
     <lb/>
-    <choice>
-        <expan>Herrn</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
-        </abbr>
-    </choice>
-    <rs ref="#schneller-joseph" type="person">Schneller</rs>
+    <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice><rs ref="#schneller-joseph" type="person">Schneller</rs>
         gewünschten Werke
     <lb/>zu den ihren oder <choice>
         <expan>von ihr</expan>
@@ -548,13 +496,7 @@
     <lb/>benen zählt, noch es ihr zukommt,<lb/>
         die Besorgung solcher Comissionen
     <lb/>zu übernehmen, so wird der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-    <lb/>beauftragt, die Ansuchen des <choice>
-        <expan>Herrn</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
-        </abbr>
-    </choice>
+    <lb/>beauftragt, die Ansuchen des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
     <lb/>
     <rs ref="#schneller-joseph" type="person">Schneller</rs> abzulehnen.</p>
                     <p facs="#facs_2_region_1581413450057_211" rendition="#l" xml:id="p14" xml:space="preserve">
@@ -564,8 +506,7 @@
         </abbr>
     </choice> Universitäts</p>
                     <p facs="#facs_2_region_1581413463809_214" rendition="#l" xml:id="p15" xml:space="preserve">
-        <lb/>Consistorium in <rs ref="#wien" type="place">Wien</rs>
-            , Abdrücke
+        <lb/>Consistorium in <rs ref="#wien" type="place">Wien</rs>, Abdrücke
         <lb/>der Vorleseordnung.<lb/>Dient zur Wissenschaft.</p>
                     <p facs="#facs_2_region_1581413469865_217" rendition="#f" xml:id="p16" xml:space="preserve">
             <lb/>(<num>451</num>) a) Von dem <choice>
@@ -584,13 +525,7 @@
             ein Schreiben, womit er
         <lb/>
             eine an ihn gerichtete Zuschrift
-        <lb/>des <choice>
-            <expan>Herrn</expan>
-            <abbr>
-                <expan>H<ex>er</ex>r</expan>
-                <am>.</am>
-            </abbr>
-        </choice> Ritter <choice>
+        <lb/>des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> Ritter <choice>
             <expan>von</expan>
             <abbr>v<am>.</am>
         </abbr>
@@ -623,43 +558,27 @@
                 <lb/>
                     Der historischen Commission [zunächst
                 <lb/>
-                <choice>
-                    <expan>Herr</expan>
-                    <abbr>
-                        <expan>H<ex>er</ex>r</expan>
-                        <am>.</am>
-                    </abbr>
+                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                        <expan>
+                            von
+                        </expan>
+                        <abbr>v<am>.</am>
+                        </abbr>
                 </choice>
-                <choice>
-                    <expan>
-                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                    </expan>
-                    <abbr>v<am>.</am>
-                </abbr>
-            </choice>
-            <rs ref="#karajan-von-theodor-georg" type="person">Karajan]</rs> um Bericht.</p>
+                    Karajan</rs>] um Bericht.</p>
                     <p facs="#facs_3_region_1581415325306_374" rendition="#f" xml:id="p20" xml:space="preserve">
-                <lb/>(<num>452</num>) c) Von <choice>
-                    <expan>Herrn</expan>
-                    <abbr>
-                        <expan>H<ex>er</ex>r</expan>
-                        <am>.</am>
-                    </abbr>
+                <lb/>(<num>452</num>) c) Von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice><rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                        <expan>
+                            von
+                        </expan>
+                        <abbr>v<am>.</am>
+                        </abbr>
                 </choice>
-                <choice>
-                    <expan>
-                        <rs ref="#kremer-alfred" type="person">von</rs>
-                    </expan>
-                    <abbr>v<am>.</am>
-                </abbr>
-            </choice>
-            <hi>
-                <rs ref="#kremer-alfred" type="person">Kremer</rs>
-            </hi> Schreiben aus</p>
+                    <hi>
+                        Kremer</hi></rs> Schreiben aus</p>
                     <p facs="#facs_3_region_1581415340122_377" rendition="#?18-82-99--281-1567" xml:id="p21" xml:space="preserve">
                 <lb/>
-                <rs ref="#damaskus" type="place">Damaskus</rs> vom <num>27</num>. März <num>1850</num>
-                    , worin
+                <rs ref="#damaskus" type="place">Damaskus</rs> vom <num>27</num>. März <num>1850</num>, worin
                 <lb/>
                     er über die guten Folgen des durch die
                 <lb/>
@@ -683,10 +602,8 @@
             in dem er die Rechnungslegung über
         <lb/>
             Verwendung des bisher erhaltenen
-        <lb/>und bereits erschöpften beilegt. Zugleich</p>
-                    <p facs="#facs_3_region_1581415353556_380" rendition="#?17-83-100--265-1576" xml:id="p22" xml:space="preserve">
-            <lb/>
-                schließt er wieder zwei neue Aufsätze
+        <lb/>und bereits erschöpften beilegt. Zugleich
+            <lb/>schließt er wieder zwei neue Aufsätze
             <lb/>bei: <num>1</num>.) Die Medreseen in <rs ref="#damaskus" type="place">Damaskus</rs>;<lb/>
             <num>2</num>). Die Medreseen in <rs ref="#aleppo" type="place">Haleb</rs> und <rs ref="#mekka" type="place">Mekka</rs>.</p>
                     <p facs="#facs_3_region_1581415359154_383" rendition="#l" xml:id="p23" xml:space="preserve">
@@ -699,16 +616,7 @@
             <hi>
                 <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
             </hi>
-        </p>
-                    <p facs="#facs_3_region_1581415375204_386" rendition="#?17-83-100--264-1569" xml:id="p24" xml:space="preserve">
-            <lb/>übernimmt es auf Ersuchen der Classe,<lb/>das Schreiben des <choice>
-                <expan>Herrn</expan>
-                <abbr>
-                    <expan>H<ex>er</ex>r</expan>
-                    <am>.</am>
-                </abbr>
-            </choice>
-            <choice>
+        <lb/>übernimmt es auf Ersuchen der Classe,<lb/>das Schreiben des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice><choice>
                 <expan>
                     <rs ref="#kremer-alfred" type="person">von</rs>
                 </expan>
@@ -722,14 +630,7 @@
             <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
         </hi>
         <lb/>wird beauftragt, bei der Gesammt-<lb/>Akademie das Ansuchen zu stellen,<lb/>
-        <choice>
-            <expan>Herrn</expan>
-            <abbr>
-                <expan>H<ex>er</ex>r</expan>
-                <am>.</am>
-            </abbr>
-        </choice>
-        <choice>
+        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><choice>
             <expan>
                 <rs ref="#kremer-alfred" type="person">von</rs>
             </expan>
@@ -783,14 +684,7 @@
         </abbr>
     </choice>
     <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs> um Bericht zugewiesen.<lb/>
-    <choice>
-        <expan>Herr</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
-        </abbr>
-    </choice>
-    <choice>
+    <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><choice>
         <expan>Doctor</expan>
         <abbr>Dr<am>.</am>
     </abbr>
@@ -802,11 +696,7 @@
     vorge-
 <lb/>legten Aufsätze des <choice>
     <expan>Herrn</expan>
-    <abbr>
-        <expan>H<ex>er</ex>r</expan>
-        <am>:</am>
-    </abbr>
-</choice>
+    <abbr>Hr<am>:</am></abbr></choice>
 <choice>
     <expan>
         <rs ref="#kremer-alfred" type="person">von</rs>
@@ -824,13 +714,7 @@
                     <p facs="#facs_4_region_1581496283160_67" rendition="#?20-79-99--337-1648" xml:id="p27" xml:space="preserve">
     <lb/>aber über die Moscheen von <rs ref="#damaskus" type="place">Damaskus</rs>
         ist
-    <lb/>für <choice>
-        <expan>Herrn</expan>
-        <abbr>
-            <expan>H<ex>er</ex>r</expan>
-            <am>.</am>
-        </abbr>
-    </choice>
+    <lb/>für <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
     <rs ref="#kremer-alfred" type="person">
         <choice>
             <expan>
@@ -838,19 +722,12 @@
             </expan>
             <abbr>v<am>.</am>
         </abbr>
-    </choice> Kremer's</rs>
+    </choice> Kremer</rs>'s
         Topographie von
     <lb/>dieser Stadt aufzubewahren.</p>
                     <p facs="#facs_4_region_1581496307600_70" rendition="#?20-80-100--333-1662" xml:id="p28" xml:space="preserve">
         <lb/>
-        <choice>
-            <expan>Herr</expan>
-            <abbr>
-                <expan>H<ex>er</ex>r</expan>
-                <am>.</am>
-            </abbr>
-        </choice>
-        <choice>
+        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><choice>
             <expan>
                 <rs ref="#tschudi-johann-jakob" type="person">von</rs>
             </expan>
@@ -897,14 +774,7 @@
             </p>
                     <p facs="#facs_4_region_1581496329784_76" rendition="#?21-78-99--349-1647" xml:id="p30" xml:space="preserve">
                 <lb/>
-                <choice>
-                    <expan>Herr</expan>
-                    <abbr>
-                        <expan>H<ex>er</ex>r</expan>
-                        <am>.</am>
-                    </abbr>
-                </choice>
-                <choice>
+                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><choice>
                     <expan>Professor</expan>
                     <abbr>
                         <expan>Prof<choice>
@@ -941,13 +811,7 @@
                     <p facs="#facs_4_region_1581496347336_82" rendition="#?22-78-100--366-1662" xml:id="p32" xml:space="preserve">
                     <lb/>Legt der <hi>
                         <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                    </hi> ein Gesuch des <choice>
-                        <expan>Herrn</expan>
-                        <abbr>
-                            <expan>H<ex>er</ex>r</expan>
-                            <am>.</am>
-                        </abbr>
-                    </choice>
+                    </hi> ein Gesuch des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
                     <choice>
                         <expan>kaiserlichen</expan>
                         <abbr>k<am>.</am>
@@ -962,16 +826,9 @@
                 <abbr>d<am>.</am>
             </abbr>
         </choice>
-        <choice>
-            <expan>ist</expan>
-            <abbr>i<am>.</am>
-        </abbr>
-    </choice>
-        für das
+        ist für das
     <lb/>
-    <num>9</num>
-    <hi rend="super">te</hi> und <num>10</num>
-    <hi rend="super">te</hi>
+    <num>9</num><hi rend="super">te</hi> und <num>10</num><hi rend="super">te</hi>
     <choice>
         <expan>Heft</expan>
         <abbr>Hft<am>.</am>
@@ -1021,28 +878,21 @@
                     <p facs="#facs_5_region_1581498304378_191" rendition="#f" xml:id="p35" xml:space="preserve">
                     <lb/>In Folge dessen ernennt der <rs ref="#hammer-purgstall-von-joseph" type="person">Alters-<lb/>Präsident</rs>
                         mit Zustimmung der Classe zu
-                    <lb/>Mitgliedern der Wahl-Commission: die <choice>
-                        <expan>Herren</expan>
-                        <abbr>
-                            <expan>H<ex>er</ex>r</expan>
-                            <am>.</am>
-                        </abbr>
-                    </choice>
+                    <lb/>Mitgliedern der Wahl-Commission: die <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
                     <lb/>Freiherr <hi>
                         <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
                     </hi>, <hi>
                         <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>,</hi>
                         <lb/>
                         <hi>
-                            <choice>
-                                <expan>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                </expan>
-                                <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                    </hi>, <hi>
+                            <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                    <expan>
+                                        von
+                                    </expan>
+                                    <abbr>v<am>.</am>
+                                    </abbr>
+                            </choice>
+                                Karajan</rs></hi>, <hi>
                         <rs ref="#springer-johann" type="person">Springer</rs>,</hi> und <hi>
                             <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.</hi>
                             <lb/>Der <hi>
@@ -1060,47 +910,26 @@
                             <abbr>Mitgl<am>.</am>
                         </abbr>
                     </choice>
-                    <choice>
-                        <expan>Herrn</expan>
-                        <abbr>
-                            <expan>H<ex>er</ex>r</expan>
-                            <am>.</am>
-                        </abbr>
-                    </choice>
-                    <hi>
+                    <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice><hi>
                         <rs ref="#birk-von-ernst" type="person">Birk</rs>,</hi> diesen mit</p>
                     <p facs="#facs_5_region_1581498335858_194" rendition="#f" xml:id="p36" xml:space="preserve">
                             <lb/>
                             <choice>
-                                <expan>Exemplaren von Herrn von Meillers Babenberger-Regesten und</expan>
+                                <expan>Exemplaren von Herrn <rs type="person" ref="#meiller-von-andreas">von Meiller</rs>s Babenberger-Regesten und</expan>
                                 <abbr>Exemplaren</abbr>
-                            </choice> von <choice>
-                                <expan>Herrn</expan>
-                                <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
-                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth's</rs> Gold, und</p>
-                    <p facs="#facs_5_region_1581498354050_200" rendition="#f" xml:id="p37" xml:space="preserve">
+                            </choice> von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
+                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>'s Gold, und
                                 <lb/>Silber-Monumenten" betheilen zu wollen.<lb/>
                                     In Würdigung der Verdienste und
                                     Ver-
-                                <lb/>wendung des <choice>
-                                    <expan>Herrn</expan>
-                                    <abbr>
-                                        <expan>H<ex>er</ex>r</expan>
-                                        <am>.</am>
-                                    </abbr>
-                                </choice>
+                                <lb/>wendung des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
                                 <rs ref="#birk-von-ernst" type="person">Birk</rs>
                                     bewilliget die Classe
                                 <lb/>
                                     dieses Gesuch und beauftragt den
                                 <lb/>
                                 <hi>
-                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                </hi>
+                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
                                     die Betheiligung durch die
                                 <lb/>Kanzlei effectuirren zu lassen.</p>
                     <p facs="#facs_5_region_1581498365874_203" rendition="#r" xml:id="p38" xml:space="preserve">
