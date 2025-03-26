@@ -334,14 +334,8 @@
                                 <lb/>der Sitzung der philosophisch-historischen Classe</p>
                     <p facs="#facs_1_region_1580896664403_508" rendition="#fc" xml:id="p6" xml:space="preserve">
                                     <lb/>am <num>6</num>. März <num>1850</num>.</p>
-                    <p facs="#facs_1_region_1580896685331_511" rendition="#fc" xml:id="p7" xml:space="preserve">
-                                        <lb/>Anwesend: Der Alterspräsident <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice>
+                    <p facs="#facs_1_region_1580896685331_511" rendition="#f" xml:id="p7" xml:space="preserve">
+                                        <lb/>Anwesend: Der Alterspräsident <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                         <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                                         <lb/>Die wirklichen Mitglieder <choice>
                                             <expan>Herr</expan>
@@ -373,15 +367,14 @@
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                        <choice>
+                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice>
                                             <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                                von
                                             </expan>
                                             <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                    <lb/>
+                                            </abbr>
+                                    </choice> Karajan</rs>
+                        <lb/>
                                     <choice>
                                         <expan>Herr</expan>
                                         <abbr>
@@ -424,33 +417,32 @@
                                                 <expan>Herrn</expan>
                                                 <abbr>Hrn<am>.</am>
                                             </abbr>
-                                        </choice> Alfred <choice>
-                                            <expan>
-                                                <rs ref="#kremer-alfred" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#kremer-alfred" type="person">Kremer</rs> ein-</p>
-                    <p facs="#facs_1_region_1580896727003_523" rendition="#r" xml:id="p11" xml:space="preserve">
-                                        <lb/>
-                                            gesandt "Beiträge zur Geographie
+                                        </choice> Alfred <rs type="person" ref="#kremer-alfred"><choice>
+                                                <expan>
+                                                    von
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
+                                        </choice>
+                                            Kremer</rs> ein-
+                                        <lb/>gesandt "Beiträge zur Geographie
                                         <lb/>des nördlichen Syriens."<lb/>
                                         <choice>
                                             <expan>Herrn</expan>
                                             <abbr>Hrn<am>.</am>
                                         </abbr>
-                                    </choice> Baron <choice>
-                                        <expan>
-                                            <rs ref="#hammer-purgstall-von-joseph" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <hi>
-                                    <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                                </hi>
-                                <lb/>zur Begutachtung zugewiesen.</p>
+                                    </choice> Baron 
+                                    <rs type="person" ref="#hammer-purgstall-von-joseph"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        <hi>
+                                            Hammer-Purgstall
+                                        </hi></rs>
+                        <lb/>zur Begutachtung zugewiesen.</p>
                     <p facs="#facs_1_region_1580896733531_526" rendition="#?38-62-100--933-2459" xml:id="p12" xml:space="preserve">
                                     <lb/>(<num>265</num>.) b.) Von <choice>
                                         <expan>Herrn</expan>
@@ -458,21 +450,13 @@
                                     </abbr>
                                 </choice>
                                 <choice>
-                                    <expan>Professor</expan>
-                                    <abbr>
-                                        <expan>Prof<choice>
-                                            <am>.</am>
-                                            <ex>essor</ex>
-                                        </choice>
-                                    </expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                        <expan>Professor</expan>
+                                        <abbr>Prof<am>.</am>
+                                    </abbr>
+                                </choice>
                             <hi>
-                                <rs ref="#carrara-franz" type="person">Carrara</rs>,</hi> zweiten</p>
-                    <p facs="#facs_1_region_1580896740027_529" rendition="#r" xml:id="p13" xml:space="preserve">
-                                    <lb/>
-                                        Bericht über die Ausgrabungen von
+                                <rs ref="#carrara-franz" type="person">Carrara</rs>,</hi> zweiten
+                                    <lb/>Bericht über die Ausgrabungen von
                                     <lb/>
                                     <rs ref="#salona" type="place">Salona</rs>.</p>
                     <p facs="#facs_1_region_1580896747883_532" rendition="#r" xml:id="p14" xml:space="preserve">
@@ -492,12 +476,10 @@
                     <p facs="#facs_2_region_1580897381346_644" rendition="#?24-76-100--389-1646" xml:id="p15" xml:space="preserve">
                                         <lb/>
                                         <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice> Regierungsrath <hi>
+                                        <expan>Herrn</expan>
+                                        <abbr>Hrn<am>.</am>
+                                    </abbr>
+                                </choice> Regierungsrath <hi>
                                             <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                                         </hi>                                            
                                             be-
@@ -516,12 +498,10 @@
                     <p facs="#facs_2_region_1580897392274_647" rendition="#?31-69-99--507-1640" xml:id="p17" xml:space="preserve">
                                             <lb/>
                                             <choice>
-                                                <expan>Herr</expan>
-                                                <abbr>
-                                                    <expan>H<ex>er</ex>r</expan>
-                                                    <am>.</am>
-                                                </abbr>
-                                            </choice>
+                                        <expan>Herrn</expan>
+                                        <abbr>Hrn<am>.</am>
+                                    </abbr>
+                                </choice>
                                             <choice>
                                                 <expan>kaiserlicher</expan>
                                                 <abbr>kais<am>.</am>
@@ -563,8 +543,7 @@
                                                             <abbr>Hrn<am>.</am>
                                                         </abbr>
                                                     </choice>
-                                                    <hi>Solber</hi>
-                                                        , ihm über
+                                                    <hi>Solber</hi>, ihm über
                                                     <lb/>das sub <choice>
                                                         <expan>numerum</expan>
                                                         <abbr>num<am>.</am>
@@ -577,10 +556,8 @@
                                                 <lb/>
                                                     deutschen Sprache", baldigst eine
                                                 <lb/>Entscheidung zukommen zu lassen.<lb/>Da die als Commissions-Mit-<lb/>glieder ernannten Herren <rs ref="#bergmann-joseph" type="person">
-                                                    <hi>Berg-<lb/>mann</hi>
-                                                </rs> und <hi>
-                                                    <rs ref="#diemer-josef" type="person">Diemer</rs>
-                                                </hi>
+                                                    <hi>Berg-<lb/>mann</hi></rs> und <hi>
+                                                    <rs ref="#diemer-josef" type="person">Diemer</rs></hi>
                                                     gegenwärtig
                                                 <lb/>
                                                     und mit dem fraglichen
@@ -590,8 +567,7 @@
                                                 <lb/>
                                                     sind, von dem dritten
                                                     abwe-
-                                                <lb/>senden Commissionsmitgliede</p>
-                    <p facs="#facs_2_region_1580897473522_665" rendition="#?22-78-100--364-1647" xml:id="p23" xml:space="preserve">
+                                                <lb/>senden Commissionsmitgliede
                                                     <lb/>Freiherrn <hi>
                                                         <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
                                                     </hi>
@@ -637,28 +613,13 @@
                                                             </abbr>
                                                         </choice>
                                                         <choice>
-                                                            <expan>Professor</expan>
-                                                            <abbr>
-                                                                <expan>Prof<choice>
-                                                                    <am>.</am>
-                                                                    <ex>essor</ex>
-                                                                </choice>
-                                                            </expan>
-                                                            <am>.</am>
-                                                        </abbr>
-                                                    </choice>
+                                        <expan>Professor</expan>
+                                        <abbr>Prof<am>.</am>
+                                    </abbr>
+                                </choice>
                                                     <hi>
-                                                        <rs ref="#carrara-franz" type="person">Carrara</rs>
-                                                    </hi>
-                                                    <choice>
-                                                        <expan>ein</expan>
-                                                        <abbr>ein<am>:</am>
-                                                    </abbr>
-                                                </choice>
-                                            </p>
-                    <p facs="#facs_3_region_1580977356970_74" rendition="#?15-84-99--233-1516" xml:id="p26" xml:space="preserve">
-                                                <lb/>
-                                                    "Memoria" für den Lithographen
+                                                        <rs ref="#carrara-franz" type="person">Carrara</rs></hi> ein
+                                                <lb/>"Memoria" für den Lithographen
                                                 <lb/>und den Corrector <choice>
                                                     <expan>Herrn</expan>
                                                     <abbr>Hrn<am>.</am>
@@ -695,7 +656,9 @@
                                     </choice>
                                     <hi>
                                         <rs ref="#bolza-giovanni-battista" type="person">Bolza</rs>
-                                    </hi> zu übersenden.<lb/>c.) Ein Schreiben des <choice>
+                                    </hi> zu übersenden. </p>
+                    <p facs="#facs_3_region_1580977382490_80" rendition="#?16-84-100--238-1521" xml:id="p28" xml:space="preserve">
+                        <lb/>c.) Ein Schreiben des <choice>
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
@@ -706,8 +669,7 @@
                                 </hi>
                                     an den
                                 <lb/>
-                                <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                    , worin er über den
+                                <rs ref="#wolf-ferdinand" type="person">Secretär</rs>, worin er über den
                                 <lb/>
                                     in der vorhergehenden Sitzung
                                 <lb/>gelesenen Aufsatz des <choice>
@@ -716,15 +678,10 @@
                                 </abbr>
                             </choice>
                             <choice>
-                                <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                            </abbr>
-                        </choice>
+                                        <expan>Professor</expan>
+                                        <abbr>Prof<am>.</am>
+                                    </abbr>
+                                </choice>
                         <lb/>
                         <hi>
                             <rs ref="#suttner-hermann" type="person">Suttner</rs>:</hi>
@@ -734,13 +691,8 @@
                                 <abbr>aussprich</abbr>
                             </choice>
                             <lb/>daß es genüge ihn bloß <hi>auszugs-</hi>
-                        </p>
-                    <p facs="#facs_3_region_1580977382490_80" rendition="#?16-84-100--238-1521" xml:id="p28" xml:space="preserve">
-                            <lb/>
-                            <hi>weise</hi>
-                                in die Sitzungsberichte
-                            <lb/>
-                                aufzunehmen; die Classe trägt
+                            <lb/><hi>weise</hi>in die Sitzungsberichte
+                            <lb/>aufzunehmen; die Classe trägt
                             <lb/>daher dem <hi>
                                 <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
                             </hi>
@@ -842,9 +794,7 @@
                                     </choice>                                        
                                         Re-
                                     <lb/>gierungsrath <hi>
-                                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                    </hi>
-                                        den
+                                        <rs ref="#chmel-joseph" type="person">Chmel</rs></hi> den
                                     <lb/>Antrag: dem <choice>
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
@@ -915,14 +865,9 @@
                                     bogen höchstens angenommen
                                 <lb/>habe, es nun aber <num>47</num>
                                     ausfülle,
-                                <lb/>der <rs ref="#meiller-von-andreas" type="person">Verfasser</rs> also nicht <choice>
-                                    <expan>ein-</expan>
-                                    <abbr>ein</abbr>
-                                </choice>
-                                <lb/>
-                                    mal das für die Beiträge zum
-                                <lb/>
-                                    Archiv bestimmte Honorar
+                                <lb/>der <rs ref="#meiller-von-andreas" type="person">Verfasser</rs> also nicht ein-
+                                <lb/>mal das für die Beiträge zum
+                                <lb/>Archiv bestimmte Honorar
                                 <lb/>mit <num>15</num>
                                 <choice>
                                     <expan>Gulden</expan>
@@ -952,13 +897,8 @@
                                     habe, sondern auch durch den
                                 <lb/>
                                     ungewöhnlichen Eifer und
-                                <lb/>Fleiß des <rs ref="#meiller-von-andreas" type="person">Verfassers</rs> und <choice>
-                                    <expan>dessen</expan>
-                                    <abbr>desse</abbr>
-                                </choice>
-                                <lb/>
-                                    unausgesetzt darauf
-                                    ver-
+                                <lb/>Fleiß des <rs ref="#meiller-von-andreas" type="person">Verfassers</rs> und dessen
+                                <lb/>unausgesetzt darauf ver-
                                 <lb/>wandte Mühe ein Muster</p>
                 </div>
             </div>
@@ -991,9 +931,7 @@
                                         sich entgegen sehen lasse. Um
                                     <lb/>daher dem <rs ref="#meiller-von-andreas" type="person">Verfasser</rs>
                                         einen
-                                    <lb/>Beweis <hi>
-                                        <hi rend="strike">einen Beweis</hi>
-                                    </hi> von der</p>
+                                    <lb/>Beweis <hi rend="strike">einen Beweis</hi> von der</p>
                     <p facs="#facs_6_region_1580983758015_396" rendition="#f" xml:id="p39" xml:space="preserve">
                                         <lb/>
                                             Zufriedenheit der Akademie
@@ -1032,11 +970,7 @@
                                                 </choice>
                                                 <am>.</am>
                                             </abbr>
-                                        </choice> für den Druckbogen, <choice>
-                                            <expan>das</expan>
-                                            <abbr>d<am>.</am>
-                                        </abbr>
-                                    </choice>
+                                        </choice> für den Druckbogen, das
                                     <choice>
                                         <expan>ist</expan>
                                         <abbr>i<am>.</am>
@@ -1059,16 +993,8 @@
                             <hi>einen Zuschuß von <num>405</num>
                             <choice>
                                 <expan>Gulden</expan>
-                                <abbr>
-                                    <choice>
-                                        <abbr>fl<am>.</am>
-                                    </abbr>
-                                    <expan>Gulden</expan>
-                                </choice>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
-                        <choice>
+                                <abbr>fl<am>.</am></abbr></choice>
+                                <choice>
                             <expan>Conventionsmünze</expan>
                             <abbr>CM</abbr>
                         </choice>
@@ -1077,17 +1003,8 @@
                         oder in runder Summe
                     <lb/>von <num>400</num>
                     <choice>
-                        <expan>Gulden</expan>
-                        <abbr>
-                            <choice>
-                                <abbr>fl<am>.</am>
-                            </abbr>
-                            <expan>Gulden</expan>
-                        </choice>
-                        <am>.</am>
-                    </abbr>
-                </choice>
-                <choice>
+                        <expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice>
+                        <choice>
                     <expan>Conventionsmünze</expan>
                     <abbr>CM<am>.</am>
                 </abbr>
@@ -1126,29 +1043,20 @@
                 <lb/>
                     kes und zwar für das
                     In-
-                <lb/>land das Exemplar zu <num>5</num>
+                <lb/>land das Exemplar zu <hi><num>5</num>
                 <choice>
-                    <expan>Gulden</expan>
-                    <abbr>
-                        <choice>
-                            <abbr>fl<am>.</am>
-                        </abbr>
-                        <expan>Gulden</expan>
-                    </choice>
-                    <am>.</am>
-                </abbr>
-            </choice>
+                    <expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice>
             <choice>
                 <expan>Konventionsmünze</expan>
                 <abbr>CM<am>.</am>
             </abbr>
-        </choice>
-        <lb/>für das Ausland zu <num>4</num>
+        </choice></hi>
+        <lb/>für das Ausland zu <hi><num>4</num>
         <choice>
             <expan>Thaler.</expan>
             <abbr>Thlr<am>.</am>
         </abbr>
-    </choice>
+    </choice></hi>
 </p>
                     <p facs="#facs_7_region_1581064459849_70" rendition="#r" xml:id="p43" xml:space="preserve">
     <lb/>
