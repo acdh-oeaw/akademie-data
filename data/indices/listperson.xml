@@ -17,6 +17,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="ficker-julius">
+               <persName>
+                  <forename>Julius</forename>
+                  <nameLink>Adelsprädikat</nameLink>
+                  <surname>Ficker</surname>
+               </persName>
+               <persName type="alt">Ficker von Feldhaus (ab 1885)</persName>
+               <birth>
+                  <date when="1826-04-30">7.4.1811</date>
+                  <placeName>Paderborn</placeName>
+               </birth>
+               <death>
+                  <date when="1902-07-10">10.02.1902</date>
+                  <placeName>Innsbruck</placeName></death>
+               <occupation>Historiker</occupation>
+               <occupation>Jurist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118532863</idno>
+            </person>
             <person xml:id="rossi-salvatore">
                <persName>
                   <forename>Salvatore</forename>
@@ -10979,18 +10997,41 @@
                   <forename>Ludwig August</forename>
                </persName>
             </person>
-            <person xml:id="menin-nn">
+            <person xml:id="menin-lodovico">
                <persName>
+                  <forename>Lodovico</forename>
+                  <addName>Dr. phil.</addName>
                   <surname>Menin</surname>
-                  <forename>NN</forename>
                </persName>
+               <birth>
+                  <date when="1783-09-09">09.09.1783</date>
+                  <placeName>Ancona</placeName>
+               </birth>
+               <death>
+                  <date when="1868-02-14">14.02.1868</date>
+                  <placeName>Padua</placeName></death>
+               <occupation>Historiker</occupation>
+               <occupation>Priester</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1042971706</idno>
             </person>
             <person xml:id="hofken-gustav">
                <persName>
                   <surname>Höfken</surname>
                   <forename>Gustav</forename>
-               </persName>
-            </person>
+                  <nameLink>von (seit 1867)</nameLink>
+                        <surname>Höfken</surname>
+                     </persName>
+                     <birth>
+                        <date when="1811-06-14">14.06.1811</date>
+                        <placeName>Hattingen</placeName>
+                     </birth>
+                     <death>
+                        <date when="1889-07-14">14.07.1889</date>
+                        <placeName>Wien</placeName></death>
+                     <occupation>Nationalökonom</occupation>
+                     <occupation>Publizist</occupation>
+                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/101654901</idno>
+                  </person>
             <person xml:id="reitz-nn">
                <persName>
                   <surname>Reitz</surname>
