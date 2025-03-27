@@ -17,6 +17,20 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="friedl-adolf">
+               <persName>
+                  <forename>Adolf</forename>
+                  <surname>Friedl</surname>
+               </persName>
+               <birth>
+                  <date when="1822-11-17">17.11.1822 (Tauftag)</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1879-02-17">17.02.1879</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Akademiediener</occupation>
+            </person>
             <person xml:id="solber-peter-johann">
                <persName>
                   <forename>Peter Johann</forename>
