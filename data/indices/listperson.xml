@@ -17,6 +17,13 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="cassino-carl">
+               <persName>
+                  <forename>Carl</forename>
+                  <surname>Cassino</surname>
+               </persName>
+               <occupation>Sprachlehrer und Übersetzer in Neuwied</occupation>
+            </person>
             <person xml:id="friedl-adolf">
                <persName>
                   <forename>Adolf</forename>
@@ -37,7 +44,8 @@
                   <surname>Solber</surname>
                </persName>
                <occupation>Großhandlungsbuchhalter (1859-1868, Lehmann)</occupation>
-               <occupation>Autor einer systematischen Orthographie der deutschen Sprache (1849/50), wohnhaft "Josefstadt 34"</occupation>
+               <occupation>Autor einer systematischen Orthographie der deutschen Sprache (1849/50),
+                  wohnhaft "Josefstadt 34"</occupation>
             </person>
             <person xml:id="ficker-julius">
                <persName>
@@ -63,7 +71,7 @@
                   <surname>Rossi</surname>
                </persName>
                <occupation>k.k. Consul in Cagliari/Sardinien</occupation>
-               </person>
+            </person>
             <person xml:id="pollak-salomon">
                <persName>
                   <forename>Salomon</forename>
@@ -73,8 +81,9 @@
                   <date when="1825-12-28">28.12.1825</date>
                   <placeName>Trebitsch</placeName>
                </birth>
-               <occupation>"des Rabbinats und der philosoph. Doctorwürde Candidat" (1849)</occupation>
-               </person>
+               <occupation>"des Rabbinats und der philosoph. Doctorwürde Candidat"
+                  (1849)</occupation>
+            </person>
             <person xml:id="parchon">
                <persName>
                   <forename>Salomon Ibn</forename>
@@ -8720,6 +8729,8 @@
                <death>
                   <date when="1866-01-10">10.01.1866</date>
                </death>
+               <occupation>Lehrer an der deutsch-isrealitischen Schule in Tarnopol (1849), später
+                  Leiter der Schule in Brody</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52336/</idno>
                <idno type="paas">52336</idno>
             </person>
@@ -11041,19 +11052,19 @@
                   <surname>Höfken</surname>
                   <forename>Gustav</forename>
                   <nameLink>von (seit 1867)</nameLink>
-                        <surname>Höfken</surname>
-                     </persName>
-                     <birth>
-                        <date when="1811-06-14">14.06.1811</date>
-                        <placeName>Hattingen</placeName>
-                     </birth>
-                     <death>
-                        <date when="1889-07-14">14.07.1889</date>
-                        <placeName>Wien</placeName></death>
-                     <occupation>Nationalökonom</occupation>
-                     <occupation>Publizist</occupation>
-                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/101654901</idno>
-                  </person>
+                  <surname>Höfken</surname>
+               </persName>
+               <birth>
+                  <date when="1811-06-14">14.06.1811</date>
+                  <placeName>Hattingen</placeName>
+               </birth>
+               <death>
+                  <date when="1889-07-14">14.07.1889</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Nationalökonom</occupation>
+               <occupation>Publizist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/101654901</idno>
+            </person>
             <person xml:id="reitz-nn">
                <persName>
                   <surname>Reitz</surname>
