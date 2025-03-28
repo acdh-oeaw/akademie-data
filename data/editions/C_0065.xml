@@ -339,24 +339,12 @@
                                                     <abbr>Hrn<am>.</am>
                                                 </abbr>
                                             </choice>
-                                            <choice>
-                                                <expan>Professor</expan>
-                                                <abbr>
-                                                    <expan>Prof<choice>
-                                                        <am>.</am>
-                                                        <ex>essor</ex>
-                                                    </choice>
-                                                </expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice>
-                                        <hi>
+                                            <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice><hi>
                                             <rs ref="#gaisberger-joseph" type="person">Gaisberger</rs>
                                         </hi> in</p>
                     <p facs="#facs_2_region_1580205047493_144" rendition="#?18-82-100--277-1548" xml:id="p15" xml:space="preserve">
                                             <lb/>
-                                            <rs ref="#linz" type="place">Linz</rs>
-                                                , eine handschriftliche
+                                            <rs ref="#linz" type="place">Linz</rs>, eine handschriftliche
                                                 Abhand-
                                             <lb/>
                                                 lung: "Ovilaba und die römischen
@@ -405,17 +393,7 @@
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
                                 </choice>
-                                <choice>
-                                    <expan>Professor</expan>
-                                    <abbr>
-                                        <expan>Prof<choice>
-                                            <am>.</am>
-                                            <ex>essor</ex>
-                                        </choice>
-                                    </expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                             <hi>
                                 <rs ref="#haupt-moriz" type="person">Haupt</rs>,</hi>
                                 <choice>
@@ -425,15 +403,14 @@
                             </choice>
                         </p>
                     <p facs="#facs_2_region_1580205111493_153" rendition="#?19-81-100--294-1545" xml:id="p18" xml:space="preserve">
-                            <lb/>Mitglied, in <rs ref="#leipzig" type="place">Leipzig</rs>
-                                , die
+                            <lb/>Mitglied, in <rs ref="#leipzig" type="place">Leipzig</rs>, die
                                 erbete-
                             <lb/>
                                 ne und von ihm selbst gemachte
                             <lb/>
                                 Abschrift einer Chronik von
                             <lb/>
-                                Böhmen, auf der Leipziger
+                                Böhmen, auf der <rs type="place" ref="#leipzig">Leipzig</rs>er
                             <lb/>Bibliothek.</p>
                     <p facs="#facs_2_region_1580205120973_156" rendition="#?18-82-100--286-1552" xml:id="p19" xml:space="preserve">
                                 <lb/>Die Abschrift <choice>
@@ -458,17 +435,7 @@
                                 <abbr>Hrn<am>.</am>
                             </abbr>
                         </choice>
-                        <choice>
-                            <expan>Professor</expan>
-                            <abbr>
-                                <expan>Prof<choice>
-                                    <am>.</am>
-                                    <ex>essor</ex>
-                                </choice>
-                            </expan>
-                            <am>.</am>
-                        </abbr>
-                    </choice>
+                        <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                     <lb/>
                     <rs ref="#haupt-moriz" type="person">Haupt</rs> der Dank der Akademie</p>
                 </div>

@@ -421,13 +421,8 @@
                                     <lb/>am <num>17</num>. October <num>1849</num>.</p>
                     <p facs="#facs_1_region_1579083531975_711" rendition="#?15-85-100--372-2473" xml:id="p7" xml:space="preserve">
                                         <lb/>Anwesend: Der Alters-Präsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                                        <lb/>Die wirklichen Mitglieder <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice>
+                                        <lb/>Die wirklichen Mitglieder 
+                                        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                         <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                                         <lb/>
                                         <choice>
@@ -449,15 +444,15 @@
                                             <abbr>Freih<am>.</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
-                                        <expan>
-                                            <rs ref="#munch-bellinghausen-eligius" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#munch-bellinghausen-eligius" type="person">Münch</rs>
-                                <lb/>
+                                    <rs type="person" ref="#munch-bellinghausen-eligius"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Münch</rs>
+                        <lb/>
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -472,15 +467,15 @@
                                         <am>"</am>
                                     </abbr>
                                 </choice>
-                                <choice>
-                                    <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                    </expan>
-                                    <abbr>v<am>.</am>
-                                </abbr>
-                            </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                            <lb/>
+                                <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                        <expan>
+                                            von
+                                        </expan>
+                                        <abbr>v<am>.</am>
+                                        </abbr>
+                                </choice>
+                                    Karajan</rs>
+                        <lb/>
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
@@ -605,13 +600,7 @@ er-<lb/>schienenen noch nicht honorirten</hi>
                                         <lb/>
                                             gebracht worden sei, läßt der
                                         <lb/>
-                                        <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice>
+                                        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                         <hi>
                                             <rs ref="#hammer-purgstall-von-joseph" type="person">Alters-Präsident</rs>
                                         </hi>
@@ -636,8 +625,7 @@ er-<lb/>schienenen noch nicht honorirten</hi>
                 <pb facs="#facs_3" n="3" xml:id="pag3"/>
                 <div xml:id="d6">
                     <p facs="#facs_3_region_1579167366866_139" rendition="#?19-81-100--295-1567" xml:id="p14" xml:space="preserve">
-                                                <lb/>angenommenen Weise zu honoriren,<lb/>und beauftragt ihren <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                                    , den
+                                                <lb/>angenommenen Weise zu honoriren,<lb/>und beauftragt ihren <rs ref="#wolf-ferdinand" type="person">Secretär</rs>, den
                                                 <lb/>
                                                 <choice>
                                                     <expan>Herrn</expan>
@@ -660,27 +648,16 @@ er-<lb/>schienenen noch nicht honorirten</hi>
                                                     Mitglie-
                                                 <lb/>des <hi>
                                                     <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
-                                                </hi> über <choice>
-                                                    <expan>Professor</expan>
-                                                    <abbr>
-                                                        <expan>Prof<choice>
-                                                            <am>.</am>
-                                                            <ex>essor</ex>
-                                                        </choice>
-                                                    </expan>
-                                                    <am>.</am>
-                                                </abbr>
-                                            </choice>
-                                            <rs ref="#kollar-jan" type="person">
-                                                <hi>Kollar's</hi>
+                                                </hi> über <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
+                        <rs ref="#kollar-jan" type="person">
+                                                <hi>Kollar</hi>'s
                                             </rs>
                                         </p>
                     <p facs="#facs_3_region_1579167409400_151" rendition="#?18-80-99--288-1552" xml:id="p17" xml:space="preserve">
                                             <lb/>
                                                 Abhandlung über die Inschrift von
                                             <lb/>
-                                            <rs ref="#perugia" type="place">Perugia</rs>
-                                                , worin Berichterstatter
+                                            <rs ref="#perugia" type="place">Perugia</rs>, worin Berichterstatter
                                             <lb/>sich für incompetent erklärt.</p>
                     <p facs="#facs_3_region_1579167418825_154" rendition="#?18-82-100--288-1569" xml:id="p18" xml:space="preserve">
                                                 <lb/>
@@ -746,17 +723,7 @@ er-<lb/>schienenen noch nicht honorirten</hi>
                                                         <abbr>Hrn<am>.</am>
                                                     </abbr>
                                                 </choice>
-                                                <choice>
-                                                    <expan>Professor</expan>
-                                                    <abbr>
-                                                        <expan>Prof<choice>
-                                                            <am>.</am>
-                                                            <ex>essor</ex>
-                                                        </choice>
-                                                    </expan>
-                                                    <am>.</am>
-                                                </abbr>
-                                            </choice>
+                                                <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                                             <hi>
                                                 <rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs>
                                             </hi> in <rs ref="#luzern" type="place">Lucern</rs>,<lb/>
@@ -793,13 +760,7 @@ er-<lb/>schienenen noch nicht honorirten</hi>
                                             Ge-
                                         <lb/>
                                             lehrte", welchen man dafür im Sinne
-                                        <lb/>hatte, <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice> Franz <rs ref="#baumgartner-franz" type="person">Baumgartner</rs>
+                                        <lb/>hatte, <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> Franz <rs ref="#baumgartner-franz" type="person">Baumgartner</rs>
                                         <lb/>
                                             leider durch den Tod zu frühe der
                                         <lb/>Wissenschaft entrissen worden sei,<lb/>
@@ -826,23 +787,12 @@ er-<lb/>schienenen noch nicht honorirten</hi>
                                         </abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                    </hi>, bei <choice>
+                                        <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>, bei <choice>
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
                                 </choice>
-                                <choice>
-                                    <expan>Professor</expan>
-                                    <abbr>
-                                        <expan>Prof<choice>
-                                            <am>.</am>
-                                            <ex>essor</ex>
-                                        </choice>
-                                    </expan>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                             <lb/>
                             <hi>
                                 <rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs>
@@ -860,16 +810,15 @@ er-<lb/>schienenen noch nicht honorirten</hi>
                                     <abbr>u<am>.</am>
                                 </abbr>
                             </choice>
-                            <num>883</num>) <hi>d</hi>. Von Freiherrn <choice>
-                                <expan>
-                                    <rs ref="#ankershofen-von-gottlieb" type="person">von</rs>
-                                </expan>
-                                <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <hi>
-                            <rs ref="#ankershofen-von-gottlieb" type="person">Ankershofen</rs>
-                        </hi>
+                            <num>883</num>) <hi>d</hi>. Von Freiherrn <rs type="person" ref="#ankershofen-von-gottlieb"><choice>
+                                    <expan>
+                                        von
+                                    </expan>
+                                    <abbr>v<am>.</am>
+                                    </abbr>
+                            </choice>
+                                <hi>
+                                    Ankershofen</hi></rs>
                     </p>
                     <p facs="#facs_4_region_1579168297977_259" rendition="#?25-74-99--428-1701" xml:id="p27" xml:space="preserve">
                         <lb/>den ersten Band von dessen "Hand-<lb/>buch der Geschichte von Kärnten"<lb/>und Fortsetzung seiner Urkunden-<lb/>Regesten.</p>
@@ -913,14 +862,12 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                             vor-
                                         <lb/>
                                             läufig Notiz davon zu nehmen
-                                        <lb/>(nur die Herren <choice>
-                                            <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>,<lb/>
+                                        <lb/>(nur die Herren <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                                <expan>von</expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
+                                        </choice>
+                                            Karajan</rs>,<lb/>
                                     <rs ref="#diemer-josef" type="person">Diemer</rs> und <rs ref="#springer-johann" type="person">Springer</rs>
                                         erbitten sich
                                     <lb/>
@@ -959,13 +906,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                     <lb/>Hefte.</p>
                     <p facs="#facs_5_region_1579169278594_363" rendition="#?16-84-100--244-1537" xml:id="p35" xml:space="preserve">
                                         <lb/>
-                                        <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice> Regierungsrath <hi>
+                                        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> Regierungsrath <hi>
                                             <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                                         </hi>                                            
                                             be-
@@ -999,13 +940,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                             <lb/>diene?</p>
                     <p facs="#facs_5_region_1579169300754_369" rendition="#?17-80-97--259-1485" xml:id="p37" xml:space="preserve">
                                                 <lb/>
-                                                <choice>
-                                                    <expan>Herr</expan>
-                                                    <abbr>
-                                                        <expan>H<ex>er</ex>r</expan>
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice> Regierungsrath <hi>
+                                                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> Regierungsrath <hi>
                                                     <rs ref="#chmel-joseph" type="person">Chmel</rs>
                                                 </hi>
                                                     ist
@@ -1090,32 +1025,20 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                             <lb/>
                                                 schädigen wolle oder nicht? Und
                                             <lb/>
-                                            <choice>
-                                                <expan>Herr</expan>
-                                                <abbr>
-                                                    <expan>H<ex>er</ex>r</expan>
-                                                    <am>.</am>
-                                                </abbr>
+                                            <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
+                                            <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                                    <expan>
+                                                        von
+                                                    </expan>
+                                                    <abbr>v<am>.</am>
+                                                    </abbr>
                                             </choice>
-                                            <choice>
-                                                <expan>
-                                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                                </expan>
-                                                <abbr>v<am>.</am>
-                                            </abbr>
-                                        </choice>
-                                        <hi>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                        </hi>
-                                            fügt bei, im
+                                                <hi>
+                                                    Karajan</hi></rs> fügt bei, im
                                         <lb/>
                                             Falle der Fortsetzung durch
                                         <lb/>
-                                        <choice>
-                                            <expan>Herrn</expan>
-                                            <abbr>Hrn<am>.</am>
-                                        </abbr>
-                                    </choice>
+                                        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                     <rs ref="#schmidl-adolf" type="person">Schmidl</rs>
                                         möge sich die
                                     <lb/>
@@ -1136,24 +1059,12 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                         <lb/>Berücksichtigung verdiene.</p>
                     <p facs="#facs_6_region_1579271913094_48" rendition="#f" xml:id="p42" xml:space="preserve">
                                             <lb/>
-                                            <choice>
-                                                <expan>Herr</expan>
-                                                <abbr>
-                                                    <expan>H<ex>er</ex>r</expan>
-                                                    <am>.</am>
-                                                </abbr>
-                                            </choice>
+                                            <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                             <hi>
                                                 <rs ref="#diemer-josef" type="person">Diemer</rs>
                                             </hi>
                                                 entgegnet, er
-                                            <lb/>glaube nicht daß <choice>
-                                                <expan>Herr</expan>
-                                                <abbr>
-                                                    <expan>H<ex>er</ex>r</expan>
-                                                    <am>.</am>
-                                                </abbr>
-                                            </choice>
+                                            <lb/>glaube nicht daß <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                             <rs ref="#schmidl-adolf" type="person">Schmidl</rs>
                                                 auf
                                             <lb/>Entschädigung Anspruch habe, denn</p>
@@ -1178,13 +1089,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                                     Fort-
                                                 <lb/>
                                                     setzung zu besorgen; denn abgesehen
-                                                <lb/>davon, daß <choice>
-                                                    <expan>Herr</expan>
-                                                    <abbr>
-                                                        <expan>H<ex>er</ex>r</expan>
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice>
+                                                <lb/>davon, daß <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                                 <rs ref="#schmidl-adolf" type="person">Schmidl</rs>
                                                     sich bei
                                                 <lb/>
@@ -1198,13 +1103,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                                         als Privat keine hinlängliche
                                                     <lb/>
                                                         Garantie für das Gelingen des
-                                                    <lb/>Unternehmens; ohnehin habe <choice>
-                                                        <expan>Herr</expan>
-                                                        <abbr>
-                                                            <expan>H<ex>er</ex>r</expan>
-                                                            <am>.</am>
-                                                        </abbr>
-                                                    </choice>
+                                                    <lb/>Unternehmens; ohnehin habe <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                                     <lb/>
                                                     <choice>
                                                         <expan>Doctor</expan>
@@ -1249,13 +1148,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                                     ein-
                                                 <lb/>mal sich dafür interessire.</p>
                     <p facs="#facs_7_region_1579272516539_127" rendition="#f" xml:id="p46" xml:space="preserve">
-                                                    <lb/>Wogegen <choice>
-                                                        <expan>Herr</expan>
-                                                        <abbr>
-                                                            <expan>H<ex>er</ex>r</expan>
-                                                            <am>.</am>
-                                                        </abbr>
-                                                    </choice>
+                                                    <lb/>Wogegen <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                                     <rs ref="#chmel-joseph" type="person">Chmel</rs>                                                        
                                                         be-
                                                     <lb/>
@@ -1352,13 +1245,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                             <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs> und <rs ref="#diemer-josef" type="person">Diemer</rs>. </p>
                     <p facs="#facs_8_region_1579273320043_279" rendition="#f" xml:id="p50" xml:space="preserve">
                                                 <lb/>
-                                                <choice>
-                                                    <expan>Herr</expan>
-                                                    <abbr>
-                                                        <expan>H<ex>er</ex>r</expan>
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice>
+                                                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                                 <hi>
                                                     <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                                                 </hi>
@@ -1380,9 +1267,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                         </abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#stulz-jodok" type="person">Stülz</rs>
-                                    </hi>
-                                        : "Die
+                                        <rs ref="#stulz-jodok" type="person">Stülz</rs></hi>: "Die
                                     <lb/>
                                         Jugend und Wanderjahre des Grafen
                                     <lb/>Franz Christoph <rs ref="#khevenhuller-franz-christoph" type="person">Khevenhiller</rs>
@@ -1391,13 +1276,7 @@ Literatur-<lb/>und Kunstzeitung</hi>
                                     <lb/>nen eigenen Aufzeichnungen.</p>
                     <p facs="#facs_8_region_1579273325942_282" rendition="#f" xml:id="p51" xml:space="preserve">
                                         <lb/>
-                                        <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice>
+                                        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                         <choice>
                                             <expan>Doctor</expan>
                                             <abbr>D<hi rend="super">r</hi>

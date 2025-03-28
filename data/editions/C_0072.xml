@@ -322,17 +322,7 @@
                                     <am>-</am>
                                 </abbr>
                             </choice>
-                            <choice>
-                                <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
+                            <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                         <rs ref="#hofler-constantin" type="person">Hoefler</rs>
                         <lb/>
                         <choice>
@@ -596,17 +586,7 @@
             <am>:</am>
         </abbr>
     </choice>
-    <choice>
-        <expan>Professor</expan>
-        <abbr>
-            <expan>Prof<choice>
-                <am>.</am>
-                <ex>essor</ex>
-            </choice>
-        </expan>
-        <am>:</am>
-    </abbr>
-</choice>
+    <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
 <choice>
     <expan>Doctor</expan>
     <abbr>Dr<am>:</am>
@@ -688,17 +668,7 @@
                     <am>:</am>
                 </abbr>
             </choice>
-            <choice>
-                <expan>Professor</expan>
-                <abbr>
-                    <expan>Prof<choice>
-                        <am>.</am>
-                        <ex>essor</ex>
-                    </choice>
-                </expan>
-                <am>:</am>
-            </abbr>
-        </choice>
+            <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
         <lb/>
         <hi>
             <rs ref="#gaisberger-joseph" type="person">Gaisberger</rs>
@@ -820,20 +790,14 @@
                     Brauchbare enthalte und ohne Unterstützung
                 <lb/>
                     der Akademie wohl kaum erscheinen dürfte
-                <lb/>dem <choice>
-                    <expan>Herrn</expan>
-                    <abbr>
-                        <expan>H<ex>er</ex>r</expan>
-                        <am>:</am>
-                    </abbr>
-                </choice>
-                <choice>
-                    <expan>
-                        <rs ref="#pichler-von-rautenkar-adolf" type="person">Verfasser</rs>
-                    </expan>
-                    <abbr>Verf<am>:</am>
-                </abbr>
-            </choice> im Falle er es wünsche,<lb/>einen Unterstützungsbeitrag von <num>100</num>
+                <lb/>dem <choice><expan>Herrn</expan><abbr>Hr<am>:</am></abbr></choice>
+                <rs ref="#pichler-von-rautenkar-adolf" type="person"><choice>
+                        <expan>
+                            Verfasser
+                        </expan>
+                        <abbr>Verf<am>:</am>
+                        </abbr>
+                </choice></rs> im Falle er es wünsche,<lb/>einen Unterstützungsbeitrag von <num>100</num>
             <choice>
                 <expan>Gulden</expan>
                 <abbr>

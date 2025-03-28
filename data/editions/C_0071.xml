@@ -374,17 +374,7 @@
                     <am>-</am>
                 </abbr>
             </choice>
-            <choice>
-                <expan>Professor</expan>
-                <abbr>
-                    <expan>Prof<choice>
-                        <am>.</am>
-                        <ex>essor</ex>
-                    </choice>
-                </expan>
-                <am>.</am>
-            </abbr>
-        </choice>
+            <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
         <choice>
             <expan>Doctor</expan>
             <abbr>D<hi rend="super">r</hi>
@@ -774,17 +764,7 @@
             </p>
                     <p facs="#facs_4_region_1581496329784_76" rendition="#?21-78-99--349-1647" xml:id="p30" xml:space="preserve">
                 <lb/>
-                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><choice>
-                    <expan>Professor</expan>
-                    <abbr>
-                        <expan>Prof<choice>
-                            <am>.</am>
-                            <ex>essor</ex>
-                        </choice>
-                    </expan>
-                    <am>.</am>
-                </abbr>
-            </choice>
+                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
             <choice>
                 <expan>Doctor</expan>
                 <abbr>Dr<am>.</am>
@@ -792,8 +772,7 @@
         </choice> Constantin <hi>
             <rs ref="#hofler-constantin" type="person">Hoefler</rs>,</hi>
                 Archivar
-            <lb/>in <rs ref="#bamberg" type="place">Bamberg</rs>
-                , liest als Gast "Über den
+            <lb/>in <rs ref="#bamberg" type="place">Bamberg</rs>, liest als Gast "Über den
             <lb/>
                 Versuch des Markgrafen Albrecht Achilles
             <lb/>
