@@ -174,7 +174,7 @@
                                 <lb/>Die wirklichen Mitglieder <choice>
                                     <expan>Herr</expan>
                                     <abbr>
-                                        <expan>H<ex>er</ex>r</expan>
+                                        Hr
                                         <am>.</am>
                                     </abbr>
                                 </choice>
@@ -266,7 +266,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
+                                    Hr
                                     <am>.</am>
                                 </abbr>
                             </choice>
@@ -341,15 +341,7 @@
                     </choice>
                     <choice>
                         <expan>Professor</expan>
-                        <abbr>
-                            <expan>Prof<choice>
-                                <am>.</am>
-                                <ex>essor</ex>
-                            </choice>
-                        </expan>
-                        <am>.</am>
-                    </abbr>
-                </choice>
+                        <abbr>Prof<am>.</am></abbr>                </choice>
                 <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
                 <lb/>über <choice>
                     <expan>Doctor</expan>
@@ -463,7 +455,7 @@
                 <num>1263</num>. <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        <expan>H<ex>er</ex>r</expan>
+                        Hr
                         <am>.</am>
                     </abbr>
                 </choice> Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs>
@@ -495,7 +487,7 @@
                 <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        <expan>H<ex>er</ex>r</expan>
+                        Hr
                         <am>.</am>
                     </abbr>
                 </choice>

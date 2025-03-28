@@ -584,15 +584,7 @@
                                                     </choice>
                                                     <choice>
                                                         <expan>Professor</expan>
-                                                        <abbr>
-                                                            <expan>Prof<choice>
-                                                                <am>.</am>
-                                                                <ex>essor</ex>
-                                                            </choice>
-                                                        </expan>
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice>
+                                                        <abbr>Prof<am>.</am></abbr>                                                </choice>
                                                 <rs ref="#lanz-karl-friedrich" type="person">Lanz</rs> aus <rs ref="#giessen" type="place">Gießen</rs>,<lb/>
                                                     Exemplare seiner Werke (Chronik
                                                 <lb/>des Ramon Muntaner. <rs ref="#stuttgart" type="place">Stuttgart</rs>
@@ -654,15 +646,7 @@
                             </choice>
                             <choice>
                                 <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
+                                <abbr>Prof<am>.</am></abbr>                        </choice>
                         <rs ref="#lanz-karl-friedrich" type="person">Lanz</rs>
                             ihren
                         <lb/>
@@ -706,7 +690,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
+                                    Hr
                                     <am>.</am>
                                 </abbr>
                             </choice>
@@ -723,7 +707,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
+                                    Hr
                                     <am>.</am>
                                 </abbr>
                             </choice>
@@ -867,7 +851,7 @@
                                     <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            <expan>H<ex>er</ex>r</expan>
+                                            Hr
                                             <am>.</am>
                                         </abbr>
                                     </choice>

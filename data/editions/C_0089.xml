@@ -237,7 +237,7 @@
                                     <lb/>Die wirklichen Mitglieder <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            <expan>H<ex>er</ex>r</expan>
+                                            Hr
                                             <am>.</am>
                                         </abbr>
                                     </choice>
@@ -318,15 +318,7 @@
                                 </abbr>
                             </choice> General-Secretär <choice>
                                 <expan>Professor</expan>
-                                <abbr>
-                                    <expan>Prof<choice>
-                                        <am>.</am>
-                                        <ex>essor</ex>
-                                    </choice>
-                                </expan>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
+                                <abbr>Prof<am>.</am></abbr>                        </choice>
                         <rs ref="#schrotter-anton" type="person">Schrötter</rs>
                         <lb/>und mehrere Gäste.</p>
                     <p facs="#facs_1_region_1578655222946_488" rendition="#r" xml:id="p8" xml:space="preserve">
@@ -466,15 +458,7 @@
             <lb/>
             <choice>
                 <expan>Professor</expan>
-                <abbr>
-                    <expan>Prof<choice>
-                        <am>.</am>
-                        <ex>essor</ex>
-                    </choice>
-                </expan>
-                <am>.</am>
-            </abbr>
-        </choice>
+                <abbr>Prof<am>.</am></abbr>        </choice>
         <choice>
             <expan>Doctor</expan>
             <abbr>D<hi rend="super">or</hi>
@@ -588,7 +572,7 @@
     <num>1301</num>. <choice>
         <expan>Herr</expan>
         <abbr>
-            <expan>H<ex>er</ex>r</expan>
+            Hr
             <am>.</am>
         </abbr>
     </choice> Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs>
@@ -604,15 +588,7 @@
 </choice>
 <choice>
     <expan>Professor</expan>
-    <abbr>
-        <expan>Prof<choice>
-            <am>.</am>
-            <ex>essor</ex>
-        </choice>
-    </expan>
-    <am>.</am>
-</abbr>
-</choice>
+    <abbr>Prof<am>.</am></abbr></choice>
 <rs ref="#jager-albert" type="person">Jäger</rs>
 </p>
                 </div>

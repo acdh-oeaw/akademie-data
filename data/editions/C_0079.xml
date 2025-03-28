@@ -448,15 +448,7 @@
                         </abbr>
                     </choice> +-Secretär<choice>
                         <expan> Professor</expan>
-                        <abbr>
-                            <expan>Prof<choice>
-                                <am>.</am>
-                                <ex>essor</ex>
-                            </choice>
-                        </expan>
-                        <am>.</am>
-                    </abbr>
-                </choice>
+                        <abbr>Prof<am>.</am></abbr>                </choice>
                 <rs ref="#schrotter-anton" type="person">Schrötter</rs>
             </p>
                     <p facs="#facs_1_region_1580822823421_24" rendition="#r" xml:id="p9" xml:space="preserve">
@@ -838,7 +830,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    <expan>H<ex>er</ex>r</expan>
+                                    Hr
                                     <am>.</am>
                                 </abbr>
                             </choice>
@@ -883,7 +875,7 @@
                                         <lb/>erstattet <choice>
                                             <expan>Herr</expan>
                                             <abbr>
-                                                <expan>H<ex>er</ex>r</expan>
+                                                Hr
                                                 <am>.</am>
                                             </abbr>
                                         </choice>
@@ -950,14 +942,7 @@
                                                     erhält
                                                 <lb/>den Auftrag Herrn <choice>
                                                     <expan>Professor</expan>
-                                                    <abbr>
-                                                        <expan>Prof<choice>
-                                                            <am>.</am>
-                                                            <ex>essor</ex>
-                                                        </choice>
-                                                    </expan>
-                                                    <am>.</am>
-                                                </abbr>
+                                                    <abbr>Prof<am>.</am></abbr>
                                             </choice>
                                             <lb/>
                                             <rs ref="#suttner-hermann" type="person">Suttner</rs>
