@@ -16,6 +16,15 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="tarnopol">
+                   <placeName>Tarnopol</placeName>
+                   <placeName type="alt">alternativer Ortsname</placeName>
+                   <location>
+                       <geo>49.55404 25.59067</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/691650</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4119565-6</idno>
+               </place>
                <place xml:id="lissabon">
                    <placeName>Lissabon</placeName>
                    <location>
