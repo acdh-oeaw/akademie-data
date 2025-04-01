@@ -16,6 +16,30 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="chennai">
+                   <placeName>Cehnnai</placeName>
+                   <placeName type="alt">Madras</placeName><location>
+                       <geo>13.08784 80.27847</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/1264527</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/5351481-6</idno>
+               </place>
+               <place xml:id="mumbai">
+                   <placeName>Bombay</placeName>
+                   <placeName type="alt">Mumbai</placeName><location>
+                       <geo>19.07283 72.88261</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/1275339</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/10013721-0</idno>
+               </place>
+               <place xml:id="kalkutta">
+                   <placeName>Kalkutta</placeName>
+                   <placeName type="alt">Calcutta</placeName><location>
+                       <geo>22.56263 88.36304</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/1275004</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4029344-0</idno>
+               </place>
                <place xml:id="pfullingen">
                    <placeName>Pfullingen</placeName>
                    <location>
