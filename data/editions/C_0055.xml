@@ -350,16 +350,15 @@
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                        <choice>
-                                            <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                    <lb/>
-                                    <choice>
+                                        <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                                <expan>
+                                                    von
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
+                                        </choice>
+                                            Karajan</rs>
+                        <lb/><choice>
                                         <expan>Herr</expan>
                                         <abbr>
                                             <am>"</am>
@@ -420,8 +419,8 @@
                                             <hi>
                                                 <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi> um Bericht.</p>
                     <p facs="#facs_1_region_1579274559074_414" rendition="#?40-60-100--988-2501" xml:id="p13" xml:space="preserve">
-                                                <lb/>(<num>908</num>) <hi>b</hi>. Von <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice><hi>
-                                                <rs ref="#carrara-franz" type="person">Carrara</rs></hi> in 
+                                                <lb/>(<num>908</num>) <hi>b</hi>. Von <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
+                                                <hi><rs ref="#carrara-franz" type="person">Carrara</rs></hi> in 
                                                     <rs ref="#split-dalmatien" type="place">Spalato</rs>
                                             <lb/>eine Abschrift seines Hauptbericht</p>
                 </div>
@@ -466,10 +465,8 @@
                                                 <lb/>könne.</p>
                     <p facs="#facs_2_region_1579276808019_530" rendition="#f" xml:id="p17" xml:space="preserve">
                                                     <lb/>(<num>884</num>) c. Von Emmanuele <hi>
-                                                        <rs ref="#cicogna-emanuele-a" type="person">Cicogna</rs></hi> in</p>
-                    <p facs="#facs_2_region_1579276822042_533" rendition="#?15-84-99--233-1521" xml:id="p18" xml:space="preserve">
-                                                        <lb/>
-                                                        <rs ref="#venedig" type="place">Venedig</rs>, Dankschreiben für seine
+                                                        <rs ref="#cicogna-emanuele-a" type="person">Cicogna</rs></hi> in
+                                                        <lb/><rs ref="#venedig" type="place">Venedig</rs>, Dankschreiben für seine
                                                         <lb/>
                                                             Ernennung zum
                                                             correspondiren-
@@ -582,13 +579,9 @@
                                                                 </abbr>
                                                             </choice>
                                                             <hi>
-                                                                <rs ref="#miklosich-von-franz" type="person">Miklosich</rs></hi>, Bericht</p>
-                    <p facs="#facs_3_region_1579277674843_650" rendition="#?18-82-100--289-1595" xml:id="p30" xml:space="preserve">
-                                                                <lb/>
-                                                                    über eine in russischer Sprache
-                                                                <lb/>
-                                                                    handschriftlich der Akademie
-                                                                    einge-
+                                                                <rs ref="#miklosich-von-franz" type="person">Miklosich</rs></hi>, Bericht
+                                                                <lb/>über eine in russischer Sprache
+                                                                <lb/>handschriftlich der Akademie einge-
                                                                 <lb/>sandte Abhandlung des <choice>
                                                                     <expan>Herrn</expan>
                                                                     <abbr>Hrn<am>.</am>
@@ -731,15 +724,15 @@
                                                             <expan>Doctor</expan>
                                                             <abbr>Dr</abbr>
                                                         </choice>
-                                                        <choice>
-                                                            <expan>
-                                                                <rs ref="#bolza-giovanni-battista" type="person">von</rs>
-                                                            </expan>
-                                                            <abbr>v<am>.</am>
-                                                        </abbr>
-                                                    </choice>
-                                                    <rs ref="#bolza-giovanni-battista" type="person">Bolza</rs><hi>
-unver-<lb/>weilt</hi> erfolgen zu lassen.)</p>
+                                                        <rs type="person" ref="#bolza-giovanni-battista"><choice>
+                                                                <expan>
+                                                                    von
+                                                                </expan>
+                                                                <abbr>v<am>.</am>
+                                                                </abbr>
+                                                        </choice>
+                                                            Bolza</rs>
+                        <hi>unver-<lb/>weilt</hi> erfolgen zu lassen.)</p>
                     <p facs="#facs_4_region_1579278625579_765" rendition="#f" xml:id="p37" xml:space="preserve">
                                                         <lb/>
                                                         <choice>
@@ -860,11 +853,7 @@ unver-<lb/>weilt</hi> erfolgen zu lassen.)</p>
                                                 <abbr>v<am>.</am>
                                             </abbr>
                                         </choice>
-                                        <choice>
-                                            <expan>Herberstein</expan>
-                                            <abbr>Herberste</abbr>
-                                        </choice>
-                                    </rs>
+                                        Herberstein</rs>
                                     <lb/>
                                         und des gräflich Herberstein'schen
                                     <lb/>
