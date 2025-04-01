@@ -16,6 +16,30 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="pfullingen">
+                   <placeName>Pfullingen</placeName>
+                   <location>
+                       <geo>48.46458 9.22796</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2853928</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4045651-1</idno>
+               </place>
+               <place xml:id="bludenz">
+                   <placeName>Bludenz</placeName>
+                   <location>
+                       <geo>47.15476 9.82255</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2781680</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4007202-2</idno>
+               </place>
+               <place xml:id="anagni">
+                   <placeName>Anagni</placeName>
+                   <location>
+                       <geo>41.7435 13.15542</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/3183098</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4079762-4</idno>
+               </place>
                <place xml:id="tarnopol">
                    <placeName>Tarnopol</placeName>
                    <placeName type="alt">alternativer Ortsname</placeName>
