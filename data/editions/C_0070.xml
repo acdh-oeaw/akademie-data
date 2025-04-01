@@ -425,15 +425,15 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
-                                        <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                <lb/>
+                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Karajan</rs>
+                        <lb/>
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -475,7 +475,9 @@
                     <p facs="#facs_1_region_1581064820880_128" rendition="#r" xml:id="p8" xml:space="preserve">
                                     <lb/>
                                         Das Protokoll ohne Bemerkung
-                                    <lb/>angenommen.<lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:</p>
+                                    <lb/>angenommen.</p>
+                    <p facs="#facs_1_region_1581064820880_128" rendition="#r" xml:id="p16" xml:space="preserve">
+                        <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:</p>
                     <p facs="#facs_1_region_1581064826712_131" rendition="#?40-60-100--982-2476" xml:id="p9" xml:space="preserve">
                                         <lb/>
                                         <num>338</num>. a. von dem Handels-Ministerium, Mit-
@@ -561,13 +563,9 @@
                         <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs> um Bericht.</p>
                     <p facs="#facs_2_region_1581065729951_249" rendition="#f" xml:id="p15" xml:space="preserve">
                             <lb/>
-                            <num>407</num>. c. Von <rs ref="#kremer-alfred" type="person">demselben</rs>, einen Aufsatz: Nachrich-</p>
-                    <p facs="#facs_2_region_1581065736863_252" rendition="#?13-82-95--195-1410" xml:id="p16" xml:space="preserve">
-                                <lb/>
-                                    ten über den am linken Ufer des Tigris
-                                <lb/>
-                                    wohnenden Araber-Stamm des
-                                    Be-
+                            <num>407</num>. c. Von <rs ref="#kremer-alfred" type="person">demselben</rs>, einen Aufsatz: Nachrich-
+                                <lb/>ten über den am linken Ufer des Tigris
+                                <lb/>wohnenden Araber-Stamm des Be-
                                 <lb/>ni Lam.</p>
                     <p facs="#facs_2_region_1581065748071_255" rendition="#?13-83-96--189-1424" xml:id="p17" xml:space="preserve">
                                     <lb/>
@@ -597,8 +595,7 @@
                                     gemachten Fund bei Gelegenheit der
                                 <lb/>
                                     auf Kosten der Akademie unternommenen
-                                <lb/>Ausgrabungen bei <rs ref="#salona" type="place">Salona</rs>
-                                    , bestehend in
+                                <lb/>Ausgrabungen bei <rs ref="#salona" type="place">Salona</rs>, bestehend in
                                 <lb/>
                                 <num>73</num> Medaillen von Silber <choice>
                                     <expan>und</expan>
@@ -653,10 +650,8 @@
                                 </choice>
                                 <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
                                     erstattet Bericht über
-                                <lb/>
-                                    die in der vorhergehenden Sitzung
-                                    vor-
-                                <lb/>gelegten Aufsätze das <choice>
+                                <lb/>die in der vorhergehenden Sitzung vor-
+                                <lb/>gelegten Aufsätze des <choice>
                                     <expan>Herrn</expan>
                                     <abbr>Hrn<am>.</am>
                                 </abbr>
@@ -679,7 +674,7 @@
             <div n="3" type="page" xml:id="d5">
                 <pb facs="#facs_3" n="3" xml:id="pag3"/>
                 <div xml:id="d6">
-                    <p facs="#facs_3_region_1581328170270_73" rendition="#fc" xml:id="p22" xml:space="preserve">
+                    <p facs="#facs_3_region_1581328170270_73" rendition="#f" xml:id="p22" xml:space="preserve">
                                 <lb/>heutigen Tage abdrucken zu lassen.</p>
                     <p facs="#facs_3_region_1581328181982_76" rendition="#?21-78-99--346-1613" xml:id="p23" xml:space="preserve">
                                     <lb/>Die Classe stimmt diesem Antrage bei.<lb/>

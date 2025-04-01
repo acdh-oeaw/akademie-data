@@ -416,55 +416,40 @@
                                 <lb/>
                                 <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
                                 <lb/>
-                                <choice>
-                                    <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                    </expan>
-                                    <abbr>v<am>.</am>
-                                </abbr>
-                            </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                            <lb/>
+                                <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                        <expan>
+                                            von
+                                        </expan>
+                                        <abbr>v<am>.</am>
+                                        </abbr>
+                                </choice>
+                                    Karajan</rs>
+                        <lb/>
                             <rs ref="#kudler-joseph" type="person">Kudler</rs>
                             <lb/>
                             <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
                             <lb/>
                             <rs ref="#springer-johann" type="person">Springer</rs>
                             <lb/>Der Secretär <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
-                        </p>
-                    <p facs="#facs_1_region_1580822815592_21" rendition="#fc" xml:id="p8" xml:space="preserve">
                             <lb/>Der <choice>
                                 <expan>provisorische</expan>
                                 <abbr>prov<am>.</am>
                             </abbr>
                         </choice>
-                        <choice>
-                            <expan>General+</expan>
-                            <abbr>Gen<am>.</am>
-                            <choice>
-                                <expan>Sekretär</expan>
-                                <abbr/>
-                            </choice>
-                        </abbr>
-                    </choice> +-Secretär<choice>
-                        <expan> Professor</expan>
-                        <abbr>Prof<am>.</am></abbr>                </choice>
+                        <choice><expan>General</expan><abbr>Gen<am>.</am></abbr></choice><choice><expan>-Secretär</expan><abbr>- <am>"</am> -</abbr></choice>
+                        <choice><expan> Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                 <rs ref="#schrotter-anton" type="person">Schrötter</rs>
             </p>
                     <p facs="#facs_1_region_1580822823421_24" rendition="#r" xml:id="p9" xml:space="preserve">
                 <lb/>Mehrere Gäste.</p>
                     <p facs="#facs_1_region_1580822825453_27" rendition="#lc" xml:id="p10" xml:space="preserve">
                     <lb/>
-                    <num>840</num>
-                </p>
-                    <p facs="#facs_1_region_1580822831954_30" rendition="#?44-56-100--1100-2486" xml:id="p11" xml:space="preserve">
-                    <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:<lb/>a) Von Herrn <choice>
+                    <num>840</num> Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:<lb/>a) Von Herrn <choice>
                         <expan>Alfred</expan>
                         <abbr>A<am>.</am>
                     </abbr>
                 </choice>
-                <rs ref="#kremer-alfred" type="person">von <rs ref="#kremer-alfred" type="person">Kremer</rs>
-            </rs>,<lb/>
+                <rs type="person" ref="#kremer-alfred">von Kremer</rs>,<lb/>
                 Schreiben an die Kaiserliche
             <lb/>Akademie aus <rs ref="#damaskus" type="place">Damaskus</rs>
             <lb/>vom <num>10</num>. Juni <choice>
@@ -490,8 +475,7 @@
         <expan>Conventionsmünze</expan>
         <abbr>CM<am>.</am>
     </abbr>
-</choice>
-    , das
+</choice>, das
 <lb/>
     ihm die Akademie auch für
 <lb/>das zweite Jahr bewilliget,<lb/>
@@ -538,9 +522,7 @@
         </p>
                     <p facs="#facs_2_region_1580822889119_43" rendition="#l" xml:id="p14" xml:space="preserve">
             <lb/>
-            <num>841</num>.</p>
-                    <p facs="#facs_2_region_1580822903902_49" rendition="#?17-81-98--270-1536" xml:id="p15" xml:space="preserve">
-                <lb/>b) Von Herrn <choice>
+            <num>841</num>. b) Von Herrn <choice>
                     <expan>Mathias</expan>
                     <abbr>M<am>.</am>
                 </abbr>
@@ -574,15 +556,12 @@
             <lb/>
                 Eigennamen Aresis und
             <lb/>Aresoc mittheilt.</p>
-                    <p facs="#facs_2_region_1580822906996_52" rendition="#fc" xml:id="p16" xml:space="preserve">
+                    <p facs="#facs_2_region_1580822906996_52" rendition="#f" xml:id="p16" xml:space="preserve">
                 <lb/>Zur Wissenschaft.</p>
                     <p facs="#facs_2_region_1580822897792_46" rendition="#l" xml:id="p17" xml:space="preserve">
                     <lb/>
-                    <num>826</num>.</p>
-                    <p facs="#facs_2_region_1580822918210_55" rendition="#?17-81-99--272-1543" xml:id="p18" xml:space="preserve">
-                        <lb/>c) Von Herrn <rs ref="#delvert-christian" type="person">d'Elvert</rs>
-                        <lb/>in <rs ref="#brunn" type="place">Brünn</rs>
-                            , Schreiben an
+                    <num>826</num>. c) Von Herrn <rs ref="#delvert-christian" type="person">d'Elvert</rs>
+                        <lb/>in <rs ref="#brunn" type="place">Brünn</rs>, Schreiben an
                         <lb/>die <choice>
                             <expan>kaiserliche</expan>
                             <abbr>kais<am>.</am>
@@ -622,9 +601,7 @@
                         <rs ref="#palacky-franz" type="person">Palacky</rs> zugewiesen.</p>
                     <p facs="#facs_3_region_1580822953441_70" rendition="#l" xml:id="p21" xml:space="preserve">
                             <lb/>
-                            <num>843</num>.</p>
-                    <p facs="#facs_3_region_1580822968005_74" rendition="#?17-82-99--262-1559" xml:id="p22" xml:space="preserve">
-                                <lb/>d) Von Herrn <choice>
+                            <num>843</num>. d) Von Herrn <choice>
                                     <expan>kaiserlicher</expan>
                                     <abbr>kais<am>.</am>
                                 </abbr>
@@ -638,31 +615,27 @@
                                 <expan>de dato</expan>
                                 <abbr>dd<hi rend="super">o</hi>
                             </abbr>
-                        </choice> Anagni <num>25</num>. Juli <num>1256</num>,<lb/>
+                        </choice> <rs type="place" ref="#anagni">Anagni</rs> <num>25</num>. Juli <num>1256</num>,<lb/>
                             für das Frauenkloster zu
                         <lb/>
-                            Pfullingen, gefunden zu
-                        <lb/>Bludenz im August <num>1849</num>.</p>
+                            <rs type="place" ref="#pfullingen">Pfullingen</rs>, gefunden zu
+                        <lb/><rs type="place" ref="#bludenz">Bludenz</rs> im August <num>1849</num>.</p>
                     <p facs="#facs_3_region_1580822971333_77" rendition="#?27-71-98--425-1540" xml:id="p23" xml:space="preserve">
                             <lb/>Zum Abdruck im Archiv.</p>
                     <p facs="#facs_3_region_1580822975224_80" rendition="#?16-79-94--248-1488" xml:id="p24" xml:space="preserve">
-                                <lb/>Herr <choice>
-                                    <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                    </expan>
-                                    <abbr>v<am>.</am>
-                                </abbr>
-                            </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>                                
+                                <lb/>Herr <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                        <expan>
+                                            von
+                                        </expan>
+                                        <abbr>v<am>.</am>
+                                        </abbr>
+                                </choice>
+                                    Karajan</rs>                                
                                 er-
                             <lb/>stattet Bericht über:</p>
                     <p facs="#facs_3_region_1580822981820_83" rendition="#l" xml:id="p25" xml:space="preserve">
                                 <lb/>
-                                <num>806</num>
-                            </p>
-                    <p facs="#facs_3_region_1580823006511_87" rendition="#?16-84-100--250-1575" xml:id="p26" xml:space="preserve">
-                                <lb/>
-                                    a) das Anerbieten des
+                                <num>806</num> a) das Anerbieten des
                                 <lb/>
                                 <choice>
                                     <expan>Herrn</expan>
@@ -756,16 +729,14 @@
         <lb/>zu stellen.</p>
                     <p facs="#facs_4_region_1580823044625_114" rendition="#l" xml:id="p29" xml:space="preserve">
             <lb/>
-            <num>451</num>.</p>
-                    <p facs="#facs_4_region_1580823047704_117" rendition="#?17-82-99--262-1548" xml:id="p30" xml:space="preserve">
-                <lb/>b) Uiber Herrn <choice>
+            <num>451</num>. b) Uiber Herrn <rs type="person" ref="#koch-sternfeld-joseph-ernst"><choice>
                     <expan>
-                        <rs ref="#koch-sternfeld-joseph-ernst" type="person">von</rs>
+                        von
                     </expan>
                     <abbr>v<am>.</am>
-                </abbr>
+                    </abbr>
             </choice>
-            <rs ref="#koch-sternfeld-joseph-ernst" type="person">Koch-<lb/>Sternfeld's</rs>
+                Koch-<lb/>Sternfeld</rs>'s
                 Abhandlung: Uiber
             <lb/>das Zeitalter des <choice>
                 <expan>heiligen</expan>
@@ -779,10 +750,7 @@
         <lb/>chiv er beanträgt.</p>
                     <p facs="#facs_4_region_1580823017059_93" rendition="#l" xml:id="p31" xml:space="preserve">
             <lb/>
-            <num>508</num>.</p>
-                    <p facs="#facs_4_region_1580823023325_99" rendition="#?18-81-100--285-1555" xml:id="p32" xml:space="preserve">
-                <lb/>
-                    c) Uiber Zimmermann's
+            <num>508</num>. c) Uiber Zimmermann's
                 <lb/>
                     Abhandlung: "Beiträge zur
                 <lb/>
@@ -792,9 +760,7 @@
                 <lb/>aufzunehmen empfiehlt.</p>
                     <p facs="#facs_4_region_1580823019606_96" rendition="#l" xml:id="p33" xml:space="preserve">
                     <lb/>
-                    <num>579</num>.</p>
-                    <p facs="#facs_4_region_1580823027045_102" rendition="#?17-83-99--258-1548" xml:id="p34" xml:space="preserve">
-                        <lb/>d) Uiber <rs ref="#teutsch-georg-daniel" type="person">Teutsch's</rs>                            
+                    <num>579</num>.d) Uiber <rs ref="#teutsch-georg-daniel" type="person">Teutsch</rs>'s                            
                             Bei-
                         <lb/>
                             trage zur Geschichte
@@ -895,12 +861,7 @@
                                             <lb/>
                                             <num>1</num>
                                                 ) über den von Herrn
-                                            <lb/>
-                                            <expan>Prof<choice>
-                                                <am>.</am>
-                                                <ex>essor</ex>
-                                            </choice>
-                                        </expan>
+                                            <lb/><choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>                                            
                                         <rs ref="#suttner-hermann" type="person">Suttner</rs>
                                             in einer
                                         <lb/>
@@ -956,10 +917,7 @@
                                             <lb/>ständigen.</p>
                     <p facs="#facs_6_region_1580823225379_164" rendition="#l" xml:id="p47" xml:space="preserve">
                                                 <lb/>
-                                                <num>717</num>.</p>
-                    <p facs="#facs_6_region_1580823230426_167" rendition="#?20-80-100--330-1675" xml:id="p48" xml:space="preserve">
-                                                    <lb/>
-                                                    <num>2</num>. Uiber das von <choice>
+                                                <num>717</num>. <num>2</num>. Uiber das von <choice>
                                                         <expan>Herrn</expan>
                                                         <abbr>Hrn<am>.</am>
                                                     </abbr>
@@ -1088,8 +1046,7 @@
                 <div xml:id="d16">
                     <p facs="#facs_8_region_1580823529802_195" rendition="#f" xml:id="p52" xml:space="preserve">
                                             <lb/>
-                                            <hi>könnte</hi>
-                                                , so muß sie doch
+                                            <hi>könnte</hi>, so muß sie doch
                                             <lb/>
                                                 den in dem Berichte des
                                             <lb/>Herrn <rs ref="#karajan-von-theodor-georg" type="person">Referenten</rs>                                                

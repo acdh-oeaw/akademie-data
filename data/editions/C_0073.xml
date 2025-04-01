@@ -574,14 +574,14 @@
                                     <am>"</am>
                                 </abbr>
                             </choice>
-                            <choice>
-                                <expan>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                </expan>
-                                <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                            <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                    <expan>
+                                        von
+                                    </expan>
+                                    <abbr>v<am>.</am>
+                                    </abbr>
+                            </choice>
+                                Karajan</rs>
                         <lb/>
                         <choice>
                             <expan>Herr</expan>
@@ -638,9 +638,7 @@
                                 unbean-
                             <lb/>standet.</p>
                     <p facs="#facs_1_region_1581494389952_698" rendition="#lc" xml:id="p10" xml:space="preserve">
-                                <lb/>(<num>513</num>)</p>
-                    <p facs="#facs_1_region_1581494398969_701" rendition="#?46-54-100--1140-2460" xml:id="p11" xml:space="preserve">
-                                    <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:<lb/>a) Von <choice>
+                                <lb/>(<num>513</num>) <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:<lb/>a) Von <choice>
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
@@ -660,9 +658,7 @@
                             <abbr>F<am>.</am>
                         </abbr>
                     </choice>
-                    <rs ref="#castelli-ignaz-franz" type="person">Castelli</rs>,<lb/>das Manuscript der <num>2</num>
-                    <hi rend="super">ten</hi>                        
-                        Auf-
+                    <rs ref="#castelli-ignaz-franz" type="person">Castelli</rs>,<lb/>das Manuscript der <num>2</num><hi rend="super">ten</hi> Auf-
                     <lb/>
                         lage seines Wörterbuchs der
                     <lb/>Mundart in Oesterreich <choice>
@@ -767,23 +763,18 @@
         </choice>
             Geschichte durch die
         <lb/>Akademie herauszugeben.</p>
-                    <p facs="#facs_2_region_1581494425911_711" rendition="#fc" xml:id="p19" xml:space="preserve">
+                    <p facs="#facs_2_region_1581494425911_711" rendition="#f" xml:id="p19" xml:space="preserve">
             <lb/>Zur Wissenschaft.</p>
                     <p facs="#facs_2_region_1581494428239_714" rendition="#l" xml:id="p20" xml:space="preserve">
-                <lb/>(<num>539</num>)</p>
-                    <p facs="#facs_2_region_1581494433568_717" rendition="#?18-82-100--294-1612" xml:id="p21" xml:space="preserve">
-                    <lb/>d) Von <choice>
+                <lb/>(<num>539</num>) d) Von <choice>
                         <expan>Herrn</expan>
                         <abbr>Hrn<am>.</am>
                     </abbr>
                 </choice>
                 <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
-            <rs ref="#carrara-franz" type="person">Carrara</rs>,<lb/>
-                ein Schreiben in dem er sich
-            <lb/>
-                entschuldigt, die verlangten
-            <lb/>
-                Medaillen nicht einsenden zu
+            <rs ref="#carrara-franz" type="person">Carrara</rs>,<lb/> ein Schreiben in dem er sich
+            <lb/>entschuldigt, die verlangten
+            <lb/>Medaillen nicht einsenden zu
             <lb/>können.</p>
                     <p facs="#facs_2_region_1581494419348_708" rendition="#?20-80-100--317-1614" xml:id="p22" xml:space="preserve">
                 <lb/>
@@ -837,8 +828,7 @@
                     <lb/>
                         worden seien, wie Herr
                     <lb/>
-                    <rs ref="#carrara-franz" type="person">Carrara</rs>
-                        , in seinem Bericht
+                    <rs ref="#carrara-franz" type="person">Carrara</rs>, in seinem Bericht
                     <lb/>vom <num>25</num>. März <choice>
                         <expan>dieses Jahres</expan>
                         <abbr>d<am>.</am> J<am>.</am>
@@ -920,10 +910,10 @@
                                 als provisorischer Referent der
                             <lb/>
                                 historischen Commission und
-                            <lb/>
-                                als Referent der Commission
-                            <lb/>für Herausgabe der Acta <choice>
-                                <expan>conciliorum</expan>
+                            <lb/>als Referent der Commission
+                            <lb/>für Herausgabe der Acta con-
+                            <lb/><choice>
+                                <expan>ciliorum</expan>
                                 <abbr>cil<am>.</am>
                             </abbr>
                         </choice>
@@ -949,31 +939,19 @@
                     <abbr>n<hi rend="super">o</hi>
                 </abbr>
             </choice>
-            <num>456</num> und <num>492</num>
-                ) und
+            <num>456</num> und <num>492</num>) und
             <lb/>stellt dann folgende Anträge:</p>
                     <p facs="#facs_4_region_1581494562025_766" rendition="#f" xml:id="p26" xml:space="preserve">
                 <lb/>
-                <num>1</num>
-                <hi rend="super">tens</hi>
-                    Die Classe wolle sich
-                <lb/>
-                    an das hohe Ministerium
-                <lb/>
-                    des Äussern wenden mit
-                <lb/>
-                    der Bitte, die beiden
-                    Hand-
-                <lb/>schriften N<hi rend="super">o</hi>
-                <num>1503</num> und <num>1577</num> (ent-<lb/>
-                    haltend: Carlerius de
-                    legalio-
-                <lb/>nibus concilii Basiliensis,<lb/>
-                    und einen gleichzeitigen
-                    Aus-
-                <lb/>
-                    zug daraus) von der
-                    Biblio-
+                <num>1</num><hi rend="super">tens</hi> Die Classe wolle sich
+                <lb/>an das hohe Ministerium
+                <lb/>des Äussern wenden mit
+                <lb/>der Bitte, die beiden Hand-
+                <lb/>schriften N<hi rend="super">o</hi> <num>1503</num> und <num>1577</num> (ent-
+                <lb/>haltend: Carlerius de legalio-
+                <lb/>nibus concilii Basiliensis,
+                <lb/>und einen gleichzeitigen Aus-
+                <lb/>zug daraus) von der Biblio-
                 <lb/>thèque nationale zu <rs ref="#paris" type="place">Paris</rs>
                 <lb/>
                     für die kaiserliche Akademie
@@ -986,8 +964,7 @@
                 <lb/>lehnt zu erhalten.</p>
                     <p facs="#facs_4_region_1581494570463_769" rendition="#f" xml:id="p27" xml:space="preserve">
                     <lb/>
-                    <num>2</num>
-                    <hi rend="super">tens</hi> den <rs ref="#wolf-ferdinand" type="person">Secretär</rs>                        
+                    <num>2</num><hi rend="super">tens</hi> den <rs ref="#wolf-ferdinand" type="person">Secretär</rs>                        
                         beauf-
                     <lb/>
                         tragen, wegen Copirung der
@@ -1018,8 +995,7 @@
                 <div xml:id="d10">
                     <p facs="#facs_5_region_1581494600921_781" rendition="#f" xml:id="p28" xml:space="preserve">
                 <lb/>
-                <rs ref="#mas-latrie-comte-de-jacques-marie-joseph-louis" type="person">de-Mas-Latrie</rs>
-                    , sous Directeur
+                <rs ref="#mas-latrie-comte-de-jacques-marie-joseph-louis" type="person">de-Mas-Latrie</rs>, sous Directeur
                 <lb/>
                     des études à l'école des chartes
                 <lb/>(rue neuve des petits champs, N<hi rend="super">o</hi>
@@ -1042,8 +1018,7 @@
                 <lb/>treffen.</p>
                     <p facs="#facs_5_region_1581494592810_778" rendition="#f" xml:id="p29" xml:space="preserve">
                     <lb/>
-                    <num>3</num>
-                    <hi rend="super">tens</hi>
+                    <num>3</num><hi rend="super">tens</hi>
                         In Bezug auf die von
                     <lb/>
                         der Akademie angesuchte
@@ -1313,7 +1288,7 @@
     Akade-
 <lb/>
     mie ihm zugesandte Recension
-<lb/>über den <num>1</num>. Theil von <rs ref="#kink-rudolf" type="person">Kink's</rs>
+<lb/>über den <num>1</num>. Theil von <rs ref="#kink-rudolf" type="person">Kink</rs>'s
 <lb/>
     "Vorlesungen über die
     Ge-
@@ -1325,7 +1300,7 @@
                 <pb facs="#facs_8" n="8" xml:id="pag8"/>
                 <div xml:id="d16">
                     <p facs="#facs_8_region_1581494680978_814" rendition="#f" xml:id="p38" xml:space="preserve">
-            <lb/>des <rs ref="#koch-mathias" type="person">Verfassers</rs>
+            <lb/>des <rs ref="#koch-mathias" type="person">Verfasser</rs>s
                 gemäß nicht
             <lb/>zum Abdruck bestimmt wird.</p>
                     <p facs="#facs_8_region_1581494685058_817" rendition="#f" xml:id="p39" xml:space="preserve">
@@ -1619,7 +1594,7 @@
                                             <lb/>
                                                 dern auch gerechtfertiget
                                             <lb/>finden würde.</p>
-                    <p facs="#facs_11_region_1581494926298_859" rendition="#fc" xml:id="p50" xml:space="preserve">
+                    <p facs="#facs_11_region_1581494926298_859" rendition="#f" xml:id="p50" xml:space="preserve">
                                                 <lb/>
                                                 <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
                                             </p>

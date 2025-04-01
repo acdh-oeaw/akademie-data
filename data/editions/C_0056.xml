@@ -219,20 +219,20 @@
                                     </choice>
                                     <rs ref="#chmel-joseph" type="person">Chmel</rs>
                                     <lb/>
-                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                    <choice>
                                             <expan>Herr</expan>
                                             <abbr>
                                                 <am>"</am>
                                             </abbr>
                                     </choice>
-                                        <choice>
-                                            <expan>
-                                                von
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                            </abbr>
+                                        <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                                <expan>
+                                                    von
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
                                         </choice>
-                                        Karajan</rs>
+                                            Karajan</rs>
                         <lb/>
                                 <choice>
                                     <expan>Herr</expan>
@@ -290,10 +290,7 @@
                     <p facs="#facs_1_region_1579616362030_30" rendition="#r" xml:id="p10" xml:space="preserve">
                                 <lb/>Freiherr <hi>
                                     <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-<lb/>Purgstall</rs></hi> theilt ein Schreiben
-                                <lb/>des correspondirenden <choice>
-                                    <expan>Mitgliedes</expan>
-                                    <abbr>Mitglied</abbr>
-                                </choice>
+                                <lb/>des correspondirenden Mitgliedes
                                 <lb/>Freiherrn <rs ref="#prokesch-osten-anton" type="person">Prokesch-Osten</rs> mit,
                                     wo-
                                 <lb/>
@@ -301,13 +298,8 @@
                                 <lb/>
                                     Commission beantragten
                                     Hono-
-                                <lb/>rar für seine "Geschichte des <choice>
-                                    <expan>grie-</expan>
-                                    <abbr>gri</abbr>
-                                </choice>
-                                <lb/>
-                                    chischen Befreiungskrieges"
-                                    ein-
+                                <lb/>rar für seine "Geschichte des grie-
+                                <lb/>chischen Befreiungskrieges" ein-
                                 <lb/>verstanden erklärt.</p>
                 </div>
             </div>
@@ -362,10 +354,7 @@
                             trägt
                         <lb/>
                             darauf an, daß die Akademie sich
-                        <lb/>nicht einlasse, darüber zu <choice>
-                            <expan>entschei-</expan>
-                            <abbr>entsche</abbr>
-                        </choice>
+                        <lb/>nicht einlasse, darüber zu entschei-
                         <lb/>
                             den, sondern sich darauf
                             beschrän-
@@ -485,8 +474,7 @@
     <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
 <lb/>
 <hi>
-    <rs ref="#schuller-johann-karl" type="person">Schuller</rs>
-</hi> aus <rs ref="#hermannstadt" type="place">Herrmanstadt</rs>    
+    <rs ref="#schuller-johann-karl" type="person">Schuller</rs></hi> aus <rs ref="#hermannstadt" type="place">Herrmanstadt</rs>    
     hand-
 <lb/>
     schriftlich vorgelegten Proben seiner
