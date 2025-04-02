@@ -160,15 +160,15 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
-                                        <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                <lb/>
+                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Karajan</rs>
+                        <lb/>
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -210,21 +210,16 @@
                                         <am>.</am>
                                     </abbr>
                                 </choice>
-                                <choice>
-                                    <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                    </expan>
-                                    <abbr>v<am>.</am>
-                                </abbr>
-                            </choice>
-                            <hi>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                            </hi>
-                                beginnt, die
-                            <lb/>
-                                Lesung seiner für die Denkschriften
-                            <lb/>
-                                bestimmten Abhandlung: "Über das
+                                <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                        <expan>
+                                            von
+                                        </expan>
+                                        <abbr>v<am>.</am>
+                                        </abbr>
+                                </choice>
+                                    <hi>Karajan</hi></rs> beginnt, die
+                            <lb/>Lesung seiner für die Denkschriften
+                            <lb/>bestimmten Abhandlung: "Über das
                             <lb/>Concil von <rs ref="#lyon" type="place">Lyon</rs> im Jahre <num>1245</num>.</p>
                     <p facs="#facs_1_region_1577969710416_24" rendition="#r" xml:id="p9" xml:space="preserve">
                                 <lb/>
@@ -249,7 +244,7 @@
                             </abbr>
                         </choice>
                         <rs ref="#heider-gustav" type="person">
-                            <hi>Heider's</hi>
+                            <hi>Heider</hi>'s
                         </rs>
                             Werk "Über
                         <lb/>
@@ -286,15 +281,9 @@
                             <lb/>Unterstützung von <num>300</num>
                             <choice>
                                 <expan>Gulden</expan>
-                                <abbr>
-                                    <choice>
-                                        <abbr>fl<am>.</am>
-                                    </abbr>
+                                <abbr>fl<am>.</am></abbr>
                                     <expan>Gulden</expan>
-                                </choice>
-                                <am>.</am>
-                            </abbr>
-                        </choice>
+                                </choice>                                
                         <choice>
                             <expan>Conventionsmünze</expan>
                             <abbr>CM<am>.</am>
@@ -319,17 +308,8 @@
                     Unternehmen des Fürsten
                 <rs ref="#lichnowsky-eduard-maria" type="person">Lichnows-<lb/>ky</rs> nicht benützen könne und wolle?</p>
                     <p facs="#facs_2_region_1577969738920_39" rendition="#f" xml:id="p12" xml:space="preserve">
-                    <lb/>
-                    <choice>
-                        <expan>Herr</expan>
-                        <abbr>
-                            Hr
-                            <am>.</am>
-                        </abbr>
-                    </choice>
-                    <hi>
-                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                    </hi>
+                    <lb/><choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
+                    <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
                         schließt daran das Gesuch
                     <lb/>des <choice>
                         <expan>Herrn</expan>
@@ -354,22 +334,12 @@
                         </abbr>
                     </choice>
                     <hi>
-                        <rs ref="#ettingshausen-von-andreas" type="person">Gene-<lb/>ral-Secretär</rs>
-                    </hi>
-                        ersuchen und
-                        bevoll-
+                        <rs ref="#ettingshausen-von-andreas" type="person">Gene-
+                            <lb/>ral-Secretär</rs></hi> ersuchen und bevoll-
                     <lb/>mächtigen, dieß zu thun.</p>
                     <p facs="#facs_2_region_1577969729059_36" rendition="#f" xml:id="p14" xml:space="preserve">
-                        <lb/>Dann legt <choice>
-                            <expan>Herr</expan>
-                            <abbr>
-                                Hr
-                                <am>.</am>
-                            </abbr>
-                        </choice>
-                        <hi>
-                            <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                        </hi> noch <choice>
+                        <lb/>Dann legt <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
+                        <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> noch <choice>
                             <expan>Numero</expan>
                             <abbr>N<hi rend="super">o</hi>
                         </abbr>
@@ -382,10 +352,7 @@
                     <p facs="#facs_2_region_1577969721293_30" rendition="#?41-51-92--547-1218" xml:id="p15" xml:space="preserve">
                         <lb/>
                         <rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
-                    </p>
-                    <p facs="#facs_2_region_1577969723840_33" rendition="#r" xml:id="p16" xml:space="preserve">
-                        <lb/>
-                        <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+                    <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
                     </p>
                 </div>
             </div>
