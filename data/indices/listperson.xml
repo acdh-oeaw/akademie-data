@@ -7765,14 +7765,23 @@
             </person>
             <person xml:id="laurin-anton">
                <persName>
-                  <surname>Laurin</surname>
-                  <addName>von</addName>
-                  <nameLink>von</nameLink>
                   <forename>Anton</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Laurin</surname>
                </persName>
+               <birth>
+                  <date when="1789-01-21">21.1.1789</date>
+                  <placeName>Vipava</placeName>
+               </birth>
+               <death>
+                  <date when="1869-06-12">12.06.1869</date>
+                  <placeName>Mailand</placeName></death>
+               <occupation>Diplomat, Generalkonsul in Kairo</occupation>
+               <occupation>Ägyptologe</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50588/</idno>
                <idno type="paas">50588</idno>
-            </person>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1156042089</idno>
+               </person>
             <person xml:id="dollinger-johann">
                <persName>
                   <surname>Döllinger</surname>
