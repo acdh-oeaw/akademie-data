@@ -200,18 +200,16 @@
                     <p facs="#facs_1_region_1578067697248_165" rendition="#fc" xml:id="p6" xml:space="preserve">
                                     <lb/>am <num>14</num>. März <num>1849</num>.</p>
                     <p facs="#facs_1_region_1578067714400_168" rendition="#?15-83-98--367-2414" xml:id="p7" xml:space="preserve">
-                                        <lb/>Anwesend: Der Herr Präsident Freiherr <choice>
-                                            <expan>
-                                                <rs ref="#hammer-purgstall-von-joseph" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                                    <lb/>Die wirklichen Mitglieder Herr <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
-                                </p>
-                    <p facs="#facs_1_region_1578067731536_171" rendition="#rr" xml:id="p8" xml:space="preserve">
-                                    <lb/>
+                                        <lb/>Anwesend: Der Herr Präsident Freiherr <rs type="person" ref="#hammer-purgstall-von-joseph"><choice>
+                                                <expan>
+                                                    von
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
+                                        </choice>
+                                            Hammer-Purgstall</rs>
+                        <lb/>Die wirklichen Mitglieder Herr <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
+                                <lb/>
                                     <choice>
                                         <expan>Herr</expan>
                                         <abbr>
@@ -233,15 +231,15 @@
                                         <abbr>
                                             <am>"</am>
                                         </abbr>
-                                    </choice> Baron <choice>
-                                        <expan>
-                                            <rs ref="#munch-bellinghausen-eligius" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#munch-bellinghausen-eligius" type="person">Münch</rs>
-                                <lb/>
+                                    </choice> Baron <rs type="person" ref="#munch-bellinghausen-eligius"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Münch</rs>
+                        <lb/>
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -256,15 +254,15 @@
                                         <am>"</am>
                                     </abbr>
                                 </choice>
-                                <choice>
-                                    <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                    </expan>
-                                    <abbr>v<am>.</am>
-                                </abbr>
-                            </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                            <lb/>
+                                <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                        <expan>
+                                            von
+                                        </expan>
+                                        <abbr>v<am>.</am>
+                                        </abbr>
+                                </choice>
+                                    Karajan</rs>
+                        <lb/>
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
@@ -286,14 +284,14 @@
                                 <abbr>
                                     <am>"</am>
                                 </abbr>
-                            </choice> Baron <choice>
-                                <expan>
-                                    <rs ref="#feuchtersleben-ernst" type="person">von</rs>
-                                </expan>
-                                <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <rs ref="#feuchtersleben-ernst" type="person">Feuchtersleben</rs>
+                            </choice> Baron <rs type="person" ref="#feuchtersleben-ernst"><choice>
+                                    <expan>
+                                        von
+                                    </expan>
+                                    <abbr>v<am>.</am>
+                                    </abbr>
+                            </choice>
+                                Feuchtersleben</rs>
                         <lb/>
                         <choice>
                             <expan>Herr</expan>
@@ -302,9 +300,7 @@
                             </abbr>
                         </choice>
                         <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
-                    </p>
-                    <p facs="#facs_1_region_1578067748584_174" rendition="#f" xml:id="p9" xml:space="preserve">
-                        <lb/>Der Secretär <choice>
+                  <lb/>Der Secretär <choice>
                             <expan>Herr</expan>
                             <abbr>
                                 <am>"</am>
@@ -317,15 +313,15 @@
                                 Hr
                                 <am>.</am>
                             </abbr>
-                        </choice> General-Secretär <choice>
-                            <expan>
-                                <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                        </abbr>
-                    </choice>
-                    <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>
-                    <lb/>
+                        </choice> General-Secretär <rs type="person" ref="#ettingshausen-von-andreas"><choice>
+                                <expan>
+                                    von
+                                </expan>
+                                <abbr>v<am>.</am>
+                                </abbr>
+                        </choice>
+                            Ettingshausen</rs>
+                        <lb/>
                     <choice>
                         <expan>Herr</expan>
                         <abbr>
@@ -333,12 +329,8 @@
                             <am>.</am>
                         </abbr>
                     </choice>
-                    <expan>Prof<choice>
-                        <am>.</am>
-                        <ex>essor</ex>
-                    </choice>
-                </expan>
-                <rs ref="#schrotter-anton" type="person">Schrötter</rs>
+                        <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
+                        <rs ref="#schrotter-anton" type="person">Schrötter</rs>
                 <lb/>
                 <choice>
                     <expan>Herr</expan>
@@ -403,29 +395,22 @@
                 <div xml:id="d4">
                     <p facs="#facs_2_region_1578387318677_254" rendition="#f" xml:id="p13" xml:space="preserve">
             <lb/>widmen zu dürfen.<lb/>Den Herren <hi>
-                <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
-            </hi> und <rs ref="#grillparzer-franz" type="person">
-                <hi>Grill-<lb/>parzer</hi>
-            </rs> um Bericht.</p>
+                <rs ref="#bergmann-joseph" type="person">Bergmann</rs></hi> und <rs ref="#grillparzer-franz" type="person">
+                <hi>Grill-<lb/>parzer</hi></rs> um Bericht.</p>
                     <p facs="#facs_2_region_1578387331156_257" rendition="#f" xml:id="p14" xml:space="preserve">
                 <lb/>b.) Von <choice>
                     <expan>Herrn</expan>
                     <abbr>Hrn<am>.</am>
                 </abbr>
-            </choice> Alfred <choice>
-                <expan>
-                    <rs ref="#kremer-alfred" type="person">von</rs>
-                </expan>
-                <abbr>v<am>.</am>
-            </abbr>
-        </choice>
-        <hi>
-            <rs ref="#kremer-alfred" type="person">Kremer</rs>
-        </hi>
-            ein
-            Ge-
-        <lb/>
-            such um Unterstützung zu einer
+            </choice> Alfred <rs type="person" ref="#kremer-alfred"><choice>
+                    <expan>
+                        von
+                    </expan>
+                    <abbr>v<am>.</am>
+                    </abbr>
+            </choice>
+                <hi>Kremer</hi></rs> ein Ge-
+        <lb/>such um Unterstützung zu einer
         <lb/>wissenschaftlichen Reise nach dem Orient.</p>
                     <p facs="#facs_2_region_1578387349152_260" rendition="#f" xml:id="p15" xml:space="preserve">
             <lb/>Auf des <choice>
@@ -433,9 +418,7 @@
                 <abbr>Hrn<am>.</am>
             </abbr>
         </choice>
-        <hi>
-            <rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs>
-        </hi>            
+        <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs></hi>            
             An-
         <lb/>
             trag und Empfehlung beschließt die
@@ -449,15 +432,14 @@
             <abbr>Hrn<am>.</am>
         </abbr>
     </choice>
-    <choice>
-        <expan>
-            <rs ref="#kremer-alfred" type="person">von</rs>
-        </expan>
-        <abbr>v<am>.</am>
-    </abbr>
-</choice>
-<hi>
-    <rs ref="#kremer-alfred" type="person">Kremer</rs>,</hi>
+    <rs type="person" ref="#kremer-alfred"><choice>
+            <expan>
+                von
+            </expan>
+            <abbr>v<am>.</am>
+            </abbr>
+    </choice>
+        <hi>Kremer</hi></rs>,
         vor der Hand für
     <lb/>
         Ein Jahr, ein Reisestipendium von
@@ -543,14 +525,9 @@
     <rs ref="#rossler-emil-franz" type="person">Rössler</rs>
 </hi>
     herauszugebenden
-<lb/>
-    Notitia bonorum ecclesiae
-    Frisin-
-<lb/>
-    gensis in Austriae partibus,
-    we-
-<lb/>gen fortdauernder Abwesenheit des</p>
-                    <p facs="#facs_2_region_1578387407988_272" rendition="#f" xml:id="p19" xml:space="preserve">
+<lb/>Notitia bonorum ecclesiae Frisin-
+<lb/>gensis in Austriae partibus, we-
+<lb/>gen fortdauernder Abwesenheit des
     <lb/>Herausgebers, die "Fontes" mit einer</p>
                 </div>
             </div>
@@ -564,7 +541,7 @@
                 ein-
             <lb/>
                 geht, zugleich aber beschließt, zur
-            <lb/>Beschleunigung des <rs ref="#rossler-emil-franz" type="person">Rössler'schen</rs>                
+            <lb/>Beschleunigung des <rs ref="#rossler-emil-franz" type="person">Rössler</rs>'schen                
                 Quel-
             <lb/>
                 lenwerkes dieses vorläufig mit den
@@ -582,17 +559,15 @@
                 <abbr>Hrn<am>.</am>
             </abbr>
         </choice>
-        <choice>
-            <expan>
-                <rs ref="#hefner-alteneck-jakob-heinrich" type="person">von</rs>
-            </expan>
-            <abbr>v<am>.</am>
-        </abbr>
-    </choice>
-    <lb/>
-    <hi>
-        <rs ref="#hefner-alteneck-jakob-heinrich" type="person">Hefner</rs>
-    </hi> in <rs ref="#munchen" type="place">München</rs>
+        <rs type="person" ref="#hefner-alteneck-jakob-heinrich"><choice>
+                <expan>
+                    von
+                </expan>
+                <abbr>v<am>.</am>
+                </abbr>
+        </choice>
+            <lb/>
+            <hi>Hefner</hi></rs> in <rs ref="#munchen" type="place">München</rs>
         deßhalb zu
     <lb/>wenden.</p>
                     <p facs="#facs_3_region_1578388560591_400" rendition="#f" xml:id="p21" xml:space="preserve">
@@ -611,7 +586,7 @@
             <abbr>Hrn<am>.</am>
         </abbr>
     </choice>
-    <rs ref="#emmert-anton" type="person">Emmert's</rs>        
+    <rs ref="#emmert-anton" type="person">Emmert</rs>'s        
         Ge-
     <lb/>
         such und die von ihm eingesandten
@@ -645,7 +620,7 @@
         <abbr>Hrn<am>.</am>
     </abbr>
 </choice>
-<rs ref="#emmert-anton" type="person">Emmert's</rs>
+<rs ref="#emmert-anton" type="person">Emmert</rs>'s
 <lb/>Eingaben <choice>
     <expan>Herrn</expan>
     <abbr>Hrn<am>.</am>
@@ -673,21 +648,15 @@
         </abbr>
     </choice>        
         Ge-
-    <lb/>
-        neral-Consuls in Ägypten
-        Rit-
+    <lb/>neral-Consuls in Ägypten Rit-
     <lb/>ters <choice>
         <expan>von</expan>
         <abbr>v<am>.</am>
     </abbr>
 </choice>
-<hi>Laurin</hi>
-    über einen
-    anti-
-<lb/>quarischen Ausflug von <rs ref="#kairo" type="place">Cairo</rs>
-    nach
-<lb/>
-    Memphis, der zum Abdruck in den
+<hi><rs type="person" ref="#laurin-anton">Laurin</rs></hi> über einen anti-
+<lb/>quarischen Ausflug von <rs ref="#kairo" type="place">Cairo</rs> nach
+<lb/>Memphis, der zum Abdruck in den
 <lb/>Sitzungsberichten bestimmt wird.</p>
                 </div>
             </div>

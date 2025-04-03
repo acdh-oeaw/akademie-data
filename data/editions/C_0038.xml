@@ -123,13 +123,8 @@
                                     <lb/>am <num>21</num>. März <num>1849</num>
                                 </p>
                     <p facs="#facs_1_region_1578390442865_595" rendition="#?15-84-100--382-2466" xml:id="p7" xml:space="preserve">
-                                    <lb/>Anwesend: Der Herr Präsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>.<lb/>Die wirklichen Mitglieder <choice>
-                                        <expan>Herr</expan>
-                                        <abbr>
-                                            Hr
-                                            <am>.</am>
-                                        </abbr>
-                                    </choice>
+                                    <lb/>Anwesend: Der Herr Präsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>.<lb/>Die wirklichen Mitglieder 
+                                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                     <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                                     <lb/>
                                     <choice>
@@ -162,15 +157,15 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
-                                        <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                <lb/>
+                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Karajan</rs>
+                        <lb/>
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -208,33 +203,25 @@
                             <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
                         </p>
                     <p facs="#facs_1_region_1578390459000_598" rendition="#?13-87-100--312-2469" xml:id="p8" xml:space="preserve">
-                            <lb/>Als Gäste der Herr General-Secretär <choice>
-                                <expan>
-                                    <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
-                                </expan>
-                                <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>
+                            <lb/>Als Gäste der Herr General-Secretär <rs type="person" ref="#ettingshausen-von-andreas"><choice>
+                                    <expan>
+                                        von
+                                    </expan>
+                                    <abbr>v<am>.</am>
+                                    </abbr>
+                            </choice>
+                                Ettingshausen</rs>
                         <lb/>Herr Graf <rs ref="#mailath-von-szekhely-janos-johann" type="person">Mailáth</rs>
                     </p>
                     <p facs="#facs_1_region_1578390472072_601" rendition="#r" xml:id="p9" xml:space="preserve">
-                        <lb/>Der <hi>
-                            <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                        </hi> legt vor:</p>
+                        <lb/>Der <hi><rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> legt vor:</p>
                     <p facs="#facs_1_region_1578390477372_604" rendition="#?36-61-97--887-2400" xml:id="p10" xml:space="preserve">
                             <lb/>(<num>233</num>) a.) Einen Vorschlag von <choice>
                                 <expan>Herrn</expan>
                                 <abbr>Hrn<am>.</am>
                             </abbr>
                         </choice>
-                    </p>
-                    <p facs="#facs_1_region_1578390487065_607" rendition="#r" xml:id="p11" xml:space="preserve">
-                        <lb/>
-                        <hi>
-                            <rs ref="#preidel-friedrich" type="person">Preidel</rs>
-                        </hi> in <rs ref="#wien" type="place">Wien</rs>
-                            , die Akademie
+                    <lb/><hi><rs ref="#preidel-friedrich" type="person">Preidel</rs></hi> in <rs ref="#wien" type="place">Wien</rs>, die Akademie
                         <lb/>
                             solle die Bearbeitung eines
                             genea-
@@ -260,12 +247,8 @@
                                     <expan>Professor</expan>
                                <abbr>Prof<am>.</am></abbr>
                             </choice>
-                            <hi>
-                                <rs ref="#carrara-franz" type="person">Carrara</rs>
-                            </hi>
-                        </p>
-                    <p facs="#facs_2_region_1578392081984_728" rendition="#?20-79-98--312-1566" xml:id="p14" xml:space="preserve">
-                            <lb/>
+                            <hi><rs ref="#carrara-franz" type="person">Carrara</rs></hi>
+                        <lb/>
                                 zurückgesandte corrigerte
                                 Ma-
                             <lb/>nuscript seiner Abhandlung:<lb/>De'scavi de <rs ref="#salona" type="place">Salona</rs>.</p>
@@ -278,18 +261,14 @@
                                     </abbr>
                                 </choice>                                    
                                     Regierungs-
-                                <lb/>rath <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                                    nochmals
-                                    durchge-
+                                <lb/>rath <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs> nochmals durchge-
                                 <lb/>sehen, zum Abdruck in den <hi>Abhand-<lb/>lungen der Nicht-Mitglieder.</hi>
                             </p>
                     <p facs="#facs_2_region_1578392111619_734" rendition="#?19-79-98--309-1569" xml:id="p16" xml:space="preserve">
                                 <lb/>Der Herr <hi>Präsident</hi>
                                     Freiherr
                                 <lb/>
-                                <hi>
-                                    <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                                </hi>
+                                <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs></hi>
                                     setzt die
                                 <lb/>
                                     Vorlesung seiner Übersicht
@@ -297,19 +276,16 @@
                                     der Geschichte der arabischen
                                 <lb/>Literatur fort.</p>
                     <p facs="#facs_2_region_1578392128320_737" rendition="#?19-80-99--305-1579" xml:id="p17" xml:space="preserve">
-                                    <lb/>Der <hi>Secretär <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
-                                </hi>
+                                    <lb/>Der <hi>Secretär <rs ref="#wolf-ferdinand" type="person">Wolf</rs></hi>
                                     liest
-                                <lb/>einen Aufsatz: "Über <rs ref="#castillejo-cristobal" type="person">Cristóval</rs>
+                                <lb/>einen Aufsatz: "Über Cristóval
                                 <lb/>
-                                <rs ref="#castillejo-cristobal" type="person">de Castillejo's</rs>
+                                <rs type="person" ref="#castillejo-cristobal">de Castillejo</rs>'s
                                     Lobspruch der
                                 <lb/>Stadt <rs ref="#wien" type="place">Wien</rs>.</p>
                     <p facs="#facs_2_region_1578392135814_740" rendition="#r" xml:id="p18" xml:space="preserve">
-                                    <lb/>
-                                    <rs ref="#hammer-purgstall-von-joseph" type="person">DrHammer-Purgstall</rs>
-                                    <lb/>
-                                    <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+                                    <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">DrHammer-Purgstall</rs>
+                                    <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
                                 </p>
                 </div>
             </div>

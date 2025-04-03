@@ -226,15 +226,15 @@
                                             <abbr>
                                                 <am>"</am>
                                             </abbr>
-                                        </choice> Baron <choice>
-                                            <expan>
-                                                <rs ref="#munch-bellinghausen-eligius" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#munch-bellinghausen-eligius" type="person">Münch</rs>
-                                    <lb/>
+                                        </choice> Baron <rs type="person" ref="#munch-bellinghausen-eligius"><choice>
+                                                <expan>
+                                                    von
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
+                                        </choice>
+                                            Münch</rs>
+                        <lb/>
                                     <choice>
                                         <expan>Herr</expan>
                                         <abbr>
@@ -249,15 +249,15 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
-                                        <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                <lb/>
+                                    <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Karajan</rs>
+                        <lb/>
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -295,15 +295,15 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
-                                        <expan>
-                                            <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>
-                                <lb/>
+                                    <rs type="person" ref="#ettingshausen-von-andreas"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Ettingshausen</rs>
+                        <lb/>
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -318,10 +318,7 @@
                             <rs ref="#wattenbach-wilhelm" type="person">Wattenbach</rs>.</p>
                     <p facs="#facs_1_region_1578053261350_67" rendition="#r" xml:id="p9" xml:space="preserve">
                                 <lb/>Der <rs ref="#wolf-ferdinand" type="person">
-                                    <hi>Secretär</hi>
-                                </rs>
-                                    macht
-                                    auf-
+                                    <hi>Secretär</hi></rs> macht auf-
                                 <lb/>
                                     merksam, daß in Folge der Beschlüße
                                 <lb/>
@@ -331,8 +328,7 @@
                                 <lb/>der Classe bedürfen, nämlich:</p>
                     <p facs="#facs_1_region_1578053269273_70" rendition="#r" xml:id="p10" xml:space="preserve">
                                     <lb/>
-                                    <num>1</num>
-                                    <hi rend="super">tens</hi>
+                                    <num>1</num><hi rend="super">tens</hi>
                                         ein officielles Schreiben an
                                     <lb/>
                                     <choice>
@@ -373,20 +369,14 @@
                                     </hi> wird ersucht,<lb/>
                                         ein solches Schreiben zu erlassen und
                                     <lb/>der <hi>
-                                        <rs ref="#wolf-ferdinand" type="person">Secretär</rs> beauftragt</hi>
-                                            , es zu
+                                        <rs ref="#wolf-ferdinand" type="person">Secretär</rs> beauftragt</hi>, es zu
                                             re-
                                         <lb/>digiren.</p>
                     <p facs="#facs_2_region_1578053323608_91" rendition="#?15-84-100--242-1555" xml:id="p13" xml:space="preserve">
                                             <lb/>
-                                            <num>2</num>
-                                            <hi rend="super">tens</hi>
-                                                In Folge der von der
-                                                Gesammt-
-                                            <lb/>
-                                                akademie beschlossenen Ernennung
-                                            <lb/>
-                                                einer Commission zur Prüfung des von
+                                            <num>2</num><hi rend="super">tens</hi> In Folge der von der Gesammt-
+                                            <lb/>akademie beschlossenen Ernennung
+                                            <lb/>einer Commission zur Prüfung des von
                                             <lb/>dem <choice>
                                                 <expan>Herrn</expan>
                                                 <abbr>Hrn<am>.</am>
@@ -430,10 +420,7 @@
                                         </abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                                    </hi>, <hi>
-                                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                    </hi>
+                                        <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>, <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
                                     <choice>
                                         <expan>und</expan>
                                         <abbr>u<am>.</am>
@@ -445,8 +432,7 @@
                                         <abbr>v<am>.</am>
                                     </abbr>
                                 </choice>
-                                <hi>Karajan</hi>
-                            </rs>.</p>
+                                <hi>Karajan</hi></rs>.</p>
                     <p facs="#facs_2_region_1578053307824_85" rendition="#fc" xml:id="p15" xml:space="preserve">
                                 <lb/>Der <hi>
                                     <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
@@ -484,10 +470,8 @@
                                         </abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
-                                    </hi> und <hi>
-                                        <rs ref="#goldenthal-jakob" type="person">Gol-<lb/>denthal</rs>
-                                    </hi> bestimmt werden.</p>
+                                        <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs></hi> und <hi>
+                                        <rs ref="#goldenthal-jakob" type="person">Gol-<lb/>denthal</rs></hi> bestimmt werden.</p>
                     <p facs="#facs_2_region_1578053281524_76" rendition="#f" xml:id="p18" xml:space="preserve">
                                         <lb/>(<num>475</num>) b. Von Freiherrn <rs ref="#prokesch-osten-anton" type="person">
                                             <choice>
@@ -495,8 +479,7 @@
                                                 <abbr>v<am>.</am>
                                             </abbr>
                                         </choice>
-                                        <hi>Prokesch-Osten</hi>
-                                    </rs>
+                                        <hi>Prokesch-Osten</hi></rs>
                                     <lb/>
                                         sein der Akademie zur
                                         Herausga-
@@ -528,12 +511,8 @@
                                         </abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs>
-                                    </hi>, <hi>
-                                        <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                                    </hi>,<lb/>und <hi>
-                                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                    </hi> zuzusenden (dem <choice>
+                                        <rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs></hi>, <hi><rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>,
+                                    <lb/>und <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> zuzusenden (dem <choice>
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
@@ -545,23 +524,19 @@
                                         <abbr>D<hi rend="super">r</hi>
                                     </abbr>
                                 </choice>
-                                <hi>
-                                    <rs ref="#goldenthal-jakob" type="person">Goldenthal</rs>
-                                </hi>
+                                <hi><rs ref="#goldenthal-jakob" type="person">Goldenthal</rs></hi>
                                     über
                                 <lb/>des <choice>
                                     <expan>Doctor</expan>
                                     <abbr>D<hi rend="super">r</hi>
                                 </abbr>
                             </choice>
-                            <hi>
-                                <rs ref="#letteris-meir-max-ha-levi" type="person">Letteris</rs>
-                            </hi>
+                            <hi><rs ref="#letteris-meir-max-ha-levi" type="person">Letteris</rs></hi>
                                 Gesuch um
                                 Unterstüt-
                             <lb/>
                                 zung bei Herausgabe von Rabbi
-                            <rs ref="#haccohen-ha-kohen-ha-kohen-josef-yosef" type="person">Hac-<lb/>cohen's</rs>
+                            <rs ref="#haccohen-ha-kohen-ha-kohen-josef-yosef" type="person">Hac-<lb/>cohen</rs>'s
                                 "Geschichte der
                                 Judenverfolgun-
                             <lb/>gen." </p>
@@ -591,7 +566,7 @@
                             </choice> anzutragen.</p>
                     <p facs="#facs_3_region_1578053374724_115" rendition="#?13-87-100--201-1536" xml:id="p23" xml:space="preserve">
                                 <lb/>
-                                    Der Secretär liest einen
+                                    Der <rs type="person" ref="#wolf-ferdinand">Secretär</rs> liest einen
                                 <lb/>Aufsatz des <choice>
                                     <expan>Herrn</expan>
                                     <abbr>Hrn<am>.</am>
@@ -611,10 +586,7 @@
                             <abbr>D<hi rend="super">r</hi>
                         </abbr>
                     </choice>
-                    <hi>
-                        <rs ref="#wattenbach-wilhelm" type="person">Watten-<lb/>bach</rs>
-                    </hi>
-                        , Beiträge zur Geschichte der
+                    <hi><rs ref="#wattenbach-wilhelm" type="person">Watten-<lb/>bach</rs></hi>, Beiträge zur Geschichte der
                     <lb/>
                     <choice>
                         <expan>christlichen</expan>
@@ -631,22 +603,12 @@
                     <abbr>Hrn<am>.</am>
                 </abbr>
             </choice>
-            <lb/>Regierungsrathes <hi>
-                <rs ref="#chmel-joseph" type="person">Chmel</rs>
-            </hi>                
-                be-
-            <lb/>
-                schließt die Classe – bevor sie sich
-            <lb/>
-                über die gewünschte Aufnahme
-            <lb/>
-                dieses Aufsatzes in ihre
-                Sitzungsbe-
-            <lb/>
-                richte entscheidet – das Gutachten
-            <lb/>
-                ihres correspondirenden
-                Mit-
+            <lb/>Regierungsrathes <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>be-
+            <lb/>schließt die Classe – bevor sie sich
+            <lb/>über die gewünschte Aufnahme
+            <lb/>dieses Aufsatzes in ihre Sitzungsbe-
+            <lb/>richte entscheidet – das Gutachten
+            <lb/>ihres correspondirenden Mit-
             <lb/>gliedes, des <choice>
                 <expan>Herrn</expan>
                 <abbr>Hrn<am>.</am>
@@ -657,15 +619,9 @@
         </hi>
         <lb/>
             darüber einzuholen, und Herr
-        <lb/>
-        <hi>
-            <rs ref="#chmel-joseph" type="person">Chmel</rs>
-        </hi>
-            übernimmt es, diesem
-        <lb/>
-            deßhalb zu schreiben und den
-        <lb/>Aufsatz des Herrn <rs ref="#richter-franz-x-johann" type="person">Richter</rs>            
-            zu-
+        <lb/><hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi> übernimmt es, diesem
+        <lb/>deßhalb zu schreiben und den
+        <lb/>Aufsatz des Herrn <rs ref="#richter-franz-x-johann" type="person">Richter</rs> zu-
         <lb/>zusenden.</p>
                     <p facs="#facs_3_region_1578053393508_121" rendition="#?29-69-98--453-1508" xml:id="p25" xml:space="preserve">
             <lb/>Der <choice>
@@ -691,12 +647,8 @@
                 der Geschichte der arabischen
             <lb/>Literatur fort.</p>
                     <p facs="#facs_4_region_1578053409682_130" rendition="#?35-59-93--454-1224" xml:id="p27" xml:space="preserve">
-                <lb/>
-                <rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
-            </p>
-                    <p facs="#facs_4_region_1578053411542_133" rendition="#?46-27-72--599-949" xml:id="p28" xml:space="preserve">
-                <lb/>
-                <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+                <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
+                <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
             </p>
                 </div>
             </div>
