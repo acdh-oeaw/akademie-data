@@ -437,15 +437,15 @@
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                        <choice>
-                                            <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                    <lb/>
+                                        <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                                <expan>
+                                                    von
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
+                                        </choice>
+                                            Karajan</rs>
+                        <lb/>
                                     <choice>
                                         <expan>Herr</expan>
                                         <abbr>
@@ -611,7 +611,7 @@
     <abbr>Hrn<am>.</am>
 </abbr>
 </choice>
-<rs ref="#kreil-benno" type="person">Prälaten</rs> von <rs ref="#admont" type="place">Admont</rs>
+<rs ref="#kreil-benno" type="person">Prälat</rs>en von <rs ref="#admont" type="place">Admont</rs>
 <lb/>
     gestellte Anfrage der Akademie
 <lb/>
@@ -627,15 +627,14 @@
     <abbr>A<am>.</am>
 </abbr>
 </choice>
-<choice>
-    <expan>
-        <rs ref="#muchar-albert-anton" type="person">von</rs>
-    </expan>
-    <abbr>v<am>.</am>
-</abbr>
+<rs type="person" ref="#muchar-albert-anton"><choice>
+        <expan>
+            von
+        </expan>
+        <abbr>v<am>.</am>
+        </abbr>
 </choice>
-<rs ref="#muchar-albert-anton" type="person">Muchar</rs>
-    : "Geschichte von
+    Muchar</rs>: "Geschichte von
 <lb/>
     Österreichs ob und unter der Enns
     un-
@@ -643,7 +642,7 @@
     ter den Römern." – Abtheilung I worin
 <lb/>er im Auftrage seines <choice>
     <expan>
-        <rs ref="#kreil-benno" type="person">Prälaten</rs>
+        <rs ref="#kreil-benno" type="person">Prälat</rs>en
     </expan>
     <abbr>Pralaten</abbr>
 </choice>
@@ -739,7 +738,7 @@
                     <p facs="#facs_3_region_1578583771048_226" rendition="#?16-84-100--243-1544" xml:id="p13" xml:space="preserve">
     <lb/>
         Die Classe billigt zwar den
-    <lb/>Vorschlag des <rs ref="#wolf-ferdinand" type="person">Secretärs</rs>, hält es
+    <lb/>Vorschlag des <rs ref="#wolf-ferdinand" type="person">Secretär</rs>s, hält es
     <lb/>
         aber für rathsam, daß er
         vor-
@@ -750,7 +749,7 @@
 </choice>
 <choice>
     <expan>Professor</expan>
-    <abbr>Prof</abbr><am>.</am>
+    <abbr>Prof<am>.</am></abbr>
             </choice>    
 <rs ref="#prangner-matthaus-p-engelbert-osb" type="person">Prangner</rs>
 <lb/>
@@ -923,16 +922,12 @@
                     <abbr>D<hi rend="super">r</hi>
                 </abbr>
             </choice> Ignatz <rs ref="#wildner-von-maithstein-ignaz" type="person">
-                <rs ref="#wildner-von-maithstein-ignaz" type="person">Wildner</rs>-<rs ref="#wildner-von-maithstein-ignaz" type="person">Maith-<lb/>stein</rs>
-            </rs>, Schreiben und Verzeichniß der
-            <lb/>
-                mitgesendeten, von ihm verfaßten
-            <lb/>
-            <num>21</num> Werken (<num>40</num>
-                Bände), mit der Bitte in
-            <lb/>
-                deren Aufnahme in die Bibliothek der
-            <lb/>Akademie.</p>
+                Wildner-Maith-
+                <lb/>stein</rs>, Schreiben und Verzeichniß der
+            <lb/>mitgesendeten, von ihm verfaßten
+            <lb/><num>21</num> Werken (<num>40</num> Bände), mit der Bitte in
+            <lb/>deren Aufnahme in die Bibliothek der
+             <lb/>Akademie.</p>
                     <p facs="#facs_5_region_1578583866247_268" rendition="#?15-85-100--242-1567" xml:id="p25" xml:space="preserve">
                 <lb/>
                     Gewährung und Dank; als
@@ -968,15 +963,15 @@
             <abbr>Hrn<am>.</am>
         </abbr>
     </choice>
-    <choice>
-        <expan>
-            <rs ref="#kremer-alfred" type="person">von</rs>
-        </expan>
-        <abbr>v<am>.</am>
-    </abbr>
-</choice>
-<rs ref="#kremer-alfred" type="person">Kremer</rs>
-<lb/>aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>1</num>. December <num>1850</num>.
+    <rs type="person" ref="#kremer-alfred"><choice>
+            <expan>
+                von
+            </expan>
+            <abbr>v<am>.</am>
+            </abbr>
+    </choice>
+        Kremer</rs>
+                        <lb/>aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>1</num>. December <num>1850</num>.
 </p>
                     <p facs="#facs_5_region_1578583880687_274" rendition="#?16-83-99--248-1549" xml:id="p27" xml:space="preserve">
     <lb/>
@@ -1345,7 +1340,7 @@
 </abbr>
 </choice>
 <lb/>mitzutheilen. </p>
-                    <p facs="#facs_8_region_1578584013189_322" rendition="#fc" xml:id="p43" xml:space="preserve">
+                    <p facs="#facs_8_region_1578584013189_322" rendition="#f" xml:id="p43" xml:space="preserve">
     <lb/>
     <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
 </p>
