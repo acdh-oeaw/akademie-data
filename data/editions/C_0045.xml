@@ -506,15 +506,15 @@
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                        <choice>
-                                            <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                                            </expan>
-                                            <abbr>v<am>.</am>
-                                        </abbr>
-                                    </choice>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                                    <lb/>
+                                        <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                                <expan>
+                                                    von
+                                                </expan>
+                                                <abbr>v<am>.</am>
+                                                </abbr>
+                                        </choice>
+                                            Karajan</rs>
+                        <lb/>
                                     <choice>
                                         <expan>Herr</expan>
                                         <abbr>
@@ -553,15 +553,15 @@
                                         </abbr>
                                     </choice>
                                     <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
-                                    <lb/>Als Gäste der Herr General-Secretär <choice>
-                                        <expan>
-                                            <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
-                                        </expan>
-                                        <abbr>v<am>.</am>
-                                    </abbr>
-                                </choice>
-                                <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>
-                            </p>
+                                    <lb/>Als Gäste der Herr General-Secretär <rs type="person" ref="#ettingshausen-von-andreas"><choice>
+                                            <expan>
+                                                von
+                                            </expan>
+                                            <abbr>v<am>.</am>
+                                            </abbr>
+                                    </choice>
+                                        Ettingshausen</rs>
+                    </p>
                     <p facs="#facs_1_region_1578055234610_435" rendition="#?46-53-100--1145-2455" xml:id="p8" xml:space="preserve">
                                 <lb/>                                    
                                     Da in der vorhergehenden
@@ -608,8 +608,7 @@
                                             </abbr>
                                         </choice>
                                         <rs ref="#palacky-franz" type="person">
-                                            <hi>Palacky</hi>
-                                        </rs> veranlaßt,<lb/>                                            
+                                            <hi>Palacky</hi></rs> veranlaßt,<lb/>                                            
                                             die Mangelhaftigkeit des
                                             bis-
                                         <lb/>                                            
@@ -628,8 +627,7 @@
                                         <lb/>
                                         <hi>wirklichen Mitgliedern</hi>                                            
                                             unter-
-                                        <lb/>schrieben unter <hi>Angabe der Mo-<lb/>tive</hi>                                            
-                                            ; diese Vorschläge sollen als
+                                        <lb/>schrieben unter <hi>Angabe der Mo-<lb/>tive</hi>; diese Vorschläge sollen als
                                         <lb/>                                            
                                             Urkunden hinterlegt bleiben
                                         <lb/>                                            
@@ -720,9 +718,7 @@
                                             <lb/>Wahlvorschläge, und zwar</p>
                     <p facs="#facs_3_region_1578055323967_465" rendition="#f" xml:id="p14" xml:space="preserve">
                                                 <lb/>
-                                                <num>1</num>
-                                                <hi rend="super">o</hi> zu der <hi>Eines auswärtigen Ehren-<lb/>mitgliedes</hi>                                                    
-                                                    . Nachdem durch
+                                                <num>1</num><hi rend="super">o</hi> zu der <hi>Eines auswärtigen Ehren-<lb/>mitgliedes</hi>. Nachdem durch
                                                     Stimmen-
                                                 <lb/>                                                    
                                                     mehrheit entschieden wurde, daß
@@ -738,18 +734,9 @@
                                                 <lb/>                                                    
                                                     frei stehe, und nachdem
                                                     insbeson-
-                                                <lb/>dere <choice>
-                                                    <expan>Herr</expan>
-                                                    <abbr>
-                                                        Hr
-                                                        <am>.</am>
-                                                    </abbr>
-                                                </choice>
+                                                <lb/>dere <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                                 <hi>
-                                                    <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
-                                                </hi>                                                    
-                                                    die
-                                                    Unzweck-
+                                                    <rs ref="#exner-franz-seraphin" type="person">Exner</rs></hi>die Unzweck-
                                                 <lb/>mäßigkeit nachzuweisen gesucht,<lb/>hiezu nochmals <rs ref="#schelling-friedrich-wilhelm-joseph" type="person">Schelling</rs> in Vorschlag</p>
                 </div>
             </div>
@@ -800,8 +787,7 @@
                                                 </p>
                     <p facs="#facs_4_region_1578055361362_485" rendition="#f" xml:id="p17" xml:space="preserve">
                                                     <lb/>
-                                                    <num>2</num>
-                                                    <hi rend="super">o</hi> Zu <num>7</num>
+                                                    <num>2</num><hi rend="super">o</hi> Zu <num>7</num>
                                                     <hi>auswärtigen correspon-<lb/>direnden Mitgliedern</hi>                                                        
                                                         wurden
                                                         vor-
@@ -860,7 +846,7 @@
                                                             <am>"</am>
                                                         </abbr>
                                                     </choice>
-                                                    <lb/>Fuchs <choice>
+                                                    <lb/><rs type="person" ref="#fuchs-johann-nepomuk">Fuchs</rs> <choice>
                                                         <expan>mit</expan>
                                                         <abbr>
                                                             <am>"</am>
@@ -1053,9 +1039,7 @@
                                                                 zudem häufig unvollständig oder
                                                             <lb/>                                                                
                                                                 gar verstümmelt; dieses gelte
-                                                            <lb/>namentlich von denen des <num>15</num>                                                                
-                                                                .
-                                                                Jahr-
+                                                            <lb/>namentlich von denen des <num>15</num>. Jahr-
                                                             <lb/>hunderts und doch haben gerade <hi>diese</hi>
                                                             <lb/>einen höheren Character an sich,<lb/>als die anderen, so war <choice>
                                                                 <expan>zum Beispiel</expan>
@@ -1064,8 +1048,7 @@
                                                         </choice>                                                            
                                                             das
                                                         <lb/>
-                                                        <rs ref="#konstanz" type="place">Constanzer</rs>                                                            
-                                                            -Concil zugleich ein
+                                                        <rs ref="#konstanz" type="place">Constanz</rs>er-Concil zugleich ein
                                                         <lb/>                                                            
                                                             Congreß, hier erschienen die
                                                         <lb/>                                                            
@@ -1077,8 +1060,7 @@
                                                             Maß-
                                                         <lb/>                                                            
                                                             stabe einzuführen; diese Concilien
-                                                        <lb/>(nämlich außer dem <rs ref="#konstanz" type="place">Constanzer</rs>                                                            
-                                                            , die
+                                                        <lb/>(nämlich außer dem <rs ref="#konstanz" type="place">Constanz</rs>er, die
                                                         <lb/>von <rs ref="#pisa" type="place">Pisa</rs>, <rs ref="#siena" type="place">Siena</rs>, <rs ref="#basel" type="place">Basel</rs>
                                                         <choice>
                                                             <expan>und</expan>
@@ -1135,14 +1117,10 @@
                                                         ßerer Kostenaufwand erforderlich
                                                     <lb/>                                                        
                                                         wäre. Er präcisire daher seinen
-                                                    <lb/>Antrag dahin, entweder <num>1</num>
-                                                    <hi rend="super">o</hi>                                                        
-                                                        die Acten
+                                                    <lb/>Antrag dahin, entweder <num>1</num><hi rend="super">o</hi> die Acten
                                                     <lb/>
-                                                    <hi>aller</hi> Concilien des <num>15</num>. Jahrhunderts;<lb/>oder <num>2</num>
-                                                    <hi rend="super">o</hi> doch zunächst die des <hi>
-                                                        <rs ref="#basel" type="place">Basler</rs>
-                                                    </hi>
+                                                    <hi>aller</hi> Concilien des <num>15</num>. Jahrhunderts;<lb/>oder <num>2</num><hi rend="super">o</hi> doch zunächst die des <hi>
+                                                        <rs ref="#basel" type="place">Basler</rs></hi>
                                                     <lb/>                                                        
                                                         Concils herauszugeben, die etwa
                                                     <lb/>nur <num>6</num>-<num>8</num>                                                        
@@ -1163,9 +1141,7 @@
                                                                 <am>.</am>
                                                             </abbr>
                                                         </choice>
-                                                        <hi>
-                                                            <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                                        </hi>                                                            
+                                                        <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>                                                            
                                                             stimmt zwar mit
                                                         <lb/>                                                            
                                                             Freuden diesem Antrage bei; wolle
@@ -1255,7 +1231,7 @@
                                                             werde durch Benützung der
                                                             Ar-
                                                         <lb/>chive von <rs ref="#brussel" type="place">Brüssel</rs>, <rs ref="#paris" type="place">Paris</rs>, <rs ref="#venedig" type="place">Venedig</rs>,<lb/>
-                                                        <rs ref="#simancas" type="place">Simanca's</rs>
+                                                        <rs ref="#simancas" type="place">Simanca</rs>'s
                                                         <choice>
                                                             <expan>und so weiter</expan>
                                                             <abbr>u<am>.</am> s<am>.</am> w<am>.</am>
@@ -1303,16 +1279,8 @@
                                                         </abbr>
                                                     </choice> einen <hi>Bei-<lb/>trag</hi> bestimmen zu wollen.</p>
                     <p facs="#facs_8_region_1578055616751_9" rendition="#f" xml:id="p27" xml:space="preserve">
-                                                        <lb/>Der <choice>
-                                                            <expan>Herr</expan>
-                                                            <abbr>
-                                                                Hr
-                                                                <am>.</am>
-                                                            </abbr>
-                                                        </choice>
-                                                        <hi>
-                                                            <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs>
-                                                        </hi>                                                            
+                                                        <lb/>Der <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
+                                                        <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi>                                                            
                                                             erklärt
                                                         <lb/>                                                            
                                                             sich mit beiden Vorschlägen
@@ -1330,14 +1298,14 @@ ungedruck-<lb/>ten Werke Kaisers <rs ref="#habsburg-maximilian-i-kaiser" type="p
                                                     <lb/>                                                        
                                                         vorzuschlagen, um durch
                                                         Dedica-
-                                                    <lb/>tion derselben an <choice>
+                                                    <lb/>tion derselben an <rs ref="#habsburg-lothringe-franz-joseph-i" type="person"><choice>
                                                         <expan>
-                                                            <rs ref="#habsburg-lothringe-franz-joseph-i" type="person">Seine</rs>
+                                                            Seine
                                                         </expan>
                                                         <abbr>S<hi rend="super">e</hi>
                                                     </abbr>
                                                 </choice>
-                                                <rs ref="#habsburg-lothringe-franz-joseph-i" type="person">Majestät</rs>
+                                                Majestät</rs>
                                                 <lb/>                                                    
                                                     den jetzt regierenden Kaiser, ein
                                                 <lb/>des erlauchten Hauses <rs ref="#habsburg-lothringe-franz-joseph-i" type="person">
@@ -1380,35 +1348,21 @@ Maje-<lb/>stät</rs>
                                                     <lb/>                                                        
                                                         in der Weise, daß der Herr
                                                     <lb/>
-                                                    <hi>
-                                                        <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs>
-                                                    </hi> ersucht werde, <choice>
+                                                    <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi> ersucht werde, <choice>
                                                         <expan>Herrn</expan>
                                                         <abbr>Hrn<am>.</am>
                                                     </abbr>
                                                 </choice>
                                                 <lb/>
-                                                <hi>
-                                                    <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                                </hi>                                                    
+                                                <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>                                                    
                                                     den erbetenen Urlaub
                                                 <lb/>sogleich auszuwirken, für <hi>jedes</hi>
                                                 <lb/>                                                    
                                                     dieser beiden Unternehmen
                                                     jähr-
                                                 <lb/>lich eine Summe von <num>1000</num>
-                                                <choice>
-                                                    <expan>Gulden</expan>
-                                                    <abbr>
-                                                        <choice>
-                                                            <abbr>fl<am>.</am>
-                                                        </abbr>
-                                                        <expan>Gulden</expan>
-                                                    </choice>
-                                                    <am>.</am>
-                                                </abbr>
-                                            </choice>
-                                            <choice>
+                                                <choice><expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice>
+                                                    <choice>
                                                 <expan>Conventionsmünze</expan>
                                                 <abbr>CM<am>.</am>
                                             </abbr>
@@ -1416,13 +1370,7 @@ Maje-<lb/>stät</rs>
                                         <lb/>                                            
                                             als Unterstützungsbeitrag
                                             be-
-                                        <lb/>willigt werde, und <choice>
-                                            <expan>Herr</expan>
-                                            <abbr>
-                                                Hr
-                                                <am>.</am>
-                                            </abbr>
-                                        </choice>
+                                        <lb/>willigt werde, und <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
                                         <rs ref="#chmel-joseph" type="person">Chmel</rs>
                                         <lb/>                                            
                                             beauftragt werde, nicht nur für
@@ -1438,10 +1386,7 @@ Maje-<lb/>stät</rs>
                                             <abbr>Hrn<am>.</am>
                                         </abbr>
                                     </choice>
-                                    <hi>
-                                        <rs ref="#palacky-franz" type="person">Palacky</rs>
-                                    </hi>                                        
-                                        , unter dessen
+                                    <hi><rs ref="#palacky-franz" type="person">Palacky</rs></hi>, unter dessen
                                     <lb/>                                        
                                         Mitberathung und Theilnahme und
                                     <lb/>vorzüglich mit Zuziehung des <choice>
@@ -1450,9 +1395,7 @@ Maje-<lb/>stät</rs>
                                     </abbr>
                                 </choice>
                                 <lb/>Scriptors <hi>
-                                    <rs ref="#birk-von-ernst" type="person">Birk</rs>
-                                </hi>                                    
-                                    , der namentlich
+                                    <rs ref="#birk-von-ernst" type="person">Birk</rs></hi>, der namentlich
                                 <lb/>für das <rs ref="#basel" type="place">Basler</rs>                                    
                                     Concil schon
                                 <lb/>                                    
@@ -1462,14 +1405,10 @@ Maje-<lb/>stät</rs>
                     <p facs="#facs_9_region_1578055641425_18" rendition="#f" xml:id="p30" xml:space="preserve">
                                     <lb/>Noch bittet <choice>
                                         <expan>Herr</expan>
-                                        <abbr>
-                                            Hr
-                                            <am>.</am>
-                                        </abbr>
+                                        <abbr>Hr<am>.</am></abbr>
                                     </choice>
                                     <hi>
-                                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                    </hi>                                        
+                                        <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>                                        
                                         ihm
                                     <lb/>bei der Redaction des "Archiv's"<lb/>                                        
                                         der historischen Commission die
@@ -1484,33 +1423,13 @@ Maje-<lb/>stät</rs>
                                     </abbr>
                                 </choice>
                                 <lb/>
-                                <hi>
-                                    <rs ref="#firnhaber-friedrich" type="person">Firnhaber</rs>
-                                </hi>                                    
-                                    vor, und ein Honorar
+                                <hi><rs ref="#firnhaber-friedrich" type="person">Firnhaber</rs></hi> vor, und ein Honorar
                                 <lb/>von <hi>
                                     <num>2</num>
-                                    <choice>
-                                        <expan>Gulden</expan>
-                                        <abbr>
-                                            <choice>
-                                                <abbr>fl<am>.</am>
-                                            </abbr>
-                                            <expan>Gulden</expan>
-                                        </choice>
-                                        <am>.</am>
-                                    </abbr>
-                                </choice>
+                                    <choice><expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice>
                                 <choice>
                                     <expan>Conventionsmünze</expan>
-                                    <abbr>CM<am>.</am>
-                                </abbr>
-                            </choice>
-                        </hi>
-                        <choice>
-                            <expan/>
-                            <abbr/>
-                        </choice> für den Druckbogen.</p>
+                                    <abbr>CM<am>.</am></abbr></choice></hi> für den Druckbogen.</p>
                     <p facs="#facs_9_region_1578055646613_21" rendition="#f" xml:id="p31" xml:space="preserve">
                             <lb/>                                
                                 Die Classe bewilligt dieses Gesuch
@@ -1519,8 +1438,7 @@ Maje-<lb/>stät</rs>
                                 <abbr>Hrn<am>.</am>
                             </abbr>
                         </choice>
-                        <rs ref="#ettingshausen-von-andreas" type="person">General-Secre-<lb/>tär</rs>                            
-                            , die Auszahlung des Honorar's
+                        <rs ref="#ettingshausen-von-andreas" type="person">General-Secre-<lb/>tär</rs>, die Auszahlung des Honorar's
                         <lb/>                            
                             für den Corrector aus der für das
                         <lb/>Archiv bestimmte Summe</p>
@@ -1532,12 +1450,8 @@ Maje-<lb/>stät</rs>
                     <p facs="#facs_10_region_1578055748443_30" rendition="#l" xml:id="p32" xml:space="preserve">
                             <lb/>erfolgen zu lassen.</p>
                     <p facs="#facs_10_region_1578055750881_33" rendition="#?37-63-100--416-1120" xml:id="p33" xml:space="preserve">
-                                <lb/>
-                                <rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
-                            </p>
-                    <p facs="#facs_10_region_1578055753225_36" rendition="#r" xml:id="p34" xml:space="preserve">
-                                <lb/>
-                                <rs ref="#wolf-ferdinand" type="person">FerdWolf</rs>
+                            <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
+                            <lb/><rs ref="#wolf-ferdinand" type="person">FerdWolf</rs>
                             </p>
                 </div>
             </div>
@@ -1560,7 +1474,8 @@ Maje-<lb/>stät</rs>
                                     <rs ref="#ritter-august-heinrich" type="person">Ritter</rs> (<num>13</num>)<lb/>
                                     <rs ref="#kerckhove-joseph-romain" type="person">Kerckhove</rs> (<num>10</num>)<lb/>
                                     <rs ref="#gerhard-eduard" type="person">Gerhard</rs> (<num>9</num>)<lb/>
-                                    <rs ref="#brandis-christian-august" type="person">Brandis</rs> (<num>9</num>)<lb/>Fuchs (<num>6</num>)<lb/>
+                                    <rs ref="#brandis-christian-august" type="person">Brandis</rs> (<num>9</num>)<lb/>
+                                    <rs type="person" ref="#fuchs-johann-nepomuk">Fuchs</rs> (<num>6</num>)<lb/>
                                     <rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs> (<num>5</num>)<lb/>
                                     <rs ref="#gachard-louis-prosper" type="person">Gachard</rs> (<num>5</num>)<lb/>
                                     <rs ref="#trendelenburg-friedrich-adolf" type="person">Trendelenburg</rs> (<num>5</num>)<lb/>
