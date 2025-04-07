@@ -16,6 +16,24 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="grosswardein">
+                   <placeName>Großwardein</placeName>
+                   <placeName type="alt">Oradea</placeName>
+                   <location>
+                       <geo>47.0458 21.91833</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/671768</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4253198-6</idno>
+               </place>
+               <place xml:id="kaschau">
+                   <placeName>Kaschau</placeName>
+                   <placeName type="alt">Košice</placeName>
+                   <location>
+                       <geo>48.71395 21.25808</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/724443</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/1028389-4</idno>
+               </place>
                <place xml:id="chennai">
                    <placeName>Cehnnai</placeName>
                    <placeName type="alt">Madras</placeName><location>
