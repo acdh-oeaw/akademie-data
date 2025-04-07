@@ -337,9 +337,10 @@
                                         <abbr>v<am>.</am>
                                         </abbr>
                                 </choice>
-                                    Kremer</rs> in <rs ref="#damaskus" type="place">Damaskus</rs> </p>
+                                    Kremer</rs> in <rs ref="#damaskus" type="place">Damaskus</rs> 
+                            <lb/>abgegangen.</p>
                     <p facs="#facs_1_region_1579602271895_165" rendition="#?17-82-99--440-2503" xml:id="p11" xml:space="preserve">
-                            <lb/>abgegangen.<lb/>Dient zur Wissenschaft.</p>
+                        <lb/>Dient zur Wissenschaft.</p>
                     <p facs="#facs_1_region_1579602322471_180" rendition="#?37-59-96--944-2432" xml:id="p12" xml:space="preserve">
                                 <lb/>(<num>963</num> u <num>1004</num>) <hi>b. <choice>
                                     <expan>und</expan>
@@ -538,12 +539,8 @@
             <expan>und</expan>
             <abbr>u</abbr>
         </choice> topographische Forschungen <choice>
-            <expan>et cetera</expan>
-            <abbr>etc<am>.</am>
-        </abbr>
-    </choice>" zur
-    <lb/>
-        Aufnahme in das "Archiv" der historische
+            <expan>et cetera</expan><abbr>etc<am>.</am></abbr></choice>" zur
+    <lb/>Aufnahme in das "Archiv" der historische
     <lb/>Commission empfiehlt.</p>
                     <p facs="#facs_3_region_1579684393483_77" rendition="#?15-84-100--233-1517" xml:id="p24" xml:space="preserve">
         <lb/>Der Aufsatz ist <choice>
@@ -572,10 +569,7 @@
     <lb/>
         Enns und Salzburgs nach der neuen
         poli-
-    <lb/>tischen Eintheilung der Akademie zum <choice>
-        <expan>An-</expan>
-        <abbr>An</abbr>
-    </choice>
+    <lb/>tischen Eintheilung der Akademie zum An-
     <lb/>kaufe angeboten um <num>300</num>
     <choice>
         <expan>Gulden</expan>
@@ -623,7 +617,7 @@
                     <p facs="#facs_4_region_1579686281381_387" rendition="#f" xml:id="p29" xml:space="preserve">
             <lb/>über die in <rs ref="#iraklio" type="place">Candia</rs> durch die <choice>
                 <expan>kaiserliche</expan>
-                <abbr>kaiserl</abbr>
+                <abbr>kaiserl<am>.</am></abbr>
             </choice>
             <lb/>Akademie zu erwerbenden alten <choice>
                 <expan>Mün-</expan>
@@ -682,10 +676,7 @@
             <expan>Signatur</expan>
             <abbr>Sig<am>.</am>
         </abbr>
-    </choice> M<am>.</am> aus dem <num>8</num>. <choice>
-        <expan>Jahrhundert</expan>
-        <abbr>Jahrhunde</abbr>
-    </choice>
+    </choice> M<am>.</am> aus dem <num>8</num>. Jahrhundert
     <lb/>
         mitgetheilt werde und erbietet
     <lb/>sich seiner Zeit darüber zu referiren.</p>
@@ -698,18 +689,16 @@
             <abbr>Hrn<am>.</am>
         </abbr>
     </choice>
-    <choice>
-        <expan>
-            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-        </expan>
-        <abbr>v<am>.</am>
-    </abbr>
-</choice>
-<rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-    gemäß
-<lb/>an den <rs ref="#nagnzaun-albert" type="person">Prälaten von</rs>
-<rs ref="#nagnzaun-albert" type="person">St</rs>. <rs ref="#nagnzaun-albert" type="person">Peter</rs>
-    in
+    <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+            <expan>
+                von
+            </expan>
+            <abbr>v<am>.</am>
+            </abbr>
+    </choice>
+        Karajan</rs>
+                        gemäß
+<lb/>an den <rs ref="#nagnzaun-albert" type="person">Prälat</rs>en von <choice><expan>Sankt</expan><abbr>St<am>.</am></abbr></choice> Peter in
 <lb/>
 <rs ref="#salzburg" type="place">Salzburg</rs> zu schreiben.</p>
                     <p facs="#facs_4_region_1579686330813_399" rendition="#f" xml:id="p33" xml:space="preserve">
