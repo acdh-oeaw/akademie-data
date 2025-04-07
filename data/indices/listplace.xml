@@ -16,6 +16,14 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="aggtelek">
+                   <placeName>Aggtelek</placeName>
+                   <location>
+                       <geo>48.46667 20.51667</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/723010</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4558461-8</idno>
+               </place>
                <place xml:id="grosswardein">
                    <placeName>Großwardein</placeName>
                    <placeName type="alt">Oradea</placeName>

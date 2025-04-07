@@ -17,6 +17,39 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="fuchs-johann-nepomuk">
+               <persName>
+                  <forename>Johann Nepomuk</forename>
+                  <nameLink>von (ab 1854)</nameLink>
+                  <surname>Fuchs</surname>
+               </persName>
+               <birth>
+                  <date when="1774-05-15">15.5.1774</date>
+                  <placeName>Mattenzell/Oberpfalz</placeName>
+               </birth>
+               <death>
+                  <date when="1856-03-05">05.03.1856</date>
+                  <placeName>München</placeName></death>
+               <occupation>Mineraloge</occupation>
+               <occupation>Cehmiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116843993</idno>
+            </person>
+            <person xml:id="gartner-anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Gärtner</surname>
+               </persName>
+               <birth>
+                  <date>um 1801</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1852-07-16">16.07.1852</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Hausinspektor/Bau-Inspektor am Polytechnischen Institut in Wien</occupation>
+               <occupation>Eheschließung am 7. Febr. 1836 in Wien/St. Joseph ob der Laimgrube</occupation>
+               <occupation>Tod gemäß Wiener Zeitung v. 21. Juli 1852, S. 2014</occupation></person>
             <person xml:id="theodosius">
                <persName>
                   <surname>Theodosius I.</surname>
@@ -417,8 +450,15 @@
                   <forename>Georg</forename>
                   <surname>Schmierer</surname>
                </persName>
-               <occupation>Hausinspektor am Polytechnischen Institut</occupation>
-            </person>
+               <birth>
+                  <date>um 1814</date>
+                  <placeName>Budapest</placeName>
+               </birth>
+               <death>
+               </death>
+               <occupation>Fortifikationsschanz-Korporal (anläßlich seiner Eheschließung am 23. Febr. 1841 in Wien/Feldsuperiorat)</occupation>
+               <occupation>Hausinspektor am Polytechnischen Institut (ab 1853)</occupation>
+               </person>
             <person xml:id="vetter-madgalena">
                <persName>
                   <forename>Magdalena</forename>
