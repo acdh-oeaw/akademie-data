@@ -17,6 +17,55 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="heinrich-v-von-England">
+               <persName>
+                  <surname>Heinrich V.</surname>
+                  <addName>König von England</addName>
+               </persName>
+               <birth>
+                  <date when="1386-09-16">16.09.1386</date>
+                  <placeName>Monmouth Castle/Wales</placeName>
+               </birth>
+               <death>
+                  <date when="1422-08-31">31.08.1422</date>
+                  <placeName>Schloss Vincennes</placeName>
+               </death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118548182</idno>
+            </person>
+            <person xml:id="wyclif-john">
+               <persName>
+                  <surname>Wyclif</surname>
+                  <forename>John</forename>
+               </persName>
+               <birth>
+                  <date>um 1330</date>
+                  <placeName>Hipswell/Yorkshire</placeName>
+               </birth>
+               <death>
+                  <date when="1384-12-31">31.12.1384</date>
+                  <placeName>Lutterworth</placeName>
+               </death>
+               <occupation>Philosoph</occupation>
+               <occupation>Theologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118632299</idno>
+            </person>
+            <person xml:id="sommer-leopold">
+               <persName>
+                  <surname>Sommer</surname>
+                  <forename>Leopold</forename>
+               </persName>
+               <birth>
+                  <date when="1812-10-15">15.10.1812</date>
+                  <placeName>Kleinzell/Niederösterreich</placeName>
+               </birth>
+               <death>
+                  <date when="1880-04-07">07.04.1880</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Buchdrucker</occupation>
+               <occupation>Papierfabrikant</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1035224607</idno>
+            </person>
             <person xml:id="fuchs-johann-nepomuk">
                <persName>
                   <forename>Johann Nepomuk</forename>
@@ -47,9 +96,12 @@
                   <date when="1852-07-16">16.07.1852</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation>Hausinspektor/Bau-Inspektor am Polytechnischen Institut in Wien</occupation>
-               <occupation>Eheschließung am 7. Febr. 1836 in Wien/St. Joseph ob der Laimgrube</occupation>
-               <occupation>Tod gemäß Wiener Zeitung v. 21. Juli 1852, S. 2014</occupation></person>
+               <occupation>Hausinspektor/Bau-Inspektor am Polytechnischen Institut in
+                  Wien</occupation>
+               <occupation>Eheschließung am 7. Febr. 1836 in Wien/St. Joseph ob der
+                  Laimgrube</occupation>
+               <occupation>Tod gemäß Wiener Zeitung v. 21. Juli 1852, S. 2014</occupation>
+            </person>
             <person xml:id="theodosius">
                <persName>
                   <surname>Theodosius I.</surname>
@@ -70,21 +122,21 @@
                   <surname>Zimmermann</surname>
                </persName>
                <occupation>Professor (1850)</occupation>
-               </person>
+            </person>
             <person xml:id="stiglich-vincenz">
                <persName>
                   <forename>Vincenz</forename>
                   <surname>Stiglich</surname>
                </persName>
                <occupation>Vize-Consul (1849), später Consul (1873) in Canea</occupation>
-               </person>
+            </person>
             <person xml:id="gromov-a-g">
                <persName>
                   <forename>A. G.</forename>
                   <surname>Gromov</surname>
                </persName>
                <occupation>Lehrer der russischen Sprache in Zvenigorod (1849)</occupation>
-               </person>
+            </person>
             <person xml:id="cassino-carl">
                <persName>
                   <forename>Carl</forename>
@@ -454,11 +506,11 @@
                   <date>um 1814</date>
                   <placeName>Budapest</placeName>
                </birth>
-               <death>
-               </death>
-               <occupation>Fortifikationsschanz-Korporal (anläßlich seiner Eheschließung am 23. Febr. 1841 in Wien/Feldsuperiorat)</occupation>
+               <death> </death>
+               <occupation>Fortifikationsschanz-Korporal (anläßlich seiner Eheschließung am 23.
+                  Febr. 1841 in Wien/Feldsuperiorat)</occupation>
                <occupation>Hausinspektor am Polytechnischen Institut (ab 1853)</occupation>
-               </person>
+            </person>
             <person xml:id="vetter-madgalena">
                <persName>
                   <forename>Magdalena</forename>
@@ -5836,10 +5888,15 @@
                   <surname>Blaze de Bury</surname>
                   <forename>Marie Pauline Rose</forename>
                </persName>
+               <birth>
+                  <date>1813</date>
+                  <placeName>Oban/Schottland</placeName>
+               </birth>
                <death>
                   <date when="1894-07-02">1894</date>
                </death>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49762/</idno>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116200960</idno>
                <idno type="paas">49762</idno>
             </person>
             <person xml:id="bolzano-bernhard">
@@ -6731,9 +6788,10 @@
                </persName>
                <birth>
                   <date when="1815-09-21">21.09.1815</date>
-               </birth>
+                  <placeName>Padua</placeName></birth>
                <death>
                   <date when="1888-07-23">23.07.1888</date>
+                  <placeName>Wien-Mauer</placeName>
                </death>
                <occupation code="#3656" scheme="#apis_vocabularies/professiontype/"
                   >Geograf</occupation>
@@ -6752,9 +6810,11 @@
                </persName>
                <birth>
                   <date when="1759-11-10">10.11.1759</date>
+                  <placeName>Marbach am Neckar</placeName>
                </birth>
                <death>
                   <date when="1805-05-09">09.05.1805</date>
+                  <placeName>Weimar</placeName>
                </death>
                <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
                   >Hochschullehrer</occupation>
@@ -7835,7 +7895,7 @@
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50588/</idno>
                <idno type="paas">50588</idno>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1156042089</idno>
-               </person>
+            </person>
             <person xml:id="dollinger-johann">
                <persName>
                   <surname>Döllinger</surname>
@@ -8419,7 +8479,7 @@
                <occupation>Beamter der niederösterreichischen Landstände (1849)</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51298/</idno>
                <idno type="paas">51298</idno>
-              </person>
+            </person>
             <person xml:id="buchner-andreas">
                <persName>
                   <surname>Buchner</surname>
@@ -11648,6 +11708,17 @@
                   <nameLink>von</nameLink>
                   <forename>Johannes</forename>
                </persName>
+               <birth>
+                  <date>1395/96</date>
+                  <placeName>Republik Ragusa</placeName>
+               </birth>
+               <death>
+                  <date when="1443-08-28">28.08.1443</date>
+                  <placeName>Lausanne</placeName>
+               </death>
+               <occupation>Dominkaner</occupation>
+               <occupation>Generalsekretär des Basler Konzils</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119443937</idno>
             </person>
             <person xml:id="lazar-wolfgang">
                <persName>
@@ -11669,6 +11740,7 @@
                </birth>
                <death>
                   <date when="1897-07-30">30.07.1897</date>
+                  <placeName>Wien</placeName>
                </death>
                <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
                   >Politiker</occupation>
