@@ -16,6 +16,38 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="bregenz">
+                   <placeName>Bregenz</placeName>
+                   <location>
+                       <geo>47.50311 9.7471</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2781503</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008099-7</idno>
+               </place>
+               <place xml:id="rankweil">
+                   <placeName>Rankweil</placeName>
+                  <location>
+                      <geo>47.27108 9.64308</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2767974</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4291150-3</idno>
+               </place>
+               <place xml:id="schruns">
+                   <placeName>Schruns</placeName>
+                  <location>
+                      <geo>47.08028 9.91917</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2765581</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4279133-9</idno>
+               </place>
+               <place xml:id="chur">
+                   <placeName>Chur</placeName>
+                   <location>
+                       <geo>46.84986 9.53287</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2661169</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4010189-7</idno>
+               </place>
                <place xml:id="aggtelek">
                    <placeName>Aggtelek</placeName>
                    <location>
