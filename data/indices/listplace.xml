@@ -16,6 +16,22 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="madain-salih">
+                   <placeName>Madāin Ṣāliḥ</placeName>
+                  <location>
+                       <geo>26.8061 37.95512</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/104645</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4367221-8</idno>
+               </place>
+               <place xml:id="millstatt">
+                   <placeName>Millstatt</placeName>
+                   <location>
+                       <geo>46.80417 13.58056</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2760380</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4039376-8</idno>
+               </place>
                <place xml:id="bregenz">
                    <placeName>Bregenz</placeName>
                    <location>
