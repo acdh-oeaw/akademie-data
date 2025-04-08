@@ -320,12 +320,12 @@
 <lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
 <lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
 <lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs ref="#springer-johann" type="person">Springer</rs>
-<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <choice><expan><rs ref="#karajan-von-theodor-georg" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>, als Stellvertreter
+<lb/><choice><expan>Herr</expan><abbr><am>"</am></abbr></choice> <rs type="person" ref="#karajan-von-theodor-georg"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Karajan</rs>, als Stellvertreter
 <lb/>des Secretärs.</p>
                     <p facs="#facs_1_region_1575618015214_21" rendition="#r" xml:id="p8" xml:space="preserve">
 <lb/>Mehrere Gäste. </p>
                     <p facs="#facs_1_region_1575618024419_24" rendition="#?46-54-100--1157-2498" xml:id="p9" xml:space="preserve">
-<lb/><choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <choice><expan><rs ref="#karajan-von-theodor-georg" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs> liest das
+<lb/><choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs type="person" ref="#karajan-von-theodor-georg"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Karajan</rs> liest das
 Pro-<lb/>tokoll der letzten Sitzung von <num>9</num><hi rend="super">ten</hi>
 <lb/>Jänner <num>1850</num>.</p>
                     <p facs="#facs_1_region_1575618027747_27" rendition="#r" xml:id="p10" xml:space="preserve">
@@ -356,7 +356,7 @@ Pro-<lb/>tokoll der letzten Sitzung von <num>9</num><hi rend="super">ten</hi>
 <lb/>Benützung in ihren Veröffentlichungen.</p>
                     <p facs="#facs_2_region_1575618088115_54" rendition="#f" xml:id="p17" xml:space="preserve">
 <lb/>(<num>65</num>) c. Ein Schreiben des Reisenden
-<lb/>Alfred <choice><expan><rs ref="#kremer-alfred" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#kremer-alfred" type="person">Kremer</rs>, sine dato, aber
+<lb/>Alfred <rs type="person" ref="#kremer-alfred"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Kremer</rs>, sine dato, aber
 <lb/>wie der Inhalt lehrt aus
 <rs ref="#damaskus" type="place">Damas-<lb/>cus</rs>, womit derselbe anzeigt, daß ihm
 <lb/>trotz eines von <rs ref="#konstantinopel" type="place">Constantinopel</rs>
@@ -399,7 +399,7 @@ bibliographi-<lb/>schen Hinsicht. Soll schon eine
 <lb/>Entdeckungsreise unternommen
 <lb/>werden, so scheine ihm eine Reise
 <lb/>mit der Dscherde-Karawane
-<lb/>zu den Grotten von Medain-<lb/>Ssalich mit den zahlreichen
+<lb/>zu den Grotten von <rs type="place" ref="#madain-salih">Medain-<lb/>Ssalich</rs> mit den zahlreichen
 In-<lb/>schriften, die noch von keinem
 <lb/>europäischen Reisenden besucht
 <lb/>worden seien, vorzuziehen. Er
@@ -492,7 +492,9 @@ eigen-<lb/>mächtig nicht habe gestatten
 <lb/>treffen sondern sich vorerst
 <lb/>auch mit der anderen Classe
 <lb/>in Einvernehmen setzen zu
-<lb/>wollen.<lb/>g. Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs></p>
+<lb/>wollen.</p>
+<p facs="#facs_6_region_1575618198777_96" rendition="#f" xml:id="p58" xml:space="preserve">
+                        <lb/>g. Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs></p>
                 </div>
             </div>
             <div n="6" type="page" xml:id="d11">
@@ -513,7 +515,7 @@ histo-<lb/>rischen Commission
 heraus-<lb/>gegebenen "Archive"  für
 <lb/>geeignet.</p>
                     <p facs="#facs_6_region_1575618206950_99" rendition="#f" xml:id="p29" xml:space="preserve">
-<lb/><choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <choice><expan><rs ref="#karajan-von-theodor-georg" type="person">von</rs></expan><abbr>v<am>.</am></abbr></choice> <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs> entgegnet,<lb/>daß sich nach seiner Ansicht
+<lb/><choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs type="person" ref="#karajan-von-theodor-georg"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Karajan</rs> entgegnet,<lb/>daß sich nach seiner Ansicht
 <lb/>für dieses mehr Belege und
 <lb/>Quellen für die vaterländische
 <lb/>Geschichte eigneten, worauf Frei-<lb/>herr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
