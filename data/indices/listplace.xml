@@ -16,6 +16,23 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="wels">
+                   <placeName>Wels</placeName>
+                   <placeName type="alt">Ovilaba</placeName>
+                   <location>
+                       <geo>48.16667 14.03333</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/2761524</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4107955-3</idno>
+               </place>
+               <place xml:id="lauriacum">
+                   <placeName>[Enns-]Lorch</placeName>
+                   <location>
+                       <geo>48.21846 14.46656</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/12172709</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4099801-0</idno>
+               </place>
                <place xml:id="madain-salih">
                    <placeName>Madāin Ṣāliḥ</placeName>
                   <location>
