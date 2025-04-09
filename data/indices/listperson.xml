@@ -17,6 +17,37 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="victorin-anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Victorin</surname>
+               </persName>
+               <occupation>Professor für Philosophie an der k.k. philosophischen Lehranstalt in Görz (1848)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1157460461</idno>
+            </person>
+            <person xml:id="Calpurnius-titus">
+               <persName>
+                  <forename>Titus</forename>
+                  <surname>Calpurnius Siculus</surname>
+               </persName>
+               <occupation>römischer Dichter im 1. Jahrhundert n. Chr.</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118675370</idno>
+            </person>
+            <person xml:id="wassaf">
+               <persName>
+                  <surname>Waṣṣāf al-Ḥaḍrat, Abdallāh Ibn-Faḍlallāh </surname>
+                  </persName>
+               <birth>
+                  <date>1265</date>
+                  <placeName>Shiraz</placeName>
+               </birth>
+               <death>
+                  <date>1328</date>
+                  </death>
+               <occupation>persischer Geschichtsschreiber</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/133512622</idno>
+            </person>
             <person xml:id="heinrich-v-von-England">
                <persName>
                   <surname>Heinrich V.</surname>
@@ -8637,17 +8668,19 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/139519181</idno>
                <idno type="paas">51346</idno>
             </person>
-            <person xml:id="von-alexandria-philon">
+            <person xml:id="philon-von-alexandria">
                <persName>
                   <surname>von Alexandria</surname>
                   <forename>Philon</forename>
                </persName>
+               <birth>
+                  <date>20-10 v. Chr.</date>
+               </birth>
                <death>
-                  <date when="0040-07-01">0040</date>
+                  <date> zwischen 40 und 50 n. Chr.</date>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51360/</idno>
-               <idno type="paas">51360</idno>
-            </person>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118594001</idno>
+                           </person>
             <person xml:id="habsburg-karl-v">
                <persName>
                   <surname>Habsburg</surname>
