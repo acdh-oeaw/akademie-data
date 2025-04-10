@@ -420,7 +420,7 @@ Kaiserliche Akademie der Wissenschaften
                             <rs ref="#hammer-purgstall-von-joseph" type="person">
 Hammer-Purgstall</rs>
                         </p>
-                    <p facs="#facs_1_region_1511942077462_37" rendition="#fc" xml:id="p8" xml:space="preserve">
+                    <p facs="#facs_1_region_1511942077462_37" rendition="#f" xml:id="p8" xml:space="preserve">
                             <lb/>
                             <hi>Anwesende</hi>
                         </p>
@@ -554,12 +554,12 @@ Präsident</rs>
                                 <lb/>sten Herrn <rs ref="#habsburg-lothringen-johann" type="person">Curator</rs> ergangenen hohen Erlaß vom <num>12</num>. November <num>1847</num>
                                 <lb/>                                    
                                     worin
-                                <choice>
-                                    <expan>Seine kaiserliche Hoheit</expan>
-                                    <abbr>S<am>.</am> k<am>.</am> H<am>.</am>
-                                </abbr>
-                            </choice>
-                                sich bewogen gefunden, den von der
+                                <rs type="person" ref="#habsburg-ferdinand-i-kaiser"><choice>
+                                        <expan>Seine kaiserliche Hoheit</expan>
+                                        <abbr>S<am>.</am> k<am>.</am> H<am>.</am>
+                                        </abbr>
+                                </choice></rs>
+                        sich bewogen gefunden, den von der
                             <choice>
                                 <expan>                                    
                                     kaiserlichen
@@ -618,7 +618,7 @@ Präsident</rs>
                 <pb facs="#facs_2" n="2" xml:id="pag2"/>
                 <div xml:id="d4">
                     <p facs="#facs_2_region_1511942219500_47" rendition="#f" xml:id="p14" xml:space="preserve">
-                                <lb/>"Uiber die Länderverwaltung unter dem Chalifate" Gesagt <hi>Wassaf's</hi> Geschichte
+                                <lb/>"Uiber die Länderverwaltung unter dem Chalifate" Gesagt <hi><rs type="person" ref="#wassaf">Wassaf</rs>'s</hi> Geschichte
                                 <lb/>der Nachkommen Dschengischan's" vor, und behält sich vor, in einer der fol-
                                 <lb/>genden Sitzungen einen ausführlicheren Bericht über die Art und Weise der
                                 <lb/>Herausgabe zu erstatten.</p>
@@ -648,16 +648,15 @@ Präsident</rs>
                                     <lb/>ins Einzelne gehende Pläne dazu vorgelegt werden, und was insbesondere
                                     <lb/>die Herausgabe von Werken betrifft, so müsse sie sich immer auf den genau-
                                     <lb/>en Bericht und das Gutachten einer eigens dafür bestimmte Commission
-                                    <lb/>stützen können. Herr <rs ref="#munch-bellinghausen-eligius" type="person">    
-                                        <choice><expan><hi>Baron</hi></expan><abbr>B<hi rend="super">ron</hi></abbr></choice>                                
-                                        von Münch</rs> stimmt der Ansicht des Herrn <rs ref="#endlicher-stephan" type="person">Endlicher</rs>
+                                    <lb/>stützen können. Herr <choice><expan><hi>Baron</hi></expan><abbr>B<hi rend="super">ron</hi></abbr></choice>                                
+                                        <rs type="person" ref="#munch-bellinghausen-eligius">von Münch</rs> stimmt der Ansicht des Herrn <rs ref="#endlicher-stephan" type="person">Endlicher</rs>
                                     <lb/>bei, und wünscht, die Classe möge vor allen sich mit solchen Vorschlägen zu ge-
                                     <lb/>meinsamen historischen oder philologischen Arbeiten beschäftigen.</p>
                     <p facs="#facs_2_region_1511942154307_43" rendition="#?12-88-100--291-2384" xml:id="p17" xml:space="preserve">
                                     <lb/>Hierauf legt der <rs ref="#wolf-ferdinand" type="person">Sekretair</rs> von den an die Akademie eingesen-
                                     <lb/>deten Werken jene vor, die in den Bereich der historisch philolo-
                                     <lb/>gischen Classe fallen [siehe Beilage]; endlich theilt der <rs ref="#wolf-ferdinand" type="person">Secretair</rs> ein an den Herrn
-                                    <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs> gerichtetes Schreiben des Herrn <hi>Alphonse 
+                                    <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs>en gerichtetes Schreiben des Herrn <hi>Alphonse 
                                         <rs ref="#jobard-jean-baptiste-ambroise-marcellin" type="person">Jobard</rs></hi>, 
                                         <choice><expan>Professor</expan><abbr>Profess<am>.</am></abbr></choice>
                                     <lb/>der französischen Sprache bei der <choice><expan>königlich</expan><abbr>kön<am>.</am></abbr></choice>
@@ -667,7 +666,7 @@ Präsident</rs>
                                     <lb/>Sprache" vorlegen zu dürfen, um sie zu begutachten.
                                     <lb/>Auf den Antrag des <rs ref="#wolf-ferdinand" type="person">Secretair</rs>s beschließt die Classe, die überreichten
                                     <lb/>Werke anzunehmen und den Einsendern ihren Dank dafür auszudrücken.
-                                    <lb/>Ferner überträgt sie auf den Wunsch des <choice><expan>Cavaliere</expan><abbr>Cav<am>.</am></abbr></choice> Blanos eingehend, die Be-</p>
+                                    <lb/>Ferner überträgt sie auf den Wunsch des <choice><expan>Cavaliere</expan><abbr>Cav<am>.</am></abbr></choice> <rs type="person" ref="#blanco-lorenzo">Blanos</rs> eingehend, die Be-</p>
                 </div>
             </div>
             <div n="3" type="page" xml:id="d5">
@@ -688,7 +687,7 @@ Präsident</rs>
                     <lb/>Mitglieder der Akademie, sehr zweckmäßig wäre, ein paar Zimmer
                     <lb/>in der Stadt auf Kosten der Akademie zu miethen.</p>
                     <p facs="#facs_3_region_1511942254272_50" rendition="#f" xml:id="p20" xml:space="preserve">
-                        <lb/>Herr <hi>Baron<rs ref="#munch-bellinghausen-eligius" type="person"> von Münch</rs></hi> erbietet sich, im Falle ein solches Locale in der Nähe der
+                        <lb/>Herr <hi>Baron <rs ref="#munch-bellinghausen-eligius" type="person">von Münch</rs></hi> erbietet sich, im Falle ein solches Locale in der Nähe der
                     <lb/>Hofbibliothek gemiethet werde, um die Erlaubniß einzuschreiten, die von der Hof-
                     <lb/>bibliothek gehaltenen Journals der Akademie unter ihrer Dafürhaftung mit-
                     <lb/>theilen zu dürfen, um sie durch einige Zeit im Journalzimmer aufliegen zu lassen.
@@ -710,35 +709,10 @@ Präsident</rs>
                     Der Herr
                 <hi>
                     <rs ref="#hammer-purgstall-von-joseph" type="person">                        
-                        Präsident
-                    </rs>
-                </hi> verwehrt sich gegen diesen Antrag und behält sich vor, an <choice>
-                    <expan>                        
-                        Seine
-                    </expan>
-                    <abbr>                        
-                        S
-                    <am>.</am>
-                </abbr>
-            </choice>
-            <choice>
-                <expan>                    
-                    Kaiserliche
-                </expan>
-                <abbr>                    
-                    k
-                <am>.</am>
-            </abbr>
-        </choice>
-        <choice>
-            <expan>                
-                Hoheit
-            </expan>
-            <abbr>                
-                H
-            <am>.</am>
-        </abbr>
-    </choice>
+                        Präsident</rs></hi> verwehrt sich gegen diesen Antrag und behält sich vor, an 
+                       <choice><expan>Seine</expan><abbr>S<am>.</am></abbr></choice>
+                       <choice><expan>Kaiserliche</expan><abbr>k<am>.</am></abbr></choice>
+                       <choice><expan>Hoheit</expan><abbr>H<am>.</am></abbr></choice>
     <lb/>        
         den Herrn
     <rs ref="#habsburg-lothringen-johann" type="person">
@@ -747,12 +721,7 @@ Curator</rs>
     </p>
                     <p facs="#facs_3_region_1511942274505_53" rendition="#?10-89-98--224-2304" xml:id="p23" xml:space="preserve">
         <lb/>            
-            Hierauf hält Herr
-        <hi>
-            <rs ref="#chmel-joseph" type="person">                
-                Chmel
-            </rs>
-        </hi>
+            Hierauf hält Herr <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
             einen Vortrag, worin er Vorschläge zu Arbeiten
         <lb/>            
             für die historische Classe macht; und zwar zur Ausarbeitung einer
@@ -766,19 +735,13 @@ Curator</rs>
                     <p facs="#facs_3_region_1511942298764_55" rendition="#f" xml:id="p24" xml:space="preserve">
             <lb/>                
                 Indem Herr
-            <hi>
-                <rs ref="#endlicher-stephan" type="person">                    
-                    Endlicher
-                </rs>
-            </hi> dem allgemeinen Beifall, womit Herrn <rs ref="#chmel-joseph" type="person">
-Chmel's</rs>                
+            <hi><rs ref="#endlicher-stephan" type="person">Endlicher</rs></hi> dem allgemeinen Beifall, womit Herrn <rs ref="#chmel-joseph" type="person">Chmel</rs>'s                
                 Vor-
             <lb/>
                 trag aufgenommen wurde, zustimmt, glaubt er jedoch bemerken zu müssen,
             <lb/>                
                 daß – so wünschenswerth auch die Ausführung
-            <hi>aller</hi> vom Herrn <rs ref="#chmel-joseph" type="person">
-Chmel</rs>                
+            <hi>aller</hi> vom Herrn <rs ref="#chmel-joseph" type="person">Chmel</rs>                
                 ge-
             <lb/>
                 machten Vorschläge sei – doch dazu die Mittel und Kräfte der Akademie für jetzt
@@ -809,47 +772,20 @@ Chmel</rs>
                     <p facs="#facs_4_region_1511942360528_62" rendition="#f" xml:id="p26" xml:space="preserve">
                     <lb/>                        
                         Herr
-                    <hi>Baron<rs ref="#munch-bellinghausen-eligius" type="person">                        
-                        von Münch
-                    </rs>
-                </hi> schließt sich umsomehr dem <hi>beschränkenden</hi>
+                    <hi>Baron <rs ref="#munch-bellinghausen-eligius" type="person">von Münch</rs></hi> schließt sich umsomehr dem <hi>beschränkenden</hi>
                     Antrag des Herrn
                 <lb/>
                 <rs ref="#endlicher-stephan" type="person">
 Endlicher</rs> an, als einer von Herrn <rs ref="#chmel-joseph" type="person">
-Chmel's</rs> Plänen, <hi>der</hi>
-                    eine Bibliotheca
-                    austri-
+Chmel</rs>'s Plänen, <hi>der</hi> eine Bibliotheca austri-
                 <lb/>
                     aca zu unternehmen, eine hinlänglich breite Basis bekäme, ja mehr als zur
                 <lb/>                    
                     Hälfte schon ausgeführt wäre, wenn zu den von
-                <choice>
-                    <expan>
-                        <rs ref="#habsburg-lothringen-ferdinand" type="person">                            
-                            Seiner
-                            Majestät
-                        </rs>
-                    </expan>
-                    <abbr>                        
-                        S
-                    <hi rend="super">er</hi>
-                </abbr>
-            </choice>
-                schon vor geraumer
+                <rs type="person" ref="#habsburg-ferdinand-i-kaiser"><choice><expan>Seiner</expan><abbr>S<hi rend="super">er</hi></abbr></choice> Majestät</rs> schon vor geraumer
             <lb/>                
                 Zeit bewilligten an der
-            <choice>
-                <expan>                    
-                    kaiserlich-königlichen
-                </expan>
-                <abbr>                    
-                    k
-                <am>.</am>
-                    k
-                <am>.</am>
-            </abbr>
-        </choice>
+            <choice><expan>kaiserlich-königlichen</expan><abbr>k<am>.</am> k<am>.</am></abbr></choice>
             Hofbibliothek vorzunehmenden außerordentlichen
         <lb/>            
             Arbeiten, worunter eben auch die Ausarbeitung eines allgemeinen
@@ -863,11 +799,7 @@ Chmel's</rs> Plänen, <hi>der</hi>
                     <p facs="#facs_4_region_1511942344303_60" rendition="#f" xml:id="p27" xml:space="preserve">
             <lb/>                
                 Auch Herr
-            <hi>
-                <rs ref="#chmel-joseph" type="person">                    
-                    Chmel
-                </rs>
-            </hi>
+            <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
                 erklärt sich zufrieden mit dieser Beschränkung; nur wünscht er
             <lb/>                
                 dann, daß ein etwa mit den Monatsberichten der Akademie zu verbindendes,
@@ -883,29 +815,12 @@ Chmel's</rs> Plänen, <hi>der</hi>
                 henden Nachrichten von den Fortschritten und Resultaten dieser Arbeit, Auszüge
             <lb/>                
                 aus der damit verbundenen Correspondenz,
-            <choice>
-                <expan>                    
-                    und so weiter
-                </expan>
-                <abbr>                    
-                    u
-                <am>.</am>
-                    s
-                <am>.</am>
-                    w
-                <am>.</am>
-            </abbr>
-        </choice>
-            gegeben würden.
+            <choice><expan>und so weiter</expan><abbr>u<am>.</am>s<am>.</am>w<am>.</am></abbr></choice> gegeben würden.
         </p>
                     <p facs="#facs_4_region_1511942335395_59" rendition="#?12-88-99--278-2374" xml:id="p28" xml:space="preserve">
             <lb/>                
                 Die Classe beschließt, vorerst sich nur mit den von Herrn
-            <hi>
-                <rs ref="#endlicher-stephan" type="person">                    
-                    Endlicher
-                </rs>
-            </hi>
+            <hi><rs ref="#endlicher-stephan" type="person">Endlicher</rs></hi>
             <lb/>                
                 vorgeschlagenen Arbeiten zu beschäftigen und ernennt zur
                 Ausarbei-
@@ -913,30 +828,15 @@ Chmel's</rs> Plänen, <hi>der</hi>
                 bestehend aus
             <lb/>                
                 den Herrn
-            <hi>
-                <rs ref="#chmel-joseph" type="person">                    
-                    Chmel
-                </rs>
-            </hi>, <hi>
+            <hi><rs ref="#chmel-joseph" type="person">Chmel</rs></hi>, <hi>
                 <rs ref="#endlicher-stephan" type="person">                    
-                    Endlicher
-                </rs>
-            </hi>, <choice>
+                    Endlicher</rs></hi>, <choice>
                 <expan>
-                    <hi>
-                        Baron
-                    </hi>
+                    <hi>Baron</hi>
                 </expan>
-                <abbr>                    
-                    B
-                <hi rend="super">ron</hi>
-            </abbr>
-        </choice>
-        <rs ref="#munch-bellinghausen-eligius" type="person">
-von Münch_</rs> und dem <rs ref="#wolf-ferdinand" type="person">
-            <hi>Secretair</hi>
-        </rs>
-            .
+                <abbr>B<hi rend="super">ron</hi></abbr></choice>
+        <rs ref="#munch-bellinghausen-eligius" type="person">von Münch_</rs> und dem <rs ref="#wolf-ferdinand" type="person">
+            <hi>Secretair</hi></rs>.
         <lb/>            
             Zugleich beauftragt sie diese Commission, einen ausführlicheren
         <lb/>            
@@ -951,50 +851,17 @@ Chmel</rs>
             det werden könne.
         </p>
                     <p facs="#facs_4_region_1511942323835_57" rendition="#r" xml:id="p29" xml:space="preserve">
-            <lb/>
-            <rs ref="#hammer-purgstall-von-joseph" type="person">
-Hammer-Purgstall</rs>
-        </p>
-                    <p facs="#facs_4_region_1511942326690_58" rendition="#rc" xml:id="p30" xml:space="preserve">
-            <lb/>
-            <rs ref="#wolf-ferdinand" type="person">
-Ferd.
-Wolf</rs>
+            <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
+            <lb/><rs ref="#wolf-ferdinand" type="person">Ferd. Wolf</rs>
         </p>
                     <p facs="#facs_4_region_1511942376519_63" rendition="#lc" xml:id="p31" xml:space="preserve">
-            <lb/>
-            <rs ref="#grillparzer-franz" type="person">
-Grillparzer</rs>
-        </p>
-                    <p facs="#facs_4_region_1511942378952_64" rendition="#lc" xml:id="p32" xml:space="preserve">
-            <lb/>
-            <rs ref="#chmel-joseph" type="person">
-Chmel</rs>
-        </p>
-                    <p facs="#facs_4_region_1511942381917_65" rendition="#lc" xml:id="p33" xml:space="preserve">
-            <lb/>
-            <rs ref="#munch-bellinghausen-eligius" type="person">
-JosephvMünch</rs>
-        </p>
-                    <p facs="#facs_4_region_1511942385083_66" rendition="#lc" xml:id="p34" xml:space="preserve">
-            <lb/>
-            <rs ref="#endlicher-stephan" type="person">
-Endlicher</rs>
-        </p>
-                    <p facs="#facs_4_region_1511942388172_67" rendition="#lc" xml:id="p35" xml:space="preserve">
-            <lb/>
-            <rs ref="#auer-welsbach-von-alois" type="person">
-Auer</rs>
-        </p>
-                    <p facs="#facs_4_region_1511942392385_68" rendition="#lc" xml:id="p36" xml:space="preserve">
-            <lb/>
-            <rs ref="#arneth-joseph-calasanz" type="person">
-Jos. Arneth</rs>
-        </p>
-                    <p facs="#facs_4_region_1511942395832_69" rendition="#lc" xml:id="p37" xml:space="preserve">
-            <lb/>
-            <rs ref="#hugel-karl-alexander" type="person">
-CAHügel</rs>
+            <lb/><rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
+            <lb/><rs ref="#chmel-joseph" type="person">Chmel</rs>
+            <lb/><rs ref="#munch-bellinghausen-eligius" type="person">JosephvMünch</rs>
+            <lb/><rs ref="#endlicher-stephan" type="person">Endlicher</rs>
+            <lb/><rs ref="#auer-welsbach-von-alois" type="person">Auer</rs>
+            <lb/><rs ref="#arneth-joseph-calasanz" type="person">Jos. Arneth</rs>
+            <lb/><rs ref="#hugel-karl-alexander" type="person">CAHügel</rs>
         </p>
                 </div>
             </div>
@@ -1031,11 +898,7 @@ CAHügel</rs>
                     <p facs="#facs_5_region_1511942424444_72" rendition="#fc" xml:id="p41" xml:space="preserve">
                 <lb/>
                 <hi>Verzeichniss</hi>
-            </p>
-                    <p facs="#facs_5_region_1511942427674_73" rendition="#fc" xml:id="p42" xml:space="preserve">
-                <lb/>
-                <hi>der eingesendeten Werke</hi>
-            </p>
+                <lb/><hi>der eingesendeten Werke</hi></p>
                     <p facs="#facs_5_region_1511942434897_74" rendition="#f" xml:id="p43" xml:space="preserve">
                 <lb/>                    
                     Von dem wirklichen auswärtigen Mitgliede der Akademie
@@ -1043,10 +906,7 @@ CAHügel</rs>
                     <expan>                        
                         Seiner
                     </expan>
-                    <abbr>                        
-                        S
-                    <hi rend="super">r</hi>
-                </abbr>
+                    <abbr>S<hi rend="super">r</hi></abbr>
             </choice>
             <choice>
                 <expan>                    
@@ -1071,8 +931,7 @@ CAHügel</rs>
             <lb/>der <choice><expan>kaiserlich-königlichen</expan><abbr>k<am>.</am>k<am>.</am></abbr></choice> geheimen Haus-Hof-und Staatskanzley, von dem
             <lb/>Herausgeber Herrn <rs ref="#typaldos-kozakis-georgios" type="person">Typaldos</rs>. (N<hi rend="super">ro</hi> <num>18</num>)</p>
                     <p facs="#facs_5_region_1511942461590_76" rendition="#fc" xml:id="p45" xml:space="preserve">
-            <lb/>Von dem Chevalier <hi><rs ref="#paravey-charles-hippolyte" type="person">Paravey</rs></hi> folgende Abhandlungen:</p>
-                    <p facs="#facs_5_region_1511942478142_77" rendition="#?15-85-100--382-2516" xml:id="p46" xml:space="preserve">
+            <lb/>Von dem Chevalier <hi><rs ref="#paravey-charles-hippolyte" type="person">Paravey</rs></hi> folgende Abhandlungen:
             <lb/>a <rs ref="#mossul" type="place">Ninivé</rs> et Babylone expliquées dans leurs écritures et leurs mo-
         <lb/>
             numents par les livres emportés en Chine etc.
@@ -1107,11 +966,7 @@ CAHügel</rs>
             <lb/>                
                 p. Dissertation sur les Amazones dont le souvenir est con
             <lb/>                
-                servé en Chine. (N
-            <hi rend="super">ro</hi>
-            <num>40</num>
-                )
-            </p>
+                servé en Chine. (N<hi rend="super">ro</hi> <num>40</num>)</p>
                     <p facs="#facs_6_region_1511942680622_85" rendition="#l" xml:id="p48" xml:space="preserve">
                 <lb/>Von Herrn 
                 <hi><rs ref="#lowenstern-isidor-e" type="person">Löwenstern</rs></hi></p>
@@ -1129,21 +984,13 @@ CAHügel</rs>
                         <lb/>Yahya El-Nawawi. Part VIII. <rs ref="#gottingen" type="place">Göttingen</rs>, <num>1845</num>. (N<hi rend="super">ro</hi> <num>15</num>)</p>
                     <p facs="#facs_6_region_1511942700965_89" rendition="#l" xml:id="p52" xml:space="preserve">
                             <lb/>                                
-                                Von dem Präsidenten
-                            <hi>
-                                <rs ref="#fenicia-salvatore" type="person">Fenicia</rs>
-                            </hi>
-                                :
-                            </p>
-                    <p facs="#facs_6_region_1511942706596_90" rendition="#f" xml:id="p53" xml:space="preserve">
-                                <lb/>                                    
+                                Von dem Präsidenten <hi><rs ref="#fenicia-salvatore" type="person">Fenicia</rs></hi>:
+                            <lb/>                                    
                                     a. Canto sopra
                                 <rs ref="#venedig" type="place">Venezia</rs>. <rs ref="#bari" type="place">Bari</rs>, <num>1847</num>
                                 <lb/>                                    
                                     b Diana la gatta, Memoria archeologica.
-                                <rs ref="#bari" type="place">Bari</rs>, <num>1847</num> (N<hi rend="super">ro</hi>
-                                <num>11</num>
-                                    )
+                                <rs ref="#bari" type="place">Bari</rs>, <num>1847</num> (N<hi rend="super">ro</hi> <num>11</num>)
                                 </p>
                     <p facs="#facs_6_region_1511942715629_91" rendition="#l" xml:id="p54" xml:space="preserve">
                                     <lb/>                                        
@@ -1165,10 +1012,7 @@ CAHügel</rs>
                         </choice>
                         <hi>
                             <rs ref="#nyssen-jean-joseph" type="person">                                
-                                Nyssen
-                            </rs>
-                        </hi>
-                            :
+                                Nyssen</rs></hi>:
                         </p>
                     <p facs="#facs_6_region_1511942719841_92" rendition="#?13-86-99--305-2331" xml:id="p55" xml:space="preserve">
                             <lb/>                                
@@ -1194,26 +1038,19 @@ CAHügel</rs>
                     <abbr>L<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#pyrker-johann-ladislaus" type="person">
-Pyrker</rs>. <rs ref="#sankt-trond" type="place">St.</rs>
-            <rs ref="#sankt-trond" type="place">Trond</rs>, <num>1847</num>. (N<hi rend="super">ro</hi>
-            <num>16</num>
-                )
+            <rs ref="#pyrker-johann-ladislaus" type="person">Pyrker</rs>. <rs type="place" ref="#sankt-trond">St. Trond</rs>, <num>1847</num>. (N<hi rend="super">ro</hi>
+            <num>16</num>)
             </p>
                     <p facs="#facs_6_region_1511942507877_82" rendition="#l" xml:id="p56" xml:space="preserve">
                 <lb/>                    
                     Von dem
-                <hi>Athenäum</hi> zu <rs ref="#venedig" type="place">Venedig</rs>
-                    .
-                </p>
+                <hi>Athenäum</hi> zu <rs ref="#venedig" type="place">Venedig</rs>.</p>
                     <p facs="#facs_6_region_1511942513228_83" rendition="#?12-82-94--288-2226" xml:id="p57" xml:space="preserve">
                     <lb/>                        
                         Discorsi letti nella pubblica adunanza del giorno
                     <lb/>
                     <num>11</num>. Luglio <num>1847</num> nell Ateneo Veneto, <rs ref="#venedig" type="place">Venezia</rs>
-                    <num>1847</num>. (N<hi rend="super">ro</hi>
-                    <num>46</num>
-                        )
+                    <num>1847</num>. (N<hi rend="super">ro</hi> <num>46</num>)
                     </p>
                     <p facs="#facs_6_region_1511942498127_80" rendition="#f" xml:id="p58" xml:space="preserve">
                         <lb/>                            
@@ -1232,10 +1069,7 @@ Pyrker</rs>. <rs ref="#sankt-trond" type="place">St.</rs>
                         <expan>                            
                             Herrn
                         </expan>
-                        <abbr>                            
-                            H
-                        <hi rend="super">rn</hi>
-                    </abbr>
+                        <abbr>H<hi rend="super">rn</hi></abbr>
                 </choice>
                 <choice>
                     <expan>Theodor</expan>
@@ -1247,9 +1081,7 @@ Pyrker</rs>. <rs ref="#sankt-trond" type="place">St.</rs>
                 <abbr>G<am>.</am>
             </abbr>
         </choice>
-        <rs ref="#karajan-von-theodor-georg" type="person">
-von
-Karajan</rs>
+        <rs ref="#karajan-von-theodor-georg" type="person">von Karajan</rs>
         <hi>
         </hi>
     </p>
@@ -1263,9 +1095,7 @@ Karajan</rs>
                 <abbr>Cav<am>.</am>
             </abbr>
         </choice> Lorenzo <rs ref="#blanco-lorenzo" type="person">Blanco</rs> in <rs ref="#neapel" type="place">Neapel</rs>: (N<hi rend="super">ro</hi>
-        <num>49</num>
-            )
-        </p>
+        <num>49</num>)</p>
                     <p facs="#facs_6_region_1511942494695_79" rendition="#?12-88-100--288-2360" xml:id="p61" xml:space="preserve">
             <lb/>Varietà nei volumi Ercolanesi, <rs ref="#neapel" type="place">Napoli</rs> <num>1846</num>, mit einem
             <lb/>Schreiben worinn er die Akademie bittet, ihm ihr Urtheil
