@@ -17,13 +17,73 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="hebbel-christian-friedrich">
+               <persName>
+                  <forename>Christian Friedrich</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Hebbel</surname>
+               </persName>
+               <birth>
+                  <date when="1813-03-18">18.03.1813</date>
+                  <placeName>Wesselburen/Dithmarschen</placeName>
+               </birth>
+               <death>
+                  <date when="1863-12-13">13.12.1863</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Heirat am 26. Mai 1846 in Wien-Maris Treu</occupation>
+               <occupation>Dramatiker, Lyriker und Erzähler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118547445</idno>
+            </person>
+            <person xml:id="bayley-jean">
+               <persName>
+                  <forename>Jean</forename>
+                  <surname>Bayley</surname>
+               </persName>
+               <birth>
+                  <date>vor 1790</date>
+                  <placeName>Hempsted</placeName>
+               </birth>
+               <death>
+                  <date when="1869-03-25">25.03.1869</date>
+                  <placeName>Paris</placeName></death>
+               <occupation>Historiker</occupation>
+            </person>
+            <person xml:id="richard-löwenherz">
+               <persName>
+                  <surname>Richard I., König von England</surname>
+               </persName>
+               <persName type="alt">Richard Löwenherz</persName>
+               <birth>
+                  <date when="1157-09-08">08.09.1157</date>
+                  <placeName>Oxford</placeName>
+               </birth>
+               <death>
+                  <date when="1199-04-06">06.04.1199</date>
+                  <placeName>Châlus</placeName></death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118641972</idno>
+            </person>
+            <person xml:id="wilhelm-der-eroberer">
+               <persName>
+                  <surname>Wilhelm I., König von England</surname>
+               </persName>
+               <persName type="alt">Wilhelm der Eroberer</persName>
+               <birth>
+                  <date>1027/28</date>
+                  <placeName>Falaise/Normandie</placeName>
+               </birth>
+               <death>
+                  <date when="1087-09-09">09.09.1087</date>
+                  <placeName>Kloster Saint-Gervais bei Rouen</placeName></death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118643347</idno>
+            </person>
             <person xml:id="victorin-anton">
                <persName>
                   <forename>Anton</forename>
                   <addName>Dr. phil.</addName>
                   <surname>Victorin</surname>
                </persName>
-               <occupation>Professor für Philosophie an der k.k. philosophischen Lehranstalt in Görz (1848)</occupation>
+               <occupation>Professor für Philosophie an der k.k. philosophischen Lehranstalt in Görz
+                  (1848)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1157460461</idno>
             </person>
             <person xml:id="Calpurnius-titus">
@@ -37,14 +97,14 @@
             <person xml:id="wassaf">
                <persName>
                   <surname>Waṣṣāf al-Ḥaḍrat, Abdallāh Ibn-Faḍlallāh </surname>
-                  </persName>
+               </persName>
                <birth>
                   <date>1265</date>
                   <placeName>Shiraz</placeName>
                </birth>
                <death>
                   <date>1328</date>
-                  </death>
+               </death>
                <occupation>persischer Geschichtsschreiber</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/133512622</idno>
             </person>
@@ -8680,7 +8740,7 @@
                   <date> zwischen 40 und 50 n. Chr.</date>
                </death>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118594001</idno>
-                           </person>
+            </person>
             <person xml:id="habsburg-karl-v">
                <persName>
                   <surname>Habsburg</surname>
