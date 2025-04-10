@@ -357,7 +357,7 @@
                     <am>"</am>
                 </abbr>
             </choice>
-                Doctor Hebbel
+                Doctor <rs type="person" ref="#hebbel-christian-friedrich">Hebbel</rs>
             <lb/>
             <choice>
                 <expan>Herr</expan>
@@ -380,11 +380,8 @@
             </abbr>
         </choice>
         <hi>
-            <rs ref="#neubauer-ernst-rudolf-vinzenz" type="person">Neubauer</rs>
-        </hi>
-    </p>
-                    <p facs="#facs_1_region_1578067773015_183" rendition="#r" xml:id="p12" xml:space="preserve">
-        <lb/>
+            <rs ref="#neubauer-ernst-rudolf-vinzenz" type="person">Neubauer</rs></hi>
+            <lb/>
             handschriftlich übersandte
             Überset-
         <lb/>zung Anacreon's mit der Bitte,<lb/>sie der kaiserlichen Akademie</p>
@@ -418,7 +415,7 @@
                 <abbr>Hrn<am>.</am>
             </abbr>
         </choice>
-        <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs></hi>            
+        <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs>en</hi>            
             An-
         <lb/>
             trag und Empfehlung beschließt die
@@ -445,17 +442,7 @@
         Ein Jahr, ein Reisestipendium von
     <lb/>
     <num>1000</num>
-    <choice>
-        <expan>Gulden</expan>
-        <abbr>
-            <choice>
-                <abbr>fl<am>.</am>
-            </abbr>
-            <expan>Gulden</expan>
-        </choice>
-        <am>.</am>
-    </abbr>
-</choice>
+    <choice><expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice>
 <choice>
     <expan>Conventionsmünze</expan>
     <abbr>CM<am>.</am>
@@ -476,15 +463,10 @@
         <lb/>
         <choice>
             <expan>Herr</expan>
-            <abbr>
-                Hr
-                <am>.</am>
-            </abbr>
-        </choice> Ministerialrath <hi>
-            <rs ref="#exner-franz-seraphin" type="person">Exner</rs>
-        </hi>
+            <abbr>Hr<am>.</am></abbr>
+        </choice> Ministerialrath <hi><rs ref="#exner-franz-seraphin" type="person">Exner</rs></hi>
         <lb/>
-            erstattet Bericht über Victorin's
+            erstattet Bericht über <rs type="person" ref="#victorin-anton">Victorin</rs>'s
         <lb/>
             "System des Seelenlebens", und
         <lb/>zwar <hi>abweisend</hi> zu bescheiden.</p>
@@ -492,10 +474,7 @@
             <lb/>
             <choice>
                 <expan>Herr</expan>
-                <abbr>
-                    Hr
-                    <am>.</am>
-                </abbr>
+                <abbr>Hr<am>.</am></abbr>
             </choice> Regierungsrath <hi>
                 <rs ref="#chmel-joseph" type="person">Chmel</rs>
             </hi>
@@ -521,9 +500,7 @@
         <expan>Professor</expan>
         <abbr>Prof<am>.</am></abbr>
 </choice>
-<hi>
-    <rs ref="#rossler-emil-franz" type="person">Rössler</rs>
-</hi>
+<hi><rs ref="#rossler-emil-franz" type="person">Rössler</rs></hi>
     herauszugebenden
 <lb/>Notitia bonorum ecclesiae Frisin-
 <lb/>gensis in Austriae partibus, we-
@@ -556,15 +533,13 @@
         <rs ref="#ettingshausen-von-andreas" type="person">
             <hi>General</hi>-<lb/>Secretär</rs> ersucht, sich an <choice>
                 <expan>Herrn</expan>
-                <abbr>Hrn<am>.</am>
-            </abbr>
+                <abbr>Hrn<am>.</am></abbr>
         </choice>
         <rs type="person" ref="#hefner-alteneck-jakob-heinrich"><choice>
                 <expan>
                     von
                 </expan>
-                <abbr>v<am>.</am>
-                </abbr>
+                <abbr>v<am>.</am></abbr>
         </choice>
             <lb/>
             <hi>Hefner</hi></rs> in <rs ref="#munchen" type="place">München</rs>
@@ -573,10 +548,7 @@
                     <p facs="#facs_3_region_1578388560591_400" rendition="#f" xml:id="p21" xml:space="preserve">
         <lb/>Dann erstattete <choice>
             <expan>Herr</expan>
-            <abbr>
-                Hr
-                <am>.</am>
-            </abbr>
+            <abbr>Hr<am>.</am></abbr>
         </choice>
         <hi>
             <rs ref="#chmel-joseph" type="person">Chmel</rs>
@@ -617,8 +589,7 @@
         einzuvernehmen, in Folge dessen
     <lb/>die Classe beschließt, <choice>
         <expan>Herrn</expan>
-        <abbr>Hrn<am>.</am>
-    </abbr>
+        <abbr>Hrn<am>.</am></abbr>
 </choice>
 <rs ref="#emmert-anton" type="person">Emmert</rs>'s
 <lb/>Eingaben <choice>
@@ -635,10 +606,7 @@
         <lb/>
         <choice>
             <expan>Herr</expan>
-            <abbr>
-                Hr
-                <am>.</am>
-            </abbr>
+            <abbr>Hr<am>.</am></abbr>
         </choice> Regierungsrath <hi>
             <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
         </hi>
@@ -649,12 +617,12 @@
     </choice>        
         Ge-
     <lb/>neral-Consuls in Ägypten Rit-
-    <lb/>ters <choice>
-        <expan>von</expan>
-        <abbr>v<am>.</am>
-    </abbr>
-</choice>
-<hi><rs type="person" ref="#laurin-anton">Laurin</rs></hi> über einen anti-
+    <lb/>ters <rs type="person" ref="#laurin-anton"><choice>
+            <expan>von</expan>
+            <abbr>v<am>.</am>
+            </abbr>
+    </choice>
+        <hi>Laurin</hi></rs> über einen anti-
 <lb/>quarischen Ausflug von <rs ref="#kairo" type="place">Cairo</rs> nach
 <lb/>Memphis, der zum Abdruck in den
 <lb/>Sitzungsberichten bestimmt wird.</p>
@@ -675,10 +643,7 @@
                 <lb/>
                 <choice>
                     <expan>Herr</expan>
-                    <abbr>
-                        Hr
-                        <am>.</am>
-                    </abbr>
+                    <abbr>Hr<am>.</am></abbr>
                 </choice>
                 <choice>
                     <expan>Professor</expan>
@@ -691,12 +656,10 @@
             <lb/>
                 Gast eine Abhandlung "über
             <lb/>
-            <rs ref="#hegel-georg-wilhelm-friedrich" type="person">Hegel's</rs> Rechtsbegriff."</p>
+            <rs ref="#hegel-georg-wilhelm-friedrich" type="person">Hegel</rs>'s Rechtsbegriff."</p>
                     <p facs="#facs_4_region_1578389853376_537" rendition="#fc" xml:id="p26" xml:space="preserve">
-                <lb/>
-                <rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
-                <lb/>
-                <rs ref="#wolf-ferdinand" type="person">FerdWolf</rs>
+                <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
+                <lb/><rs ref="#wolf-ferdinand" type="person">FerdWolf</rs>
             </p>
                 </div>
             </div>
