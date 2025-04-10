@@ -17,6 +17,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="habsburg-ferdinand-iii">
+               <persName>
+                  <surname>Habsburg</surname>
+                  <forename>Ferdinand III., Kaiser</forename>
+               </persName>
+               <birth>
+                  <date when="1608-07-13">13.07.1608</date>
+                  <placeName>Graz</placeName>
+               </birth>
+               <death>
+                  <date when="1657-04-02">02.04.1657</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118532529</idno>
+               </person>
             <person xml:id="hebbel-christian-friedrich">
                <persName>
                   <forename>Christian Friedrich</forename>
