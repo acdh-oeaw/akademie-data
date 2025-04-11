@@ -17,6 +17,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="raoul-rochette-desire">
+               <persName>
+                  <forename>Desiré</forename>
+                  <surname>Raoul-Rochette</surname>
+               </persName>
+               <birth>
+                  <date when="1789-03-09">09.03.1789</date>
+                  <placeName>Saint-Amand-Mont-Rond</placeName>
+               </birth>
+               <death>
+                  <date when="1854-07-05">05.07.1854</date>
+                  <placeName>Paris</placeName></death>
+               <occupation>Archäologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/115431241</idno>
+            </person>            
             <person xml:id="Kemalpaschasade-ahmed">
                <persName>
                   <forename>Ahmed</forename>
