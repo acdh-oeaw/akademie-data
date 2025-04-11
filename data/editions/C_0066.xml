@@ -432,7 +432,7 @@
                             <expan>Herr</expan>
                             <abbr>
                                 <am>-</am>
-                                <am>"</am>
+                                <am>:</am>
                                 <am>-</am>
                             </abbr>
                         </choice>
@@ -442,7 +442,7 @@
                             <expan>Herr</expan>
                             <abbr>
                                 <am>-</am>
-                                <am>"</am>
+                                <am>:</am>
                                 <am>-</am>
                             </abbr>
                         </choice>
@@ -452,24 +452,24 @@
                             <expan>Herr</expan>
                             <abbr>
                                 <am>-</am>
-                                <am>"</am>
+                                <am>:</am>
                                 <am>-</am>
                             </abbr>
                         </choice>
-                        <choice>
-                            <expan>
-                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                        </abbr>
-                    </choice>
-                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-                    <lb/>
+                        <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                <expan>
+                                    von
+                                </expan>
+                                <abbr>v<am>.</am>
+                                </abbr>
+                        </choice>
+                            Karajan</rs>
+                        <lb/>
                     <choice>
                         <expan>Herr</expan>
                         <abbr>
                             <am>-</am>
-                            <am>"</am>
+                            <am>:</am>
                             <am>-</am>
                         </abbr>
                     </choice>
@@ -479,7 +479,7 @@
                         <expan>Herr</expan>
                         <abbr>
                             <am>-</am>
-                            <am>"</am>
+                            <am>:</am>
                             <am>-</am>
                         </abbr>
                     </choice>
@@ -499,7 +499,7 @@
                         <expan>Herr</expan>
                         <abbr>
                             <am>-</am>
-                            <am>"</am>
+                            <am>:</am>
                             <am>-</am>
                         </abbr>
                     </choice>
@@ -513,7 +513,7 @@
                     <expan>Herr</expan>
                     <abbr>
                         <am>-</am>
-                        <am>"</am>
+                        <am>:</am>
                         <am>-</am>
                     </abbr>
                 </choice>
@@ -557,9 +557,10 @@
     an-
 <lb/>dere Gäste</p>
                     <p facs="#facs_1_region_1580289371024_186" rendition="#r" xml:id="p9" xml:space="preserve">
-    <lb/>Protokoll unbeanständet.<lb/>Der <hi>
-        <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-    </hi> legt vor:</p>
+    <lb/>Protokoll unbeanständet.</p>
+                    <p facs="#facs_1_region_1580289371024_186" rendition="#r" xml:id="p49" xml:space="preserve">
+                        <lb/>Der <hi>
+        <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> legt vor:</p>
                     <p facs="#facs_1_region_1580289384608_192" rendition="#?37-62-99--939-2490" xml:id="p10" xml:space="preserve">
         <lb/>(<num>165</num>) a) Antwort des <hi>Ministe-
 <lb/>riums des Äußern</hi>
@@ -579,8 +580,8 @@
                 <pb facs="#facs_2" n="2" xml:id="pag2"/>
                 <div xml:id="d4">
                     <p facs="#facs_2_region_1580310149991_31" rendition="#f" xml:id="p13" xml:space="preserve">
-            <lb/>(<num>162</num>) b) c) Vom <hi>Ministerium des</hi>
-            <lb/>(<num>182</num>) <hi>Handels</hi>, Abschrift des die
+            <lb/>(<num>162</num>) (<num>182</num>) b) c) Vom <hi>Ministerium des</hi>
+            <lb/><hi>Handels</hi>, Abschrift des die
                 <lb/> Akademie betreffenden Absatzes
                 <lb/>aus einem Bericht des <choice>
                     <expan>österreichischen</expan>
@@ -846,8 +847,7 @@
         </abbr>
     </choice> ge-</hi>
     <lb/>
-    <hi>schichtsforschenden Gesell-<lb/>schaft in <rs ref="#basel" type="place">Basel</rs>
-</hi>
+    <hi>schichtsforschenden Gesell-<lb/>schaft in <rs ref="#basel" type="place">Basel</rs></hi>
     eine Sendung
 <lb/>
     des von ihr herausgegebenen
@@ -963,27 +963,14 @@
                 <pb facs="#facs_6" n="6" xml:id="pag6"/>
                 <div xml:id="d12">
                     <p facs="#facs_6_region_1580314874450_423" rendition="#f" xml:id="p33" xml:space="preserve">
-                        <lb/>mäler aus Ägypten" zu <choice>
-                            <expan>sub-</expan>
-                            <abbr>sub</abbr>
-                        </choice>
-                        <lb/>
-                            scribiren, wird
-                            zurückgewie-
-                        <lb/>
-                            sen, da die Akademie keine
-                        <lb/>
-                            bleibende Bibliothek anlege
-                        <lb/>
-                            und daher der Consequenzen
-                        <lb/>
-                            wegen von ihrer Norm,
-                            we-
-                        <lb/>
-                            der zu subscribiren noch
-                            an-
-                        <lb/>
-                            zukaufen, keine Ausnahme
+                        <lb/>mäler aus Ägypten" zu sub-
+                        <lb/>scribiren, wird zurückgewie-
+                        <lb/>sen, da die Akademie keine 
+                        <lb/>bleibende Bibliothek anlege
+                        <lb/>und daher der Consequenzen
+                        <lb/>wegen von ihrer Norm, we-
+                        <lb/>der zu subscribiren noch an-
+                        <lb/>zukaufen, keine Ausnahme
                         <lb/>machen wolle.</p>
                     <p facs="#facs_6_region_1580314886330_426" rendition="#f" xml:id="p34" xml:space="preserve">
                             <lb/>
@@ -1023,8 +1010,9 @@
                         <hi>
                             <rs ref="#neigebaur-johann-daniel-ferdinand" type="person">Neugebaur</rs></hi>
                             vor, im Falle die
-                        <lb/>Classe sie abdrucken lassen wolle?<lb/>
-                            Herrn Regierungsrath
+                        <lb/>Classe sie abdrucken lassen wolle?</p>
+                    <p facs="#facs_6_region_1580314908706_432" rendition="#f" xml:id="p56" xml:space="preserve">
+                        <lb/>Herrn Regierungsrath
                         <lb/>
                         <hi>
                             <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
