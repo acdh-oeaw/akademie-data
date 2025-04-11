@@ -164,8 +164,7 @@
                                 <lb/>Die wirklichen Mitglieder <choice>
                                     <expan>Herr</expan>
                                     <abbr>
-                                        Hr
-                                        <am>.</am>
+                                        Hr<am>.</am>
                                     </abbr>
                                 </choice>
                                 <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
@@ -289,8 +288,7 @@
                                 </choice> General-Secretär <choice>
                                     <expan>Herr</expan>
                                     <abbr>
-                                        Hr
-                                        <am>.</am>
+                                        Hr<am>.</am>
                                     </abbr>
                                 </choice>
                                 <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
@@ -620,11 +618,8 @@ corre-<lb/>spondirender Mitglieder im
                                 </p>
                     <p facs="#facs_3_region_1575291915962_869" rendition="#l" xml:id="p17" xml:space="preserve"/>
                     <p facs="#facs_3_region_1575291890428_832" rendition="#?5-76-81--65-1020" xml:id="p18" xml:space="preserve">
-                                    <lb/>
-                                    <rs ref="#lanz-karl-friedrich" type="person">Lanz</rs> mit <num>14</num> Stimmen</p>
-                    <p facs="#facs_3_region_1575291893881_840" rendition="#l" xml:id="p19" xml:space="preserve">
-                                        <lb/>
-                                        <rs ref="#hofler-constantin" type="person">Höfler</rs>
+                                    <lb/><rs ref="#lanz-karl-friedrich" type="person">Lanz</rs> mit <num>14</num> Stimmen
+                                    <lb/><rs ref="#hofler-constantin" type="person">Höfler</rs>
                                         <choice>
                                             <expan>mit</expan>
                                             <abbr>
@@ -638,10 +633,7 @@ corre-<lb/>spondirender Mitglieder im
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                    </p>
-                    <p facs="#facs_3_region_1575291901148_848" rendition="#?5-62-66--58-832" xml:id="p20" xml:space="preserve">
-                                        <lb/>
-                                        <rs ref="#dozy-reinhart-pieter-anne" type="person">Dozy</rs>
+                                    <lb/><rs ref="#dozy-reinhart-pieter-anne" type="person">Dozy</rs>
                                         <choice>
                                             <expan>mit</expan>
                                             <abbr>
@@ -655,8 +647,7 @@ corre-<lb/>spondirender Mitglieder im
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                        <lb/>
-                                        <rs ref="#fleischer-heinrich-leberecht" type="person">Fleischer</rs>
+                                        <lb/><rs ref="#fleischer-heinrich-leberecht" type="person">Fleischer</rs>
                                         <choice>
                                             <expan>mit</expan>
                                             <abbr>
@@ -670,10 +661,7 @@ corre-<lb/>spondirender Mitglieder im
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                    </p>
-                    <p facs="#facs_3_region_1575291909852_861" rendition="#l" xml:id="p21" xml:space="preserve">
-                                        <lb/>
-                                        <rs ref="#gayangos-pascual" type="person">Gayangos</rs>
+                                 <lb/><rs ref="#gayangos-pascual" type="person">Gayangos</rs>
                                         <choice>
                                             <expan>mit</expan>
                                             <abbr>
