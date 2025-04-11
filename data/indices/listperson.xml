@@ -17,6 +17,48 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="Kemalpaschasade-ahmed">
+               <persName>
+                  <forename>Ahmed</forename>
+                  <surname>Kemalpaschasade</surname>
+               </persName>
+               <death>
+                  <date>1535</date>
+               </death>
+               <occupation>Mufti</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
+            </person>            
+            <person xml:id="johann-kasimir-ii-von-polen">
+               <persName>
+                  <forename>Johann Kasimir II.</forename>
+                  <surname>König von Polen</surname>
+               </persName>
+               <birth>
+                  <date when="1609-03-21">21.03.1609</date>
+                  <placeName>Krakau</placeName>
+               </birth>
+               <death>
+                  <date when="1672-12-16">16.12.1672</date>
+                  <placeName>Nevers</placeName></death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119389118</idno>               
+            </person>            
+            <person xml:id="halfa-hacci">
+               <persName>
+                  <surname>Hâcci Halfa</surname>
+               </persName>
+               <persName type="alt">Kâtib Çelebi</persName>
+               <persName type="alt">Muṣṭafa ibn ʿAbd Allāh</persName>
+               <birth>
+                  <date>1609</date>
+                  <placeName>Istanbul</placeName>
+               </birth>
+               <death>
+                  <date>1657</date>
+                  <placeName>Istanbul</placeName></death>
+               <occupation>Universalgelehrter</occupation>
+               <occupation>Historiograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118675451</idno>
+            </person>            
             <person xml:id="habsburg-ferdinand-iii">
                <persName>
                   <surname>Habsburg</surname>
