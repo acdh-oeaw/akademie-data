@@ -489,7 +489,7 @@
                         <expan>Herr</expan>
                         <abbr>
                             <am>-</am>
-                            <am>"</am>
+                            <am>:</am>
                             <am>-</am>
                         </abbr>
                     </choice>
@@ -917,15 +917,11 @@
                         <abbr>Freih<am>.</am>
                     </abbr>
                 </choice>
-                <choice>
-                    <expan>
-                        <rs ref="#muller-john-w" type="person">von</rs>
-                    </expan>
-                    <abbr>v<am>.</am>
-                </abbr>
+                <rs ref="#muller-john-w" type="person"><choice>
+                    <expan>von</expan>
+                    <abbr>v<am>.</am></abbr>
             </choice>
-            <hi>
-                <rs ref="#muller-john-w" type="person">Müller</rs>,</hi>
+            <hi>Müller</hi></rs>,
                 <lb/>
                     Aufforderung, ihm auch
                 <lb/>von der <choice>
@@ -1120,9 +1116,7 @@
                         <lb/>
                             Erläuterung den von Herrn
                         <lb/>
-                        <hi>
-                            <rs ref="#palacky-franz" type="person">Palacky</rs>
-                        </hi>
+                        <hi><rs ref="#palacky-franz" type="person">Palacky</rs></hi>
                             eingesandten
                             Com-
                         <lb/>missionsbericht über <rs ref="#kollar-vincenz" type="person">Kollár</rs>'s
