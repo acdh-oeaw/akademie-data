@@ -17,6 +17,51 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="marini-chajim-sabbatai">
+               <persName>
+                  <forename>Chajim Sabbatai</forename>
+                  <surname>Marini</surname>
+               </persName>
+               <birth>
+                  <date>1685</date>
+               </birth>
+               <death>
+                  <date>1762</date>
+               </death>
+               <occupation>Rabbi</occupation>
+               <occupation>Arzt</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1157132774</idno>
+            </person>
+            <person xml:id="alighieri-dante">
+               <persName>
+                  <forename>Danke</forename>
+                  <surname>Alighieri</surname>
+               </persName>
+               <birth>
+                  <date when="1265-05-29">29.05.1265</date>
+                  <placeName>Florenz</placeName>
+               </birth>
+               <death>
+                  <date when="1321-09-14">14.09.1321</date>
+                  <placeName>Ravenna</placeName></death>
+               <occupation>Dichter</occupation>
+               <occupation>Philosoph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118523708</idno>
+            </person>
+            <person xml:id="ovid">
+               <persName>
+                  <surname>Publius Ovidius Naso (= Ovid)</surname>
+               </persName>
+               <birth>
+                  <date>20.03.43 v. Chr.</date>
+                  <placeName>Sulmona</placeName>
+               </birth>
+               <death>
+                  <date>ca. 17 n. Chr.</date>
+                  <placeName>Tomis</placeName></death>
+               <occupation>römischer Dichter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118590995</idno>
+            </person>            
             <person xml:id="raoul-rochette-desire">
                <persName>
                   <forename>Desiré</forename>
