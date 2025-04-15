@@ -1683,6 +1683,7 @@
                </birth>
                <death>
                   <date when="1866-08-21">21.08.1866</date>
+                  <placeName>Laibach</placeName>
                </death>
                <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
                   >Naturwissenschaftler</occupation>
@@ -6859,9 +6860,10 @@
                </persName>
                <birth>
                   <date when="1825-02-12">12.02.1825</date>
-               </birth>
+                  <placeName>Wien</placeName></birth>
                <death>
                   <date when="1900-03-21">21.03.1900</date>
+                  <placeName>Wien</placeName>
                </death>
                <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
                   >Chemiker</occupation>
@@ -6908,7 +6910,7 @@
             </person>
             <person xml:id="rieti-da-mose">
                <persName>
-                  <surname>Rieti, da</surname>
+                  <surname>da Rieti</surname>
                   <forename>Mosè</forename>
                </persName>
                <birth>
