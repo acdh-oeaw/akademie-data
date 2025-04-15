@@ -176,8 +176,7 @@
                                         <lb/>Die wirklichen Mitglieder <choice>
                                             <expan>Herr</expan>
                                             <abbr>
-                                                Hr
-                                                <am>.</am>
+                                                Hr<am>.</am>
                                             </abbr>
                                         </choice>
                                         <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
@@ -255,8 +254,7 @@
                                     </choice> General-Secretär <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            Hr
-                                            <am>.</am>
+                                            Hr<am>.</am>
                                         </abbr>
                                     </choice>
                                     <choice>
@@ -322,8 +320,7 @@
                                             <choice>
                                                 <expan>Herr</expan>
                                                 <abbr>
-                                                    Hr
-                                                    <am>.</am>
+                                                    Hr<am>.</am>
                                                 </abbr>
                                             </choice>
                                             <rs ref="#karajan-von-theodor-georg" type="person"> von <hi>Karajan</hi>
@@ -334,8 +331,7 @@
                                             nen motivirten Antrag auf
                                         <lb/>
                                             einstweilige Drucklegung des aus
-                                        <lb/>dem <num>8</num>
-                                        <hi rend="super">ten</hi>
+                                        <lb/>dem <num>8</num><hi rend="super">ten</hi>
                                             und den folgenden
                                             Jahr-
                                         <lb/>hunderten herrührenden "Todten-<lb/>und Verbrüderungsbuches (Ne-<lb/>
@@ -344,19 +340,11 @@
                                         <lb/>schlägt er auf <num>225</num>
                                         <choice>
                                             <expan>Gulden</expan>
-                                            <abbr>
-                                                <choice>
-                                                    <abbr>fl<am>.</am>
-                                                </abbr>
-                                                <expan>Gulden</expan>
-                                            </choice>
-                                            <am>.</am>
-                                        </abbr>
-                                    </choice>
+                                                    <abbr>fl<am>.</am></abbr>
+                                                </choice>
                                     <choice>
                                         <expan>Conventionsmünze</expan>
-                                        <abbr>CMze<am>.</am>
-                                    </abbr>
+                                        <abbr>CMze<am>.</am></abbr>
                                 </choice>
                                     an
                                 <lb/>
@@ -404,7 +392,7 @@
             </choice>
             <choice>
                 <expan>Conventionsmünze</expan>
-                <abbr>C</abbr>
+                <abbr>CMze</abbr>
             </choice>
             <lb/>
                 in eben so vielen Exemplaren
@@ -421,9 +409,7 @@
             </choice>
             <choice>
                 <expan>Conventionsmünze</expan>
-                <abbr>CMze</abbr>
-            </choice>
-                , zahlbar
+                <abbr>CMze</abbr></choice>, zahlbar
             <lb/>
                 nach dem Druck und gegen
             <lb/>
@@ -473,7 +459,7 @@
                     <abbr>CM</abbr>
                 </choice>
                     bei der
-                <lb/>Gesammt-Akademie vorzuschlagen,<lb/>und beauftragt damit ihren <hi>Se-<lb/>cretär</hi>.</p>
+                <lb/>Gesammt-Akademie vorzuschlagen,<lb/>und beauftragt damit ihren <rs type="person" ref="#wolf-ferdinand"><hi>Se-<lb/>cretär</hi></rs>.</p>
                     <p facs="#facs_3_region_1576158259545_67" rendition="#l" xml:id="p17" xml:space="preserve">
                     <lb/>
                         Da die Fonds der Classe aber schon
@@ -493,8 +479,7 @@
                     <choice>
                         <expan>Herr</expan>
                         <abbr>
-                            Hr
-                            <am>.</am>
+                            Hr<am>.</am>
                         </abbr>
                     </choice> Regierungsrath <hi>
                         <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
@@ -508,23 +493,20 @@
                         <choice>
                             <expan>Herr</expan>
                             <abbr>
-                                Hr
-                                <am>.</am>
+                                Hr<am>.</am>
                             </abbr>
                         </choice>
                         <choice>
                             <expan>kaiserlicher</expan>
                             <abbr>kaisl<am>.</am>
                         </abbr>
-                    </choice> Rath <hi>
-                        <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
-                   </hi>
+                    </choice> Rath <hi><rs ref="#bergmann-joseph" type="person">Bergmann</rs></hi>
                     <lb/>
                         liest die Fortsetzung seiner
                     <lb/>
                         "Beträge zu einer
                         kriti-
-                    <lb/>schen Geschichte Vorarlberg's.</p>
+                    <lb/>schen Geschichte Vorarlberg's".</p>
                     <p facs="#facs_3_region_1576158233323_58" rendition="#rc" xml:id="p20" xml:space="preserve">
                         <lb/>
                         <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
