@@ -17,6 +17,88 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="weiser-josef">
+               <persName>
+                  <surname>Weiser</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <birth>
+                  <date>1810</date>
+               </birth>
+               <death>
+                  <date when="1881-07-18">18.07.1881</date>
+                  <placeName>Brunn am Gebirge</placeName>
+               </death>
+               <occupation>Schuldirektor</occupation>
+               <occupation>Professor</occupation>
+               <occupation>Gemeinderat</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117300292</idno>
+            </person>
+            <person xml:id="pichler-georg">
+               <persName>
+                  <surname>Pchler</surname>
+                  <forename>Georg Abdon</forename>
+               </persName>
+               <birth>
+                  <date when="1806-03-09">16.10.1798</date>
+                  <placeName>Salzburg</placeName>
+               </birth>
+               <death>
+                  <date when="1864-10-24">24.10.1864</date>
+                  <placeName>Salzburg</placeName>
+               </death>
+               <occupation>Lehrer</occupation>
+               <occupation>Lyriker</occupation>
+               <occupation>Historiograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/131510746</idno>
+            </person>
+            <person xml:id="mair-ludwig">
+               <persName>
+                  <surname>Mair</surname>
+                  <forename>Ludwig</forename>
+               </persName>
+               <birth>
+                  <date when="1778-10-28">28.10.1778</date>
+                  <placeName>Völs/Südtirol</placeName>
+               </birth>
+               <death>
+                  <date when="1851-08-08">08.08.1851</date>
+                  <placeName>Neustift bei Brixen</placeName>
+               </death>
+               <occupation>Propst des Chorherrenstiftes Neustift bei Brixen (1832-1851)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117300292</idno>
+            </person>
+            <person xml:id="zahradka-klement">
+               <persName>
+                  <surname>Zahrádka</surname>
+                  <forename>Klement</forename>
+               </persName>
+               <birth>
+                  <date when="1786-01-10">10.01.1786</date>
+                  <placeName>Brüx</placeName>
+               </birth>
+               <death>
+                  <date when="1853-06-17">17.06.1853</date>
+                  <placeName>Ossegg</placeName>
+               </death>
+               <occupation>Abt des Zisterzienserstiftes Ossegg (1843-1853)</occupation>
+            </person>
+            <person xml:id="georg-von-podiebrad">
+               <persName>
+                  <surname>Georg von Podiebrad</surname>
+                  <addName>König von Böhmen</addName>
+               </persName>
+               <birth>
+                  <date when="1420-04-06">06.04.1420</date>
+                  <placeName xmlns="http://www.tei-c.org/ns/1.0">wohl auf der Burg
+                     Podiebrad</placeName>
+               </birth>
+               <death>
+                  <date when="1471-03-22">22.03.1471</date>
+                  <placeName>Prag</placeName>
+               </death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118690442</idno>
+            </person>
             <person xml:id="marini-chajim-sabbatai">
                <persName>
                   <forename>Chajim Sabbatai</forename>
@@ -61,7 +143,7 @@
                   <placeName>Tomis</placeName></death>
                <occupation>römischer Dichter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118590995</idno>
-            </person>            
+            </person>
             <person xml:id="raoul-rochette-desire">
                <persName>
                   <forename>Desiré</forename>
@@ -76,7 +158,7 @@
                   <placeName>Paris</placeName></death>
                <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115431241</idno>
-            </person>            
+            </person>
             <person xml:id="Kemalpaschasade-ahmed">
                <persName>
                   <forename>Ahmed</forename>
@@ -87,7 +169,7 @@
                </death>
                <occupation>Mufti</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
-            </person>            
+            </person>
             <person xml:id="johann-kasimir-ii-von-polen">
                <persName>
                   <forename>Johann Kasimir II.</forename>
@@ -100,8 +182,8 @@
                <death>
                   <date when="1672-12-16">16.12.1672</date>
                   <placeName>Nevers</placeName></death>
-               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119389118</idno>               
-            </person>            
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119389118</idno>
+            </person>
             <person xml:id="halfa-hacci">
                <persName>
                   <surname>Hâcci Halfa</surname>
@@ -118,7 +200,7 @@
                <occupation>Universalgelehrter</occupation>
                <occupation>Historiograph</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118675451</idno>
-            </person>            
+            </person>
             <person xml:id="habsburg-ferdinand-iii">
                <persName>
                   <surname>Habsburg</surname>
@@ -133,7 +215,7 @@
                   <placeName>Wien</placeName>
                </death>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118532529</idno>
-               </person>
+            </person>
             <person xml:id="hebbel-christian-friedrich">
                <persName>
                   <forename>Christian Friedrich</forename>
@@ -1878,6 +1960,7 @@
                   >Geologe</occupation>
                <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
                   >Schriftsteller</occupation>
+               <occupation>Aktuar der Akademie der Wissenschaften (1847-1857)</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49275/</idno>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117644099</idno>
                <idno type="paas">49275</idno>
