@@ -16,6 +16,14 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="wien-landstrasse">
+                   <placeName>Wien-Landstraße</placeName>
+                   <location>
+                       <geo>48.2019 16.38792</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/12214069</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4196533-4</idno>
+               </place>
                <place xml:id="wels">
                    <placeName>Wels</placeName>
                    <placeName type="alt">Ovilaba</placeName>
