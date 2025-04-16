@@ -917,7 +917,7 @@
                                     <lb/>(<num>326</num>) c) Von Herrn <hi>
                                         <rs ref="#saint-genois-jules-ludger-dominique-ghislain" type="person"><choice><expan>von</expan><abbr>v<am>.</am></abbr>
                                     </choice>
-                                    St. Genois</rs></hi> in
+                                    <choice><expan>Saint</expan><abbr>St<am>.</am></abbr></choice> Genois</rs></hi> in
                                     <lb/><rs ref="#gent" type="place">Gent</rs>, ein Schreiben an den "Prä-
                                     <lb/>
                                         sidenten" der Akademie mit
@@ -956,7 +956,7 @@
                                     <lb/>führung des Barrière-Trac-<lb/>
                                         tats zu widersetzen, viele
                                     <lb/>interessante Details über
-                                        <lb/>die damaligen Zustände <rs ref="#wien" type="place">Wiens</rs>
+                                        <lb/>die damaligen Zustände <rs ref="#wien" type="place">Wien</rs>s
                                         <lb/>enthält.</p>
                     <p facs="#facs_3_region_1580398936016_205" rendition="#f" xml:id="p21" xml:space="preserve">
                                             <lb/>
@@ -1067,7 +1067,7 @@
                                                     <abbr>Dr<am>.</am>
                                                 </abbr>
                                             </choice>
-                                            <rs ref="#schmidl-adolf" type="person">Schmidl's</rs>
+                                            <rs ref="#schmidl-adolf" type="person">Schmidl</rs>'s
                                             <hi>einverstanden</hi>
                                             <lb/>erkläre.</p>
                     <p facs="#facs_4_region_1580722312537_101" rendition="#f" xml:id="p28" xml:space="preserve">
@@ -1154,8 +1154,8 @@
                                                     denen Discussion beschließt
                                                 <lb/>
                                                     die Classe, mit Ausnahme
-                                                <lb/>Einer Stimme (der des <hi>Secre-
-                                                 <lb/>tärs</hi>) den Herrn
+                                                <lb/>Einer Stimme (der des <hi><rs type="person" ref="#wolf-ferdinand">Secre-
+                                                        <lb/>tär</rs>s</hi>) den Herrn
                                                 <rs ref="#arneth-joseph-calasanz" type="person">Berichter-<lb/>statter</rs>
                                                     zu beauftragen, der
                                                 <lb/>
@@ -1204,8 +1204,7 @@
                                                             der Lage wären auch für die
                                                         <lb/>Zwecke der <choice>
                                                             <expan>philosophisch-historischen</expan>
-                                                            <abbr>philos<am>.</am>
-                                                            <am>-</am>hist<am>.</am>
+                                                            <abbr>philos<am>.</am><am>-</am>hist<am>.</am>
                                                         </abbr>
                                                     </choice>
                                                         Classe
