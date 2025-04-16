@@ -17,6 +17,40 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="ximenez-francisco">
+               <persName>
+                  <forename>Francisco</forename>
+                  <surname>Ximénez</surname>
+               </persName>
+               <birth>
+                  <date when="1666-11-23">23.11.1666</date>
+                  <placeName>Sevilla</placeName>
+               </birth>
+               <death>
+                  <date>1721</date>
+               </death>
+               <occupation>Dominikaner</occupation>
+               <occupation>Historigraph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1054437971</idno>
+            </person>
+            <person xml:id="scherzer-karl">
+               <persName>
+                  <forename>Karl</forename>
+                  <nameLink>von</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Scherzer</surname>
+               </persName>
+               <birth>
+                  <date when="1821-05-01">01.05.1821</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1903-02-19">19.22.1903</date>
+                  <placeName>Görz</placeName></death>
+               <occupation>Diplomat</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117222364</idno>
+            </person>
             <person xml:id="weiser-josef">
                <persName>
                   <surname>Weiser</surname>
@@ -9253,12 +9287,17 @@
                   <surname>Cubich</surname>
                   <forename>Giambattista</forename>
                </persName>
+               <persName type="alt">Ivan Krstitelj Kubić</persName>
                <birth>
-                  <date when="1805-07-02">1805</date>
+                  <date when="1805-04-25">25.04.1805</date>
+                  <placeName>Gorica</placeName>
                </birth>
                <death>
-                  <date when="1876-07-01">1876</date>
+                  <date when="1876-07-03">03.07.1876</date>
+                  <placeName>Krk</placeName>
                </death>
+               <occupation>Mediziner</occupation>
+               <occupation>Agrarwissenschaftler</occupation>
                <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49877/</idno>
                <idno type="paas">49877</idno>
             </person>
@@ -10718,6 +10757,7 @@
                </birth>
                <death>
                   <date when="1855-02-23">23.02.1855</date>
+                  <placeName>Göttingen</placeName>
                </death>
                <occupation code="#3631" scheme="#apis_vocabularies/professiontype/"
                   >Physiker</occupation>
