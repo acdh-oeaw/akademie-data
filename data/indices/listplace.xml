@@ -16,6 +16,14 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="alexandria">
+                   <placeName>Alexandria</placeName>
+                   <location>
+                       <geo>31.20176 29.91582</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/361058</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4001138-0</idno>
+               </place>
                <place xml:id="wien-landstrasse">
                    <placeName>Wien-Landstraße</placeName>
                    <location>
