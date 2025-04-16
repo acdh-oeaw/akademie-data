@@ -971,14 +971,14 @@
                             <abbr>
                                 <am>"</am>
                             </abbr>
-                        </choice> Freiherr <choice>
-                            <expan>
-                                <rs ref="#munch-bellinghausen-eligius" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                            </abbr>
+                        </choice> Freiherr <rs type="person" ref="#munch-bellinghausen-eligius"><choice>
+                                <expan>
+                                    von
+                                </expan>
+                                <abbr>v<am>.</am>
+                                </abbr>
                         </choice>
-                        <rs ref="#munch-bellinghausen-eligius" type="person">Münch</rs>
+                            Münch</rs>
                         <lb/>
                         <choice>
                             <expan>Herr</expan>
@@ -1002,14 +1002,14 @@
                                 <am>"</am>
                             </abbr>
                         </choice>
-                        <choice>
-                            <expan>
-                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                            </abbr>
+                        <rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                                <expan>
+                                    von
+                                </expan>
+                                <abbr>v<am>.</am>
+                                </abbr>
                         </choice>
-                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                            Karajan</rs>
                         <lb/>
                         <choice>
                             <expan>Herr</expan>
@@ -1052,14 +1052,13 @@
                     <p facs="#facs_1_region_1578401115237_297" rendition="#?35-65-100--868-2464"
                         xml:id="p8">
                         <lb/> A./ Nachdem der <hi>
-                            <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                       </hi> den Be- <lb/> richt A. der Wahl-Commission vor- <lb/> getragen und die
+                            <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> den Be- 
+                        <lb/> richt A. der Wahl-Commission vor- <lb/> getragen und die
                         Classe sich einstim- <lb/> mig mit den darin ausgesprochenen <lb/>
                         Ansichten, namentlich <hi>der</hi>, einige <lb/> Plätze vor der Hand in
                         suspenso <lb/> zu lassen, einverstanden erklärt <lb/> hat, wird zur Vornahme
                         der Wah- <lb/> len geschritten; und zwar:<lb/>
-                        <num>1</num>
-                        <hi rend="super">o</hi>
+                        <num>1</num><hi rend="super">o</hi>
                         <hi>zu der Wahl eines wirklichen</hi>
                         <lb/>
                         <hi>Mitgliedes für die philosophisch-</hi>
@@ -1073,29 +1072,22 @@
                         <lb/>
                         <hi>staatswissenschaftliche Section</hi>, wozu <lb/> mit <hi>absoluter</hi>
                         Majorität vorge- <lb/> schlagen wurden: <lb/>
-                        <num>1</num>
-                        <hi rend="super">o</hi> loco <choice>
+                        <num>1</num><hi rend="super">o</hi> loco 
+                        <choice>
                             <expan>Professor</expan>
-                            <abbr>Prof</abbr>
-                            <am>.</am>
-                            <ex>essor</ex>
+                            <abbr>Prof<am>.</am></abbr>
                         </choice>
-                        <hi>
-                            <rs ref="#springer-johann" type="person">Springer</rs>
-                       </hi>
+                        <hi><rs ref="#springer-johann" type="person">Springer</rs></hi>
                         <lb/>
-                        <num>2</num>
-                        <hi rend="super">o</hi>
+                        <num>2</num><hi rend="super">o</hi>
                         <choice>
                             <expan>loco</expan>
                             <abbr>
                                 <am>"</am>
                             </abbr>
                         </choice> Ministerialrath <hi>
-                            <rs ref="#hye-glunek-anton" type="person">Hye</rs>
-                       </hi>.<lb/>
-                        <num>3</num>
-                        <hi rend="super">o</hi>
+                            <rs ref="#hye-glunek-anton" type="person">Hye</rs></hi>.<lb/>
+                        <num>3</num><hi rend="super">o</hi>
                         <choice>
                             <expan>loco</expan>
                             <abbr>
@@ -1111,15 +1103,15 @@
                         <rs ref="#czoernig-karl" type="person">
                             <hi>Czörnig</hi>
                         </rs>. <lb/> Mit der Bestimmgung, daß die bei- <lb/> den in der Ternen zum
-                        wirklichen <lb/> Mitgliede Mitgenannten aber nicht <lb/> dazu von <choice>
+                        wirklichen <lb/> Mitgliede Mitgenannten aber nicht <lb/> dazu von 
+                        <rs ref="#habsburg-lothringe-franz-joseph-i" type="person"><choice>
                             <expan>
-                                <rs ref="#habsburg-lothringe-franz-joseph-i" type="person"
-                                    >Seiner</rs>
+                                >Seiner
                             </expan>
                             <abbr>S<hi rend="super">r</hi>
                             </abbr>
                         </choice>
-                        <rs ref="#habsburg-lothringe-franz-joseph-i" type="person">Majestät</rs>
+                        Majestät</rs>
                         bestätigten,<lb/> zu <hi>inländischen correspondirenden</hi>
                         <lb/>
                         <hi>Mitgliedern</hi> unter Einem vorzu- <lb/> schlagen sind. <lb/> (Zwei
@@ -1134,15 +1126,13 @@
                         daß man sie ei- <lb/> nem Magyaren reserviren will <lb/> und jetzt gerade
                         die Verhältnisse <lb/> nicht geeignet zu einer solchen <lb/> Wahl sind,
                         ebenfalls in suspenso <lb/> gelassen werden. <lb/>
-                        <num>2</num>
-                        <hi rend="super">o</hi> Zum <hi>auswärtigen Ehrenmitgliede</hi>
+                        <num>2</num><hi rend="super">o</hi> Zum <hi>auswärtigen Ehrenmitgliede</hi>
                         <lb/> wurde fast einstimmig vorgeschlagen:<lb/>
                         <hi>
                             <rs ref="#schelling-friedrich-wilhelm-joseph" type="person"
-                                >Schelling</rs>.</hi>
+                                >Schelling</rs></hi>.
                         <lb/>
-                        <num>3</num>
-                        <hi rend="super">o</hi> Von den Plätzen der <hi>inländi-<lb/>
+                        <num>3</num><hi rend="super">o</hi> Von den Plätzen der <hi>inländi-<lb/>
                             schen-correspondirenden Mitglieder</hi>
                         <lb/> und zwar den <hi>fünf</hi> für die philo- <lb/> sophische Section
                         bestimmten, sollen <lb/> die, nach Abzug der beiden oben in</p>
@@ -1286,12 +1276,8 @@
                         </choice>
                     </p>
                     <p facs="#facs_3_region_1578401224814_345" rendition="#fc" xml:id="p22">
-                        <lb/>
-                        <rs ref="#hammer-purgstall-von-joseph" type="person">HammerPurgstall</rs>
-                    </p>
-                    <p facs="#facs_3_region_1578401226627_348" rendition="#fc" xml:id="p23">
-                        <lb/>
-                        <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+                        <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">HammerPurgstall</rs>
+                        <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
                     </p>
                 </div>
             </div>
@@ -1363,14 +1349,14 @@
                             <abbr>Freih<am>.</am>
                             </abbr>
                         </choice>
-                        <choice>
-                            <expan>
-                                <rs ref="#feuchtersleben-ernst" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                            </abbr>
+                        <rs type="person" ref="#feuchtersleben-ernst"><choice>
+                                <expan>
+                                    von
+                                </expan>
+                                <abbr>v<am>.</am>
+                                </abbr>
                         </choice>
-                        <rs ref="#feuchtersleben-ernst" type="person">Feuchtersleben</rs>
+                            Feuchtersleben</rs>
                         <lb/>
                         <choice>
                             <expan>dem</expan>
@@ -1413,39 +1399,35 @@
                         </choice>
                         <hi>General-Secretär</hi>
                         <lb/>
-                        <choice>
-                            <expan>
-                                <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                            </abbr>
+                        <rs type="person" ref="#ettingshausen-von-andreas"><choice>
+                                <expan>
+                                    von
+                                </expan>
+                                <abbr>v<am>.</am>
+                                </abbr>
                         </choice>
-                        <hi>
-                            <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>
-                       </hi> als Gast beiwohnte,<lb/> versammelte sich am <num>22</num>
-                        <hi rend="super">ten</hi> April. <lb/> Zuerst wurden die schriftlich einge-
+                            <hi>Ettingshausen</hi></rs> als Gast beiwohnte,
+                        <lb/> versammelte sich am <num>22</num><hi rend="super">ten</hi> April. <lb/> Zuerst wurden die schriftlich einge-
                         <lb/> gangenen Wahlvorschläge vorgele- <lb/> sen, und zwar: <lb/>
-                        <num>1</num>
-                        <hi rend="super">o</hi> von dem <choice>
+                        <num>1</num><hi rend="super">o</hi> von dem <choice>
                             <expan>Herrn</expan>
                             <abbr>Hrn<am>.</am>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs>
-                       </hi>, wel- <lb/> cher zum <hi>ausländischen Ehrenmit-<lb/> gliede</hi> an
+                            <rs ref="#hammer-purgstall-von-joseph" type="person">Präsidenten</rs></hi>, wel- 
+                        <lb/> cher zum <hi>ausländischen Ehrenmit-<lb/> gliede</hi> an
                             <rs ref="#hermann-johann-gottfried" type="person">Hermann</rs>'s Stelle
-                        den <lb/> Secrétaire perpetuel der Académie <lb/> des Inscriptions Baron <choice>
+                        den <lb/> Secrétaire perpetuel der Académie <lb/> des Inscriptions Baron 
+                        <rs ref="#walckenaer-charles-athanase" type="person"><choice>
                             <expan>
-                                <rs ref="#walckenaer-charles-athanase" type="person">von</rs>
+                                von
                             </expan>
                             <abbr>v<am>.</am>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#walckenaer-charles-athanase" type="person">Wal-<lb/>
-                                ckenaer</rs>
-                       </hi> vorschlägt, zum <hi>wirklichen</hi>
+                            Wal-<lb/>ckenaer</hi></rs> vorschlägt, zum <hi>wirklichen</hi>
                         <lb/>
                         <hi>inländischen Mitgliede</hi> an <rs ref="#dessewffy-emil" type="person"
                             >Dessewffy</rs>'s <lb/> Stelle, den Secretär der <choice>
@@ -1464,22 +1446,21 @@
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#toldy-franz" type="person">Toldy</rs>
-                       </hi>; ferner zu <lb/>
-                        <hi>correspondirenden Mitgliedern</hi>:<lb/> die Herren Baron <choice>
-                            <expan>
-                                <rs ref="#schlechta-wssehrad-ottokar-maria" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                            </abbr>
+                            <rs ref="#toldy-franz" type="person">Toldy</rs></hi>; ferner zu <lb/>
+                        <hi>correspondirenden Mitgliedern</hi>:<lb/> die Herren Baron 
+                        <rs type="person" ref="#schlechta-wssehrad-ottokar-maria"><choice>
+                                <expan>
+                                    von
+                                </expan>
+                                <abbr>v<am>.</am>
+                                </abbr>
                         </choice>
-                        <hi>
-                            <rs ref="#schlechta-wssehrad-ottokar-maria" type="person"
-                            >Schlechta</rs>,</hi>
+                            <hi>
+                                Schlechta</hi></rs>,
                         <lb/> bei der Gesandtschaft in <rs ref="#konstantinopel" type="place"
                             >Constanti-<lb/> nopel</rs>, den <hi>Vicomte <rs
-                                ref="#kerckhove-joseph-romain" type="person">de</rs>
-                            <rs ref="#kerckhove-joseph-romain" type="person">Kerckhove</rs>,</hi>
+                                ref="#kerckhove-joseph-romain" type="person">de
+                            Kerckhove</rs></hi>,
                     </p>
                 </div>
             </div>
@@ -1489,52 +1470,43 @@
                     <p facs="#facs_5_region_1578401335593_381" rendition="#f" xml:id="p30">
                         <lb/> Präsidenten der archäologischen Ge- <lb/> sellschaft in Belgien zu <rs
                             ref="#antwerpen" type="place">Antwerpen</rs>, <lb/> den Professor <hi>
-                            <rs ref="#fleischer-heinrich-leberecht" type="person">Fleischer</rs>
-                       </hi> zu <rs ref="#leipzig" type="place">Leipzig</rs>,<lb/> den Baron <hi>
-                            <rs ref="#mac-guckin-de-slane-william" type="person">Mac Guckin
-                                Slane</rs>
-                       </hi> zu <lb/>
-                        <rs ref="#paris" type="place">Paris</rs> und den <choice>
+                            <rs ref="#fleischer-heinrich-leberecht" type="person">Fleischer</rs></hi> zu <rs ref="#leipzig" type="place">Leipzig</rs>,<lb/> den Baron <hi>
+                            <rs ref="#mac-guckin-de-slane-william" type="person">Mac GuckinSlane</rs></hi> zu <lb/><rs ref="#paris" type="place">Paris</rs> und den <choice>
                             <expan>Doctor</expan>
                             <abbr>D<hi rend="super">or</hi>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#grasse-nn" type="person">Grässe</rs>
+                            <rs ref="#grasse-johann-georg-theodor" type="person">Grässe</rs>
                        </hi> zu <rs ref="#dresden" type="place">Dresden</rs>,<lb/>
-                        <num>2</num>
-                        <hi rend="super">o</hi> von <choice>
+                        <num>2</num><hi rend="super">o</hi> von <choice>
                             <expan>Herrn</expan>
                             <abbr>Hrn<am>.</am>
                             </abbr>
                         </choice> Regierungsrath <hi>
-                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                       </hi>,<lb/> zum Ehrenmitgliedern <choice>
+                            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>,<lb/> zum Ehrenmitgliedern <choice>
                             <expan>Herr</expan>
                             <abbr>
-                                H
-                                <am>.</am>
+                                H<am>.</am>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#creuzer-friedrich" type="person">Creuzer</rs>
-                       </hi>;<lb/> zu wirklichen Mitgliedern die Herren <lb/>
+                            <rs ref="#creuzer-friedrich" type="person">Creuzer</rs></hi>;
+                        <lb/> zu wirklichen Mitgliedern die Herren <lb/>
                         <choice>
                             <expan>Anton</expan>
                             <abbr>Ant<am>.</am>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#gunther-anton" type="person">Günther</rs>
-                       </hi> und <hi>
-                            <rs ref="#seidl-johann-gabriel" type="person">Seidl</rs>;</hi>
+                            <rs ref="#gunther-anton" type="person">Günther</rs></hi> und <hi>
+                            <rs ref="#seidl-johann-gabriel" type="person">Seidl</rs></hi>;
                         <lb/> zu <hi>correspondirenden inländischen</hi>
                         <lb/>
                         <hi>Mitgliedern</hi>. die Herren <hi>
-                            <rs ref="#gaisberger-joseph" type="person">Gaisberger</rs>
-                       </hi>,<lb/>
+                            <rs ref="#gaisberger-joseph" type="person">Gaisberger</rs></hi>,<lb/>
                         <hi>
-                            <rs ref="#eitl-nn" type="person">Eitl</rs>,</hi> Ritter <rs type="person" ref="#laurin-anton"><choice>
+                            <rs ref="#eitl-franz-vincenz" type="person">Eitl</rs></hi>, Ritter <rs type="person" ref="#laurin-anton"><choice>
                                     <expan>
                                         von
                                     </expan>
@@ -1574,7 +1546,7 @@
                         <hi><rs ref="#birch-samuel" type="person">Birch</rs></hi>,
                         <hi><rs ref="#lenormant-charles" type="person">Lenormant</rs></hi>,
                         <lb/> und <hi><rs ref="#jomard-edmond-francois" type="person">Jomard</rs></hi>. 
-                        lb/><num>3</num><hi rend="super">o</hi> von <choice>
+                        <lb/><num>3</num><hi rend="super">o</hi> von <choice>
                             <expan>Herrn</expan>
                             <abbr>Hrn<am>.</am>
                             </abbr>
@@ -1621,14 +1593,14 @@
                             </abbr>
                         </choice>
                         <hi><rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs></hi>,<hi>
-                            <rs ref="#koch-sternfeld-joseph-ernst" type="person">Koch-Sternfeld</rs></hi>,<choice>
+                            <rs ref="#koch-sternfeld-joseph-ernst" type="person">Koch-Sternfeld</rs></hi>,<rs ref="#lassberg-joseph" type="person"><choice>
                             <expan>
-                                <rs ref="#lassberg-joseph" type="person">von</rs>
+                                von
                             </expan>
                             <abbr>v<am>.</am>
                             </abbr>
                         </choice>
-                        <hi><rs ref="#lassberg-joseph" type="person">Lassberg</rs></hi>,
+                                <hi>Lassberg</hi></rs>,
                         <lb/><rs ref="#zellweger-johann-kaspar" type="person">Zellweger</rs>. 
                         <lb/><num>4</num><hi rend="super">o</hi> von Freiherrn <choice>
                             <expan>
@@ -1648,7 +1620,7 @@
                             <expan>Herren</expan>
                             <abbr>Hrrn<am>.</am>
                             </abbr>
-                        </choice> Edward <rs ref="#thomas-edward" type="person">Thomas'</rs>,<lb/>
+                        </choice> Edward <rs ref="#thomas-edward" type="person">Thomas</rs>',<lb/>
                         <hi><rs ref="#jomard-edmond-francois" type="person">Jomard</rs></hi>,
                         <hi><rs ref="#washington-john" type="person">Washington</rs></hi>. 
                     </p>
@@ -1795,7 +1767,7 @@
                         </choice>
                         <hi>
                             <rs ref="#toldy-franz" type="person">Toldy</rs></hi>, oder <hi>
-                            <rs ref="#mailath-von-szekhely-janos-johann" type="person">Mailáth</rs>,</hi>
+                            <rs ref="#mailath-von-szekhely-janos-johann" type="person">Mailáth</rs></hi>,
                         <lb/> an <rs ref="#dessewffy-emil" type="person">Dessewffy</rs>'s Stelle;
                         für die <choice>
                             <expan>philosophisch</expan>
@@ -1808,10 +1780,10 @@
                             <abbr>staatswiss<am>.</am>
                             </abbr>
                         </choice> Section: <hi>
-                            <rs ref="#gunther-anton" type="person">Günther</rs>,</hi>
+                            <rs ref="#gunther-anton" type="person">Günther</rs></hi>,
                         <lb/>
                         <hi><rs ref="#peithner-von-lichtenfels-johann" type="person">Lichtenfels</rs></hi>,<hi>
-                            <rs ref="#czoernig-karl" type="person">Czörnig</rs>;</hi>
+                            <rs ref="#czoernig-karl" type="person">Czörnig</rs></hi>;
                         <lb/> zu <choice>
                             <expan>inländischen</expan>
                             <abbr>inländ<am>.</am>
@@ -1823,7 +1795,7 @@
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#eitl-nn" type="person">Eitl</rs>,</hi>
+                            <rs ref="#eitl-franz-vincenz" type="person">Eitl</rs></hi>,
                         <choice>
                             <expan>Maximilian</expan>
                             <abbr>Max<am>.</am>
@@ -1831,14 +1803,13 @@
                         </choice>
                         <lb/>
                         <hi>
-                            <rs ref="#fischer-maximilian" type="person">Fischer</rs>,</hi>
-                        <hi><rs ref="#gaisberger-joseph" type="person">Gaisberger</rs></hi>,<hi>
-                            <rs ref="#hagn-theoderich-georg" type="person">Hagen</rs></hi>,<hi>
-                            <rs ref="#kaltenbaeck-kaltenbaek-johann-paul" type="person">Kal-<lb/>
-                                tenbaeck</rs></hi>,<hi>
-                            <rs ref="#pritz-franz-xaver" type="person">Pritz</rs>,</hi>
-                        <hi><rs ref="#sava-karl" type="person">Saba</rs></hi>,<hi>
-                            <rs ref="#tangl-karlmann" type="person">Tangl</rs></hi>
+                            <rs ref="#fischer-maximilian" type="person">Fischer</rs></hi>,
+                        <hi><rs ref="#gaisberger-joseph" type="person">Gaisberger</rs></hi>,
+                        <hi><rs ref="#hagn-theoderich-georg" type="person">Hagen</rs></hi>,
+                        <hi><rs ref="#kaltenbaeck-kaltenbaek-johann-paul" type="person">Kal-
+                                <lb/>tenbaeck</rs></hi>,<hi><rs ref="#pritz-franz-xaver" type="person">Pritz</rs></hi>,
+                        <hi><rs ref="#sava-karl" type="person">Saba</rs></hi>,
+                        <hi><rs ref="#tangl-karlmann" type="person">Tangl</rs></hi>
                         <choice>
                             <expan>und</expan>
                             <abbr>u<am>.</am>
@@ -1871,9 +1842,7 @@
                                 <lb/>
                                 <hi>
                                     Lassberg</hi></rs>,
-                        <hi>
-                            <rs ref="#zellweger-johann-kaspar" type="person">Zellweger</rs>
-                       </hi>. </p>
+                        <hi><rs ref="#zellweger-johann-kaspar" type="person">Zellweger</rs></hi>. </p>
                 </div>
             </div>
             <div n="7" type="page" xml:id="d13">
@@ -1881,15 +1850,13 @@
                 <div xml:id="d14">
                     <p facs="#facs_7_region_1578401457435_423" rendition="#f" xml:id="p41">
                         <lb/>
-                        <num>8</num>
-                        <hi rend="super">o</hi> von <choice>
+                        <num>8</num><hi rend="super">o</hi> von <choice>
                             <expan>Herrn</expan>
                             <abbr>Hrn<am>.</am>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#diemer-josef" type="person">Diemer</rs>
-                       </hi>,<lb/> zum <choice>
+                            <rs ref="#diemer-josef" type="person">Diemer</rs></hi>,<lb/> zum <choice>
                             <expan>ausländischen</expan>
                             <abbr>ausländ<am>.</am>
                             </abbr>
@@ -1900,8 +1867,7 @@
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#uhland-johann-ludwig" type="person">Uhland</rs>
-                       </hi>,<lb/> zu <choice>
+                            <rs ref="#uhland-johann-ludwig" type="person">Uhland</rs></hi>,<lb/> zu <choice>
                             <expan>wirklichen</expan>
                             <abbr>wirkl<am>.</am>
                             </abbr>
@@ -1912,22 +1878,17 @@
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#boller-anton" type="person">Boller</rs>
-                       </hi>,<hi>
-                            <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
-                       </hi>,<lb/>
+                            <rs ref="#boller-anton" type="person">Boller</rs></hi>,<hi>
+                            <rs ref="#miklosich-von-franz" type="person">Miklosich</rs></hi>,<lb/>
                         <hi>
-                            <rs ref="#springer-johann" type="person">Springer</rs>
-                       </hi>,<hi>
-                            <rs ref="#franzl-fraenzl-moriz-julius" type="person">Fränzl</rs>
-                       </hi>,<choice>
+                            <rs ref="#springer-johann" type="person">Springer</rs></hi>,<hi>
+                            <rs ref="#franzl-fraenzl-moriz-julius" type="person">Fränzl</rs></hi>,<choice>
                             <expan>Leopold</expan>
                             <abbr>Leop<am>.</am>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#neumann-leopold" type="person">Neumann</rs>
-                       </hi>.<lb/> zu <choice>
+                            <rs ref="#neumann-leopold" type="person">Neumann</rs></hi>.<lb/> zu <choice>
                             <expan>inländischen</expan>
                             <abbr>inländ<am>.</am>
                             </abbr>
@@ -1938,18 +1899,16 @@
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#neumann-leopold" type="person">Neumann</rs>
-                       </hi>,<hi>
-                            <rs ref="#eitl-nn" type="person">Eitl</rs>,</hi>
+                            <rs ref="#neumann-leopold" type="person">Neumann</rs></hi>,<hi>
+                           <rs ref="#eitl-franz-vincenz" type="person">Eitl</rs></hi>,
                         <lb/>
                         <hi>
-                            <rs ref="#pritz-franz-xaver" type="person">Pritz</rs>,</hi>
+                            <rs ref="#pritz-franz-xaver" type="person">Pritz</rs></hi>,
                         <hi>
-                            <rs ref="#kiesewetter-raphael-georg" type="person">Kiesewetter</rs>,</hi>
+                            <rs ref="#kiesewetter-raphael-georg" type="person">Kiesewetter</rs></hi>,
                         <hi>
-                            <rs ref="#bonitz-hermann" type="person">Bonitz</rs>
-                       </hi>,<hi>
-                            <rs ref="#meiller-von-andreas" type="person">Meiller</rs>,</hi>
+                            <rs ref="#bonitz-hermann" type="person">Bonitz</rs></hi>,<hi>
+                            <rs ref="#meiller-von-andreas" type="person">Meiller</rs></hi>,
                         <lb/>
                         <choice>
                             <expan>Maximilian</expan>
@@ -1960,15 +1919,10 @@
                             <rs ref="#fischer-maximilian" type="person">Fischer</rs>,</hi>
                         <hi>
                             <rs ref="#sommer-eigentl-volte-johann-gottfried-jan-bohumir"
-                                type="person">Sommer</rs>
-                       </hi>,<hi>
-                            <rs ref="#feil-josef" type="person">Feil</rs>,</hi>
+                                type="person">Sommer</rs></hi>,<hi>
+                            <rs ref="#feil-josef" type="person">Feil</rs></hi>,
                         <lb/>
-                        <hi>
-                            <rs ref="#filz-michael" type="person">Filz</rs>
-                       </hi>.<hi>
-                            <rs ref="#sava-karl" type="person">Sava</rs>
-                       </hi>
+                        <hi><rs ref="#filz-michael" type="person">Filz</rs></hi>. <hi><rs ref="#sava-karl" type="person">Sava</rs></hi>
                         <lb/> zu <choice>
                             <expan>ausländischen</expan>
                             <abbr>ausländ<am>.</am>
@@ -1980,41 +1934,28 @@
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs>
-                       </hi>,<hi>
-                            <rs ref="#wackernagel-wilhelm" type="person">Wacker-<lb/> nagel</rs>
-                       </hi>,<hi>
-                            <rs ref="#thierry-augustin" type="person">Thierry</rs>
-                       </hi>,<choice>
+                            <rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs></hi>,<hi>
+                            <rs ref="#wackernagel-wilhelm" type="person">Wacker-<lb/> nagel</rs></hi>,<hi>
+                            <rs ref="#thierry-augustin" type="person">Thierry</rs></hi>,<choice>
                             <expan>Wilhelm</expan>
                             <abbr>W<am>.</am>
                             </abbr>
                         </choice>
                         <hi>
-                            <rs ref="#muller-wilhelm-konrad-hermann" type="person">Müller</rs>
-                       </hi>,<hi>
-                            <rs ref="#pfeiffer-franz" type="person">Pfeiffer</rs>
-                       </hi>,<lb/>
+                            <rs ref="#muller-wilhelm-konrad-hermann" type="person">Müller</rs></hi>,<hi>
+                            <rs ref="#pfeiffer-franz" type="person">Pfeiffer</rs></hi>,<lb/>
                         <hi>
-                            <rs ref="#lappenberg-johann-martin" type="person">Lappenberg</rs>
-                       </hi>,<hi>
-                            <rs ref="#prescott-william-hickling" type="person">Prescott</rs>
-                       </hi>,<hi>Huber</hi>,<hi>
+                            <rs ref="#lappenberg-johann-martin" type="person">Lappenberg</rs></hi>,<hi>
+                            <rs ref="#prescott-william-hickling" type="person">Prescott</rs></hi>,<hi><rs type="person" ref="#huber-christian-wilhelm">Huber</rs></hi>,<hi>
                             <rs ref="#mignet-francois-auguste-alexis" type="person">Mignet</rs>,</hi>
-                        <lb/>
-                        <hi>
-                            <rs ref="#ranke-leopold" type="person">Ranke</rs>
-                       </hi>,<hi>
-                            <rs ref="#raumer-friedrich-ludwig-georg" type="person">Raumer</rs>
-                       </hi>. <lb/> Die Commission ist bei ihrer <lb/> Discussion von folgenden
+                        <lb/><hi><rs ref="#ranke-leopold" type="person">Ranke</rs></hi>,<hi>
+                            <rs ref="#raumer-friedrich-ludwig-georg" type="person">Raumer</rs></hi>. <lb/> Die Commission ist bei ihrer <lb/> Discussion von folgenden
                         Ansichten <lb/> ausgegangen: <lb/>
-                        <num>1</num>
-                        <hi rend="super">o</hi> wenn es sich mehr um eine <lb/>
+                        <num>1</num><hi rend="super">o</hi> wenn es sich mehr um eine <lb/>
                         <hi>ehrende Auszeichnung</hi> handelt, nur <lb/> solche Namen zu nennen, die
                         als <lb/> allgemein anerkannte Autoritä- <lb/> ten gelten, eines
                         europäischen <lb/> Rufes genießen, <lb/>
-                        <num>2</num>
-                        <hi rend="super">o</hi> wenn mehr die <hi>Vertretung von</hi>
+                        <num>2</num><hi rend="super">o</hi> wenn mehr die <hi>Vertretung von</hi>
                         <lb/>
                         <hi>Fächern</hi> berücksichtigt werden soll, nur <lb/> dann Vorschläge dafür
                         zu machen, wenn <lb/> sich ein dringendes Bedürfniß heraus- <lb/> stellt und
@@ -2185,16 +2126,14 @@
                     <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p56">
                         <lb/> Zur Besetzung der <hi>zwei</hi> noch üb- <lb/> rigen Plätze für die
                         früher bestan- <lb/> denen Sectionen, einigte sich die <lb/> Commission in
-                        dem Vorschlage des <lb/> Herrn Baron <choice>
+                        dem Vorschlage des <lb/> Herrn Baron <rs ref="#schlechta-wssehrad-ottokar-maria" type="person"><choice>
                             <expan>
-                                <rs ref="#schlechta-wssehrad-ottokar-maria" type="person">von</rs>
+                                von
                             </expan>
                             <abbr>v<am>.</am>
                             </abbr>
                         </choice>
-                        <hi>
-                            <rs ref="#schlechta-wssehrad-ottokar-maria" type="person">Schlechta</rs>
-                       </hi> bei der <lb/> Gesandtschaft in <rs ref="#konstantinopel" type="place"
+                            <hi>Schlechta</hi></rs> bei der <lb/> Gesandtschaft in <rs ref="#konstantinopel" type="place"
                             >Constantinopel</rs> an- <lb/> gestellt, da die Section der orienta-
                         <lb/> lischen Philologie noch kein inländi- <lb/> sches correspondirendes
                         Mitglied <lb/> hat, und dieser Herr, sowohl durch <lb/> seine bewiesene
@@ -2218,8 +2157,8 @@
                         </choice>
                         <lb/>
                         <hi>
-                            <rs ref="#bonitz-hermann" type="person">Bonitz</rs>
-                       </hi>, welcher durch seine anerkannten <lb/> Leistungen in der Herausgabe
+                            <rs ref="#bonitz-hermann" type="person">Bonitz</rs></hi>, welcher durch seine anerkannten 
+                        <lb/> Leistungen in der Herausgabe
                         griechi- <lb/> scher Philosophen, denen er seinen Ruf an <lb/> die Wiener
                         Universität verdankt, nicht <lb/> nur das noch gar nicht vertretene <lb/>
                         Fach der griechischen Philologie, sondern <lb/> auch zum Theil einen Platz
@@ -2297,11 +2236,10 @@
                         <lb/> und zu den <hi>zwei</hi> noch übrigen Plätzen <lb/> für die andern
                         Sectionen, und zwar für <lb/> die am schwächsten repräsentirte <hi>ar-<lb/>
                             chäologische</hi> die Herren Baron <rs ref="#kerckhove-joseph-romain"
-                            type="person">von</rs>
+                            type="person">von
                         <lb/>
                         <hi>
-                            <rs ref="#kerckhove-joseph-romain" type="person">Kerckhove</rs>
-                       </hi> in <rs ref="#antwerpen" type="place">Antwerpen</rs>
+                            Kerckhove</hi></rs> in <rs ref="#antwerpen" type="place">Antwerpen</rs>
                         <choice>
                             <expan>und</expan>
                             <abbr>u<am>.</am>
