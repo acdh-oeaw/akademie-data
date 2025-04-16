@@ -17,6 +17,36 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="groll-andreas">
+               <persName>
+                  <surname>Groll</surname>
+               </persName>
+               <birth>
+                  <date when="1812-11-30">30.11.1812</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1872-03-20">20.03.1872</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Photographie-Pionier</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/132914433</idno>
+            </person>
+            <person xml:id="huber-christian-wilhelm">
+               <persName>
+                  <forename>Christian Wilhelm</forename>
+                  <surname>Huber</surname>
+               </persName>
+               <birth>
+                  <date when="1804-02-26">26.02.1804</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1871-12-01">01.12.1871</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Generalkonsul in Alexandria</occupation>
+               <occupation>Numismatiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1012219305</idno>
+            </person>
             <person xml:id="seravalle-marquis">
                <persName>
                   <surname>Marquis de Seravalle</surname>
@@ -1882,7 +1912,7 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115753621</idno>
                <idno type="paas">5628</idno>
             </person>
-            <person xml:id="eitl-nn">
+            <person xml:id="eitl-franz-vincenz">
                <persName>
                   <surname>Eitl</surname>
                   <forename>Franz Vincenz</forename>
@@ -2461,7 +2491,7 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118677330</idno>
                <idno type="paas">1378</idno>
             </person>
-            <person xml:id="grasse-nn">
+            <person xml:id="grasse-johann-georg-theodor">
                <persName>
                   <surname>Grässe</surname>
                   <forename>Johann Georg Theodor</forename>
@@ -11585,6 +11615,22 @@
                   <surname>Natterer</surname>
                   <forename>Johann</forename>
                </persName>
+            </person>
+            <person xml:id="natterer-josef-franz">
+               <persName>
+                  <forename>Josef Franz</forename>
+                  <surname>Natterer</surname>
+               </persName>
+               <birth>
+                  <date when="1819-05-23">23.05.1819</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1862-12-17">17.12.1862</date>
+                  <placeName>Khartum</placeName></death>
+               <occupation>Physiker</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116897481</idno>
             </person>
             <person xml:id="hruschauer-franz">
                <persName>
