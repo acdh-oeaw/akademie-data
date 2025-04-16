@@ -207,13 +207,13 @@
                                     <abbr>Freih<am>.</am>
                                 </abbr>
                             </choice>
-                            <choice>
-                                <expan>
-                                    <rs ref="#munch-bellinghausen-eligius" type="person">von Münch</rs>
-                                </expan>
+                            <rs ref="#munch-bellinghausen-eligius" type="person">
+                                <choice>
+                                <expan>von</expan>
                                 <abbr>v<am>.</am>
                             </abbr>
-                        </choice>
+                        </choice> 
+                        Münch</rs>
                         <lb/>
                         <choice>
                             <expan>Herr</expan>
@@ -281,11 +281,10 @@
             </choice>
             <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.</p>
                     <p facs="#facs_1_region_1576510534506_744" rendition="#?16-76-92--402-2303" xml:id="p8" xml:space="preserve">
-                <lb/>Als Gäste. Der <choice>
+                <lb/>Als Gäste: Der <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        Hr
-                        <am>.</am>
+                        Hr<am>.</am>
                     </abbr>
                 </choice> General-Secretär <rs type="person" ref="#ettingshausen-von-andreas"><choice>
                         <expan>
@@ -322,13 +321,13 @@
                 <abbr>
                     <am>"</am>
                 </abbr>
-            </choice> Marquis <choice>
-                <expan>von</expan>
-                <abbr>v<am>.</am>
-            </abbr>
-        </choice>
-            Seravalle
-        <lb/>
+            </choice> Marquis <rs type="person" ref="#seravalle-marquis"><choice>
+                    <expan>von</expan>
+                    <abbr>v<am>.</am>
+                    </abbr>
+            </choice>
+                Seravalle</rs>
+                        <lb/>
         <choice>
             <expan>Herr</expan>
             <abbr>
@@ -378,8 +377,7 @@
                 einige lateinische Epigramme
             <lb/>
             <rs ref="#denis-michael" type="person">
-                <hi>Denis</hi>'
-            </rs> die unedirt seyn dürften.</p>
+                <hi>Denis</hi></rs>' die unedirt seyn dürften.</p>
                     <p facs="#facs_2_region_1576573404586_64" rendition="#?20-80-100--330-1631" xml:id="p11" xml:space="preserve">
                 <lb/>Ersteres wird <choice>
                     <expan>Herrn</expan>
@@ -417,9 +415,7 @@
                 <abbr>v<am>.</am>
                 </abbr>
         </choice>
-            <hi>Sava</hi></rs>, eine</p>
-                    <p facs="#facs_2_region_1576573427401_70" rendition="#?21-79-100--345-1633" xml:id="p13" xml:space="preserve">
-            <lb/>gedruckte Abhandlung. "Bemer-<lb/>
+            <hi>Sava</hi></rs>, eine gedruckte Abhandlung. "Bemer-<lb/>
                 kungen über Waffen, Rüstung
             <lb/>
                 und Kleidung im Mittelalter
@@ -452,17 +448,12 @@
                 <abbr>Max<am>.</am>
             </abbr>
         </choice>
-        <hi><rs ref="#fischer-maximilian" type="person">Fischer</rs></hi> Ar-</p>
-                    <p facs="#facs_2_region_1576573475397_85" rendition="#?21-79-100--347-1636" xml:id="p16" xml:space="preserve">
-            <lb/>
-                chivar in <rs type="place" ref="#klosterneuburg">Kosterneuburg</rs>, zwei
-            <lb/>
-                handschriftliche Werke: "Beiträge
-            <lb/>
-                zu den lateinischen und deutschen
+        <hi><rs ref="#fischer-maximilian" type="person">Fischer</rs></hi> Ar-
+            <lb/>chivar in <rs type="place" ref="#klosterneuburg">Kosterneuburg</rs>, zwei
+            <lb/>handschriftliche Werke: "Beiträge
+            <lb/>zu den lateinischen und deutschen
             <lb/>Glossarien des Mittelalters"; <lb/>
-              "Einstige Klöster und
-                Ortschaf-
+              "Einstige Klöster und Ortschaf-
             <lb/>ten im Lande unter der Enns."<lb/>
             <choice>
                 <expan>Herrn</expan>
@@ -481,8 +472,7 @@
             <choice>
                 <expan>Herr</expan>
                 <abbr>
-                    Hr
-                    <am>.</am>
+                    Hr<am>.</am>
                 </abbr>
             </choice> Regierungsrath <hi>
                 <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>
@@ -512,11 +502,12 @@
         <lb/>anträgt, sie dem <rs ref="#lanza-francesco-franz" type="person">Verfasser</rs> zurückzu-
         <lb/>senden.</p>
                     <p facs="#facs_3_region_1576574424162_172" rendition="#f" xml:id="p18" xml:space="preserve">
-            <lb/>Welchem Antrag die Classe beistimmt.<lb/>Der <choice>
+            <lb/>Welchem Antrag die Classe beistimmt.</p>
+                    <p facs="#facs_3_region_1576574424162_172" rendition="#f" xml:id="p19" xml:space="preserve">
+                        <lb/>Der <choice>
                 <expan>Herr</expan>
                 <abbr>
-                    Hr
-                    <am>.</am>
+                    Hr<am>.</am>
                 </abbr>
             </choice>
             <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi>
@@ -525,16 +516,19 @@
                 seiner Übersicht der Geschichte der
                 arabi-
             <lb/>schen Literatur fort.</p>
-                    <p facs="#facs_3_region_1576574432418_175" rendition="#f" xml:id="p19" xml:space="preserve">
+                    <p facs="#facs_3_region_1576574432418_175" rendition="#f" xml:id="p20" xml:space="preserve">
                 <lb/>Der <hi>Secretär <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        Hr
-                        <am>.</am>
+                        Hr<am>.</am>
                     </abbr>
                 </choice>
                 <rs ref="#wolf-ferdinand" type="person">Wolf</rs></hi> liest einen
-            <lb/>für die Sitzungsberichte bestimmten Aufsatz:<lb/>
+            <lb/>für 
+                        <subst>
+                            <del>das Archiv</del>
+                            <add>die Sitzungsberichte</add>
+                        </subst> bestimmten Aufsatz:<lb/>
                 Über ein Denkschreiben Don Diego
             <lb/>Hurtado <rs ref="#mendoza-y-pacheco-diego-hurtado" type="person">de Mendoza</rs>'s
                 an Kaiser
@@ -542,7 +536,7 @@
             <rs ref="#habsburg-karl-v" type="person">Carl V.</rs>, um ihn zu bestimmen
             <lb/>
             <rs ref="#mailand" type="place">Mailand</rs>'s Besitz nicht aufzugeben.</p>
-                    <p facs="#facs_3_region_1576574442457_178" rendition="#?46-51-97--604-1272" xml:id="p20" xml:space="preserve">
+                    <p facs="#facs_3_region_1576574442457_178" rendition="#?46-51-97--604-1272" xml:id="p21" xml:space="preserve">
                 <lb/>
                 <rs ref="#hammer-purgstall-von-joseph" type="person">DvHammer-Purgstall</rs>
                 <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
