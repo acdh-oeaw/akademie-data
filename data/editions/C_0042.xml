@@ -162,15 +162,13 @@
                                     <lb/>Anwesend: Der <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            Hr
-                                            <am>.</am>
+                                            Hr<am>.</am>
                                         </abbr>
                                     </choice> Präsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
                                     <lb/>Die wirklichen Mitglieder <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            Hr
-                                            <am>.</am>
+                                            Hr<am>.</am>
                                         </abbr>
                                     </choice>
                                     <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
@@ -202,14 +200,13 @@
                                         <am>"</am>
                                     </abbr>
                                 </choice>
-                                <choice>
+                                <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                     <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                        von
                                     </expan>
                                     <abbr>v<am>.</am>
                                 </abbr>
-                            </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                            </choice> Karajan</rs>
                             <lb/>
                             <choice>
                                 <expan>Herr</expan>
@@ -241,22 +238,16 @@
                                 </abbr>
                             </choice>
                             <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
-                        </p>
-                    <p facs="#facs_1_region_1578564278162_714" rendition="#fc" xml:id="p8" xml:space="preserve">
-                            <lb/>Als Gäste: Freiherr <choice>
-                                <expan>
-                                    <rs ref="#pillersdorff-von-franz-xaver" type="person">von</rs>
-                                </expan>
-                                <abbr>v<am>.</am>
-                            </abbr>
+                       <lb/>Als Gäste: Freiherr <rs ref="#pillersdorff-von-franz-xaver" type="person"><choice>
+                                <expan>von</expan>
+                                <abbr>v<am>.</am></abbr>
                         </choice>
-                        <rs ref="#pillersdorff-von-franz-xaver" type="person">Pillersdorf</rs>
+                        Pillersdorf</rs>
                         <lb/>
                         <choice>
                             <expan>Herr</expan>
                             <abbr>
-                                Hr
-                                <am>.</am>
+                                Hr<am>.</am>
                             </abbr>
                         </choice>
                         <choice>
@@ -279,8 +270,7 @@
                         <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> legt vor:</p>
                     <p facs="#facs_1_region_1578564303096_720" rendition="#r" xml:id="p10" xml:space="preserve">
                         <lb/>
-                        <hi>a</hi>
-                            . einen an ihn gerichteten Brief
+                        <hi>a</hi>. einen an ihn gerichteten Brief
                         <lb/>des <choice>
                             <expan>Herrn</expan>
                             <abbr>Hrn<am>.</am>
@@ -292,8 +282,7 @@
                         und Bibliothekars
                 <lb/>
                 <hi>
-                    <rs ref="#keller-adelbert" type="person">Keller</rs></hi> in <rs ref="#tubingen" type="place">Tübingen</rs>
-                    , worin er im
+                    <rs ref="#keller-adelbert" type="person">Keller</rs></hi> in <rs ref="#tubingen" type="place">Tübingen</rs>, worin er im
                 <lb/>Namen der Universitäts-Biblio-<lb/>thek in <rs ref="#tubingen" type="place">Tübingen</rs>
                     um einen
                     Schrif-
@@ -328,11 +317,8 @@
                         <abbr>D<hi rend="super">r</hi>
                     </abbr>
                 </choice>
-                <hi>
-                    <rs ref="#wattenbach-wilhelm" type="person">Wattenbach</rs>,</hi> sein</p>
-                    <p facs="#facs_2_region_1578645834590_20" rendition="#?16-82-98--236-1469" xml:id="p14" xml:space="preserve">
-                        <lb/>
-                            Werk: "Beiträge zur Geschichte
+                <hi><rs ref="#wattenbach-wilhelm" type="person">Wattenbach</rs></hi>, sein
+                        <lb/>Werk: "Beiträge zur Geschichte
                         <lb/>der <choice>
                             <expan>christlichen</expan>
                             <abbr>christl<am>.</am>
@@ -360,8 +346,7 @@
                     <lb/>
                     <choice><expan>Herr</expan>
                             <abbr>Hr<am>.</am></abbr></choice> Regierungsrath <hi>
-                        <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                   </hi>
+                        <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
                     <lb/>
                         stellt den Antrag auf Intercession
                     <lb/>
@@ -413,16 +398,14 @@
                     <lb/>
                     <choice><expan>Herr</expan>
                             <abbr>Hr<am>.</am></abbr></choice>
-                    <choice>
+                    <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                         <expan>
-                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                            von
                         </expan>
                         <abbr>v<am>.</am>
                     </abbr>
                 </choice>
-                <hi>
-                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-               </hi>
+                <hi>Karajan</hi></rs>               
                     liest eine
                 <lb/>Abhandlung des <choice>
                     <expan>Herrn</expan>
@@ -439,13 +422,12 @@
                     (zum Abdruck in den
                     Denk-
                 <lb/>schriften der Nicht-Mitglied-<lb/>der bestimmt.)</p>
-                    <p facs="#facs_3_region_1578648177015_278" rendition="#fc" xml:id="p21" xml:space="preserve">
+                    <p facs="#facs_3_region_1578648177015_278" rendition="#f" xml:id="p21" xml:space="preserve">
                     <lb/>
                     <choice>
                         <expan>Herr</expan>
                         <abbr>
-                            Hr
-                            <am>.</am>
+                            Hr<am>.</am>
                         </abbr>
                     </choice>
                     <choice>
@@ -453,9 +435,7 @@
                         <abbr>D<hi rend="super">r</hi>
                     </abbr>
                 </choice>
-                <hi>
-                    <rs ref="#goldenthal-jakob" type="person">Goldenthal</rs>
-               </hi> liest:</p>
+                <hi><rs ref="#goldenthal-jakob" type="person">Goldenthal</rs></hi> liest:</p>
                     <p facs="#facs_3_region_1578648195935_281" rendition="#f" xml:id="p22" xml:space="preserve">
                     <lb/>
                         "Grundzüge und Beiträge zu
@@ -465,11 +445,9 @@
                     <lb/>binisch-philosophischen Wörterbuch."<lb/>
                         (Für die Denkschriften
                     <lb/>bestimmt.)</p>
-                    <p facs="#facs_3_region_1578648201784_284" rendition="#fc" xml:id="p23" xml:space="preserve">
-                        <lb/>
-                        <rs ref="#hammer-purgstall-von-joseph" type="person">DrHammer-Purgstall</rs>
-                        <lb/>
-                        <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+                    <p facs="#facs_3_region_1578648201784_284" rendition="#f" xml:id="p23" xml:space="preserve">
+                        <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">DrHammer-Purgstall</rs>
+                        <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
                     </p>
                 </div>
             </div>
