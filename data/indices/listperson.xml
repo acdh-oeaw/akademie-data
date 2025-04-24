@@ -17,6 +17,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="Anakreon">
+               <persName>
+                  <surname>Anakreon</surname>
+               </persName>
+               <persName type="alt">Ἀνακρέων</persName>
+               <persName type="alt">Anakréōn</persName>
+               <birth>
+                  <date>um 575/560 v. Chr.</date>
+                  <placeName>Teos/Ionien</placeName>
+               </birth>
+               <death>
+                  <date>um 495/478 v. Chr.</date>
+                  <placeName>Athen</placeName></death>
+               <occupation>griechischer Lyriker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118649035</idno>
+            </person>
             <person xml:id="groll-andreas">
                <persName>
                   <surname>Groll</surname>
