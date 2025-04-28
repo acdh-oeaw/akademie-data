@@ -880,14 +880,15 @@
                   <surname>Schmierer</surname>
                </persName>
                <birth>
-                  <date>um 1814</date>
-                  <placeName>Budapest</placeName>
+                  <date when="1814-05-06">06.05.1814</date>
+                  <placeName>(Buda-)Pest</placeName>
                </birth>
                <death> </death>
+               <occupation>1829 bis 1852 in der k.k österreichischen Armee</occupation>
                <occupation>Fortifikationsschanz-Korporal (anläßlich seiner Eheschließung am 23.
                   Febr. 1841 in Wien/Feldsuperiorat)</occupation>
-               <occupation>Hausinspektor am Polytechnischen Institut (ab 1853)</occupation>
-            </person>
+               <occupation>Hausinspektor am Polytechnischen Institut (ab 16.09.1853)</occupation>
+               </person>
             <person xml:id="vetter-madgalena">
                <persName>
                   <forename>Magdalena</forename>
@@ -1080,6 +1081,7 @@
                </birth>
                <death>
                   <date when="1887-05-18">18.5.1887</date>
+                  <placeName>Paris</placeName>
                </death>
                <occupation code="#3633" scheme="#apis_vocabularies/professiontype/"
                   >Mediävist</occupation>
@@ -1101,6 +1103,7 @@
                </birth>
                <death>
                   <date when="1867-10-23">23.10.1867</date>
+                  <placeName>Berlin</placeName>
                </death>
                <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
                   >Orientalist</occupation>
@@ -1149,6 +1152,7 @@
                </birth>
                <death>
                   <date when="1850-04-18">18.04.1850</date>
+                  <placeName>Saint‑Josse‑ten‑Noode</placeName>
                </death>
                <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
                   >Historiker</occupation>
