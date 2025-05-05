@@ -17,6 +17,17 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="russell-wilhelm">
+               <persName>
+                  <forename>Wilhelm Jakob</forename>
+                  <surname>Russell</surname>
+               </persName>
+               <birth>
+                  <date when="1803-11-15">15.11.1803</date>
+                  <placeName>Swords/Irland</placeName>
+               </birth>
+               <occupation>k.k. Rittmeister bei der Armee (1841, 1849)</occupation>
+               <occupation>k.k. Major bei der Armee (1854, 1865, 1871, 1874, 1878)</occupation></person>
             <person xml:id="Anakreon">
                <persName>
                   <surname>Anakreon</surname>
@@ -4217,11 +4228,18 @@
                   <forename>Mathias</forename>
                </persName>
                <birth>
-                  <date when="1797-07-02">1797</date>
+                  <date when="1798-11-03">03.11.1798</date>
+                  <placeName>Wien</placeName>
                </birth>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49548/</idno>
-               <idno type="paas">49548</idno>
-            </person>
+               <death>
+                  <date when="1877-04-27">27.04.1877</date>
+                  <placeName>Baden bei Wien</placeName>
+                  </death>
+               <occupation>Historiker</occupation>
+               <occupation>Publizist</occupation>
+               <occupation>Schrifsteller</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116280298</idno>
+            </person>            
             <person xml:id="delvert-christian">
                <persName>
                   <surname>D’Elvert</surname>
