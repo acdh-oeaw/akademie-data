@@ -17,6 +17,26 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="eichwald-karl-eduard">
+               <persName>
+                  <surname>Eichwald, von</surname>
+                  <addName>Professor</addName>
+                  <nameLink>von</nameLink>
+                  <forename>Karl Eduard</forename>
+               </persName>
+               <birth>
+                  <date when="1795-07-04">04.07.1795</date>
+                  <placeName>Mitau</placeName>
+               </birth>
+               <death>
+                  <date when="1876-11-16">4./16.11.1876</date>
+                  <placeName>St. Petersburg</placeName>
+               </death>
+               <occupation>Zoologe</occupation>
+               <occupation>Paläontologe</occupation>
+               <occupation>Geburtshelfer</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116418273</idno>
+               </person>
             <person xml:id="russell-wilhelm">
                <persName>
                   <forename>Wilhelm Jakob</forename>
