@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="wurth-joseph">
+               <persName>
+                  <forename>Joseph (Ignaz)</forename>
+                  <nameLink>von</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Würth</surname>
+               </persName>
+               <birth>
+                  <date when="1817-11-17">17.11.1817</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1855-01-17">17.01.1855</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Rechtsgelehrter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117375519</idno>
+            </person>            
             <person xml:id="eichwald-karl-eduard">
                <persName>
                   <surname>Eichwald, von</surname>
