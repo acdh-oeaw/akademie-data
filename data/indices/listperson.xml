@@ -17,6 +17,38 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="volke-friedrich">
+               <persName>
+                  <forename>Friedrich</forename>
+                  <surname>Volke</surname>
+               </persName>
+               <birth>
+                  <date>24.10.1780</date>
+                  <placeName>Weimar</placeName>
+               </birth>
+               <death>
+                  <date when="1830-04-28">28.04.1830</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Verleger</occupation>
+               <occupation>Buchhändler</occupation>
+               <occupation>Die Buchhandlung wurde (Spezialität: italienische Literatur) wurde bis 1834 von der Witwe Wilhelmine Volke (ca. 1786–1847) weitergeführt</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1037654102</idno>
+            </person>
+            <person xml:id="vergil">
+               <persName>
+                  <forename>Publius</forename>
+                  <surname>Vergilius Maro</surname>
+               </persName>
+               <birth>
+                  <date>70 v. Chr.</date>
+                  <placeName>Andiast</placeName>
+               </birth>
+               <death>
+                  <date>19 v. Chr.</date>
+                  <placeName>Brindisi</placeName></death>
+               <occupation>Antiker Dichter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118626574</idno>
+            </person>
             <person xml:id="wurth-joseph">
                <persName>
                   <forename>Joseph (Ignaz)</forename>
@@ -2089,7 +2121,7 @@
                </persName>
                <birth>
                   <date when="1802-05-18">18.05.1802</date>
-                  <placeName>Lázně Kynžvart</placeName>
+                  <placeName>Königswart/Böhmen (Lázně Kynžvart)</placeName>
                </birth>
                <death>
                   <date when="1863-11-20">20.11.1863</date>
@@ -4163,7 +4195,7 @@
                </birth>
                <death>
                   <date when="1859-11-22">22.11.1859</date>
-               </death>
+                  <placeName>Wien</placeName></death>
                <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
                   >Archäologe</occupation>
                <occupation code="#3666" scheme="#apis_vocabularies/professiontype/"
@@ -5481,9 +5513,11 @@
                </persName>
                <birth>
                   <date when="1787-11-02">02.11.1787</date>
+                  <placeName>Lucinico b. Görz</placeName>
                </birth>
                <death>
                   <date when="1865-11-24">24.11.1865</date>
+                  <placeName>Wien</placeName>
                </death>
                <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
                   >Philologe</occupation>
