@@ -1194,8 +1194,7 @@
                             </abbr>
                         </choice></p>
                     <p facs="#facs_6_region_1578401353532_390" rendition="#f" xml:id="p99">
-                        <num>4</num>
-                        <hi rend="super">o</hi> Zu <hi>ausländischen correspon-<lb/> direnden
+                        <num>4</num><hi rend="super">o</hi> Zu <hi>ausländischen correspon-<lb/> direnden
                             Mitgliedern</hi> wurden für <lb/> die <hi>fünf</hi> Plätze der
                         philosophischen <lb/> Section vorgeschlagen: <lb/>
                         <rs ref="#rau-karl-heinrich" type="person">Rauh</rs> mit <num>13</num>
@@ -1520,14 +1519,14 @@
                         <hi>Mitgliedern</hi> die Herren: 
                         <hi><rs ref="#gerhard-eduard" type="person">Gerhard</rs></hi>,
                         <lb/><hi><rs ref="#panofka-theodor" type="person">Panofka</rs></hi>,
-                        <hi><rs ref="#bahr-johann-christian-felix" type="person">Bähr</rs></hi>,<choice>
+                        <hi><rs ref="#bahr-johann-christian-felix" type="person">Bähr</rs></hi>,
+                        <rs ref="#lassberg-joseph" type="person"><choice>
                             <expan>
-                                <rs ref="#lassberg-joseph" type="person">von</rs>
+                                von
                             </expan>
                             <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <hi><rs ref="#lassberg-joseph" type="person">Lassberg</rs></hi>,
+                            </abbr></choice>
+                                <hi>Lassberg</hi></rs>,
                         <hi><rs ref="#streber-franz-seraph-napoleon" type="person">Streber</rs></hi>,
                         <lb/><hi><rs ref="#foringer-heinrich" type="person">Föringer</rs></hi>,
                         <hi><rs ref="#schulz-heinrich-wilhelm" type="person">Schulz</rs></hi>,
@@ -1588,24 +1587,14 @@
                             </abbr>
                         </choice>
                         <hi><rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs></hi>,
-                        <hi><rs ref="#koch-sternfeld-joseph-ernst" type="person">Koch-Sternfeld</rs></hi>,<rs ref="#lassberg-joseph" type="person"><choice>
-                            <expan>
-                                von
-                            </expan>
-                            <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
+                        <hi><rs ref="#koch-sternfeld-joseph-ernst" type="person">Koch-Sternfeld</rs></hi>, 
+                        <rs ref="#lassberg-joseph" type="person"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice>
                                 <hi>Lassberg</hi></rs>,
                         <lb/><rs ref="#zellweger-johann-kaspar" type="person">Zellweger</rs>. </p>
                     <p facs="#facs_6_region_1578401353532_390" rendition="#f" xml:id="p103">
-                        <num>4</num><hi rend="super">o</hi> von Freiherrn <choice>
-                            <expan>
-                                <rs ref="#hugel-karl-alexander" type="person">von</rs>
-                            </expan>
-                            <abbr>v<am>.</am>
-                            </abbr>
-                        </choice>
-                        <hi><rs ref="#hugel-karl-alexander" type="person">Hügel</rs></hi>,
+                        <num>4</num><hi rend="super">o</hi> von Freiherrn 
+                        <rs ref="#hugel-karl-alexander" type="person"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice>
+                            <hi>Hügel</hi></rs>,
                         <lb/> zu <choice>
                             <expan>ausländischen-correspondirenden</expan>
                             <abbr>ausländ<am>.</am>
@@ -1788,7 +1777,7 @@
                         <hi><rs ref="#gaisberger-joseph" type="person">Gaisberger</rs></hi>,
                         <hi><rs ref="#hagn-theoderich-georg" type="person">Hagen</rs></hi>,
                         <hi><rs ref="#kaltenbaeck-kaltenbaek-johann-paul" type="person">Kal-
-                                <lb/>tenbaeck</rs></hi>,<hi><rs ref="#pritz-franz-xaver" type="person">Pritz</rs></hi>,
+                                <lb/>tenbaeck</rs></hi>, <hi><rs ref="#pritz-franz-xaver" type="person">Pritz</rs></hi>,
                         <hi><rs ref="#sava-karl" type="person">Saba</rs></hi>,
                         <hi><rs ref="#tangl-karlmann" type="person">Tangl</rs></hi>
                         <choice>
@@ -1812,14 +1801,8 @@
                         <hi><rs ref="#buchner-andreas" type="person">Buchner</rs></hi>,<lb/>
                         <hi><rs ref="#gerhard-eduard" type="person">Gerhard</rs></hi>,
                         <hi><rs ref="#koch-sternfeld-joseph-ernst" type="person">Koch-Sternfeld</rs></hi>,
-                        <hi><rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs></hi>,<rs type="person" ref="#lassberg-joseph"><choice>
-                                    <expan>
-                                        von
-                                    </expan>
-                                    <abbr>v<am>.</am>
-                                    </abbr>
-                            </choice>
-                                <lb/>
+                        <hi><rs ref="#kopp-joseph-eutychius" type="person">Kopp</rs></hi>, 
+                        <rs type="person" ref="#lassberg-joseph"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice><lb/>
                                 <hi>Lassberg</hi></rs>,
                         <hi><rs ref="#zellweger-johann-kaspar" type="person">Zellweger</rs></hi>. </p>
                 </div>
@@ -1916,13 +1899,16 @@
                         <hi><rs ref="#mignet-francois-auguste-alexis" type="person">Mignet</rs></hi>,
                         <lb/>
                         <hi><rs ref="#ranke-leopold" type="person">Ranke</rs></hi>,
-                        <hi><rs ref="#raumer-friedrich-ludwig-georg" type="person">Raumer</rs></hi>. 
-                        <lb/> Die Commission ist bei ihrer <lb/> Discussion von folgenden
-                        Ansichten <lb/> ausgegangen: <lb/>
+                        <hi><rs ref="#raumer-friedrich-ludwig-georg" type="person">Raumer</rs></hi>.</p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p60"> 
+                        Die Commission ist bei ihrer <lb/> Discussion von folgenden
+                        Ansichten <lb/> ausgegangen:</p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p61">
                         <num>1</num><hi rend="super">o</hi> wenn es sich mehr um eine <lb/>
                         <hi>ehrende Auszeichnung</hi> handelt, nur <lb/> solche Namen zu nennen, die
                         als <lb/> allgemein anerkannte Autoritä- <lb/> ten gelten, eines
-                        europäischen <lb/> Rufes genießen, <lb/>
+                        europäischen <lb/> Rufes genießen,</p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p62">
                         <num>2</num><hi rend="super">o</hi> wenn mehr die <hi>Vertretung von</hi>
                         <lb/>
                         <hi>Fächern</hi> berücksichtigt werden soll, nur <lb/> dann Vorschläge dafür
@@ -1930,7 +1916,9 @@
                         diesem entsprechende Kräfte <lb/> sich darbieten, sonst aber für ein ge-
                         <lb/> gebenes Fach lieber <hi>einige Plätze</hi>
                         <lb/>
-                        <hi>in suspenso</hi> zu lassen. <lb/> Letztere Rücksicht war bei den <lb/>
+                        <hi>in suspenso</hi> zu lassen.</p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p63">
+                        Letztere Rücksicht war bei den <lb/>
                         <hi>nun</hi> vorzunehmenden Wahlen <lb/> insbesondere für die neu errich-
                         <lb/> tete <hi>philosophisch-staatswissenschaftliche</hi>
                     </p>
@@ -1943,7 +1931,9 @@
                         <lb/> Section zu beobachten, für welche die <lb/> Plätze von <hi>drei</hi>
                         wirklichen Mitglie- <lb/> dern und <hi>fünf</hi> inländischen und <lb/>
                         <hi>ebensoviel</hi> ausländischen Corres- <lb/> pondenten offen gelassen
-                        wurden. <lb/> Nachdem man sich über diese <lb/> Ansichten geeinigt hatte,
+                        wurden.</p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p64">
+                        Nachdem man sich über diese <lb/> Ansichten geeinigt hatte,
                         schritt <lb/> man zu dem Wahlvorschlag für <lb/> die durch <rs
                             ref="#hermann-johann-gottfried" type="person">Hermann</rs>'s Tod
                         erledigte <lb/> Stelle eines <hi>
@@ -1951,7 +1941,9 @@
                                 <expan>ausländischen</expan>
                                 <abbr>ausländ<am>.</am>
                                 </abbr>
-                            </choice> Ehrenmitgliedes</hi>, <lb/> Man glaubte – da bei den frü-
+                            </choice> Ehrenmitgliedes</hi>, </p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p65">
+                        Man glaubte – da bei den frü-
                         <lb/> heren Wahlen die übrigen Fächer <lb/> der Classe schon berücksichtigt
                         wurden,<lb/> diesmal der <hi>neu errichteten</hi>
                         <lb/> Section auch bei <hi>dieser</hi> Wahl eine <lb/> Vertretung einräumen
@@ -1968,7 +1960,8 @@
                             <abbr>geh<am>.</am>
                             </abbr>
                         </choice> Rathes <lb/>
-                        <hi><rs ref="#mittermaier-carl-joseph-anton" type="person">Mittermaier</rs></hi> in <rs ref="#heidelberg" type="place">Heidelberg</rs>. <lb/> Von den
+                        <hi><rs ref="#mittermaier-carl-joseph-anton" type="person">Mittermaier</rs></hi> in <rs ref="#heidelberg" type="place">Heidelberg</rs>.</p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p66"> Von den
                             <hi>drei</hi> für die neue <lb/> Section reservirten Plätzen <lb/>
                         <hi>wirklicher Mitglieder</hi> wurde vor <lb/> der Hand nur die Besetzung
                             <hi>Eines</hi>
@@ -2016,7 +2009,9 @@
                             </expan>
                             <abbr>Mitgldr<am>.</am>
                             </abbr>
-                        </choice> zu <lb/> ernennen. <lb/> Die beiden übrigen Plätze wirk- <lb/>
+                        </choice> zu <lb/> ernennen. </p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p67">
+                        Die beiden übrigen Plätze wirk- <lb/>
                         licher Mitglieder sollten aber jetzt <lb/> noch für die <hi>
                             <choice>
                                 <expan>philosophisch-</expan>
@@ -2025,7 +2020,9 @@
                             </choice>staatswissenschaft-<lb/> liche</hi> Section in suspenso
                         bleiben,<lb/> da weder ein Bedürfniß zu ihrer <lb/>
                         <hi>alsogleichen</hi> Besetzung, noch unabweis- <lb/> bare Ansprüche
-                        vorliegen. <lb/> Für den durch den Austritt des <lb/> Grafen <rs
+                        vorliegen. </p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p68">
+                        Für den durch den Austritt des <lb/> Grafen <rs
                             ref="#dessewffy-emil" type="person">Dessewffy</rs> erledigen Platz ei-
                         <lb/> nes <hi>wirklichen Mitgliedes</hi> glaubte die <lb/> Commission im
                         Sinne der Statuten <lb/> wieder vorzugsweise einen <hi>Magyaren</hi>
@@ -2048,7 +2045,9 @@
                             </abbr>
                         </choice> Akademie, und bereits corres- <lb/> pondirenden Mitgliede unserer
                         <lb/> Akademie (zwei Namen waren zur <lb/> Ausfüllung der Ternen noch
-                        beizufügen?) <lb/> Da von den zu besetzenden</p>
+                        beizufügen?) </p>
+                    <p facs="#facs_10_region_1578401582919_466" rendition="#f" xml:id="p69">
+                        Da von den zu besetzenden</p>
                 </div>
             </div>
             <div n="10" type="page" xml:id="d19">
@@ -2123,7 +2122,8 @@
                         griechi- <lb/> scher Philosophen, denen er seinen Ruf an <lb/> die Wiener
                         Universität verdankt, nicht <lb/> nur das noch gar nicht vertretene <lb/>
                         Fach der griechischen Philologie, sondern <lb/> auch zum Theil einen Platz
-                        in der phi- <lb/> losophischen Section ausfallen würde. <lb/> Zu den
+                        in der phi- <lb/> losophischen Section ausfallen würde. </p>
+                    <p facs="#facs_11_region_1578401621330_481" rendition="#f" xml:id="p70"> Zu den
                             <hi>sieben</hi> Plätzen <hi>ausländischer</hi>
                         <lb/>
                         <hi>correspondirenden Mitglieder</hi> wurden <lb/> für die <hi>fünf</hi> der <choice>
@@ -2191,8 +2191,7 @@
                             </abbr>
                         </choice>
                         <rs ref="#trendelenburg-friedrich-adolf" type="person">Trendelenburg</rs> in
-                            <rs ref="#berlin" type="place">Berlin</rs>, </p>
-                    <p facs="#facs_11_region_1578401621330_481" rendition="#f" xml:id="p59">
+                            <rs ref="#berlin" type="place">Berlin</rs>, 
                         <lb/> und zu den <hi>zwei</hi> noch übrigen Plätzen <lb/> für die andern
                         Sectionen, und zwar für <lb/> die am schwächsten repräsentirte <hi>ar-<lb/>
                             chäologische</hi> die Herren Baron <rs ref="#kerckhove-joseph-romain"
