@@ -17,6 +17,80 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="hornstein-karl">
+               <persName>
+                  <forename>Karl</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Hornstein</surname>
+               </persName>
+               <birth>
+                  <date when="1824-08-07">07.08.1824</date>
+                  <placeName>Brünn</placeName>
+               </birth>
+               <death>
+                  <date when="1882-12-22">22.12.1882</date>
+                  <placeName>Prag</placeName></death>
+               <occupation>Astronom</occupation>
+               <occupation>Naturwissenschaftler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117531693</idno>
+            </person>
+            <person xml:id="kner-rudolf">
+               <persName>
+                  <forename>Rudolf</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Kner</surname>
+               </persName>
+               <birth>
+                  <date when="1810-08-24">24.08.1810</date>
+                  <placeName>Linz</placeName>
+               </birth>
+               <death>
+                  <date when="1869-10-27">27.10.1869</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Zoologe/Ichthyloge</occupation>
+               <occupation>Geologe</occupation>
+               <occupation>Paläontologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116253592</idno>
+            </person>
+            <person xml:id="gottlieb-johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Gottlieb</surname>
+               </persName>
+               <birth>
+                  <date when="1815-02-15">15.02.1815</date>
+                  <placeName>Brünn</placeName>
+               </birth>
+               <death>
+                  <date when="1875-03-04">04.03.1875</date>
+                  <placeName>Graz</placeName></death>
+               <occupation>Chemiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116794178</idno>
+            </person>
+            <person xml:id="eugen-iv">
+               <persName>
+                  <forename>Eugen IV.</forename>
+                  <surname>Papst</surname>
+               </persName>
+               <birth>
+                  <date>um 1383</date>
+                  <placeName>Venedig</placeName>
+               </birth>
+               <death>
+                  <date when="1447-02-23">23.02.1447</date>
+                  <placeName>Rom</placeName></death>
+               <occupation>Papst (1431–1447)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118531328</idno>
+            </person>
+            <person xml:id="as-by">
+               <persName>
+                  <surname>As-By</surname>
+               </persName>
+               <occupation>Das von "As-By", Wien, eingesandte Ms. konnte nicht zurückgestellt
+                  werden, da der Autor nicht identifiziert werden konnte. Das Ms. befindet sich
+                  daher heute im AÖAW, Allg. Akten, Nr. 5/1849.</occupation>
+            </person>
             <person xml:id="volke-friedrich">
                <persName>
                   <forename>Friedrich</forename>
@@ -31,7 +105,8 @@
                   <placeName>Wien</placeName></death>
                <occupation>Verleger</occupation>
                <occupation>Buchhändler</occupation>
-               <occupation>Die Buchhandlung wurde (Spezialität: italienische Literatur) wurde bis 1834 von der Witwe Wilhelmine Volke (ca. 1786–1847) weitergeführt</occupation>
+               <occupation>Die Buchhandlung wurde (Spezialität: italienische Literatur) wurde bis
+                  1834 von der Witwe Wilhelmine Volke (ca. 1786–1847) weitergeführt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1037654102</idno>
             </person>
             <person xml:id="vergil">
@@ -65,7 +140,7 @@
                   <placeName>Wien</placeName></death>
                <occupation>Rechtsgelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117375519</idno>
-            </person>            
+            </person>
             <person xml:id="eichwald-karl-eduard">
                <persName>
                   <surname>Eichwald, von</surname>
@@ -85,7 +160,7 @@
                <occupation>Paläontologe</occupation>
                <occupation>Geburtshelfer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116418273</idno>
-               </person>
+            </person>
             <person xml:id="russell-wilhelm">
                <persName>
                   <forename>Wilhelm Jakob</forename>
@@ -96,7 +171,8 @@
                   <placeName>Swords/Irland</placeName>
                </birth>
                <occupation>k.k. Rittmeister bei der Armee (1841, 1849)</occupation>
-               <occupation>k.k. Major bei der Armee (1854, 1865, 1871, 1874, 1878)</occupation></person>
+               <occupation>k.k. Major bei der Armee (1854, 1865, 1871, 1874, 1878)</occupation>
+            </person>
             <person xml:id="Anakreon">
                <persName>
                   <surname>Anakreon</surname>
@@ -147,9 +223,11 @@
                <persName>
                   <surname>Marquis de Seravalle</surname>
                </persName>
-               <occupation>nennt sich 1848 "ehemaligen Kommandanten der Nationalgarde in Spanien"</occupation>
-               <occupation>Autor eines Gedichtes "Charles d'Autriche" (im März 1848 in Brüssel erschienen)</occupation>
-             </person>
+               <occupation>nennt sich 1848 "ehemaligen Kommandanten der Nationalgarde in
+                  Spanien"</occupation>
+               <occupation>Autor eines Gedichtes "Charles d'Autriche" (im März 1848 in Brüssel
+                  erschienen)</occupation>
+            </person>
             <person xml:id="ximenez-francisco">
                <persName>
                   <forename>Francisco</forename>
@@ -663,13 +741,19 @@
             </person>
             <person xml:id="parchon">
                <persName>
-                  <forename>Salomon Ibn</forename>
+                  <forename>Salomon Ben Abraham Ibn</forename>
                   <surname>Parchon</surname>
                </persName>
                <birth>
                   <date>um 1130</date>
+                  <placeName>Qal'a/Spanien</placeName>
                </birth>
+               <death>
+                  <date>um 1180</date>
+                  <placeName>Salerno</placeName></death>
                <occupation>Lexikograph</occupation>
+               <occupation>Verfasser des Lexikons "Mahberet he-Arukh" in hebräischer
+                  Sprache</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104278153</idno>
             </person>
             <person xml:id="agnes-von-poitou">
@@ -968,7 +1052,7 @@
                <occupation>Fortifikationsschanz-Korporal (anläßlich seiner Eheschließung am 23.
                   Febr. 1841 in Wien/Feldsuperiorat)</occupation>
                <occupation>Hausinspektor am Polytechnischen Institut (ab 16.09.1853)</occupation>
-               </person>
+            </person>
             <person xml:id="vetter-madgalena">
                <persName>
                   <forename>Magdalena</forename>
@@ -4303,12 +4387,12 @@
                <death>
                   <date when="1877-04-27">27.04.1877</date>
                   <placeName>Baden bei Wien</placeName>
-                  </death>
+               </death>
                <occupation>Historiker</occupation>
                <occupation>Publizist</occupation>
                <occupation>Schrifsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116280298</idno>
-            </person>            
+            </person>
             <person xml:id="delvert-christian">
                <persName>
                   <surname>D’Elvert</surname>
@@ -12116,34 +12200,41 @@
                <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
                   >Botaniker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100681069</idno>
-               <idno type="paas">27903</idno>
             </person>
             <person xml:id="struve-friedrich-georg-wilhelm">
                <persName>
                   <surname>Struve</surname>
                   <forename>Friedrich Georg</forename>
-               </persName>
+                  <nameLink>von (seit 1831)</nameLink>
+                  <addName>Dr. phil.</addName></persName>
                <birth>
                   <date when="1793-04-15">15.04.1793</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Bezirk Altona</placeName>
+                  <placeName>Altona</placeName>
                </birth>
                <death>
                   <date when="1864-11-23">23.11.1864</date>
+                  <placeName>St. Petersburg</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/"
-                  >Astronom</occupation>
-               <occupation code="#3709" scheme="#apis_vocabularies/professiontype/"
-                  >Geodät</occupation>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Astronom</occupation>
+               <occupation>Geodät</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118988255</idno>
-               <idno type="paas">6278</idno>
             </person>
             <person xml:id="schonbein-christian-friedrich">
                <persName>
                   <surname>Schönbein</surname>
                   <forename>Christian Friedrich</forename>
                </persName>
+               <birth>
+                  <date when="1799-10-18">18.10.1799</date>
+                  <placeName>Metzingen/Württemberg</placeName>
+               </birth>
+               <death>
+                  <date when="1868-08-29">29.08.1868</date>
+                  <placeName>Baden-Baden</placeName></death>
+               <occupation>Chemiker</occupation>
+               <occupation>Physiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118758861</idno>
             </person>
             <person xml:id="eotvos-jozsef">
                <persName>
@@ -12162,7 +12253,7 @@
                <persName>
                   <surname>Coussemaker</surname>
                   <addName>de</addName>
-                  <forename>Charles</forename>
+                  <forename>Charles Edmont Henri</forename>
                </persName>
                <birth>
                   <date when="1805-04-19">19.04.1805</date>
@@ -12170,7 +12261,10 @@
                </birth>
                <death>
                   <date when="1876-01-10">10.01.1876</date>
+                  <placeName>Lille</placeName>
                </death>
+               <occupation>Musikologe</occupation>
+               <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119430959</idno>
                <idno type="paas">1370</idno>
             </person>
