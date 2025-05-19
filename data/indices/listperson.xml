@@ -17,6 +17,39 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="champion-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Champion</surname>
+               </persName>
+               <birth>
+                  <date>1786</date>
+                  <placeName>Triest</placeName>
+               </birth>
+               <death>
+                  <date when="1874-02-16">16.02.1874</date>
+                  <placeName>Triest</placeName></death>
+               <occupation>Diplomat</occupation>
+               <occupation>k.k. (Vize-)Konsul in Kairo (1819/1850-1858)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
+            </person>
+            <person xml:id="reitz-konstantin">
+               <persName>
+                  <forename>Konstantin</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Reitz</surname>
+               </persName>
+               <birth>
+                  <date when="1817-03-30">30.03.1817</date>
+                  <placeName>(Ulrichstein-)Bobenhausen</placeName>
+               </birth>
+               <death>
+                  <date when="1853-05-26">26.05.1853</date>
+                  <placeName>Doka/Sudan</placeName></death>
+               <occupation>Österreichischer Vizekonsul in Khartum (1851-1853)</occupation>
+               <occupation>Afrikaforscher</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116432667</idno>
+            </person>
             <person xml:id="hornstein-karl">
                <persName>
                   <forename>Karl</forename>
@@ -11776,12 +11809,6 @@
                <occupation>Nationalökonom</occupation>
                <occupation>Publizist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/101654901</idno>
-            </person>
-            <person xml:id="reitz-nn">
-               <persName>
-                  <surname>Reitz</surname>
-                  <forename>NN</forename>
-               </persName>
             </person>
             <person xml:id="leibniz-gottfried-wilhelm">
                <persName>
