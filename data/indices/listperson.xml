@@ -17,6 +17,43 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="albrecht-achilles-von-brandenburg">
+               <persName>
+                  <forename>Albrecht Achilles III.</forename>
+                  <surname>von Hohenzollern</surname>
+               </persName>
+               <birth>
+                  <date when="1414-11-09">9.11.1414</date>
+                  <placeName>Tangermünde</placeName>
+               </birth>
+               <death>
+                  <date when="1486-03-11">11.3.1486</date>
+                  <placeName>Frankfurt am Main</placeName></death>
+               <occupation>Kurfürst von Brandenburg (ab 1470)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118637665</idno></person>
+            <person xml:id="mawardi">
+               <persName>
+                  <forename>Abu-'l-Ḥasan ʿAlī Ibn-Muḥammad Ibn-Ḥabīb al-</forename>
+                  <surname>Māwardī</surname>
+               </persName>
+               <birth>
+                  <date>um 974</date>
+                  <placeName>Basra</placeName>
+               </birth>
+               <death>
+                  <date>um 1058</date>
+                  <placeName>Bagdad</placeName></death>
+               <occupation>Verfasser eines moslimschen Staatsrechts</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119344238</idno>
+            </person>
+            <person xml:id="ibn-schihne">
+               <persName>
+                  <surname>Ibn-schihne</surname>
+               </persName>
+               <occupation>Geschichtsschreiber</occupation>
+               <occupation>Autor einer Geschichte von Aleppo: Dorr-el-montacheb fî târîch
+                  Haleb</occupation>
+            </person>
             <person xml:id="champion-franz">
                <persName>
                   <forename>Franz</forename>
