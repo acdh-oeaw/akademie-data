@@ -17,6 +17,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="rupert-heiliger">
+               <persName>
+                  <forename>Rupert</forename>
+                  </persName>
+               <birth>
+                  <date>um 650</date>
+                  <placeName>vermutl. Worms</placeName>
+               </birth>
+               <death>
+                  <date>27.03.718 (?)</date>
+                  <placeName>Wprms</placeName></death>
+               <occupation>Erster Bischof von Salzburg</occupation>
+               <occupation>Abt von Salzburg/St. Peter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119006634</idno>
+            </person>
             <person xml:id="albrecht-achilles-von-brandenburg">
                <persName>
                   <forename>Albrecht Achilles III.</forename>
