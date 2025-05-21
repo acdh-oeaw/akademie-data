@@ -472,7 +472,7 @@
     </choice>
         Akademie weder die von
     <lb/>
-    <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice><rs ref="#schneller-joseph" type="person">Schneller</rs>
+    <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs ref="#schneller-joseph" type="person">Schneller</rs>
         gewünschten Werke
     <lb/>zu den ihren oder <choice>
         <expan>von ihr</expan>
@@ -511,23 +511,22 @@
             ein Schreiben, womit er
         <lb/>
             eine an ihn gerichtete Zuschrift
-        <lb/>des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> Ritter <choice>
+        <lb/>des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> Ritter <rs ref="#koch-sternfeld-joseph-ernst" type="person"><choice>
             <expan>von</expan>
             <abbr>v<am>.</am>
         </abbr>
     </choice>
-    <rs ref="#koch-sternfeld-joseph-ernst" type="person">
-        <hi>Koch-<lb/>Sternfeld</hi></rs>
+    <hi>Koch-<lb/>Sternfeld</hi></rs>
         einbegleitet, und dessen
     <lb/>
         darin ausgesprochenen Wunsch, den
     <lb/>
         mitgesendeten Aufsatz: "Über
-    <lb/>das wahre Zeitalter des <choice>
+    <lb/>das wahre Zeitalter des <rs type="person" ref="#rupert-heiliger"><choice>
         <expan>Heiligen</expan>
         <abbr>Hh<am>.</am>
     </abbr>
-</choice> Rupert"<lb/>durch die <choice>
+</choice> Rupert</rs>"<lb/>durch die <choice>
     <expan>kaiserliche</expan>
     <abbr>k<am>.</am>
 </abbr>
@@ -543,7 +542,7 @@
                 <lb/>
                     Der historischen Commission [zunächst
                 <lb/>
-                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs type="person" ref="#karajan-von-theodor-georg"><choice>
                         <expan>
                             von
                         </expan>
@@ -552,7 +551,7 @@
                 </choice>
                     Karajan</rs>] um Bericht.</p>
                     <p facs="#facs_3_region_1581415325306_374" rendition="#f" xml:id="p20" xml:space="preserve">
-                <lb/>(<num>452</num>) c) Von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice><rs type="person" ref="#karajan-von-theodor-georg"><choice>
+                <lb/>(<num>452</num>) c) Von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs type="person" ref="#karajan-von-theodor-georg"><choice>
                         <expan>
                             von
                         </expan>
@@ -707,7 +706,7 @@ Kremer</rs>, und auf
     <lb/>dieser Stadt aufzubewahren.</p>
                     <p facs="#facs_4_region_1581496307600_70" rendition="#?20-80-100--333-1662" xml:id="p28" xml:space="preserve">
         <lb/>
-        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice><rs ref="#tschudi-johann-jakob" type="person"><choice>
+        <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs ref="#tschudi-johann-jakob" type="person"><choice>
             <expan>
                 von
             </expan>
@@ -745,7 +744,7 @@ Kremer</rs>, und auf
 <lb/>Commission ernannt, bestehend aus den Herrn
     <lb/><hi><rs ref="#pfizmaier-august" type="person">Pfizmaier</rs></hi>,
          <hi><rs ref="#miklosich-von-franz" type="person">Miklosich</rs></hi>, und 
-         <hi><rs ref="#boller-anton" type="person">Boller</rs>.</hi>
+         <hi><rs ref="#boller-anton" type="person">Boller</rs></hi>.
             </p>
                     <p facs="#facs_4_region_1581496329784_76" rendition="#?21-78-99--349-1647" xml:id="p30" xml:space="preserve">
                 <lb/>
@@ -842,8 +841,7 @@ Kremer</rs>, und auf
                         mit Zustimmung der Classe zu
                     <lb/>Mitgliedern der Wahl-Commission: die <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
                     <lb/>Freiherr <hi>
-                        <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                   </hi>, <hi>
+                        <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs></hi>, <hi>
                         <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>,</hi>
                         <lb/>
                         <hi>
@@ -854,12 +852,9 @@ Kremer</rs>, und auf
                                     <abbr>v<am>.</am>
                                     </abbr>
                             </choice>
-                                Karajan</rs></hi>, <hi>
-                        <rs ref="#springer-johann" type="person">Springer</rs>,</hi> und <hi>
-                            <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.</hi>
-                            <lb/>Der <hi>
-                                <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                           </hi>
+                                Karajan</rs></hi>, <hi><rs ref="#springer-johann" type="person">Springer</rs></hi>, und 
+                                <hi><rs ref="#wolf-ferdinand" type="person">Wolf</rs></hi>.
+                            <lb/>Der <hi><rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
                                 ersucht im Namen des
                             <lb/>
                             <choice>
@@ -875,10 +870,8 @@ Kremer</rs>, und auf
                     <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <hi><rs ref="#birk-von-ernst" type="person">Birk</rs></hi>, diesen mit</p>
                     <p facs="#facs_5_region_1581498335858_194" rendition="#f" xml:id="p36" xml:space="preserve">
                             <lb/>
-                            <choice>
-                                <expan>Exemplaren von Herrn <rs type="person" ref="#meiller-von-andreas">von Meiller</rs>s Babenberger-Regesten und</expan>
-                                <abbr>Exemplaren</abbr>
-                            </choice> von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
+                            <add>Exemplaren von Herrn <rs type="person" ref="#meiller-von-andreas">von Meiller</rs>s Babenberger-Regesten</add> und
+                                von <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
                             <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>'s Gold, und
                                 <lb/>Silber-Monumenten" betheilen zu wollen.<lb/>
                                     In Würdigung der Verdienste und
@@ -889,8 +882,7 @@ Kremer</rs>, und auf
                                 <lb/>
                                     dieses Gesuch und beauftragt den
                                 <lb/>
-                                <hi>
-                                    <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
+                                <hi><rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
                                     die Betheiligung durch die
                                 <lb/>Kanzlei effectuirren zu lassen.</p>
                     <p facs="#facs_5_region_1581498365874_203" rendition="#r" xml:id="p38" xml:space="preserve">
