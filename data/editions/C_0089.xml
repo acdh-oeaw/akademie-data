@@ -265,14 +265,14 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
+                                    <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                         <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                            von
                                         </expan>
                                         <abbr>v<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                Karajan</rs>
                                 <lb/>
                                 <choice>
                                     <expan>Herr</expan>
@@ -350,8 +350,7 @@
                     </choice>
                     <rs ref="#brinckmeier-johann-peter-ludwig-eduard" type="person">Brinckmeier</rs>
                         in
-                    <rs ref="#braunschweig" type="place">Braun-<lb/>schweig</rs>
-                        , um Unterstützung zur
+                    <rs ref="#braunschweig" type="place">Braun-<lb/>schweig</rs>, um Unterstützung zur
                     <lb/>
                         Herausgabe eines Glossarium
                     <lb/>
@@ -374,8 +373,7 @@
                             <lb/>
                                 wiesen, bestehenden aus den Herren
                             <lb/>
-                            <rs ref="#chmel-joseph" type="person">Chmel</rs> und <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>.</p>
+                            <rs ref="#chmel-joseph" type="person">Chmel</rs> und <rs ref="#karajan-von-theodor-georg" type="person">von Karajan</rs>.</p>
                     <p facs="#facs_2_region_1578655259030_503" rendition="#f" xml:id="p12" xml:space="preserve">
                                 <lb/>
                                 <num>1300</num>. b. Vom <choice>
@@ -388,8 +386,7 @@
                             </abbr>
                         </choice>
                         <lb/>
-                        <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
-                            , Gutachten über den
+                        <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>, Gutachten über den
                         <lb/>von <choice>
                             <expan>Herrn</expan>
                             <abbr>Hrn<am>.</am>
@@ -405,9 +402,7 @@
                     <abbr>G<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#hahn-johann-georg" type="person">von</rs>
-            <rs ref="#hahn-johann-georg" type="person">Hahn</rs>
-                ,
+            <rs ref="#hahn-johann-georg" type="person">von Hahn</rs>,
                 hand-
             <lb/>schriftlich eingesandten Aufsatze:<lb/>
                 "Bemerkungen über einige
@@ -438,8 +433,7 @@
                     <abbr>Hrn<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#hahn-johann-georg" type="person">von</rs>
-            <rs ref="#hahn-johann-georg" type="person">Hahn</rs>
+            <rs ref="#hahn-johann-georg" type="person">von Hahn</rs>
             <lb/>
                 zurückzusenden und ihm die
             <lb/>
@@ -464,8 +458,7 @@
             <abbr>D<hi rend="super">or</hi>
         </abbr>
     </choice>
-    <rs ref="#goldenthal-jakob" type="person">Goldenthal</rs>
-        , ein
+    <rs ref="#goldenthal-jakob" type="person">Goldenthal</rs>, ein
     <lb/>
         Gesuch, die Akademie wolle
     <lb/>
@@ -519,7 +512,7 @@
     (das Werk wird ungefähr gegen
 <lb/>
 <num>10</num> Druckbogen geben) erbitte.</p>
-                    <p facs="#facs_3_region_1578655354357_518" rendition="#fc" xml:id="p16" xml:space="preserve">
+                    <p facs="#facs_3_region_1578655354357_518" rendition="#f" xml:id="p16" xml:space="preserve">
     <lb/>Die Classe beschließt:</p>
                     <p facs="#facs_3_region_1578655366187_521" rendition="#?12-88-100--186-1516" xml:id="p17" xml:space="preserve">
         <lb/>
@@ -572,8 +565,7 @@
     <num>1301</num>. <choice>
         <expan>Herr</expan>
         <abbr>
-            Hr
-            <am>.</am>
+            Hr<am>.</am>
         </abbr>
     </choice> Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs>
     <lb/>liest einen Aufsatze des <choice>

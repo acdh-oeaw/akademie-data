@@ -202,14 +202,14 @@
                                         <am>"</am>
                                     </abbr>
                                 </choice>
-                                <choice>
+                                <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                     <expan>
-                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                        von
                                     </expan>
                                     <abbr>v<am>.</am>
                                 </abbr>
                             </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                            Karajan</rs>
                             <lb/>
                             <choice>
                                 <expan>Herr</expan>
@@ -324,7 +324,7 @@
                         die Mittheilung solcher
                         handschrift-
                     <lb/>licher Werke nicht gestatten." </p>
-                    <p facs="#facs_2_region_1578901481458_154" rendition="#fc" xml:id="p12" xml:space="preserve">
+                    <p facs="#facs_2_region_1578901481458_154" rendition="#f" xml:id="p12" xml:space="preserve">
                         <lb/>Zur Wissenschaft.</p>
                     <p facs="#facs_2_region_1578901242059_52" rendition="#f" xml:id="p13" xml:space="preserve">
                             <lb/>
@@ -358,8 +358,7 @@
             <abbr>G<am>.</am>
         </abbr>
     </choice>
-    <rs ref="#hahn-johann-georg" type="person">von</rs>
-    <rs ref="#hahn-johann-georg" type="person">Hahn's</rs>        
+    <rs ref="#hahn-johann-georg" type="person">von Hahn</rs>'s        
         Ab-
     <lb/>
         handlung: Bemerkungen über
@@ -385,20 +384,11 @@
                 <abbr>Hrn<am>.</am>
             </abbr>
         </choice>
-        <rs ref="#kremer-alfred" type="person">von</rs>
+        <rs ref="#kremer-alfred" type="person">von
         <lb/>
-        <rs ref="#kremer-alfred" type="person">Kremer</rs> aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>10</num>
-        <choice>
-            <expan>ten</expan>
-            <abbr>
-                <hi rend="super">t</hi>
-            </abbr>
-        </choice>
-        <lb/>November, mit der <num>2</num>
-        <hi rend="super">ten</hi>            
-            Abthei-
-        <lb/>
-            lung seiner Auszüge aus der
+        Kremer</rs> aus <rs ref="#kairo" type="place">Kairo</rs> vom <num>10</num><hi rend="super">ten</hi>
+        <lb/>November, mit der <num>2</num><hi rend="super">ten</hi> Abthei-
+        <lb/>lung seiner Auszüge aus der
         <lb/>Reise des Scheichs <rs ref="#al-ghani-al-nabulusi-abd" type="person">Abd-ol-Shanîj
 <lb/>in-Nâbolsî</rs> in Ägypten.</p>
                     <p facs="#facs_2_region_1578901229042_46" rendition="#?17-83-100--269-1581" xml:id="p16" xml:space="preserve">
@@ -441,7 +431,7 @@
             </abbr>
         </choice>
         <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-        <lb/>erstattet Bericht über <rs ref="#dieterici-friedrich-heinrich" type="person">Dietrici's</rs>
+        <lb/>erstattet Bericht über <rs ref="#dieterici-friedrich-heinrich" type="person">Dietrici</rs>'s
         <lb/>Ausgabe des Commentars des</p>
                 </div>
             </div>
@@ -454,17 +444,13 @@
                 <lb/>
                 <num>1263</num>. <choice>
                     <expan>Herr</expan>
-                    <abbr>
-                        Hr
-                        <am>.</am>
-                    </abbr>
+                    <abbr>Hr<am>.</am></abbr>
                 </choice> Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs>
                     liest
                 <lb/>einen Aufsatz: "Eine Hypothese." </p>
                     <p facs="#facs_3_region_1578901277284_70" rendition="#f" xml:id="p22" xml:space="preserve">
                     <lb/>
-                    <num>1262</num>
-                        . Derselbe liest die Mittheilung
+                    <num>1262</num>. <rs type="person" ref="#chmel-joseph">Derselbe</rs> liest die Mittheilung
                     <lb/>des <choice>
                         <expan>correspondirenden</expan>
                         <abbr>corresp<am>.</am>
@@ -475,8 +461,7 @@
                 </abbr>
             </choice>
             <rs ref="#schuller-johann-karl" type="person">Schuller</rs>
-            <lb/>in <rs ref="#hermannstadt" type="place">Hermannstadt</rs>
-                , über die letzte
+            <lb/>in <rs ref="#hermannstadt" type="place">Hermannstadt</rs>, über die letzte
             <lb/>
                 General-Versammlung des Vereins
             <lb/>
@@ -487,8 +472,7 @@
                 <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        Hr
-                        <am>.</am>
+                        Hr<am>.</am>
                     </abbr>
                 </choice>
                 <rs ref="#tkalec-jakob-franjo" type="person">Tkalec</rs>
