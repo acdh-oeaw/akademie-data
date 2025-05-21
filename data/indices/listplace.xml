@@ -16,6 +16,22 @@
     <text>
         <body>
            <listPlace>
+               <place xml:id="meran">
+                   <placeName>Meran</placeName>
+                   <location>
+                       <geo>46.66817 11.15953</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/3173577/</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4038688-0</idno>
+               </place>
+               <place xml:id="treviso">
+                   <placeName>Treviso</placeName>
+                   <location>
+                       <geo>45.66673 12.2416</geo>
+                   </location>
+                   <idno type="URL">https://www.geonames.org/3165201/</idno>
+                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4119702-1</idno>
+               </place>               
                <place xml:id="alexandria">
                    <placeName>Alexandria</placeName>
                    <location>
