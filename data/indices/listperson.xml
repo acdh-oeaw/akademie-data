@@ -1051,25 +1051,35 @@
             </person>
             <person xml:id="hartl-wenzel">
                <persName>
-                  <forename>Wenzel</forename>
+                  <forename>Wenzel (Alois)</forename>
                   <surname>Hartl</surname>
                </persName>
                <birth>
-                  <date>um 1830</date>
-                  <placeName>Brünn</placeName>
+                  <date when="1830-06-25">25.06.1830</date>
+                  <placeName>Brünn-Zeil (Pfarrgemeinde Brünn-Obrowitz tsch.: Brno-Zábrdovice)</placeName>
                </birth>
-               <occupation>Collaborateur in der k.k. Hofbibliothek</occupation>
-            </person>
+               <death>
+                  <date when="1895-10-29">29.10.1895</date>
+                  <placeName>Wien, Pfarre Maria Treu (8. Bez.)</placeName></death>
+               <occupation>Collaborateur (1855), Amanuensis (1860), Scriptor (1867), Kustos (1881), 1. Kustos (1888) in der k.k. Hofbibliothek</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1011622505</idno>               
+            </person>            
             <person xml:id="wöber-franz">
                <persName>
-                  <forename>Franz</forename>
+                  <forename>Franz (Xaver)</forename>
                   <surname>Wöber</surname>
                </persName>
                <birth>
                   <date when="1830-11-19">30.11.1830</date>
-                  <placeName>Wien, Pfarre Neulerchenfeld</placeName>
+                  <placeName>Wien, Pfarre Neulerchenfeld (16. Bez.)</placeName>
                </birth>
-               <occupation>Collaborateur in der k.k. Hofbibliothek</occupation>
+               <death>
+                  <date when="1902-08-12">12.08.1902</date>
+                  <placeName>Baden bei Wien</placeName></death>
+               <occupation>Collaborateur (1860), zuletzt (bis zur Pensionierung 1898) Kustos in der k.k. Hofbibliothek</occupation>
+               <occupation>Genealoge</occupation>
+               <occupation>Heraldiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117447897</idno>               
             </person>
             <person xml:id="scharler-franz">
                <persName>
