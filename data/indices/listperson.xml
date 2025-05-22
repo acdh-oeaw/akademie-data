@@ -17,6 +17,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="ludwig-karl">
+               <persName>
+                  <forename>Karl</forename>
+                  <surname>Ludwig</surname>
+               </persName>
+               <birth>
+                  <date when="1816-12-29">29.12.1826</date>
+                  <placeName>Witzenhausen</placeName>
+               </birth>
+               <death>
+                  <date when="1895-04-23">23.04.1895</date>
+                  <placeName>Leipzig</placeName></death>
+               <occupation>Physiologe</occupation>
+               <occupation>Arzt</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118729470</idno>
+            </person>
             <person xml:id="schleicher-august">
                <persName>
                   <forename>August</forename>
@@ -11800,12 +11816,6 @@
                <persName>
                   <surname>Jacobi</surname>
                   <forename>Carl Gustav Jakob</forename>
-               </persName>
-            </person>
-            <person xml:id="ludwig-johann">
-               <persName>
-                  <surname>Ludwig</surname>
-                  <forename>Johann</forename>
                </persName>
             </person>
             <person xml:id="zigno-de-achille">
