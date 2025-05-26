@@ -15,245 +15,256 @@
     </teiHeader>
     <text>
         <body>
-           <listPlace>
-               <place xml:id="bern">
-                   <placeName>Bern</placeName>
-                   <location>
-                       <geo>46.94809 7.44744</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2661552/</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4005762-8</idno>
-               </place>              
-               <place xml:id="meran">
-                   <placeName>Meran</placeName>
-                   <location>
-                       <geo>46.66817 11.15953</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/3173577/</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4038688-0</idno>
-               </place>
-               <place xml:id="treviso">
-                   <placeName>Treviso</placeName>
-                   <location>
-                       <geo>45.66673 12.2416</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/3165201/</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4119702-1</idno>
-               </place>               
-               <place xml:id="alexandria">
-                   <placeName>Alexandria</placeName>
-                   <location>
-                       <geo>31.20176 29.91582</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/361058</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4001138-0</idno>
-               </place>
-               <place xml:id="wien-landstrasse">
-                   <placeName>Wien-Landstraße</placeName>
-                   <location>
-                       <geo>48.2019 16.38792</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/12214069</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4196533-4</idno>
-               </place>
-               <place xml:id="wels">
-                   <placeName>Wels</placeName>
-                   <placeName type="alt">Ovilaba</placeName>
-                   <location>
-                       <geo>48.16667 14.03333</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2761524</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4107955-3</idno>
-               </place>
-               <place xml:id="lauriacum">
-                   <placeName>[Enns-]Lorch</placeName>
-                   <location>
-                       <geo>48.21846 14.46656</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/12172709</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4099801-0</idno>
-               </place>
-               <place xml:id="madain-salih">
-                   <placeName>Madāin Ṣāliḥ</placeName>
-                  <location>
-                       <geo>26.8061 37.95512</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/104645</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4367221-8</idno>
-               </place>
-               <place xml:id="millstatt">
-                   <placeName>Millstatt</placeName>
-                   <location>
-                       <geo>46.80417 13.58056</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2760380</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4039376-8</idno>
-               </place>
-               <place xml:id="bregenz">
-                   <placeName>Bregenz</placeName>
-                   <location>
-                       <geo>47.50311 9.7471</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2781503</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008099-7</idno>
-               </place>
-               <place xml:id="rankweil">
-                   <placeName>Rankweil</placeName>
-                  <location>
-                      <geo>47.27108 9.64308</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2767974</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4291150-3</idno>
-               </place>
-               <place xml:id="schruns">
-                   <placeName>Schruns</placeName>
-                  <location>
-                      <geo>47.08028 9.91917</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2765581</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4279133-9</idno>
-               </place>
-               <place xml:id="chur">
-                   <placeName>Chur</placeName>
-                   <location>
-                       <geo>46.84986 9.53287</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2661169</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4010189-7</idno>
-               </place>
-               <place xml:id="aggtelek">
-                   <placeName>Aggtelek</placeName>
-                   <location>
-                       <geo>48.46667 20.51667</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/723010</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4558461-8</idno>
-               </place>
-               <place xml:id="grosswardein">
-                   <placeName>Großwardein</placeName>
-                   <placeName type="alt">Oradea</placeName>
-                   <location>
-                       <geo>47.0458 21.91833</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/671768</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4253198-6</idno>
-               </place>
-               <place xml:id="kaschau">
-                   <placeName>Kaschau</placeName>
-                   <placeName type="alt">Košice</placeName>
-                   <location>
-                       <geo>48.71395 21.25808</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/724443</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/1028389-4</idno>
-               </place>
-               <place xml:id="chennai">
-                   <placeName>Cehnnai</placeName>
-                   <placeName type="alt">Madras</placeName><location>
-                       <geo>13.08784 80.27847</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/1264527</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/5351481-6</idno>
-               </place>
-               <place xml:id="mumbai">
-                   <placeName>Bombay</placeName>
-                   <placeName type="alt">Mumbai</placeName><location>
-                       <geo>19.07283 72.88261</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/1275339</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/10013721-0</idno>
-               </place>
-               <place xml:id="kalkutta">
-                   <placeName>Kalkutta</placeName>
-                   <placeName type="alt">Calcutta</placeName><location>
-                       <geo>22.56263 88.36304</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/1275004</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4029344-0</idno>
-               </place>
-               <place xml:id="pfullingen">
-                   <placeName>Pfullingen</placeName>
-                   <location>
-                       <geo>48.46458 9.22796</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2853928</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4045651-1</idno>
-               </place>
-               <place xml:id="bludenz">
-                   <placeName>Bludenz</placeName>
-                   <location>
-                       <geo>47.15476 9.82255</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2781680</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4007202-2</idno>
-               </place>
-               <place xml:id="anagni">
-                   <placeName>Anagni</placeName>
-                   <location>
-                       <geo>41.7435 13.15542</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/3183098</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4079762-4</idno>
-               </place>
-               <place xml:id="tarnopol">
-                   <placeName>Tarnopol</placeName>
-                   <placeName type="alt">alternativer Ortsname</placeName>
-                   <location>
-                       <geo>49.55404 25.59067</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/691650</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4119565-6</idno>
-               </place>
-               <place xml:id="lissabon">
-                   <placeName>Lissabon</placeName>
-                   <location>
-                       <geo>38.71667 -9.13333</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2267057</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4035919-0</idno>
-               </place>
-               <place xml:id="adelsberg">
-                   <placeName>Adelsberg</placeName>
-                   <placeName type="alt">Postojna</placeName>
-                   <location>
-                       <geo>45.77435 14.21528</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/3192673</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4068410-6</idno>
-               </place>
-               <place xml:id="wipperfürth">
-                   <placeName>Wipperfürth</placeName>
-                   <location>
-                       <geo>51.1161 7.39865</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/2807594</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4066347-4</idno>
-               </place>
-               <place xml:id="groß-kanischa">
-                   <placeName>Nagykanizsa</placeName>
-                   <location>
-                       <geo>46.45347 16.99104</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/3047679</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4359269-7</idno>
-               </place>
-               <place xml:id="washington">
-                   <placeName>Washington</placeName>
-                   <location>
-                       <geo>38.89511 -77.03637</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/4140963</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4064682-8</idno>
-               </place>
-               <place xml:id="thessaloniki">
-                   <placeName>Thessaloniki</placeName>
-                   <location>
-                       <geo>40.64361 22.93086</geo>
-                   </location>
-                   <idno type="URL">https://www.geonames.org/734077</idno>
-                   <idno subtype="GND" type="URL">https://d-nb.info/gnd/4051394-4</idno>
-               </place>
-               <place xml:id="belgrad">
+            <listPlace>
+                <place xml:id="bisotun">
+                    <placeName>Bisotun</placeName>
+                    <placeName type="alt">Behistun</placeName>
+                    <location>
+                        <geo>34.39931 47.44525</geo>
+                    </location>
+                    <idno> type="URL">https://www.geonames.org/140428/</idno>
+                    </place>
+                <place xml:id="bern">
+                    <placeName>Bern</placeName>
+                    <location>
+                        <geo>46.94809 7.44744</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2661552/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4005762-8</idno>
+                </place>
+                <place xml:id="meran">
+                    <placeName>Meran</placeName>
+                    <location>
+                        <geo>46.66817 11.15953</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3173577/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4038688-0</idno>
+                </place>
+                <place xml:id="treviso">
+                    <placeName>Treviso</placeName>
+                    <location>
+                        <geo>45.66673 12.2416</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3165201/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4119702-1</idno>
+                </place>
+                <place xml:id="alexandria">
+                    <placeName>Alexandria</placeName>
+                    <location>
+                        <geo>31.20176 29.91582</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/361058</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4001138-0</idno>
+                </place>
+                <place xml:id="wien-landstrasse">
+                    <placeName>Wien-Landstraße</placeName>
+                    <location>
+                        <geo>48.2019 16.38792</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/12214069</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4196533-4</idno>
+                </place>
+                <place xml:id="wels">
+                    <placeName>Wels</placeName>
+                    <placeName type="alt">Ovilaba</placeName>
+                    <location>
+                        <geo>48.16667 14.03333</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2761524</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4107955-3</idno>
+                </place>
+                <place xml:id="lauriacum">
+                    <placeName>[Enns-]Lorch</placeName>
+                    <location>
+                        <geo>48.21846 14.46656</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/12172709</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4099801-0</idno>
+                </place>
+                <place xml:id="madain-salih">
+                    <placeName>Madāin Ṣāliḥ</placeName>
+                    <location>
+                        <geo>26.8061 37.95512</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/104645</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4367221-8</idno>
+                </place>
+                <place xml:id="millstatt">
+                    <placeName>Millstatt</placeName>
+                    <location>
+                        <geo>46.80417 13.58056</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2760380</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4039376-8</idno>
+                </place>
+                <place xml:id="bregenz">
+                    <placeName>Bregenz</placeName>
+                    <location>
+                        <geo>47.50311 9.7471</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2781503</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008099-7</idno>
+                </place>
+                <place xml:id="rankweil">
+                    <placeName>Rankweil</placeName>
+                    <location>
+                        <geo>47.27108 9.64308</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2767974</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4291150-3</idno>
+                </place>
+                <place xml:id="schruns">
+                    <placeName>Schruns</placeName>
+                    <location>
+                        <geo>47.08028 9.91917</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2765581</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4279133-9</idno>
+                </place>
+                <place xml:id="chur">
+                    <placeName>Chur</placeName>
+                    <location>
+                        <geo>46.84986 9.53287</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2661169</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4010189-7</idno>
+                </place>
+                <place xml:id="aggtelek">
+                    <placeName>Aggtelek</placeName>
+                    <location>
+                        <geo>48.46667 20.51667</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/723010</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4558461-8</idno>
+                </place>
+                <place xml:id="grosswardein">
+                    <placeName>Großwardein</placeName>
+                    <placeName type="alt">Oradea</placeName>
+                    <location>
+                        <geo>47.0458 21.91833</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/671768</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4253198-6</idno>
+                </place>
+                <place xml:id="kaschau">
+                    <placeName>Kaschau</placeName>
+                    <placeName type="alt">Košice</placeName>
+                    <location>
+                        <geo>48.71395 21.25808</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/724443</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/1028389-4</idno>
+                </place>
+                <place xml:id="chennai">
+                    <placeName>Cehnnai</placeName>
+                    <placeName type="alt">Madras</placeName>
+                    <location>
+                        <geo>13.08784 80.27847</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/1264527</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/5351481-6</idno>
+                </place>
+                <place xml:id="mumbai">
+                    <placeName>Bombay</placeName>
+                    <placeName type="alt">Mumbai</placeName>
+                    <location>
+                        <geo>19.07283 72.88261</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/1275339</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/10013721-0</idno>
+                </place>
+                <place xml:id="kalkutta">
+                    <placeName>Kalkutta</placeName>
+                    <placeName type="alt">Calcutta</placeName>
+                    <location>
+                        <geo>22.56263 88.36304</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/1275004</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4029344-0</idno>
+                </place>
+                <place xml:id="pfullingen">
+                    <placeName>Pfullingen</placeName>
+                    <location>
+                        <geo>48.46458 9.22796</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2853928</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4045651-1</idno>
+                </place>
+                <place xml:id="bludenz">
+                    <placeName>Bludenz</placeName>
+                    <location>
+                        <geo>47.15476 9.82255</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2781680</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4007202-2</idno>
+                </place>
+                <place xml:id="anagni">
+                    <placeName>Anagni</placeName>
+                    <location>
+                        <geo>41.7435 13.15542</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3183098</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4079762-4</idno>
+                </place>
+                <place xml:id="tarnopol">
+                    <placeName>Tarnopol</placeName>
+                    <placeName type="alt">alternativer Ortsname</placeName>
+                    <location>
+                        <geo>49.55404 25.59067</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/691650</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4119565-6</idno>
+                </place>
+                <place xml:id="lissabon">
+                    <placeName>Lissabon</placeName>
+                    <location>
+                        <geo>38.71667 -9.13333</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2267057</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4035919-0</idno>
+                </place>
+                <place xml:id="adelsberg">
+                    <placeName>Adelsberg</placeName>
+                    <placeName type="alt">Postojna</placeName>
+                    <location>
+                        <geo>45.77435 14.21528</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3192673</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4068410-6</idno>
+                </place>
+                <place xml:id="wipperfürth">
+                    <placeName>Wipperfürth</placeName>
+                    <location>
+                        <geo>51.1161 7.39865</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2807594</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4066347-4</idno>
+                </place>
+                <place xml:id="groß-kanischa">
+                    <placeName>Nagykanizsa</placeName>
+                    <location>
+                        <geo>46.45347 16.99104</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3047679</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4359269-7</idno>
+                </place>
+                <place xml:id="washington">
+                    <placeName>Washington</placeName>
+                    <location>
+                        <geo>38.89511 -77.03637</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/4140963</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4064682-8</idno>
+                </place>
+                <place xml:id="thessaloniki">
+                    <placeName>Thessaloniki</placeName>
+                    <location>
+                        <geo>40.64361 22.93086</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/734077</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4051394-4</idno>
+                </place>
+                <place xml:id="belgrad">
                     <placeName>Belgrad</placeName>
                     <location>
                         <geo>44.80401 20.46513</geo>
@@ -416,10 +427,11 @@
                     <placeName type="alt" xml:lang="None">Comune di Trento</placeName>
                     <location>
                         <geo>46.06787 11.12108</geo>
-                    </location><idno type="paas">37539</idno>
+                    </location>
+                    <idno type="paas">37539</idno>
                     <idno type="URL">https://sws.geonames.org/3165243/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4078405-8</idno>
-                    </place>
+                </place>
                 <place xml:id="colmar">
                     <placeName>Colmar</placeName>
                     <placeName type="alt" xml:lang="deu">Colmar</placeName>
@@ -693,7 +705,8 @@
                     <placeName type="alt" xml:lang="None">Bruselas</placeName>
                     <location>
                         <geo>50.85045 4.34878</geo>
-                    </location><idno type="URL">https://sws.geonames.org/2800866/</idno>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2800866/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4008460-7</idno>
                     <idno type="paas">29483</idno>
                 </place>
