@@ -268,8 +268,7 @@
                                     <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>,<lb/>Die wirklichen Mitglieder <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            Hr
-                                            <am>.</am>
+                                            Hr<am>.</am>
                                         </abbr>
                                     </choice>
                                     <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>.<lb/>
@@ -303,14 +302,14 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
+                                    <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                         <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                            von
                                         </expan>
                                         <abbr>v<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                Karajan</rs>
                                 <lb/>
                                 <choice>
                                     <expan>Herr</expan>
@@ -434,24 +433,22 @@
                         <abbr>Hrn<am>.</am>
                     </abbr>
                 </choice>
-                <choice>
+                <rs ref="#kremer-alfred" type="person"><choice>
                     <expan>
-                        <rs ref="#kremer-alfred" type="person">von</rs>
+                        von
                     </expan>
                     <abbr>v<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#kremer-alfred" type="person">Kremer</rs>
-                , Schreiben aus
+            Kremer</rs>, Schreiben aus
             <lb/>
             <rs ref="#beirut" type="place">Beirut</rs> vom <num>5</num>. <choice>
                 <expan>September</expan>
                 <abbr>Sptbr<am>.</am>
             </abbr>
-        </choice>
-            , mit einem
+        </choice>, mit einem
             Auf-
-        <lb/>satze "Des Scheichs <rs ref="#al-ghani-al-nabulusi-abd" type="person">Abd-ol-Ghanij-<lb/>en-Naboli's</rs> Reise in Syrien,<lb/>Ägypten und Hidschas.</p>
+        <lb/>satze "Des Scheichs <rs ref="#al-ghani-al-nabulusi-abd" type="person">Abd-ol-Ghanij-<lb/>en-Naboli</rs>'s Reise in Syrien,<lb/>Ägypten und Hidschas.</p>
                     <p facs="#facs_2_region_1579681030950_249" rendition="#?13-86-99--203-1515" xml:id="p13" xml:space="preserve">
             <lb/>
                 Der Aufsatze wird zum
@@ -466,8 +463,7 @@
                     <abbr>Hrn<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#valentinelli-giuseppe" type="person">Valentinelli</rs>
-                ,
+            <rs ref="#valentinelli-giuseppe" type="person">Valentinelli</rs>,
                 Biblio-
             <lb/>thekar der <choice>
                 <expan>Sanct</expan>
@@ -475,8 +471,7 @@
             </abbr>
         </choice>
             Marcus-Bibliothek
-        <lb/>in <rs ref="#venedig" type="place">Venedig</rs>
-            , Dankschreiben für die
+        <lb/>in <rs ref="#venedig" type="place">Venedig</rs>, Dankschreiben für die
         <lb/>
             übersandten Publicationen der
         <lb/>
@@ -598,8 +593,7 @@
                 <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        Hr
-                        <am>.</am>
+                        Hr<am>.</am>
                     </abbr>
                 </choice> Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs>
                 <lb/>
@@ -615,10 +609,8 @@
                 </abbr>
             </choice>
                 Vereinen für
-            <lb/>Oberbayern in <rs ref="#munchen" type="place">München</rs>
-                , und
-            <lb/>für Franken in <rs ref="#bamberg" type="place">Bamberg</rs>
-                , dann
+            <lb/>Oberbayern in <rs ref="#munchen" type="place">München</rs>, und
+            <lb/>für Franken in <rs ref="#bamberg" type="place">Bamberg</rs>, dann
             <lb/>der <rs ref="#basel" type="place">Basler</rs>
                 Bibliothek
                 zuzusen-
@@ -650,8 +642,7 @@
                     <choice>
                         <expan>Herr</expan>
                         <abbr>
-                            Hr
-                            <am>.</am>
+                            Hr<am>.</am>
                         </abbr>
                     </choice> Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs>
                         ihr
@@ -665,8 +656,7 @@
                         <choice>
                             <expan>Herr</expan>
                             <abbr>
-                                Hr
-                                <am>.</am>
+                                Hr<am>.</am>
                             </abbr>
                         </choice> Regierungsrath <rs ref="#chmel-joseph" type="person">Chmel</rs>
                         <lb/>
@@ -693,8 +683,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    Hr
-                                    <am>.</am>
+                                    Hr<am>.</am>
                                 </abbr>
                             </choice>
                                 Regierungsrath
@@ -714,7 +703,7 @@
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#palacky-franz" type="person">Pa-<lb/>lacky</rs> über <rs ref="#delvert-christian" type="person">D'Elvert's</rs>
+                                <rs ref="#palacky-franz" type="person">Pa-<lb/>lacky</rs> über <rs ref="#delvert-christian" type="person">D'Elvert</rs>'s
                                 <lb/>
                                     "historische
                                     Literaturgeschich-
@@ -752,8 +741,7 @@
                                 <choice>
                                     <expan>Herr</expan>
                                     <abbr>
-                                        Hr
-                                        <am>.</am>
+                                        Hr<am>.</am>
                                     </abbr>
                                 </choice>
                                 <rs ref="#wolny-gregor-thomas" type="person">Wolny</rs>
@@ -767,8 +755,7 @@
                                     <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            Hr
-                                            <am>.</am>
+                                            Hr<am>.</am>
                                         </abbr>
                                     </choice>
                                         Regierungsrath

@@ -461,21 +461,8 @@
         <lb/>
             für das Reisestipendium von
         <lb/>abermals <num>1000</num>
-        <choice>
-            <expan>Gulden</expan>
-            <abbr>
-                <choice>
-                    <abbr>fl<am>.</am>
-                </abbr>
-                <expan>Gulden</expan>
-            </choice>
-        </abbr>
-    </choice>
-    <choice>
-        <expan>Conventionsmünze</expan>
-        <abbr>CM<am>.</am>
-    </abbr>
-</choice>, das
+        <choice><expan>Gulden</expan><abbr>fl<am>.</am></abbr></choice>
+        <choice><expan>Conventionsmünze</expan><abbr>CM<am>.</am></abbr></choice>, das
 <lb/>
     ihm die Akademie auch für
 <lb/>das zweite Jahr bewilliget,<lb/>
@@ -542,7 +529,7 @@
             <lb/>
                 träglich ihm von Herrn
             <lb/>
-                Roth zugekommene
+                <rs type="person" ref="#roth-karl">Roth</rs> zugekommene
                 Be-
             <lb/>
                 merkungen über den
@@ -610,7 +597,7 @@
                             <lb/>
                             <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
                                 Abschrift einer
-                            <lb/>Bulle des Pabstes Alexander IV.<lb/>
+                            <lb/>Bulle des Pabstes <rs type="person" ref="#alexander-iv">Alexander IV.</rs><lb/>
                             <choice>
                                 <expan>de dato</expan>
                                 <abbr>dd<hi rend="super">o</hi>
@@ -671,7 +658,7 @@
                     <abbr>K<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#habsburg-karl-v" type="person">Carl's V.</rs> mit Ferdinand I.<lb/>
+            <rs ref="#habsburg-karl-v" type="person">Carl's V.</rs> mit <rs type="person" ref="#habsburg-ferdinand-i-kaiser">Ferdinand I.</rs><lb/>
                 herauszugeben; der
             <rs ref="#karajan-von-theodor-georg" type="person">Be-<lb/>richterstatter</rs>
                 trägt auf
@@ -738,15 +725,14 @@
             </choice>
                 Koch-<lb/>Sternfeld</rs>'s
                 Abhandlung: Uiber
-            <lb/>das Zeitalter des <choice>
-                <expan>heiligen</expan>
-                <abbr>h<am>.</am>
-            </abbr>
-        </choice>
-            Ruprecht
-        <lb/>
-            deren Aufnahme in das
-            Ar-
+            <lb/>das Zeitalter des <rs type="person" ref="#rupert-heiliger"><choice>
+                    <expan>heiligen</expan>
+                    <abbr>h<am>.</am>
+                    </abbr>
+            </choice>
+                Ruprecht</rs>
+                        <lb/>
+            deren Aufnahme in das Ar-
         <lb/>chiv er beanträgt.</p>
                     <p facs="#facs_4_region_1580823017059_93" rendition="#l" xml:id="p31" xml:space="preserve">
             <lb/>
@@ -774,10 +760,8 @@
                     <lb/>sich ganz eignet, zur Auf-
                     <lb/>nahme in das Archiv.</p>
                     <p facs="#facs_4_region_1580823030623_105" rendition="#?19-80-99--289-1544" xml:id="p35" xml:space="preserve">
-                        <lb/>
-                            b. c. d. werden dem
-                            An-
-                        <lb/>trage gemäß zum Abdruck-</p>
+                        <lb/>b. c. d. werden dem An-
+                        <lb/>trage gemäß zum Abdruck</p>
                 </div>
             </div>
             <div n="5" type="page" xml:id="d9">
@@ -794,8 +778,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    Hr
-                                    <am>.</am>
+                                    Hr<am>.</am>
                                 </abbr>
                             </choice>
                             <choice>
@@ -806,12 +789,12 @@
                             Rath
                         <rs ref="#bergmann-joseph" type="person">Berg-<lb/>mann</rs>
                             erstattet Bericht
-                        <lb/>über: <rs ref="#schweitzer-leopold" type="person">Schweizer's</rs>
+                        <lb/>über: <rs ref="#schweitzer-leopold" type="person">Schweizer</rs>'s
                             "Serie
                         <lb/>
                             delle monete et medaglie
                         <lb/>
-                        <rs ref="#aquileia" type="place">d'Aquileja</rs>."</p>
+                        d'<rs ref="#aquileia" type="place">Aquileja</rs>."</p>
                     <p facs="#facs_5_region_1580823183138_150" rendition="#?21-74-95--361-1610" xml:id="p38" xml:space="preserve">
                             <lb/>
                                 Zum Abdruck in den
@@ -823,8 +806,7 @@
                                 </abbr>
                             </choice>
                             <rs ref="#schmidl-adolf" type="person">Schmidl</rs> liest:<lb/>
-                                "Notizen zu Kunst und
-                                Al-
+                                "Notizen zu Kunst und Al-
                             <lb/>
                                 terthum aus den
                                 Donaulän-
@@ -839,26 +821,21 @@
                                         <lb/>erstattet <choice>
                                             <expan>Herr</expan>
                                             <abbr>
-                                                Hr
-                                                <am>.</am>
+                                                Hr<am>.</am>
                                             </abbr>
                                         </choice>
-                                        <choice>
+                                        <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                             <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                                von
                                             </expan>
                                             <abbr>v<am>.</am>
                                         </abbr>
                                     </choice>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                    Karajan</rs>
                                     <lb/>Bericht:</p>
                     <p facs="#facs_5_region_1580823163073_138" rendition="#l" xml:id="p43" xml:space="preserve">
                                         <lb/>
-                                        <num>976</num>/<num>1849</num>.</p>
-                    <p facs="#facs_5_region_1580823168402_141" rendition="#?22-77-99--365-1679" xml:id="p44" xml:space="preserve">
-                                            <lb/>
-                                            <num>1</num>
-                                                ) über den von Herrn
+                                        <num>976</num>/<num>1849</num>. <num>1</num>) über den von Herrn
                                             <lb/><choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>                                            
                                         <rs ref="#suttner-hermann" type="person">Suttner</rs>
                                             in einer
@@ -1047,7 +1024,7 @@
                                             <hi>könnte</hi>, so muß sie doch
                                             <lb/>
                                                 den in dem Berichte des
-                                            <lb/>Herrn <rs ref="#karajan-von-theodor-georg" type="person">Referenten</rs>                                                
+                                            <lb/>Herrn <rs ref="#karajan-von-theodor-georg" type="person">Referent</rs>en                                                
                                                 darü-
                                             <lb/>
                                                 ber ausgesprochenen

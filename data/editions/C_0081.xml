@@ -342,8 +342,7 @@
                     <p facs="#facs_1_region_1579772045522_19" rendition="#fc" xml:id="p5" xml:space="preserve">
                                 <lb/>der Sitzung der philosophisch-historischen Classe</p>
                     <p facs="#facs_1_region_1579772048445_22" rendition="#fc" xml:id="p6" xml:space="preserve">
-                                    <lb/>am <num>2</num>
-                                    <hi rend="super">ten</hi> October <num>1850</num>.</p>
+                                    <lb/>am <num>2</num><hi rend="super">ten</hi> October <num>1850</num>.</p>
                     <p facs="#facs_1_region_1579772059540_25" rendition="#?13-87-100--336-2504" xml:id="p7" xml:space="preserve">
                                         <lb/>Anwesend: Der Alterspräsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
                                         <lb/>Die <choice>
@@ -389,14 +388,14 @@
                                             <am>"</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
+                                    <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                         <expan>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                            von
                                         </expan>
                                         <abbr>v<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                Karajan</rs>
                                 <lb/>
                                 <choice>
                                     <expan>Herr</expan>
@@ -422,7 +421,7 @@
                                 </choice>
                                 <rs ref="#kudler-joseph" type="person">Kudler</rs>
                             </p>
-                    <p facs="#facs_1_region_1579772063166_28" rendition="#fc" xml:id="p8" xml:space="preserve">
+                    <p facs="#facs_1_region_1579772063166_28" rendition="#f" xml:id="p8" xml:space="preserve">
                                 <lb/>Der Secretär <choice>
                                     <expan>Herr</expan>
                                     <abbr>
@@ -435,11 +434,7 @@
                                         <expan>provisorische</expan>
                                         <abbr>prov<am>.</am>
                                     </abbr>
-                                </choice> General-Secretär <expan>Prof<choice>
-                                    <am>.</am>
-                                    <ex>essor</ex>
-                                </choice>
-                            </expan>
+                                </choice> General-Secretär <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
                             <rs ref="#schrotter-anton" type="person">Schrötter</rs>
                             <lb/>Die Herren Professoren <rs ref="#tafel-gottlieb-lukas-friedrich" type="person">Tafel</rs> von <rs ref="#tubingen" type="place">Tübingen</rs>,<lb/>
                             <rs ref="#thomas-georg-martin" type="person">Thomas</rs> von <rs ref="#munchen" type="place">München</rs>
@@ -484,10 +479,10 @@
                 </choice>
                 <lb/>
                 <num>1577</num>
-                    der Pariser Nationalbibliothek
+                    der <rs type="place" ref="#paris">Paris</rs>er Nationalbibliothek
                 <lb/>
                     enthaltend: Carlerus de legationibus
-                <lb/>Concilii Basil. </p>
+                <lb/>Concilii <choice><expan><rs type="place" ref="#basel">Basiliensis</rs></expan><abbr>Basil><am>.</am></abbr></choice></p>
                 </div>
             </div>
             <div n="2" type="page" xml:id="d3">
@@ -550,8 +545,7 @@
         Der historischen Commission zur
     <lb/>Wissenschaft.</p>
                     <p facs="#facs_2_region_1579772116548_46" rendition="#f" xml:id="p15" xml:space="preserve">
-        <lb/>(<num>1013</num>) <hi>c.</hi> Von <hi>demselben</hi>
-            , eine Note mit
+        <lb/>(<num>1013</num>) <hi>c.</hi> Von <hi>demselben</hi>, eine Note mit
         <lb/>der Abschrift des für <choice>
             <expan>Herrn</expan>
             <abbr>Hrn<am>.</am>
@@ -642,9 +636,7 @@
                     <p facs="#facs_3_region_1579772163993_64" rendition="#?19-79-98--324-1648" xml:id="p18" xml:space="preserve">
                 <lb/>
                 <num>3</num>.) <hi>
-                    <rs ref="#romanelli-domenico" type="person">Romanelli</rs>
-               </hi>
-                    , Topografia del
+                    <rs ref="#romanelli-domenico" type="person">Romanelli</rs></hi>, Topografia del
                 <lb/>regno di <rs ref="#neapel" type="place">Napoli</rs>. Druckwerk,<lb/>entweder aus der <choice>
                     <expan>kaiserlich-königlichen</expan>
                     <abbr>kk<am>.</am>
@@ -719,7 +711,9 @@
     Werk: "Dalmatien in seinen
 <lb/>verschiedenen Beziehungen"<lb/>
     mit der Bitte um Herausgabe
-<lb/>desselben durch die Akademie.<lb/>
+<lb/>desselben durch die Akademie.</p>
+                    <p facs="#facs_3_region_1579772198654_76" rendition="#f" xml:id="p122" xml:space="preserve">
+                        <lb/>
 <choice>
     <expan>Herrn</expan>
     <abbr>Hrn<am>.</am>
@@ -742,10 +736,7 @@
     die Fortsetzung seines Aufsatzes
 <lb/>
     "Die Grafen, Markgrafen und
-<lb/>Herzoge aus dem Hause <choice>
-    <expan>Eppenstein.</expan>
-    <abbr>Eppenstein</abbr>
-</choice>
+<lb/>Herzoge aus dem Hause Eppenstein.
 <lb/>
 <choice>
     <expan>Herrn</expan>
@@ -874,7 +865,7 @@
 </choice>
 <rs ref="#dieterici-friedrich-heinrich" type="person">Dietrici</rs> in <rs ref="#berlin" type="place">Berlin</rs>,<lb/>
     sein Werk: "Original-Grammatik
-<lb/>des Ibn-Akil I. <choice>
+<lb/>des <rs type="person" ref="#ibn-aqil">Ibn-Akil</rs> I. <choice>
     <expan>Heft</expan>
     <abbr>Hft<am>.</am>
 </abbr>
@@ -1036,8 +1027,7 @@
                     <p facs="#facs_6_region_1579772332596_127" rendition="#f" xml:id="p34" xml:space="preserve">
                     <lb/>
                     <hi>
-                        <rs ref="#chmel-joseph" type="person">Derselbe</rs>
-                   </hi> zeigt an, daß <choice>
+                        <rs ref="#chmel-joseph" type="person">Derselbe</rs></hi> zeigt an, daß <choice>
                         <expan>Herr</expan>
                         <abbr>
                             Hr<am>.</am>
@@ -1076,8 +1066,8 @@
                             an, was mit der eingesandten
                         <lb/>
                         <rs ref="#basel" type="place">Basler</rs>
-                            Handschrift des Johannes
-                        <lb/>de Ragusio zu geschehen habe?</p>
+                            Handschrift des <rs type="person" ref="#ragusa-johannes">Johannes
+                                <lb/>de Ragusio</rs> zu geschehen habe?</p>
                     <p facs="#facs_6_region_1579772311015_118" rendition="#f" xml:id="p37" xml:space="preserve">
                             <lb/>Die Handschrift hat <choice>
                                 <expan>unterdeßen</expan>
@@ -1089,17 +1079,17 @@
                                     Hr<am>.</am>
                                 </abbr>
                             </choice>
-                            <choice>
+                            <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                 <expan>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                    von
                                 </expan>
                                 <abbr>v<am>.</am>
                             </abbr>
                         </choice>
-                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                        Karajan</rs>
                             Herrn
                         <lb/>
-                        <rs ref="#palacky-franz" type="person">Palacky's</rs> Meinung eingeholt.</p>
+                        <rs ref="#palacky-franz" type="person">Palacky</rs>'s Meinung eingeholt.</p>
                     <p facs="#facs_6_region_1579772305608_115" rendition="#f" xml:id="p38" xml:space="preserve">
                             <lb/>
                                 Da der Classe mitgetheilt
