@@ -17,6 +17,48 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="ibn-malik">
+               <persName>
+                  <surname>Ibn Mālik</surname>
+               </persName>
+               <birth>
+                  <date>um 1204/05</date>
+                  <placeName>Jaén</placeName>
+               </birth>
+               <death>
+                  <date when="1274-02-22">22.02.1274</date>
+                  <placeName>Damaskus</placeName></death>
+               <occupation>Grammatiker</occupation>
+               <occupation>Verfasser der Alfiyya</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11951088X</idno>
+            </person>
+            <person xml:id="ibn-aqil">
+               <persName>
+                  <surname>Ibn-ʿAqīl</surname>
+               </persName>
+               <birth>
+                  <date>1294</date>
+                  </birth>
+               <death>
+                  <date>1367</date>
+                  </death>
+                     <occupation>Grammatiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119462540</idno>
+            </person>
+            <person xml:id="thom-ludwig">
+               <persName>
+                  <forename>Ludwig</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Thom</surname>
+               </persName>
+               <birth>
+                 </birth>
+               <death>
+                 </death>
+               <occupation>Diplomat</occupation>
+               <occupation>k.k. Gesandter in Bern (1849-1852)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/130163686</idno>
+            </person>
             <person xml:id="ludwig-karl">
                <persName>
                   <forename>Karl</forename>
@@ -52,14 +94,15 @@
             <person xml:id="rupert-heiliger">
                <persName>
                   <forename>Rupert</forename>
-                  </persName>
+                  <surname>Bischof von Salzburg </surname>
+               </persName>
                <birth>
                   <date>um 650</date>
                   <placeName>vermutl. Worms</placeName>
                </birth>
                <death>
                   <date>27.03.718 (?)</date>
-                  <placeName>Wprms</placeName></death>
+                  <placeName>Worms</placeName></death>
                <occupation>Erster Bischof von Salzburg</occupation>
                <occupation>Abt von Salzburg/St. Peter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119006634</idno>
