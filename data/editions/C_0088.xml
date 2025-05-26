@@ -174,9 +174,7 @@
                                 <lb/>Die wirklichen Mitglieder <choice>
                                     <expan>Herr</expan>
                                     <abbr>
-                                        Hr
-                                        <am>.</am>
-                                    </abbr>
+                                        Hr<am>.</am></abbr>
                                 </choice>
                                 <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
                                 <lb/>
@@ -307,8 +305,7 @@
                     </choice>
                     <rs ref="#lanz-karl-friedrich" type="person">Lanz</rs>
                         zusenden zu wollen, und zwar
-                    <lb/>eine <hi>abschlägige</hi>
-                        , da "die Gesetze über
+                    <lb/>eine <hi>abschlägige</hi>, da "die Gesetze über
                     <lb/>das Ausleihen der <choice>
                         <expan>kaiserlich-königlichen</expan>
                         <abbr>kk<am>.</am>
@@ -439,7 +436,7 @@
                 <pb facs="#facs_3" n="3" xml:id="pag3"/>
                 <div xml:id="d6">
                     <p facs="#facs_3_region_1578901264626_64" rendition="#?16-84-100--251-1573" xml:id="p20" xml:space="preserve">
-            <lb/>Ibn Akil zur Elfije Ibn Maliks.</p>
+            <lb/><rs type="person" ref="#ibn-aqil">Ibn Akil</rs> zur Elfije <rs type="person" ref="#ibn-malik">Ibn Malik</rs>s.</p>
                     <p facs="#facs_3_region_1578901268845_67" rendition="#f" xml:id="p21" xml:space="preserve">
                 <lb/>
                 <num>1263</num>. <choice>

@@ -266,14 +266,14 @@
                                     <am>-</am>
                                 </abbr>
                             </choice>
-                            <choice>
+                            <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                 <expan>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                    von
                                 </expan>
                                 <abbr>v<am>.</am>
                             </abbr>
                         </choice>
-                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>.<lb/>
+                        Karajan</rs>.<lb/>
                         <choice>
                             <expan>Herr</expan>
                             <abbr>
@@ -315,7 +315,7 @@
                             </abbr>
                         </choice>
                         <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.</p>
-                    <p facs="#facs_1_region_1581500297707_329" rendition="#fc" xml:id="p8" xml:space="preserve">
+                    <p facs="#facs_1_region_1581500297707_329" rendition="#f" xml:id="p8" xml:space="preserve">
                             <lb/>Als Gäste <choice>
                                 <expan>Herr</expan>
                                 <abbr>
@@ -340,19 +340,18 @@
                         <rs ref="#zappert-georg" type="person">Zappert</rs>
                         <lb/>und mehrere andere.</p>
                     <p facs="#facs_1_region_1581500308035_332" rendition="#r" xml:id="p9" xml:space="preserve">
-                            <lb/>Protokoll unbeanstandet.<lb/>Der <hi>
-                                <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                           </hi> legt vor:</p>
+                            <lb/>Protokoll unbeanstandet.</p>
                     <p facs="#facs_1_region_1581500318267_335" rendition="#?39-59-98--978-2473" xml:id="p10" xml:space="preserve">
-                                <lb/>(<num>492</num>) a) Vom Ministerium des Äußeren</p>
-                    <p facs="#facs_1_region_1581500325451_338" rendition="#r" xml:id="p11" xml:space="preserve">
+                        <lb/>Der <hi> <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi> legt vor:</p>
+                    <p facs="#facs_1_region_1581500318267_335" rendition="#?39-59-98--978-2473" xml:id="p11" xml:space="preserve">
+                                <lb/>(<num>492</num>) a) Vom Ministerium des Äußeren
                                     <lb/>
                                         eine Note nebst Mittheilung eines
                                     <lb/>Berichtes des <choice>
                                         <expan>kaiserlich-königlichen</expan>
                                         <abbr>kk<am>.</am>
                                     </abbr>
-                                </choice> Gesanten Bern und <choice>
+                                </choice> <rs type="person" ref="#thom-ludwig">Gesanten</rs> [in] <rs type="place" ref="#bern">Bern</rs> und <choice>
                                     <expan>eines</expan>
                                     <abbr>ein</abbr>
                                 </choice>
@@ -386,30 +385,29 @@
                         <expan>Codex</expan>
                         <abbr>Cod<am>.</am>
                     </abbr>
-                </choice> der Baseler <choice>
+                </choice> der <rs type="place" ref="#basel">Basel</rs>er <choice>
                     <expan>Bibliothek</expan>
                     <abbr>Bibl<am>:</am>
                 </abbr>
             </choice>
-            <choice>
-                <expan>Johannis</expan>
-                <abbr>Joh<am>:</am>
-            </abbr>
-        </choice> de Ragusio,<lb/>Initium et prosecutio Concillii <choice>
+            <rs type="person" ref="#ragusa-johannes"><choice>
+                    <expan>Johannis</expan>
+                    <abbr>Joh<am>:</am>
+                    </abbr>
+            </choice> de Ragusio</rs>,<lb/>Initium et prosecutio Concillii <choice>
             <expan>Basilensis</expan>
             <abbr>Basil<am>:</am>
         </abbr>
     </choice>
-    <lb/>mitgetheilt werden kann.<lb/>Herrn <choice>
+    <lb/>mitgetheilt werden kann.<lb/>Herrn <rs ref="#karajan-von-theodor-georg" type="person">
+        <choice>
         <expan>
-            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+            von
         </expan>
         <abbr>v<am>.</am>
     </abbr>
 </choice>
-<hi>
-    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-</hi> zur Begutachtung.</p>
+<hi>Karajan</hi></rs> zur Begutachtung.</p>
                 </div>
             </div>
             <div n="2" type="page" xml:id="d3">
@@ -463,16 +461,14 @@
         Falle um Unterstützung der Akademie
     <lb/>
         zur Bezahlung der aufzunehmenden
-    <lb/>Arbeiter bittet. Auf die Bemerkung</p>
-                    <p facs="#facs_2_region_1581502716573_522" rendition="#?17-82-100--279-1613" xml:id="p14" xml:space="preserve">
+    <lb/>Arbeiter bittet. Auf die Bemerkung
         <lb/>des <choice>
             <expan>Herrn</expan>
             <abbr>
-                Hr
-                <am>.</am>
+                Hr<am>.</am>
             </abbr>
         </choice> Regierungs Rath <hi>
-            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>,</hi>
+            <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>,
             <lb/>
                 daß diese Monumente, deren
                 mitein-
@@ -526,14 +522,14 @@
         <abbr>Hrnn<am>.</am>
     </abbr>
 </choice>
-<choice>
+<rs ref="#karajan-von-theodor-georg" type="person"><choice>
     <expan>
-        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+        von
     </expan>
     <abbr>v<am>.</am>
 </abbr>
 </choice>
-<rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs> zugewiesen.</p>
+Karajan</rs> zugewiesen.</p>
                     <p facs="#facs_2_region_1581502742405_528" rendition="#?19-81-100--300-1617" xml:id="p16" xml:space="preserve">
     <lb/>Auf einen Bericht des <choice>
         <expan>Doctor</expan>
@@ -548,27 +544,23 @@
     <abbr>Hrn<am>:</am>
 </abbr>
 </choice>
-<choice>
+<rs ref="#kremer-alfred" type="person"><choice>
     <expan>
-        <rs ref="#kremer-alfred" type="person">von</rs>
+        von
     </expan>
     <abbr>v<am>:</am>
 </abbr>
 </choice>
-<hi>
-    <rs ref="#kremer-alfred" type="person">Kremer</rs>
-</hi>    
+<hi>Kremer</hi></rs>    
     einge-
 <lb/>
     sandten Aufsätze: "Die Medreseen von
 <lb/>
-<rs ref="#aleppo" type="place">Haleb</rs> und <rs ref="#mekka" type="place">Mekka</rs>
-    " zum Abdruck
+<rs ref="#aleppo" type="place">Haleb</rs> und <rs ref="#mekka" type="place">Mekka</rs>" zum Abdruck
 <lb/>in dem <hi>heutigen</hi> Sitzungsbericht bestimmt;<lb/>
     der aber über die Medreseen von
 <lb/>
-<rs ref="#damaskus" type="place">Damaskus</rs>
-    " ist mit den übrigen
+<rs ref="#damaskus" type="place">Damaskus</rs>" ist mit den übrigen
     Vor-
 <lb/>arbeiten des <choice>
     <expan>Verfassers</expan>
@@ -592,9 +584,7 @@
     <abbr>Dr<am>:</am>
 </abbr>
 </choice>
-<hi>
-    <rs ref="#hofler-constantin" type="person">Hoefler</rs>
-</hi>
+<hi><rs ref="#hofler-constantin" type="person">Hoefler</rs></hi>
     legt seine
 <lb/>
     Fränkischen Studien I. II. III. zur
@@ -611,7 +601,7 @@
             <div n="3" type="page" xml:id="d5">
                 <pb facs="#facs_3" n="3" xml:id="pag3"/>
                 <div xml:id="d6">
-                    <p facs="#facs_3_region_1581520557456_113" rendition="#fc" xml:id="p18" xml:space="preserve">
+                    <p facs="#facs_3_region_1581520557456_113" rendition="#f" xml:id="p18" xml:space="preserve">
             <lb/>
                 die östreichische Geschichte nachweist.
             <lb/>
@@ -622,16 +612,14 @@
                     <am>:</am>
                 </abbr>
             </choice>
-            <choice>
+            <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                 <expan>
-                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                    von
                 </expan>
                 <abbr>v<am>:</am>
             </abbr>
         </choice>
-        <hi>
-            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
-       </hi> zugewiesen.</p>
+        <hi>Karajan</hi></rs> zugewiesen.</p>
                     <p facs="#facs_3_region_1581520562935_116" rendition="#?30-63-93--561-1765" xml:id="p19" xml:space="preserve">
             <lb/>
             <choice>
@@ -641,9 +629,7 @@
                     <am>.</am>
                 </abbr>
             </choice>
-            <hi>
-                <rs ref="#zappert-georg" type="person">Zappert</rs>
-           </hi>
+            <hi><rs ref="#zappert-georg" type="person">Zappert</rs></hi>
                 liest als Gast: "Über die
             <lb/>Quellen-Angabe der <choice>
                 <expan>mittelalterlichen</expan>
@@ -670,9 +656,7 @@
             </choice>
             <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
         <lb/>
-        <hi>
-            <rs ref="#gaisberger-joseph" type="person">Gaisberger</rs>
-       </hi>
+        <hi><rs ref="#gaisberger-joseph" type="person">Gaisberger</rs></hi>
             der Akademie
             eingesand-
         <lb/>
@@ -720,9 +704,7 @@
             <abbr>vertrau<am>:</am>
         </abbr>
     </choice> Sitzung:</hi>
-    <lb/>Macht der <hi>
-        <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-   </hi>
+    <lb/>Macht der <hi><rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
         die vorläufige
     <lb/>
         Mittheilung des Erlaßes des hohen
@@ -738,24 +720,14 @@
         doch schon in Folge dieser Mittheilung
     <lb/>das zusammentreten der Wahl-Com-<lb/>mission von der Classe suspendiert.</p>
                     <p facs="#facs_3_region_1581600630096_153" rendition="#l" xml:id="p23" xml:space="preserve">
-        <lb/>(<num>1087</num>/<num>1849</num>)</p>
-                    <p facs="#facs_3_region_1581520613343_128" rendition="#?30-70-100--576-1901" xml:id="p24" xml:space="preserve">
-            <lb/>
-            <choice>
-                <expan>Herr</expan>
-                <abbr>
-                    Hr
-                    <am>.</am>
-                </abbr>
-            </choice>
+        <lb/>(<num>1087</num>/<num>1849</num>) <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice>
             <rs ref="#karajan-von-theodor-georg" type="person">
                 <choice>
                     <expan>von</expan>
                     <abbr>v<am>.</am>
                 </abbr>
             </choice>
-            <hi>Karajan</hi>
-        </rs>
+            <hi>Karajan</hi></rs>
             berichtet im Namen
         <lb/>der Commission über das von <choice>
             <expan>Herrn</expan>

@@ -353,12 +353,11 @@
                     <p facs="#facs_1_region_1581408346343_529" rendition="#fc" xml:id="p5" xml:space="preserve">
                                 <lb/>der Sitzung der philosophisch-historischen Classe</p>
                     <p facs="#facs_1_region_1581408349390_532" rendition="#fc" xml:id="p6" xml:space="preserve">
-                                    <lb/>am <num>5</num>
-                                    <hi rend="super">ten</hi> Juni <num>1850</num>.</p>
+                                    <lb/>am <num>5</num><hi rend="super">ten</hi> Juni <num>1850</num>.</p>
                     <p facs="#facs_1_region_1581408356734_535" rendition="#?16-78-94--404-2363" xml:id="p7" xml:space="preserve">
                                         <lb/>Anwesend: Der Alterspräsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
                                     </p>
-                    <p facs="#facs_1_region_1581408360766_538" rendition="#fc" xml:id="p8" xml:space="preserve">
+                    <p facs="#facs_1_region_1581408360766_538" rendition="#f" xml:id="p8" xml:space="preserve">
                                         <lb/>Die wirklichen Mitglieder <choice>
                                             <expan>Herr</expan>
                                             <abbr>
@@ -390,14 +389,14 @@
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
-                                        <choice>
+                                        <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                             <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                                von
                                             </expan>
                                             <abbr>v<am>.</am>
                                         </abbr>
                                     </choice>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                    Karajan</rs>
                                     <lb/>
                                     <choice>
                                         <expan>Herr</expan>
@@ -433,8 +432,7 @@
                                         <lb/>Das corresp. Mitglied <choice>
                                             <expan>Herr</expan>
                                             <abbr>
-                                                Hr
-                                                <am>.</am>
+                                                Hr<am>.</am>
                                             </abbr>
                                         </choice>
                                         <choice>
@@ -557,8 +555,7 @@
                                                         <lb/>herausgegebenen Werke,<lb/>da sie, wie <choice>
                                                             <expan>Herr</expan>
                                                             <abbr>
-                                                                Hr
-                                                                <am>.</am>
+                                                                Hr<am>.</am>
                                                             </abbr>
                                                         </choice>
                                                         <rs ref="#diemer-josef" type="person">Diemer</rs>
@@ -624,8 +621,7 @@
                                                                             d. Vom Verwaltungsausschuß
                                                                         <lb/>
                                                                             des Museums Francisco-Carolinum
-                                                                        <lb/>in <rs ref="#linz" type="place">Linz</rs>
-                                                                            , Dankschreiben für die
+                                                                        <lb/>in <rs ref="#linz" type="place">Linz</rs>, Dankschreiben für die
                                                                         <lb/>Widmung von <num>5</num>
                                                                             Exemplaren der
                                                                         <lb/>Terrainkarte von Österreich.</p>
@@ -679,8 +675,7 @@
                                                             </abbr>
                                                         </choice>
                                                         <rs ref="#halm-karl" type="person">Halm</rs>
-                                                        <lb/>in <rs ref="#munchen" type="place">München</rs>
-                                                            , eine Handschrift
+                                                        <lb/>in <rs ref="#munchen" type="place">München</rs>, eine Handschrift
                                                         <lb/>des Cicero der <choice>
                                                             <expan>kaiserlichen</expan>
                                                             <abbr>k<am>.</am>
@@ -728,8 +723,7 @@
                                                 </choice> Mitglied <choice>
                                                     <expan>Herr</expan>
                                                     <abbr>
-                                                        Hr
-                                                        <am>.</am>
+                                                        Hr<am>.</am>
                                                     </abbr>
                                                 </choice>
                                                 <choice>
@@ -765,8 +759,7 @@
                                         <choice>
                                             <expan>Herr</expan>
                                             <abbr>
-                                                Hr
-                                                <am>.</am>
+                                                Hr<am>.</am>
                                             </abbr>
                                         </choice>
                                         <choice>
@@ -784,8 +777,7 @@
                                         <lb/>Der Secretär <choice>
                                             <expan>Herr</expan>
                                             <abbr>
-                                                Hr
-                                                <am>.</am>
+                                                Hr<am>.</am>
                                             </abbr>
                                         </choice>
                                         <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
@@ -817,14 +809,14 @@
                                                         <expan>Johann</expan>
                                                         <abbr>Joh<am>.</am>
                                                     </abbr>
-                                                </choice> Edlen <choice>
+                                                </choice> Edlen <rs ref="#kremer-johann-heinrich" type="person"><choice>
                                                     <expan>
-                                                        <rs ref="#kremer-johann-heinrich" type="person">von</rs>
+                                                        von
                                                     </expan>
                                                     <abbr>v<am>.</am>
                                                 </abbr>
                                             </choice>
-                                            <rs ref="#kremer-johann-heinrich" type="person">Kremer</rs>
+                                            Kremer</rs>
                                             <lb/>
                                                 um Anweisung des auf den
                                             <lb/>(durch Beschluß der <choice>
@@ -837,8 +829,7 @@
                                             <expan>dieses Jahres</expan>
                                             <abbr>d<am>.</am> J<am>.</am>
                                         </abbr>
-                                    </choice>
-                                        ) bewilligten
+                                    </choice>) bewilligten
                                     <lb/>Unterstützungsbeitrag <choice>
                                         <expan>pro</expan>
                                         <abbr>pr</abbr>
@@ -881,14 +872,14 @@
                                     <abbr>Hrn<am>.</am>
                                 </abbr>
                             </choice>
-                            <choice>
+                            <rs ref="#kremer-alfred" type="person"><choice>
                                 <expan>
-                                    <rs ref="#kremer-alfred" type="person">von</rs>
+                                    von
                                 </expan>
                                 <abbr>v<am>.</am>
                             </abbr>
                         </choice>
-                        <rs ref="#kremer-alfred" type="person">Kremer</rs>
+                        Kremer</rs>
                         <lb/>
                             schon bei Anweisung des früheren
                         <lb/>
@@ -925,18 +916,17 @@
                 <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        Hr
-                        <am>.</am>
+                        Hr<am>.</am>
                     </abbr>
                 </choice>
-                <choice>
+                <rs ref="#kremer-alfred" type="person"><choice>
                     <expan>
-                        <rs ref="#kremer-alfred" type="person">von</rs>
+                        von
                     </expan>
                     <abbr>v<am>.</am>
                 </abbr>
             </choice>
-            <rs ref="#kremer-alfred" type="person">Kremer</rs>
+            Kremer</rs>
                 sich der
                 Unter-
             <lb/>
@@ -970,8 +960,7 @@
                 <choice>
                     <expan>Herr</expan>
                     <abbr>
-                        Hr
-                        <am>.</am>
+                        Hr<am>.</am>
                     </abbr>
                 </choice> Regierungsrath <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                 <lb/>
@@ -989,8 +978,7 @@
                 <abbr>v<am>.</am>
             </abbr>
         </choice>
-        <rs ref="#hefner-alteneck-jakob-heinrich" type="person">Hefner</rs>
-            ,
+        <rs ref="#hefner-alteneck-jakob-heinrich" type="person">Hefner</rs>,
             Mit-
         <lb/>glied der <choice>
             <expan>königlich</expan>
@@ -1026,8 +1014,7 @@
             <lb/>Welches Ansuchen <choice>
                 <expan>Herr</expan>
                 <abbr>
-                    Hr
-                    <am>.</am>
+                    Hr<am>.</am>
                 </abbr>
             </choice>                
                 Regierungs-
@@ -1101,14 +1088,14 @@
                 <abbr>Hrn<am>.</am>
             </abbr>
         </choice>
-        <choice>
+        <rs ref="#hefner-alteneck-jakob-heinrich" type="person"><choice>
             <expan>
-                <rs ref="#hefner-alteneck-jakob-heinrich" type="person">von</rs>
+                von
             </expan>
             <abbr>v<am>.</am>
         </abbr>
     </choice>
-    <rs ref="#hefner-alteneck-jakob-heinrich" type="person">Hefner</rs>
+    Hefner</rs>
         als
         Nicht-
     <lb/>mitglied der <choice>

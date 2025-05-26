@@ -392,7 +392,7 @@
                                     <rs ref="#venedig" type="place">Ve-<lb/>nedig</rs>
                                         für die der dortigen Bibliothek
                                     <lb/>übersendeten Druckschriften der Akademie.</p>
-                    <p facs="#facs_2_region_1581406422954_89" rendition="#fc" xml:id="p21" xml:space="preserve">
+                    <p facs="#facs_2_region_1581406422954_89" rendition="#f" xml:id="p21" xml:space="preserve">
                                         <lb/>Zur Wissenschaft.</p>
                     <p facs="#facs_2_region_1581406425309_92" rendition="#l" xml:id="p22" xml:space="preserve">
                                             <lb/>
@@ -472,10 +472,7 @@
                             <lb/>berichten bestimmt.</p>
                     <p facs="#facs_2_region_1581406364942_62" rendition="#l" xml:id="p28" xml:space="preserve">
                                 <lb/>
-                                <num>618</num>.</p>
-                    <p facs="#facs_2_region_1581406387015_68" rendition="#?14-86-100--219-1558" xml:id="p29" xml:space="preserve">
-                                    <lb/>
-                                    <num>6</num>. Von <choice>
+                                <num>618</num>. <num>6</num>. Von <choice>
                                         <expan>Herrn</expan>
                                         <abbr>Hrn<am>.</am>
                                     </abbr>
@@ -485,21 +482,15 @@
                                     <abbr>A<am>.</am>
                                 </abbr>
                             </choice>
-                            <choice>
+                            <rs ref="#kremer-alfred" type="person"><choice>
                                 <expan>
-                                    <rs ref="#kremer-alfred" type="person">von</rs>
+                                    von
                                 </expan>
                                 <abbr>v<am>.</am>
                             </abbr>
                         </choice>
-                        <rs ref="#kremer-alfred" type="person">Kremer</rs> aus <rs ref="#damaskus" type="place">
-                            <choice>
-                                <expan>Da-</expan>
-                                <abbr>Da</abbr>
-                            </choice>
-                            <lb/>
-                            <rs ref="#damaskus" type="place">mascus</rs>
-                        </rs> eine Abhandlung über <num>2</num>
+                        Kremer</rs> aus <rs ref="#damaskus" type="place"> Da-
+                            <lb/>mascus</rs> eine Abhandlung über <num>2</num>
                         <lb/>arabisch-geographische Werke.</p>
                 </div>
             </div>
@@ -518,10 +509,7 @@
                         <lb/>Berichterstattung.</p>
                     <p facs="#facs_3_region_1581406552105_139" rendition="#l" xml:id="p31" xml:space="preserve">
                             <lb/>
-                            <num>726</num>.</p>
-                    <p facs="#facs_3_region_1581406556512_142" rendition="#?17-83-99--267-1587" xml:id="p32" xml:space="preserve">
-                                <lb/>
-                                <num>7</num>. Von <choice>
+                            <num>726</num>. <num>7</num>. Von <choice>
                                     <expan>Herrn</expan>
                                     <abbr>Hrn<am>.</am>
                                 </abbr>
@@ -544,9 +532,7 @@
                                         <abbr>v<am>.</am>
                                         </abbr>
                                 </choice>
-                                    Karajan</rs>
-                        als
-                                Refe-
+                                    Karajan</rs> als Refe-
                             <lb/>rent der <choice>
                                 <expan>historischen</expan>
                                 <abbr>hist<am>.</am>
