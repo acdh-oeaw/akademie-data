@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="num">C_0073</title>
-                <meeting>Sitzung der phil.-hist. Klasse am <date when="1850-05-05">5. Mai
+                <meeting>Sitzung der phil.-hist. Klasse am <date when="1850-05-05">8. Mai
                         1850</date>
                 </meeting>
             </titleStmt>
@@ -538,7 +538,7 @@
                     <p facs="#facs_1_region_1581494362058_683" rendition="#fc" xml:id="p5" xml:space="preserve">
                                 <lb/>der Sitzung der philosophisch-historischen Classe</p>
                     <p facs="#facs_1_region_1581494364511_686" rendition="#fc" xml:id="p6" xml:space="preserve">
-                                    <lb/>am <num>5</num>. Mai <num>1850</num>
+                                    <lb/>am <num>8</num>. Mai <num>1850</num>
                                 </p>
                     <p facs="#facs_1_region_1581494374935_689" rendition="#?12-87-99--291-2436" xml:id="p7" xml:space="preserve">
                                     <lb/>Anwesend: Der Alterspräsident Freiherr <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>.<lb/>Die <choice>
@@ -1029,8 +1029,8 @@
                     <lb/>zu <rs ref="#basel" type="place">Basel</rs>
                         (enthaltend des
                     <lb/>
-                        Johannes de Ragusio Initium
-                    <lb/>et prosecutio concilii Basil.)<lb/>
+                        <rs type="person" ref="#ragusa-johannes">Johannes de Ragusio</rs> Initium
+                    <lb/>et prosecutio concilii <choice><expan>Basiliensis</expan><abbr>Basil<am>.</am></abbr></choice>)<lb/>
                         und der von dem dortigen
                     <lb/>
                         Bibliothekar Herr Professor
@@ -1340,7 +1340,7 @@
                         olog, hält einen Vortrag
                     <lb/>
                         über die alte Leichenstätte
-                    <lb/>auf dem <rs ref="#hallstatt" type="place">Hallstätter</rs>
+                    <lb/>auf dem <rs ref="#hallstatt" type="place">Hallstätt</rs>er
                     <choice>
                         <expan>Salzberg.</expan>
                         <abbr>Salzberg</abbr>

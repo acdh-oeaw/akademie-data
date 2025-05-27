@@ -223,8 +223,7 @@
                     <p facs="#facs_1_region_1581500254012_320" rendition="#fc" xml:id="p5" xml:space="preserve">
                                 <lb/>der Sitzung der philosophisch-historischen Classe</p>
                     <p facs="#facs_1_region_1581500258395_323" rendition="#fc" xml:id="p6" xml:space="preserve">
-                                    <lb/>am <num>24</num>
-                                    <hi rend="super">ten</hi> April <num>1850</num>
+                                    <lb/>am <num>24</num><hi rend="super">ten</hi> April <num>1850</num>
                                 </p>
                     <p facs="#facs_1_region_1581500287027_326" rendition="#?19-77-96--479-2424" xml:id="p7" xml:space="preserve">
                                     <lb/>Anwesend: Der Alterspräsident <choice>
@@ -426,8 +425,7 @@
     </choice>
     <hi>
         <rs ref="#carrara-franz" type="person">Carara</rs>
-   </hi> Schreiben</p>
-                    <p facs="#facs_2_region_1581502702861_519" rendition="#?18-82-100--290-1615" xml:id="p13" xml:space="preserve">
+   </hi> Schreiben
         <lb/>vom <choice>
             <expan>
                 <num>12</num>.</expan>
@@ -509,7 +507,7 @@
             </abbr>
         </choice> Rath <rs ref="#bergmann-joseph" type="person">Bergmann</rs> legt "Beiträ-<lb/>
             ge zur Geschichte Vorarlbergs" von
-        <lb/>F Karl <hi>Zimmermann</hi>
+        <lb/>F Karl <hi><rs type="person" ref="#zimmermann-f-k">Zimmermann</rs></hi>
             vor zum
             Ab-
         <lb/>druck im Archiv der <choice>
@@ -574,8 +572,7 @@ Karajan</rs> zugewiesen.</p>
     <choice>
         <expan>Herr</expan>
         <abbr>
-            Hr
-            <am>:</am>
+            Hr<am>:</am>
         </abbr>
     </choice>
     <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
@@ -608,8 +605,7 @@ Karajan</rs> zugewiesen.</p>
             <choice>
                 <expan>Herrn</expan>
                 <abbr>
-                    Hr
-                    <am>:</am>
+                    Hr<am>:</am>
                 </abbr>
             </choice>
             <rs ref="#karajan-von-theodor-georg" type="person"><choice>
@@ -625,8 +621,7 @@ Karajan</rs> zugewiesen.</p>
             <choice>
                 <expan>Herr</expan>
                 <abbr>
-                    Hr
-                    <am>.</am>
+                    Hr<am>.</am>
                 </abbr>
             </choice>
             <hi><rs ref="#zappert-georg" type="person">Zappert</rs></hi>
@@ -642,16 +637,14 @@ Karajan</rs> zugewiesen.</p>
             <choice>
                 <expan>Herr</expan>
                 <abbr>
-                    Hr
-                    <am>:</am>
+                    Hr<am>:</am>
                 </abbr>
             </choice> Regierungs Rath <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
                 beschließt
             <lb/>seinen Bericht über die von <choice>
                 <expan>Herrn</expan>
                 <abbr>
-                    Hr
-                    <am>:</am>
+                    Hr<am>:</am>
                 </abbr>
             </choice>
             <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice>
@@ -664,7 +657,7 @@ Karajan</rs> zugewiesen.</p>
         <lb/>
             der handschriftlichen Abhandlung über
         <lb/>
-            Oviloba in die Denkschriften der Nicht-
+            <rs type="place" ref="#wels">Oviloba</rs> in die Denkschriften der Nicht-
         <lb/>
         <choice>
             <expan>Mitglieder</expan>
@@ -674,11 +667,7 @@ Karajan</rs> zugewiesen.</p>
         an. In folgendessen bestimmt die
     <lb/>
         Classe diese Abhandlung zum Abdruck in
-    <lb/>den Denkschriften der Nicht-<choice>
-        <expan>Mitglieder.</expan>
-        <abbr>Mitgl<am>.</am>
-    </abbr>
-</choice>
+    <lb/>den Denkschriften der Nicht-<choice><expan>Mitglieder.</expan><abbr>Mitgl<am>.</am></abbr></choice>
 </p>
                     <p facs="#facs_3_region_1581520587599_122" rendition="#?30-67-97--567-1836" xml:id="p21" xml:space="preserve">
     <lb/>
@@ -732,15 +721,13 @@ Karajan</rs> zugewiesen.</p>
         <lb/>der Commission über das von <choice>
             <expan>Herrn</expan>
             <abbr>
-                Hr
-                <am>:</am>
+                Hr<am>:</am>
             </abbr>
         </choice>
             Ritter
         <lb/>Adolf <rs ref="#pichler-von-rautenkar-adolf" type="person">Pichler</rs>
             der Akademie zur
-        <lb/>Veröffentlichung angetragene Werk,"</p>
-                    <p facs="#facs_3_region_1581600633893_156" rendition="#?30-67-97--575-1844" xml:id="p25" xml:space="preserve">
+        <lb/>Veröffentlichung angetragene Werk,"
             <lb/>Über das Drama des Mittelalters"<lb/>in Tirol," und trägt darauf an </p>
                 </div>
             </div>
@@ -760,13 +747,7 @@ Karajan</rs> zugewiesen.</p>
                 <lb/>
                     der Akademie wohl kaum erscheinen dürfte
                 <lb/>dem <choice><expan>Herrn</expan><abbr>Hr<am>:</am></abbr></choice>
-                <rs ref="#pichler-von-rautenkar-adolf" type="person"><choice>
-                        <expan>
-                            Verfasser
-                        </expan>
-                        <abbr>Verf<am>:</am>
-                        </abbr>
-                </choice></rs> im Falle er es wünsche,<lb/>einen Unterstützungsbeitrag von <num>100</num>
+                <rs ref="#pichler-von-rautenkar-adolf" type="person"><choice><expan>Verfasser</expan><abbr>Verf<am>:</am></abbr></choice></rs> im Falle er es wünsche,<lb/>einen Unterstützungsbeitrag von <num>100</num>
             <choice>
                 <expan>Gulden</expan>
                 <abbr>
