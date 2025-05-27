@@ -417,8 +417,8 @@
                                     <am>"</am>
                                 </abbr>
                             </choice>
-                            <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
-                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                            <rs ref="#karajan-von-theodor-georg" type="person">
+                                <choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Karajan</rs>
                             <lb/>
                             <choice>
                                 <expan>Herr</expan>
@@ -467,11 +467,7 @@
                     <p facs="#facs_1_region_1581491375351_24" rendition="#r" xml:id="p9" xml:space="preserve">
                                     <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor.</p>
                     <p facs="#facs_1_region_1581491379258_27" rendition="#lc" xml:id="p10" xml:space="preserve">
-                                        <lb/>(<num>578</num>)</p>
-                    <p facs="#facs_1_region_1581491384102_30" rendition="#?46-54-100--1123-2441" xml:id="p11" xml:space="preserve">
-                                            <lb/>
-                                                a) Eine Note des
-                                                Ministe-
+                                        <lb/>(<num>578</num>) a) Eine Note des Ministe-
                                             <lb/>
                                                 riums des Äussern über
                                             <lb/>
@@ -479,26 +475,19 @@
                                                 groß-
                                             <lb/>
                                                 herrlichen Fermans für
-                                            <lb/>Herrn <choice>
-                                                <expan>
-                                                    <rs ref="#kremer-alfred" type="person">von</rs>
-                                                </expan>
-                                                <abbr>v<am>.</am>
-                                            </abbr>
-                                        </choice>
-                                        <rs ref="#kremer-alfred" type="person">Kremer</rs>
+                                            <lb/>Herrn <rs ref="#kremer-alfred" type="person"><choice>
+                                                <expan>von</expan>
+                                                <abbr>v<am>.</am></abbr>
+                                        </choice> Kremer</rs>
                                             und dessen
                                         <lb/>
                                             Bestätigung des erhaltenen
-                                        <lb/>Schreibens vom <num>28</num>
-                                            . Jänner
+                                        <lb/>Schreibens vom <num>28</num>. Jänner
                                         <lb/>nebst <num>25</num> Ducaten.</p>
                     <p facs="#facs_1_region_1581491397447_34" rendition="#r" xml:id="p12" xml:space="preserve">
                                             <lb/>Zur Wissenschaft.</p>
                     <p facs="#facs_1_region_1581491399807_37" rendition="#lc" xml:id="p13" xml:space="preserve">
-                                                <lb/>(<num>580</num>)</p>
-                    <p facs="#facs_1_region_1581491402635_40" rendition="#r" xml:id="p14" xml:space="preserve">
-                                                    <lb/>b) Note des Unterrichts-</p>
+                                                <lb/>(<num>580</num>) b) Note des Unterrichts-</p>
                 </div>
             </div>
             <div n="2" type="page" xml:id="d3">
@@ -515,14 +504,14 @@
                                                             <abbr>Hrn<am>.</am>
                                                         </abbr>
                                                     </choice>
-                                                    <lb/>Regierungsrath <choice>
+                                                    <lb/>Regierungsrath <rs ref="#holzl-franz" type="person"><choice>
                                                         <expan>
-                                                            <rs ref="#holzl-franz" type="person">von</rs>
+                                                            von
                                                         </expan>
                                                         <abbr>v<am>.</am>
                                                     </abbr>
                                                 </choice>
-                                                <rs ref="#holzl-franz" type="person">Hölzl</rs>                                                    
+                                                Hölzl</rs>                                                    
                                                     hand-
                                                 <lb/>
                                                     schriftlich hinterlassene
@@ -534,8 +523,7 @@
                                                     buch zu prüfen und dessen
                                                 <lb/>
                                                     Werth zu bestimmen (nebst
-                                                <lb/>dem <num>1</num>
-                                                <hi rend="super">ten</hi>
+                                                <lb/>dem <num>1</num><hi rend="super">ten</hi>
                                                     und letzten Bande
                                                 <lb/>dieses Werkes).</p>
                     <p facs="#facs_2_region_1581491446171_62" rendition="#?27-72-100--487-1794" xml:id="p16" xml:space="preserve">
@@ -547,10 +535,7 @@
                                                 <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
                                                 <lb/>zur Prüfung zugewiesen</p>
                     <p facs="#facs_2_region_1581491435764_56" rendition="#lc" xml:id="p17" xml:space="preserve">
-                                                    <lb/>(<num>600</num>)</p>
-                    <p facs="#facs_2_region_1581491441374_59" rendition="#?27-73-100--487-1803" xml:id="p18" xml:space="preserve">
-                                                        <lb/>
-                                                            c) Vom Ministerium des
+                                                    <lb/>(<num>600</num>) c) Vom Ministerium des
                                                         <lb/>
                                                             Handels, Mittheilung eines
                                                         <lb/>Berichtes des <choice>
@@ -566,14 +551,13 @@
                                                         <abbr>Hrn<am>.</am>
                                                     </abbr>
                                                 </choice>
-                                                <choice>
+                                                <rs ref="#hahn-johann-georg" type="person"><choice>
                                                     <expan>
-                                                        <rs ref="#hahn-johann-georg" type="person">von</rs>
+                                                        von
                                                     </expan>
                                                     <abbr>v<am>.</am>
                                                 </abbr>
-                                            </choice>
-                                            <rs ref="#hahn-johann-georg" type="person">Hahn</rs>
+                                            </choice> Hahn</rs>
                                                 über
                                             <lb/>
                                                 seine Arbeiten zur
@@ -657,10 +641,7 @@ Baran-<lb/>da</rs>
                                             <lb/>
                                                 noch Sendungen von
                                                 dersel-
-                                            <lb/>ben <choice>
-                                                <expan>zugekommen.</expan>
-                                                <abbr>zugekommen</abbr>
-                                            </choice>
+                                            <lb/>ben zugekommen.
                                         </p>
                     <p facs="#facs_3_region_1581491536304_95" rendition="#?21-77-98--353-1663" xml:id="p23" xml:space="preserve">
                                             <lb/>Der Herr <rs ref="#ettingshausen-von-andreas" type="person">General-Se-<lb/>cretär</rs>
@@ -671,9 +652,7 @@ Baran-<lb/>da</rs>
                                                 und demgemäß dem Herrn
                                             <lb/>Grafen zu antworten.</p>
                     <p facs="#facs_3_region_1581491517996_86" rendition="#l" xml:id="p24" xml:space="preserve">
-                                                <lb/>(<num>579</num>)</p>
-                    <p facs="#facs_3_region_1581491522686_89" rendition="#?22-78-100--376-1692" xml:id="p25" xml:space="preserve">
-                                                    <lb/>e) Von Herr <choice>
+                                                <lb/>(<num>579</num>) e) Von Herr <choice>
                                                         <expan>Georg</expan>
                                                         <abbr>G<am>.</am>
                                                     </abbr>
@@ -692,7 +671,7 @@ Baran-<lb/>da</rs>
                                                 Abhandlung: "Beiträge zur
                                             <lb/>
                                                 Geschichte Siebenbürgens
-                                            <lb/>unter Ludwig I. <num>1342</num>-<num>1382</num>."<lb/>
+                                            <lb/>unter <rs type="person" ref="#anjou-ludwig">Ludwig I.</rs> <num>1342</num>-<num>1382</num>."<lb/>
                                                 als einen Beweis des
                                                 Dan-
                                             <lb/>
@@ -712,21 +691,18 @@ Baran-<lb/>da</rs>
                                                 sendet und zur Verfügung
                                             <lb/>stellt.</p>
                     <p facs="#facs_3_region_1581491511483_83" rendition="#?23-77-100--392-1689" xml:id="p26" xml:space="preserve">
-                                                <lb/>Wird Herrn <choice>
+                                                <lb/>Wird Herrn <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                                     <expan>
-                                                        <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                                        von
                                                     </expan>
                                                     <abbr>v<am>.</am>
                                                 </abbr>
-                                            </choice>
-                                            <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                                            </choice> Karajan</rs>
                                             <lb/>
                                                 als Referenten der historischen
                                             <lb/>Commission zugewiesen.</p>
                     <p facs="#facs_3_region_1581491504066_77" rendition="#l" xml:id="p27" xml:space="preserve">
-                                                <lb/>(<num>595</num>)</p>
-                    <p facs="#facs_3_region_1581491507275_80" rendition="#?24-75-100--414-1686" xml:id="p28" xml:space="preserve">
-                                                    <lb/>f). Von <choice>
+                                                <lb/>(<num>595</num>) f). Von <choice>
                                                         <expan>Herrn</expan>
                                                         <abbr>Hrn<am>.</am>
                                                     </abbr>
@@ -745,8 +721,7 @@ Baran-<lb/>da</rs>
                     <p facs="#facs_4_region_1581491599177_120" rendition="#?23-76-99--398-1692" xml:id="p29" xml:space="preserve">
                                             <lb/>in <rs ref="#innsbruck" type="place">Innsbruck</rs>
                                                 Schreiben
-                                            <lb/>an den <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                                , worin er
+                                            <lb/>an den <rs ref="#wolf-ferdinand" type="person">Secretär</rs>, worin er
                                             <lb/>
                                                 ihm sein Einverständniß
                                             <lb/>
@@ -769,16 +744,13 @@ Baran-<lb/>da</rs>
                                                 an die Gesammtakademie
                                             <lb/>zu stellen;</p>
                     <p facs="#facs_4_region_1581491583033_114" rendition="#l" xml:id="p30" xml:space="preserve">
-                                                <lb/>(<num>592</num>)</p>
-                    <p facs="#facs_4_region_1581491590372_117" rendition="#?24-75-100--417-1699" xml:id="p31" xml:space="preserve">
-                                                    <lb/>g) Von <choice>
+                                                <lb/>(<num>592</num>) g) Von <choice>
                                                         <expan>Herrn</expan>
                                                         <abbr>Hrn<am>.</am>
                                                     </abbr>
                                                 </choice>
                                                 <rs ref="#hanslik-joseph-adolph" type="person">Hanslik</rs>
-                                                <lb/>gewesenen Bibliotheks-<lb/>Scriptor in <rs ref="#prag" type="place">Prag</rs>
-                                                    , sein
+                                                <lb/>gewesenen Bibliotheks-<lb/>Scriptor in <rs ref="#prag" type="place">Prag</rs>, sein
                                                     hand-
                                                 <lb/>
                                                     schriftliches Werk: "Geschichte
@@ -817,7 +789,7 @@ Baran-<lb/>da</rs>
                                                         theilt ein an ihn
                                                     <lb/>
                                                         gerichtetes Schreiben des
-                                                    <lb/>Herrn Habell aus <rs ref="#london" type="place">London</rs>
+                                                    <lb/>Herrn <rs type="person" ref="#havell-charles">Habell</rs> aus <rs ref="#london" type="place">London</rs>
                                                     <lb/>nebst seiner Beantwortung</p>
                 </div>
             </div>
@@ -842,8 +814,7 @@ Baran-<lb/>da</rs>
                                                                 <choice>
                                                                     <expan>Herr</expan>
                                                                     <abbr>
-                                                                        Hr
-                                                                        <am>.</am>
+                                                                        Hr<am>.</am>
                                                                     </abbr>
                                                                 </choice>
                                                                 <choice>
@@ -895,7 +866,7 @@ Baran-<lb/>da</rs>
                                                                     <expan>Professor</expan>
                                                                     <abbr>Prof<am>.</am></abbr>
                                                             </choice>
-                                                            <rs ref="#kollar-jan" type="person">Kollár's</rs>
+                                                            <rs ref="#kollar-jan" type="person">Kollár</rs>'s
                                                                 Werk: "Das
                                                             <lb/>
                                                                 slawische Alt-Italien" und
@@ -903,8 +874,7 @@ Baran-<lb/>da</rs>
                                                                 trägt ebenfalls, wie die
                                                                 bei-
                                                             <lb/>den andern Prüfungs-Com-<lb/>missäre, die Herren <rs ref="#palacky-franz" type="person">Palacky</rs>
-                                                            <lb/>und <rs ref="#safarik-paul-joseph" type="person">Schafařik</rs>
-                                                                , deren Berichte
+                                                            <lb/>und <rs ref="#safarik-paul-joseph" type="person">Schafařik</rs>, deren Berichte
                                                             <lb/>der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
                                                                 nochmals
                                                                 vor-
