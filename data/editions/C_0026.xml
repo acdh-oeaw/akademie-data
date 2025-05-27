@@ -566,14 +566,14 @@
                                         </abbr>
                                     </choice>
                                     <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
-                                <lb/>Als Gäste: Der Herr General-Secretär <choice>
+                                <lb/>Als Gäste: Der Herr General-Secretär <rs ref="#ettingshausen-von-andreas" type="person"><choice>
                                         <expan>
-                                            <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
+                                            von
                                         </expan>
                                         <abbr>v<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>
+                                Ettingshausen</rs>
                                 <lb/>das <choice>
                                     <expan>wirkliche</expan>
                                     <abbr>wirkl<am>.</am>
@@ -617,8 +617,7 @@
                                 </abbr>
                             </choice>
                             <hi>
-                                <rs ref="#ivichievich-ivicevic-stephan-stefano-stjepan" type="person">Ivichievich</rs></hi> ein Exemplar</p>
-                    <p facs="#facs_1_region_1576055304035_128" rendition="#r" xml:id="p11" xml:space="preserve">
+                                <rs ref="#ivichievich-ivicevic-stephan-stefano-stjepan" type="person">Ivichievich</rs></hi> ein Exemplar
                                 <lb/>seines Planes einer "Pangrafia" mit der
                                 <lb/>Bitte seine Erfindung, mit Bezug auf den
                                 <lb/>Erlaß der Akademie vom <num>19</num>. Juli <choice>
@@ -628,14 +627,9 @@
                             </choice>
                             <choice>
                                 <expan>Jahres</expan>
-                                <abbr>J<am>.</am>
-                            </abbr>
-                        </choice>, eine
-                        <lb/>
-                            Commission zu ernennen, der er, da er
-                        <lb/>
-                            gerade gegenwärtig, die nöthigen
-                            Auf-
+                                <abbr>J<am>.</am></abbr></choice>, eine
+                        <lb/>Commission zu ernennen, der er, da er
+                        <lb/>gerade gegenwärtig, die nöthigen Auf-
                         <lb/>klärungen mündlich ertheilen will.</p>
                     <p facs="#facs_1_region_1576055314299_131" rendition="#r" xml:id="p12" xml:space="preserve">
                             <lb/>Es werden der <choice>
@@ -647,8 +641,7 @@
                                 Präsident
                                 Frei-
                             <lb/>herr <hi>
-                                <rs ref="#hammer-purgstall-von-joseph" type="person">von Hammer-Purgstall</rs>
-                           </hi>
+                                <rs ref="#hammer-purgstall-von-joseph" type="person">von Hammer-Purgstall</rs></hi>
                                 und
                             <lb/>der <choice>
                                 <expan>Herr</expan>
@@ -675,8 +668,7 @@
                                 <abbr>D<hi rend="super">or</hi>
                             </abbr>
                         </choice>
-                        <hi>
-                            <rs ref="#letteris-meir-max-ha-levi" type="person">Letteris</rs>,</hi> worin
+                        <hi><rs ref="#letteris-meir-max-ha-levi" type="person">Letteris</rs></hi>, worin
                                 <lb/>er um Erlaubniß bittet, in der Akademie
                                 <lb/>Proben schriftlicher Improvisationen in
                                 <lb/>der alten hebraischen Sprache ablegen zu
@@ -721,8 +713,7 @@
                                             Hr<am>.</am>
                                         </abbr>
                                     </choice> General <hi>
-                                        <rs ref="#hauslab-franz" type="person">von Hauslab</rs>
-                                   </hi>                                        
+                                        <rs ref="#hauslab-franz" type="person">von Hauslab</rs></hi>                                        
                                         be-
                                     <lb/>
                                         merkt, daß die Fortsetzung dieser
@@ -739,8 +730,7 @@
                                     <lb/>ne der alten Städte zu verschaffen,<lb/>sondern weil auch der von <rs ref="#salona" type="place">Salona</rs>
                                     <lb/>
                                         speziell für die Geschichte der
-                                    <lb/>Fortification von hohen Interesse</p>
-                    <p facs="#facs_2_region_1576057600759_232" rendition="#l" xml:id="p19" xml:space="preserve">
+                                    <lb/>Fortification von hohen Interesse
                                         <lb/>
                                             sey, da hier wahrscheinlich die ersten
                                         <lb/>
@@ -786,8 +776,7 @@
                                                     Hr<am>.</am>
                                                 </abbr>
                                             </choice> Regierungsrath <hi>
-                                                <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
-                                           </hi>
+                                                <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs></hi>
                                             <lb/>erklärt sich damit einverstanden,<lb/>insoferne dem <choice>
                                                 <expan>Herrn</expan>
                                                 <abbr>Hrn<am>.</am>
@@ -838,8 +827,7 @@
                                         <lb/>Bedingungen und namentlich der,<lb/>
                                             einer von diesen beiden Herren
                                         <lb/>auszuarbeitenden Instruction ge-
-                                        <lb/>mäß, vorzugehen und das Aus-</p>
-                    <p facs="#facs_3_region_1576143052216_263" rendition="#l" xml:id="p24" xml:space="preserve">
+                                        <lb/>mäß, vorzugehen und das Aus-
                                             <lb/>zuwählende nach <rs ref="#wien" type="place">Wien</rs> zu senden,<lb/>
                                                 bei der Gesammtakademie
                                                 anzutra-
@@ -922,17 +910,11 @@
             <lb/>Regierungsrath <hi>
                 <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
                 an, die
-            <lb/>Akademie möge zu diesem Zwecke</p>
-                    <p facs="#facs_4_region_1576164234453_84" rendition="#r" xml:id="p26" xml:space="preserve">
-                <lb/>
-                    und nach einem von dem Herrn
-                <lb/>
-                <rs ref="#hauslab-franz" type="person">General</rs> auszuarbeitenden Plane,<lb/>
-                    so wie unter dessen Leitung
-                    vorzu-
-                <lb/>
-                    nehmende Arbeiten aus der
-                    Dota-
+            <lb/>Akademie möge zu diesem Zwecke
+                <lb/>und nach einem von dem Herrn
+                <lb/><rs ref="#hauslab-franz" type="person">General</rs> auszuarbeitenden Plane,
+                <lb/>so wie unter dessen Leitung vorzu-
+                <lb/>nehmende Arbeiten aus der Dota-
                 <lb/>tion für <num>1848</num> monatlich <num>50</num>
                 <choice>
                     <expan>Gulden</expan>
@@ -972,8 +954,7 @@
         </abbr>
     </choice>
     <hi>
-        <rs ref="#pipitz-franz-ernst" type="person">Pipitz</rs>,</hi> Privatdo-</p>
-                    <p facs="#facs_4_region_1576164286853_93" rendition="#r" xml:id="p29" xml:space="preserve">
+        <rs ref="#pipitz-franz-ernst" type="person">Pipitz</rs></hi>, Privatdo-
             <lb/>centen in <rs ref="#zurich" type="place">Zürich</rs>, ein Exemplar
             <lb/>seines Werkes: "Die Grafen 
                         <lb/>von Kyburg." </p>
@@ -1050,16 +1031,14 @@
                 <lb/>stattet nun seine Berichte ab,<lb/>und zwar:</p>
                     <p facs="#facs_5_region_1576226974436_25" rendition="#f" xml:id="p35" xml:space="preserve">
                     <lb/>
-                    <num>1</num>
-                    <hi rend="super">stens</hi> über <rs ref="#preidel-friedrich" type="person">"Preidel</rs>'s genealogische
+                    <num>1</num><hi rend="super">stens</hi> über "<rs ref="#preidel-friedrich" type="person">Preidel</rs>'s genealogische
                     <lb/>Tabellen, welche er nach der vor-
                     <lb/>gelegten Probe <hi>nicht</hi> zur Heraus-
                     <lb/>gabe durch die Akademie geeignet
                     <lb/>findet.</p>
                     <p facs="#facs_5_region_1576226993796_28" rendition="#f" xml:id="p36" xml:space="preserve">
                         <lb/>
-                        <num>2</num>
-                        <hi rend="super">tens</hi>
+                        <num>2</num><hi rend="super">tens</hi>
                             über eine Acten-Sendung
                         <lb/>
                             des Ministeriums des Innern
@@ -1071,18 +1050,13 @@
                         <lb/>Commission;</p>
                     <p facs="#facs_5_region_1576227009269_31" rendition="#f" xml:id="p37" xml:space="preserve">
                             <lb/>
-                            <num>3</num>
-                            <hi rend="super">tens</hi> über <choice>
+                            <num>3</num><hi rend="super">tens</hi> über <choice>
                                 <expan>Herrn</expan>
                                 <abbr>Hrn<am>.</am>
                             </abbr>
                         </choice>
                         <rs ref="#emmert-anton" type="person">Emmert</rs>'s
-                        <lb/>Petitum (<choice>
-                            <expan>siehe</expan>
-                            <abbr>s<am>.</am>
-                        </abbr>
-                    </choice> Protokoll C. <num>25</num>)<lb/>
+                        <lb/>Petitum (<choice><expan>siehe</expan><abbr>s<am>.</am></abbr></choice> Protokoll C. <num>25</num>)<lb/>
                         worüber er noch das wirkliche
                     <lb/>Mitglied <choice>
                         <expan>Herrn</expan>
@@ -1136,8 +1110,7 @@
             Regierungsrath
         <lb/>
         <hi>
-            <rs ref="#chmel-joseph" type="person">Chmel</rs>
-       </hi>
+            <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>
             seine Vorlesungen der für
         <lb/>
             die Denkschriften bestimmten
@@ -1146,7 +1119,7 @@
             handlung: "Zur Kritik der
             öster-
         <lb/>reichischen Geschichte" fort.</p>
-                    <p facs="#facs_6_region_1576228248834_143" rendition="#fc" xml:id="p39" xml:space="preserve">
+                    <p facs="#facs_6_region_1576228248834_143" rendition="#f" xml:id="p39" xml:space="preserve">
             <lb/>
             <rs ref="#arneth-joseph-calasanz" type="person">Joseph Arneth</rs>
             <lb/>
