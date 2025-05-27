@@ -17,6 +17,36 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="havell-charles">
+               <persName>
+                  <forename>Charles Richard</forename>
+                  <surname>Havell</surname>
+               </persName>
+               <birth>
+                  <date>1828</date>
+                  <placeName>Reading</placeName>
+               </birth>
+               <death>
+                  <date>1892</date>
+                  <placeName>Caversham</placeName></death>
+               <occupation>Englischer Aquarellist</occupation>
+            </person>
+            <person xml:id="anjou-ludwig">
+               <persName>
+                  <forename>Ludwig</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Anjou</surname>
+               </persName>
+               <birth>
+                  <date when="1326-03-05">05.03.1326</date>
+                  <placeName>Visegrád</placeName>
+               </birth>
+               <death>
+                  <date when="1382-09-10">10.09.1382</date>
+                  <placeName>Trnava</placeName></death>
+               <occupation>König von Ungarn</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119015757</idno>
+            </person>
             <person xml:id="alexander-iv">
                <persName>
                   <surname>Papst Alexander IV.</surname>
