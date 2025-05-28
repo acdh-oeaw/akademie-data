@@ -12693,10 +12693,15 @@
             </person>
             <person xml:id="hoffirek-anna">
                <persName>
-                  <surname>Hoffirek</surname>
+                  <surname>Hoffirek, geb. Schwengfeld</surname>
                   <forename>Anna</forename>
                </persName>
-            </person>
+                     <birth>
+                        <date when="1815-03-08">08.03.1815</date>
+                        <placeName>Troppau/Österreichisch-Schlesien</placeName>
+                     </birth>
+                     <occupation>Ehefrau des Akademie-Dieners Jacob Hoffirek</occupation>
+                     </person>                  
             <person xml:id="gerold-carl">
                <persName>
                   <surname>Gerold</surname>
