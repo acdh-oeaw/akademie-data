@@ -17,6 +17,50 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="sunberg-herr">
+               <persName>
+                  <nameLink>Herr von</nameLink>
+                <surname>Sunberg</surname>
+               </persName>
+               <birth>
+                  <date>14. Jahrhundert</date>
+                  </birth>
+               <occupation>Adliger im nördlichen Waldviertel</occupation>
+               </person>
+            <person xml:id="zuniga-frances">
+               <persName>
+                  <forename>Francés</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Zúñiga</surname>
+               </persName>
+               <birth>
+                  <date>um 1480</date>
+                  </birth>
+               <death>
+                  <date>1532</date>
+                  <placeName>Béjar</placeName>
+               </death>
+                     <occupation>Chronist</occupation>
+               <occupation>Hofnarr Karls V.</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/131399527</idno>
+            </person>
+            <person xml:id="cicero">
+               <persName>
+                  <forename>Marcus Tullius</forename>
+                  <surname>Cicero</surname>
+               </persName>
+               <birth>
+                  <date>03.01.106 v. Chr.</date>
+                  <placeName>Arpinum</placeName>
+               </birth>
+               <death>
+                  <date>07.12.43 v. Chr.</date>
+                  <placeName>bei Formiae</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Redner</occupation>
+               <occupation>Philosoph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118520814</idno>
+            </person>
             <person xml:id="havell-charles">
                <persName>
                   <forename>Charles Richard</forename>
