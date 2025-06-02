@@ -342,13 +342,13 @@
                                         <lb/>
                                         <rs ref="#bergmann-joseph" type="person">Bergmann</rs>
                                         <lb/>
-                                        <choice>
+                                        <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                             <expan>
-                                                <rs ref="#karajan-von-theodor-georg" type="person">von Karajan</rs>
+                                                von 
                                             </expan>
                                             <abbr>v<am>.</am>
                                         </abbr>
-                                    </choice>
+                                    </choice> Karajan</rs>
                                     <lb/>
                                     <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
                                     <lb/>
@@ -360,7 +360,7 @@
                                     <lb/>
                                     <rs ref="#springer-johann" type="person">Springer</rs>
                                 </p>
-                    <p facs="#facs_1_region_1581339710600_282" rendition="#fc" xml:id="p8" xml:space="preserve">
+                    <p facs="#facs_1_region_1581339710600_282" rendition="#f" xml:id="p8" xml:space="preserve">
                                     <lb/>Der Secretär <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.</p>
                     <p facs="#facs_1_region_1581339714475_285" rendition="#?20-78-98--509-2484" xml:id="p9" xml:space="preserve">
                                         <lb/>Der <choice>
@@ -371,13 +371,12 @@
                                         und
                                     <lb/>mehre Gäste.</p>
                     <p facs="#facs_1_region_1581339726696_288" rendition="#r" xml:id="p10" xml:space="preserve">
-                                        <lb/>Das Protokoll unbeanstandet.<lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:</p>
-                    <p facs="#facs_1_region_1581339729790_291" rendition="#lr" xml:id="p11" xml:space="preserve">
+                                        <lb/>Das Protokoll unbeanstandet.</p>
+                    <p facs="#facs_1_region_1581339735384_294" rendition="#r" xml:id="p11" xml:space="preserve">
+                        <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> legt vor:</p>
+                    <p facs="#facs_1_region_1581339729790_291" rendition="#lr" xml:id="p12" xml:space="preserve">
                                             <lb/>
-                                            <num>747</num>
-                                        </p>
-                    <p facs="#facs_1_region_1581339735384_294" rendition="#r" xml:id="p12" xml:space="preserve">
-                                            <lb/>a. vom <choice>
+                                            <num>747</num> a. vom <choice>
                                                 <expan>wirklichen Mitglied</expan>
                                                 <abbr>w<am>.</am> M<am>.</am>
                                             </abbr>
@@ -386,8 +385,7 @@
                                                 <expan>von</expan>
                                                 <abbr>v<am>.</am>
                                             </abbr>
-                                        </choice> Münch-<lb/>Bellinghausen</rs>
-                                            , ein Exemplar seiner
+                                        </choice> Münch-<lb/>Bellinghausen</rs>, ein Exemplar seiner
                                         <lb/>so eben zu <rs ref="#stuttgart" type="place">Stuttgart</rs>                                            
                                             herausgekom-
                                         <lb/>
@@ -411,10 +409,7 @@
                                             <lb/>aufgenommen.</p>
                     <p facs="#facs_2_region_1580998245378_180" rendition="#l" xml:id="p14" xml:space="preserve">
                                                 <lb/>
-                                                <num>742</num>
-                                            </p>
-                    <p facs="#facs_2_region_1580998259340_186" rendition="#?16-84-100--260-1608" xml:id="p15" xml:space="preserve">
-                                                <lb/>b. Von <choice>
+                                                <num>742</num> b. Von <choice>
                                                     <expan>Herrn</expan>
                                                     <abbr>Hrn<am>.</am>
                                                 </abbr>
@@ -422,14 +417,13 @@
                                             <rs ref="#safarik-paul-joseph" type="person">Schafařik</rs>
                                                 Bericht über
                                             <lb/>
-                                            <rs ref="#hanslik-joseph-adolph" type="person">Hanslik's</rs>
+                                            <rs ref="#hanslik-joseph-adolph" type="person">Hanslik</rs>'s
                                                 der Akademie zur
                                                 He-
                                             <lb/>rausgabe vorgelegtes Werk: "Ge-<lb/>
                                                 schichte und Beschreibung der
                                                 Univer-
-                                            <lb/>sitätsbibliothek von <rs ref="#prag" type="place">Prag</rs>
-                                                ," dessen
+                                            <lb/>sitätsbibliothek von <rs ref="#prag" type="place">Prag</rs>," dessen
                                             <lb/>
                                                 Herausgabe durch die Akademie der
                                             <lb/>Berichterstatter dringend empfiehlt.</p>
@@ -467,7 +461,7 @@
                                                     <expan>Herrn</expan>
                                                     <abbr>Hrn<am>.</am>
                                                 </abbr>
-                                            </choice> Custos <rs ref="#diemer-josef" type="person">Diemer's</rs>
+                                            </choice> Custos <rs ref="#diemer-josef" type="person">Diemer</rs>'s
                                                 Antrage
                                                 ei-
                                             <lb/>
@@ -489,8 +483,7 @@
                                                     <expan>Herrn</expan>
                                                     <abbr>Hrn<am>.</am>
                                                 </abbr>
-                                            </choice> Hirsch-<rs ref="#fassel-hirsch-baer" type="person">Fassel</rs>,<lb/>Rabbiner zu <rs ref="#prossnitz" type="place">Proßnitz</rs>
-                                                , den zweiten
+                                            </choice> Hirsch-<rs ref="#fassel-hirsch-baer" type="person">Fassel</rs>,<lb/>Rabbiner zu <rs ref="#prossnitz" type="place">Proßnitz</rs>, den zweiten
                                             <lb/>
                                                 Theil seines Werkes "Das
                                                 mosaisch-
@@ -518,7 +511,7 @@
             <div n="3" type="page" xml:id="d5">
                 <pb facs="#facs_3" n="3" xml:id="pag3"/>
                 <div xml:id="d6">
-                    <p facs="#facs_3_region_1581339861214_347" rendition="#fc" xml:id="p20" xml:space="preserve">
+                    <p facs="#facs_3_region_1581339861214_347" rendition="#f" xml:id="p20" xml:space="preserve">
                                                 <lb/>längeren Zeit vorgelegt hat.</p>
                     <p facs="#facs_3_region_1581339865902_350" rendition="#?16-82-98--242-1520" xml:id="p21" xml:space="preserve">
                                                     <lb/>
@@ -538,9 +531,7 @@
                                                 <lb/>um mögliche Beschleunigung.</p>
                     <p facs="#facs_3_region_1581339868465_353" rendition="#l" xml:id="p22" xml:space="preserve">
                                                     <lb/>
-                                                    <num>736</num>.</p>
-                    <p facs="#facs_3_region_1581339872934_356" rendition="#?15-83-98--239-1520" xml:id="p23" xml:space="preserve">
-                                                        <lb/>d. Von <choice>
+                                                    <num>736</num>. d. Von <choice>
                                                             <expan>Herrn</expan>
                                                             <abbr>Hrn<am>.</am>
                                                         </abbr>
@@ -550,14 +541,13 @@
                                                         <abbr>A<am>.</am>
                                                     </abbr>
                                                 </choice>
-                                                <choice>
+                                                <rs ref="#kremer-alfred" type="person"><choice>
                                                     <expan>
-                                                        <rs ref="#kremer-alfred" type="person">von</rs>
+                                                        von
                                                     </expan>
                                                     <abbr>v<am>.</am>
                                                 </abbr>
-                                            </choice>
-                                            <rs ref="#kremer-alfred" type="person">Kremer</rs>
+                                            </choice>Kremer</rs>
                                                 einen
                                                 hand-
                                             <lb/>schriftlich eingesandten Aufsatz:<lb/>
@@ -575,9 +565,7 @@
                                                 <lb/>heutigen Sitzungsberichte bestimmt.</p>
                     <p facs="#facs_3_region_1581339847446_341" rendition="#l" xml:id="p25" xml:space="preserve">
                                                     <lb/>
-                                                    <num>762</num>.</p>
-                    <p facs="#facs_3_region_1581339854369_344" rendition="#?15-85-99--228-1541" xml:id="p26" xml:space="preserve">
-                                                        <lb/>e. Von <choice>
+                                                    <num>762</num>. e. Von <choice>
                                                             <expan>Herrn</expan>
                                                             <abbr>Hrn<am>.</am>
                                                         </abbr>
@@ -587,7 +575,7 @@
                                                         <abbr>Prof<am>.</am></abbr>                                                </choice>
                                                 <rs ref="#lanz-karl-friedrich" type="person">Lanz</rs> aus <rs ref="#giessen" type="place">Gießen</rs>,<lb/>
                                                     Exemplare seiner Werke (Chronik
-                                                <lb/>des Ramon Muntaner. <rs ref="#stuttgart" type="place">Stuttgart</rs>
+                                                <lb/>des Ramon <rs type="person" ref="#muntaner-ramon">Muntaner</rs>. <rs ref="#stuttgart" type="place">Stuttgart</rs>
                                                 <lb/>
                                                 <num>1844</num>
                                                 <choice>
@@ -606,15 +594,13 @@
                                             <expan>Bände</expan>
                                             <abbr>Bde<am>.</am>
                                         </abbr>
-                                    </choice>
-                                        ) die er
+                                    </choice>) die er
                                     <lb/>
                                         der Akademie zum Geschenk
                                         über-
                                     <lb/>
                                         reicht mit einem einbegleitenden
-                                    <lb/>Schreiben an den <rs ref="#wolf-ferdinand" type="person">Secretär</rs>
-                                        , worin
+                                    <lb/>Schreiben an den <rs ref="#wolf-ferdinand" type="person">Secretär</rs>, worin
                                     <lb/>
                                         er seine Verwendung besonders für
                                     <lb/>die Sammlung der <choice>
@@ -689,9 +675,7 @@
                             <lb/>
                             <choice>
                                 <expan>Herr</expan>
-                                <abbr>
-                                    Hr
-                                    <am>.</am>
+                                <abbr>Hr<am>.</am>
                                 </abbr>
                             </choice>
                             <choice>
@@ -707,8 +691,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    Hr
-                                    <am>.</am>
+                                    Hr<am>.</am>
                                 </abbr>
                             </choice>
                             <choice>
@@ -738,7 +721,7 @@
                             <abbr>Hrn<am>.</am>
                         </abbr>
                     </choice>
-                    <rs ref="#schrotter-anton" type="person">General-Secretärs</rs>
+                    <rs ref="#schrotter-anton" type="person">General-Secretär</rs>s
                     <lb/>notifizirte Neuerungen mit <choice>
                         <expan>und</expan>
                         <abbr>u</abbr>
@@ -749,16 +732,14 @@
                     <lb/>führen wolle? nämlich:</p>
                     <p facs="#facs_4_region_1581339923003_371" rendition="#f" xml:id="p32" xml:space="preserve">
                         <lb/>
-                        <num>1</num>
-                        <hi rend="super">tens</hi>
+                        <num>1</num><hi rend="super">tens</hi>
                             Die Denkschriften in
                         <lb/>Lieferungen von <num>10</num>-<num>12</num>
                             Bogen
                         <lb/>herauszugeben.</p>
                     <p facs="#facs_4_region_1581339919112_368" rendition="#f" xml:id="p33" xml:space="preserve">
                             <lb/>
-                            <num>2</num>
-                            <hi rend="super">tens</hi>
+                            <num>2</num><hi rend="super">tens</hi>
                                 Um dem von dem Herrn
                             <lb/>
                             <rs ref="#bach-von-alexander" type="person">Curator</rs>
@@ -784,7 +765,7 @@
                                     <abbr>Hrn<am>.</am>
                                 </abbr>
                             </choice>
-                            <rs ref="#schmidl-adolf" type="person">Actuars</rs>                                
+                            <rs ref="#schmidl-adolf" type="person">Actuar</rs>s                                
                                 fer-
                             <lb/>
                                 tig zu machen und gleich nach der
@@ -814,8 +795,7 @@
                                     einzu-
                                 <lb/>
                                     führen, und gibt diese seine
-                                <lb/>Verwahrung zu Protokoll.<lb/>ad. <num>1</num>
-                                    . Erklären die Herren
+                                <lb/>Verwahrung zu Protokoll.<lb/>ad. <num>1</num>. Erklären die Herren
                                 <lb/>
                                 <rs ref="#exner-franz-seraphin" type="person">Exner</rs> und <rs ref="#karajan-von-theodor-georg" type="person">
                                     <choice>
@@ -872,8 +852,7 @@
                                             Geschäfts-
                                         <lb/>ordnung dieß zugestanden.<lb/>wird.</p>
                     <p facs="#facs_6_region_1581340049723_415" rendition="#r" xml:id="p38" xml:space="preserve">
-                                            <lb/>ad.<num>1</num>
-                                                . Die Classe beschließt durch
+                                            <lb/>ad. <num>1</num>. Die Classe beschließt durch
                                             <lb/>
                                                 Stimmenmehrheit die bisherige
                                             <lb/>
@@ -881,8 +860,7 @@
                                                 beizube-
                                             <lb/>halten.</p>
                     <p facs="#facs_6_region_1581340040753_412" rendition="#r" xml:id="p39" xml:space="preserve">
-                                                <lb/>ad. <num>2</num>
-                                                    . Die Classe beschließt durch
+                                                <lb/>ad. <num>2</num>. Die Classe beschließt durch
                                                 <lb/>
                                                     Mehrheit der Stimmen, den
                                                 <lb/>Versuch machen zu <choice>
