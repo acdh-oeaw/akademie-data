@@ -17,6 +17,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="muntaner-ramon">
+               <persName>
+                  <forename>Ramón</forename>
+                  <surname>Muntaner</surname>
+               </persName>
+               <birth>
+                  <date>1265</date>
+                  <placeName>Perlada/Nordspanien</placeName>
+               </birth>
+               <death>
+                  <date>September 1336</date>
+                  <placeName>Ibiza</placeName></death>
+               <occupation>Katalanischer Historiograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118735276</idno>
+            </person>
             <person xml:id="bleiweis-jakob">
                <persName>
                   <forename>Jakob</forename>
