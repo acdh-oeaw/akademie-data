@@ -17,6 +17,17 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="abdullah-pascha">
+               <persName>
+                  <forename>Abdullah</forename>
+                  <surname>al-Azm</surname>
+               </persName>
+               <death>
+                  <date>1809</date>
+                  <placeName>Hama</placeName></death>
+               <occupation>Pascha in Damaskus</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
+            </person>
             <person xml:id="muntaner-ramon">
                <persName>
                   <forename>Ramón</forename>
