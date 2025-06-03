@@ -314,14 +314,13 @@
                     <p facs="#facs_1_region_1580891467299_166" rendition="#fc" xml:id="p5" xml:space="preserve">
                                 <lb/>der Sitzung der philosophisch-historischen Classe</p>
                     <p facs="#facs_1_region_1580891470253_169" rendition="#fc" xml:id="p6" xml:space="preserve">
-                                    <lb/>am <num>3</num>
-                                    <hi rend="super">ten</hi> Juli <num>1850</num>.</p>
+                                    <lb/>am <num>3</num><hi rend="super">ten</hi> Juli <num>1850</num>.</p>
                     <p facs="#facs_1_region_1580891484663_172" rendition="#?15-83-99--398-2560" xml:id="p7" xml:space="preserve">
                                         <lb/>Anwesend: der Alters-Präsident <choice>
                                             <expan>Freiherr</expan>
                                             <abbr>Freih<am>.</am>
                                         </abbr>
-                                    </choice> Hammer-Purgstall.<lb/>die <choice>
+                                    </choice> <rs type="person" ref="#hammer-purgstall-von-joseph">Hammer-Purgstall</rs>.<lb/>die <choice>
                                         <expan>wirklichen</expan>
                                         <abbr>wirkl<am>.</am>
                                     </abbr>
@@ -334,8 +333,7 @@
                             <choice>
                                 <expan>Herr</expan>
                                 <abbr>
-                                    Hr
-                                    <am>.</am>
+                                    Hr<am>.</am>
                                 </abbr>
                             </choice>
                             <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
@@ -360,14 +358,13 @@
                                     <am>=</am>
                                 </abbr>
                             </choice>
-                            <choice>
+                            <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                                 <expan>
-                                    <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                    von
                                 </expan>
                                 <abbr>v<am>.</am>
                             </abbr>
-                        </choice>
-                        <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>.<lb/>
+                        </choice>Karajan</rs>.<lb/>
                         <choice>
                             <expan>Herr</expan>
                             <abbr>
@@ -416,8 +413,7 @@
                     <choice>
                         <expan>Herr</expan>
                         <abbr>
-                            Hr
-                            <am>.</am>
+                            Hr<am>.</am>
                         </abbr>
                     </choice> General-Secretär <choice>
                         <expan>Professor</expan>
@@ -448,8 +444,7 @@
                             <abbr>J<am>.</am>
                         </abbr>
                     </choice>
-                    <num>1137</num>
-                        , welches von der
+                    <num>1137</num>, welches von der
                     <lb/>
                     <choice>
                         <expan>königlich</expan>
@@ -495,9 +490,8 @@
     Regierung als
 <lb/>
     Gegengeschenk die von der kaiserlichen
-<lb/>Akademie <hi>
+<lb/>Akademie 
     <hi rend="strike">der</hi>
-</hi>
 <choice>
     <expan>herausgegebenen</expan>
     <abbr>herausgeg<am>.</am>
@@ -526,10 +520,7 @@
     des Äußern sich
 <lb/>bereit erklärt hat.</p>
                     <p facs="#facs_2_region_1580891541780_197" rendition="#l" xml:id="p14" xml:space="preserve">
-    <lb/>(<num>807</num>)</p>
-                    <p facs="#facs_2_region_1580891552392_200" rendition="#?18-82-100--304-1682" xml:id="p15" xml:space="preserve">
-        <lb/>
-            b) Von Herrn Bibliothekar
+    <lb/>(<num>807</num>) b) Von Herrn Bibliothekar
         <lb/>
         <choice>
             <expan>Doctor</expan>
@@ -538,8 +529,7 @@
     </choice>
     <hi>
         <rs ref="#stalin-christoph-friedrich" type="person">Stälin</rs>
-   </hi> in <rs ref="#stuttgart" type="place">Stuttgart</rs>
-        , Auszüge
+   </hi> in <rs ref="#stuttgart" type="place">Stuttgart</rs>, Auszüge
     <lb/>aus der <choice>
         <expan>Handschrift</expan>
         <abbr>Handsch<am>:</am>
@@ -559,7 +549,7 @@
 <lb/>
     der Akademie herauszugebenden
 <lb/>
-<hi>Acten des Basler-Conciliums</hi>,<lb/>
+<hi>Acten des <rs type="place" ref="#basel">Basler</rs>-Conciliums</hi>,<lb/>
     und Nachträge zu des Fürsten
 <lb/>
 <hi>
@@ -578,8 +568,7 @@
 </hi> gerichteten Schreiben,<lb/>worin auch <choice>
     <expan>Herr</expan>
     <abbr>
-        Hr
-        <am>.</am>
+        Hr<am>.</am>
     </abbr>
 </choice>
 <hi>
@@ -589,8 +578,8 @@
 <lb/>
     ausspricht, im Falle die Akademie
 <lb/>das Geschenk der <choice>
-    <expan>Stuttgarter</expan>
-    <abbr>Stuttg<am>:</am>
+    <expan><rs type="place" ref="#stuttgart">Stuttgart</rs>er</expan>
+    <abbr><rs type="place" ref="#stuttgart">Stuttg<am>:</am></rs>
 </abbr>
 </choice>
 <choice>
@@ -652,8 +641,7 @@
     <rs ref="#wolf-ferdinand" type="person">Secretär</rs>,</hi> dem <choice>
         <expan>Herr</expan>
         <abbr>
-            Hr
-            <am>.</am>
+            Hr<am>.</am>
         </abbr>
     </choice>
     <choice>
@@ -721,9 +709,7 @@
     Regesten-Nachträge zum Abdruck
 <lb/>in demselben zuzuweisen.</p>
                     <p facs="#facs_3_region_1580891577957_207" rendition="#l" xml:id="p17" xml:space="preserve">
-    <lb/>(<num>808</num>.)</p>
-                    <p facs="#facs_3_region_1580891606868_214" rendition="#?17-83-100--287-1688" xml:id="p18" xml:space="preserve">
-        <lb/>c) Von dem <choice>
+    <lb/>(<num>808</num>.) c) Von dem <choice>
             <expan>wirklichen</expan>
             <abbr>wirkl<am>.</am>
         </abbr>
@@ -743,8 +729,7 @@
 <choice>
     <expan>Herr</expan>
     <abbr>
-        Hr
-        <am>:</am>
+        Hr<am>:</am>
     </abbr>
 </choice>
 <choice>
@@ -773,8 +758,7 @@
 <choice>
     <expan>Herr</expan>
     <abbr>
-        Hr
-        <am>:</am>
+        Hr<am>:</am>
     </abbr>
 </choice>
 <rs ref="#safarik-paul-joseph" type="person">Schafařik</rs> dringend empfiehlt.<lb/>
@@ -817,9 +801,7 @@
                 <pb facs="#facs_4" n="4" xml:id="pag4"/>
                 <div xml:id="d8">
                     <p facs="#facs_4_region_1580891631699_223" rendition="#l" xml:id="p19" xml:space="preserve">
-            <lb/>(<num>806</num>)</p>
-                    <p facs="#facs_4_region_1580891639090_226" rendition="#?15-85-100--229-1531" xml:id="p20" xml:space="preserve">
-                <lb/>d) Von <choice>
+            <lb/>(<num>806</num>) d) Von <choice>
                     <expan>Herrn</expan>
                     <abbr>Hrn<am>:</am>
                 </abbr>
@@ -829,8 +811,7 @@
                 <abbr>Dr<am>:</am>
             </abbr>
         </choice>
-        <rs ref="#lanz-karl-friedrich" type="person">Lanz</rs>
-            , Schreiben
+        <rs ref="#lanz-karl-friedrich" type="person">Lanz</rs>, Schreiben
         <lb/>an die <choice>
             <expan>historische</expan>
             <abbr>hist<am>.</am>
@@ -861,7 +842,7 @@
 </abbr>
 </choice>
 <lb/>
-    Ferdinand I., die sich im hiesigen
+    <rs type="person" ref="#habsburg-ferdinand-i-kaiser">Ferdinand I.</rs>, die sich im hiesigen
 <lb/>
 <choice>
     <expan>kaiserlich-königlichen</expan>
@@ -914,8 +895,7 @@
 <lb/>Stelle, worin sich <choice>
     <expan>Herr</expan>
     <abbr>
-        Hr
-        <am>:</am>
+        Hr<am>:</am>
     </abbr>
 </choice>
 <hi>
@@ -948,9 +928,7 @@
                 <div xml:id="d10">
                     <p facs="#facs_5_region_1580891673690_241" rendition="#l" xml:id="p22" xml:space="preserve">
             <lb/>
-            <num>798</num>.</p>
-                    <p facs="#facs_5_region_1580891679190_244" rendition="#?15-85-100--237-1602" xml:id="p23" xml:space="preserve">
-                <lb/>e) Von <choice>
+            <num>798</num>. e) Von <choice>
                     <expan>Herrn</expan>
                     <abbr>Hrn<am>:</am>
                 </abbr>
@@ -963,22 +941,20 @@
             <abbr>geistl<am>:</am>
         </abbr>
     </choice>
-    <lb/>Rath <hi>Ludwig</hi>
-    <hi>
+    <lb/>Rath <hi>Ludwig
         <rs ref="#weber-ludwig" type="person">Weber</rs>
    </hi> in <rs ref="#klagenfurt" type="place">Klagenfurt</rs>,<lb/>zwei <choice>
         <expan>Exemplare</expan>
         <abbr>Exempl<am>.</am>
     </abbr>
-</choice> seines Werkes: "<lb/>Die mütterlichen Ahnen <hi>Rudolfs I.</hi>
+</choice> seines Werkes: "<lb/>Die mütterlichen Ahnen <hi><rs type="person" ref="#habsburg-rudolf-i">Rudolfs I.</rs></hi>
 <lb/>zum Geschenk. Mit Dank angenommen.</p>
                     <p facs="#facs_5_region_1580891683894_247" rendition="#?11-88-99--183-1597" xml:id="p24" xml:space="preserve">
     <lb/>
     <choice>
         <expan>Herr</expan>
         <abbr>
-            Hr
-            <am>:</am>
+            Hr<am>:</am>
         </abbr>
     </choice>
     <choice>
@@ -1010,8 +986,7 @@
     <choice>
         <expan>Herr</expan>
         <abbr>
-            Hr
-            <am>:</am>
+            Hr<am>:</am>
         </abbr>
     </choice>
     <choice>
@@ -1026,8 +1001,7 @@
 <lb/>Form eines Sendschreibens an <choice>
     <expan>Herrn</expan>
     <abbr>
-        Hr
-        <am>:</am>
+        Hr<am>:</am>
     </abbr>
 </choice>
 <lb/>
@@ -1063,8 +1037,7 @@
     <lb/>Der Secretär <choice>
         <expan>Herr</expan>
         <abbr>
-            Hr
-            <am>:</am>
+            Hr<am>:</am>
         </abbr>
     </choice>
     <hi>
@@ -1088,8 +1061,7 @@
     mit
 <lb/>
     unbekanten Werken des spanischen
-<lb/>Dichters <rs ref="#castillejo-cristobal" type="person">Castillejo</rs>
-    . (wird zum
+<lb/>Dichters <rs ref="#castillejo-cristobal" type="person">Castillejo</rs>. (wird zum
     Ab-
 <lb/>druck bestimmt.</p>
                 </div>
@@ -1111,8 +1083,7 @@
                 wisse Anzahl Separatabdrücke auch
             <lb/>für den <hi>Buchhandel</hi>
                 angefertigt
-            <lb/>werden <hi>sollen</hi>
-                , von der nun im Druck
+            <lb/>werden <hi>sollen</hi>, von der nun im Druck
             <lb/>
             <choice>
                 <expan>befindlichen</expan>
@@ -1140,8 +1111,7 @@
 <choice>
     <expan>Exemplare</expan>
     <abbr>Exempl</abbr>
-</choice>
-    ; für
+</choice>; für
 <lb/>diesen Zweck abgezogen werden,<lb/>sowie <hi>
     <rs ref="#wolf-ferdinand" type="person">er selbst</rs>
 </hi>
@@ -1218,8 +1188,7 @@
             <lb/>der <choice>
                 <expan>Herr</expan>
                 <abbr>
-                    Hr
-                    <am>:</am>
+                    Hr<am>:</am>
                 </abbr>
             </choice>
             <choice>
@@ -1252,8 +1221,7 @@
             <lb/>beauftragt den <choice>
                 <expan>Herrn</expan>
                 <abbr>
-                    Hr
-                    <am>:</am>
+                    Hr<am>:</am>
                 </abbr>
             </choice>
             <hi>
