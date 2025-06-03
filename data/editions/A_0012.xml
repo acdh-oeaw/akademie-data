@@ -970,14 +970,14 @@
             <lb facs="#facs_7_line_1499341134142_108" xml:id="z219"/><rs type="person" ref="#freyer-heinrich" key="Freyer, Heinrich">Freyer</rs> <num>13</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_line_1499343206621_170" xml:id="z220"/><rs type="person" ref="#leydolt-franz" key="Leydolt, Franz">Leydolt</rs> <num>12</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_r1029" xml:id="z221"/><rs type="person" ref="#salomon-josef-johann-michael" key="Salomon, Josef johann Michael">Salomon</rs> <num>12</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
-            <lb facs="#facs_7_line_1499341142285_109" xml:id="z222"/><rs type="person" ref="#wertheim-wilhelm" key="Wertheim, Wilhelm">Wertheim Wilh</rs>. <num>12</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
-            <lb facs="#facs_7_r1031" xml:id="z223"/><rs type="person" ref="#" key="Gottlieb, johann">Gottlieb</rs> <num>10</num> <choice><expan/><abbr><am>"</am></abbr></choice>
+            <lb facs="#facs_7_line_1499341142285_109" xml:id="z222"/><rs type="person" ref="#wertheim-wilhelm">Wertheim Wilh</rs>. <num>12</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
+            <lb facs="#facs_7_r1031" xml:id="z223"/><rs type="person" ref="#gottlieb-johann">Gottlieb</rs> <num>10</num> <choice><expan/><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_line_1499341173750_110" xml:id="z224"/><rs type="person" ref="#kolenati-friedrich" key="Kolenati, Friedrich">Kolenati</rs> <num>9</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_line_1499341179273_111" xml:id="z225"/><rs type="person" ref="#reslhuber-augustin-wolfgang" key="Reslhuber, Augustin Wolfgang">Reslhuber</rs> <num>9</num> <choice><expan/><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_line_1499341185419_112" xml:id="z226"/><rs type="person" ref="#schmidl-adolf" key="Schmidl, Adolph">Schmidl</rs> <num>9</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_line_1499343371968_171" xml:id="z227"/><rs type="person" ref="#weisse-max" key="Weisse, von, Max">Weisse</rs> <num>9</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_r1036" xml:id="z228"/><rs type="person" ref="#scheffer-nn" key="Scheffer, nn">Scheffer</rs> <num>8</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
-            <lb facs="#facs_7_r1037" xml:id="z229"/><rs type="person" ref="#biasoletto-bartolomeo" key="Biasoletto, Bartolomeo">Biasoletto</rs> <num>5</num> <choice><expan/><abbr><am>"</am></abbr></choice>
+            <lb facs="#facs_7_r1037" xml:id="z229"/><rs type="person" ref="#biasoletto-bartolomeo" key="Biasoletto, Bartolomeo">Biasoletto</rs> <num>5</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_r1038" xml:id="z230"/><rs type="person" ref="#pettko-nn" key="Pettko, nn">Pettko</rs> <num>4</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_r1039" xml:id="z231"/><rs type="person" ref="#pietruski-stanislaw-konstanty" key="Pietruski, Stanisław Konstanty">Pietruski</rs> <num>2</num> <choice><expan>Stimmen</expan><abbr><am>"</am></abbr></choice>
             <lb facs="#facs_7_r1040" xml:id="z232"/><rs type="person" ref="#ragski-nn" key="Ragski, nn">Ragski</rs> <num>1</num> Stimme</p>
@@ -1014,7 +1014,7 @@
             <lb facs="#facs_8_r1026" xml:id="z255"/><rs type="person" ref="#lowe-alexander" key="Löwe, Alexander">Löwe</rs>
             <lb facs="#facs_8_r1027" xml:id="z256"/><rs type="person" ref="#moth-franz" key="Moth, Franz">Moth</rs>
             <lb facs="#facs_8_line_1499341655057_116" xml:id="z257"/><rs type="person" ref="#reichenbach-karl-ludwig" key="Reichenbach, von, Karl Ludwig">Reichenbach</rs>
-            <lb facs="#facs_8_line_1499341665104_117" xml:id="z258"/><rs type="person" ref="#reissek-siegfried" key="reissek, Siegfried">reissek</rs>
+            <lb facs="#facs_8_line_1499341665104_117" xml:id="z258"/><rs type="person" ref="#reissek-siegfried" key="reissek, Siegfried">Reissek</rs>
             <lb facs="#facs_8_line_1499341668271_118" xml:id="z259"/><rs type="person" ref="#rochleder-friedrich" key="Rochleder, Friedrich">Rochleder</rs>
             <lb facs="#facs_8_line_1499343674097_173" xml:id="z260"/><rs type="person" ref="#salomon-josef-johann-michael" key="Salomon, Josef johann Michael">Salomon</rs>
             <lb facs="#facs_8_r1032" xml:id="z261"/><rs type="person" ref="#wertheim-theodor" key="Wertheim, Theodor">Wertheim <choice><expan>Theodor</expan><abbr>Theod<am>.</am></abbr></choice></rs>
@@ -11415,15 +11415,14 @@
                </persName>
                <birth>
                   <date when="1819-04-11">11.04.1819</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Teschen</placeName>
+                  <placeName>Teschen</placeName>
                </birth>
                <death>
                   <date when="1871-11-09">09.11.1871</date>
                </death>
-               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/">Arzt</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/">Botaniker</occupation>
+               <occupation>Arzt</occupation>
+               <occupation>Botaniker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104109327</idno>
-               <idno type="paas">5289</idno>
                <listEvent>
                   <event type="mentioned">
                      <p>erwähnt in <title>A_0012</title>
