@@ -5806,19 +5806,19 @@
                   <surname>Letteris</surname>
                   <forename>Meir(Max)ha-levi</forename>
                </persName>
+               <birth>
+                  <date>01./13.09.1800</date>
+                  <placeName>Zolkiew/Galizien</placeName>
+               </birth>
                <death>
                   <date when="1871-05-19">19.05.1871</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3703" scheme="#apis_vocabularies/professiontype/"
-                  >Literaturwissenschaftler</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50102/</idno>
+               <occupation>Orientalist</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Literaturwissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116956267</idno>
-               <idno type="paas">50102</idno>
-            </person>
+               </person>
             <person xml:id="lanza-francesco-franz">
                <persName>
                   <surname>Lanza</surname>
@@ -8364,24 +8364,19 @@
                </persName>
                <birth>
                   <date when="1683-02-22">22.02.1683</date>
+                  <placeName>Ybbs</placeName>
                </birth>
                <death>
                   <date when="1735-03-27">27.03.1735</date>
+                  <placeName>Melk</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <occupation code="#3939" scheme="#apis_vocabularies/professiontype/"
-                  >Mönch</occupation>
-               <occupation code="#4034" scheme="#apis_vocabularies/professiontype/"
-                  >Diplomatiker</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50533/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Mönch</occupation>
+               <occupation>Diplomatiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100226965</idno>
-               <idno type="paas">50533</idno>
-            </person>
+               </person>
             <person xml:id="gevay-anton">
                <persName>
                   <surname>Gévay</surname>
@@ -8391,13 +8386,16 @@
                </persName>
                <birth>
                   <date when="1796-07-01">1796</date>
+                  <placeName>Komorn</placeName>
                </birth>
                <death>
                   <date when="1845-06-09">09.06.1845</date>
+                  <placeName>Wien</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50494/</idno>
-               <idno type="paas">50494</idno>
-            </person>
+               <occupation>Archivar</occupation>
+               <occupation>Orientalist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/144045206</idno>
+               </person>
             <person xml:id="frohlich-theodor">
                <persName>
                   <surname>Fröhlich</surname>
@@ -8416,10 +8414,15 @@
                </persName>
                <birth>
                   <date when="1496-12-20">20.12.1496</date>
+                  <placeName>Avignon</placeName>
                </birth>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50500/</idno>
-               <idno type="paas">50500</idno>
-            </person>
+               <death>
+                     <date>nach 1577</date>
+                     <placeName>Genua</placeName>
+                  </death>
+                  <occupation>jüdischer Chronist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/122750144</idno>
+               </person>
             <person xml:id="hagn-theoderich-georg">
                <persName>
                   <surname>Hagn</surname>
@@ -8433,10 +8436,8 @@
                   <date when="1872-08-29">29.08.1872</date>
                   <placeName>Lambach</placeName>
                </death>
-               <occupation code="#3951" scheme="#apis_vocabularies/professiontype/">Abt</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50501/</idno>
+               <occupation>Abt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/133711188</idno>
-               <idno type="paas">50501</idno>
             </person>
             <person xml:id="ivichievich-ivicevic-stephan-stefano-stjepan">
                <persName>
