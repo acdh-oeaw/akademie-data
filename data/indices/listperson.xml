@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="cupr-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Čupr</surname>
+               </persName>
+               <birth>
+                  <date when="1821-04-11">11.4.1821</date>
+                  <placeName>Chrast/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1882-06-29">29.06.1882</date>
+                  <placeName>Lieben/Böhmen</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Pädagoge</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/142468118</idno>
+            </person>
             <person xml:id="abdullah-pascha">
                <persName>
                   <forename>Abdullah</forename>
@@ -8095,17 +8112,19 @@
             <person xml:id="kaisermayr-carl-karl-johannes">
                <persName>
                   <surname>Kaisermayr</surname>
-                  <forename>Carl/Karl (Johannes)</forename>
+                  <forename>Carl/Karl (Taufname: Johannes)</forename>
                </persName>
                <birth>
-                  <date when="1777-04-02">02.04.1777</date>
+                  <date when="1777-04-02">02.04.1777 (Tauftag)</date>
+                  <placeName>(Waizenkirchen-)Sittling</placeName>
                </birth>
                <death>
                   <date when="1852-05-05">05.05.1852</date>
+                  <placeName>Lambach</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50504/</idno>
-               <idno type="paas">50504</idno>
-            </person>
+               <occupation>Abt (Administrator) des Stiftes Lambach (1820-1852)</occupation>
+               <occupation>Archivar</occupation>
+               </person>
             <person xml:id="kaltenbaeck-kaltenbaek-johann-paul">
                <persName>
                   <surname>Kaltenbaeck/Kaltenbaek</surname>
@@ -8113,20 +8132,16 @@
                </persName>
                <birth>
                   <date when="1804-01-11">11.01.1804</date>
-               </birth>
+                  <placeName>Hofkirchen</placeName></birth>
                <death>
                   <date when="1861-06-22">22.06.1861</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
-                  >Archivar</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50505/</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Archivar</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/102027013</idno>
-               <idno type="paas">50505</idno>
-            </person>
+               </person>
             <person xml:id="kleyle-franz-joachim">
                <persName>
                   <surname>Kleyle</surname>
