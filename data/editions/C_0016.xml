@@ -208,13 +208,10 @@
                                 <lb/>der Sitzung der historisch-philologischen Classe</p>
                     <p facs="#facs_1_region_1575386057242_421" rendition="#fc" xml:id="p6" xml:space="preserve">
                                     <lb/>am <num>3</num>. Mai <num>1848</num>.</p>
-                    <p facs="#facs_1_region_1575386071706_427" rendition="#fc" xml:id="p7" xml:space="preserve">
+                    <p facs="#facs_1_region_1575386071706_427" rendition="#f" xml:id="p7" xml:space="preserve">
                                         <lb/>Anwesend: Der Herr Präsident Baron <rs ref="#hammer-purgstall-von-joseph" type="person">von Hammer-Purgstall</rs>
-                                    </p>
-                    <p facs="#facs_1_region_1575386076346_430" rendition="#fc" xml:id="p8" xml:space="preserve">
-                                        <lb/>Die wirklichen Mitglieder Herr <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
-                                    </p>
-                    <p facs="#facs_1_region_1575386081331_433" rendition="#rc" xml:id="p9" xml:space="preserve">
+                                    <lb/>Die wirklichen Mitglieder Herr <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
+                                    
                                         <lb/>
                                         <choice>
                                             <expan>Herr</expan>
@@ -247,27 +244,21 @@
                                             </abbr>
                                         </choice>
                                         <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
-                                    </p>
-                    <p facs="#facs_1_region_1575386088994_436" rendition="#fc" xml:id="p10" xml:space="preserve">
-                                        <lb/>Der Secretär <choice>
+                                    <lb/>Der Secretär <choice>
                                             <expan>Herr</expan>
                                             <abbr>
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
                                         <rs ref="#wolf-ferdinand" type="person">Wolf</rs>
-                                    </p>
-                    <p facs="#facs_1_region_1575386095066_439" rendition="#fc" xml:id="p11" xml:space="preserve">
-                                        <lb/>Die correspondirenden Mitglieder <choice>
+                                    <lb/>Die correspondirenden Mitglieder <choice>
                                             <expan>Herr</expan>
                                             <abbr>
                                                 <am>"</am>
                                             </abbr>
                                         </choice>
                                         <rs ref="#boller-anton" type="person">Boller</rs>
-                                    </p>
-                    <p facs="#facs_1_region_1575386104482_442" rendition="#rc" xml:id="p12" xml:space="preserve">
-                                        <lb/>
+                                    <lb/>
                                         <choice>
                                             <expan>Herr</expan>
                                             <abbr>
@@ -275,34 +266,25 @@
                                             </abbr>
                                         </choice>
                                         <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
-                                    </p>
-                    <p facs="#facs_1_region_1575386110130_445" rendition="#fc" xml:id="p13" xml:space="preserve">
-                                        <lb/>Als Gast: der Herr General-Secretär <rs ref="#ettingshausen-von-andreas" type="person">von Ettingshausen</rs>
+                                    <lb/>Als Gast: der Herr General-Secretär <rs ref="#ettingshausen-von-andreas" type="person">von Ettingshausen</rs>
                                     </p>
                     <p facs="#facs_1_region_1575390170633_690" rendition="#r" xml:id="p14" xml:space="preserve">
                                         <lb/>Der Herr <hi>
-                                            <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs>
-                                       </hi>
+                                            <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi>
                                             und die Herren
                                         <lb/>
-                                        <hi>
-                                            <rs ref="#karadzic-vuk-stefanovic" type="person">Wuk</rs>
-                                       </hi> (in dessen Namen der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>),<lb/>
-                                        <hi>
-                                            <rs ref="#boller-anton" type="person">Boller</rs>
-                                       </hi> und <hi>
-                                            <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs>
-                                       </hi>
+                                        <hi><rs ref="#karadzic-vuk-stefanovic" type="person">Wuk</rs></hi> (in dessen Namen der <rs ref="#wolf-ferdinand" type="person">Secretär</rs>),<lb/>
+                                        <hi><rs ref="#boller-anton" type="person">Boller</rs></hi> und 
+                                        <hi><rs ref="#pfizmaier-august" type="person">Pfizmaier</rs></hi>
                                             erstatten
                                             Be-
-                                        <lb/>richt über Herrn <rs ref="#auer-welsbach-von-alois" type="person">Auer's</rs> "Sprachenhalle".</p>
+                                        <lb/>richt über Herrn <rs ref="#auer-welsbach-von-alois" type="person">Auer</rs>'s "Sprachenhalle".</p>
                     <p facs="#facs_1_region_1575390183680_694" rendition="#r" xml:id="p15" xml:space="preserve">
                                             <lb/>
                                             <choice>
                                                 <expan>Herr</expan>
                                                 <abbr>
-                                                    Hr
-                                                    <am>.</am>
+                                                    Hr<am>.</am>
                                                 </abbr>
                                             </choice>
                                             <choice>
@@ -310,9 +292,7 @@
                                                 <abbr>D<hi rend="super">or</hi>
                                             </abbr>
                                         </choice>
-                                        <hi>
-                                            <rs ref="#miklosich-von-franz" type="person">Miklosich</rs>
-                                       </hi>
+                                        <hi><rs ref="#miklosich-von-franz" type="person">Miklosich</rs></hi>
                                             liest einen
                                         <lb/>
                                             Vorbericht über seine für die
@@ -359,12 +339,11 @@
                                                 </abbr>
                                             </choice>
                                             <hi>
-                                                <rs ref="#boller-anton" type="person">Boller</rs>
-                                           </hi>
+                                                <rs ref="#boller-anton" type="person">Boller</rs></hi>
                                                 erstattete Bericht
                                             <lb/>
                                                 über die Grammatica aegyptiaca
-                                            <lb/>aus <rs ref="#wenrich-georg" type="person">Wenrich's</rs>
+                                            <lb/>aus <rs ref="#wenrich-georg" type="person">Wenrich</rs>'s
                                                 handschriftlichem
                                                 Nach-
                                             <lb/>
@@ -377,16 +356,13 @@
                                                 ange-
                                             <lb/>
                                                 stellten Forschungen auch antiquirt
-                                            <lb/>wurden, daher sich zur Herausgabe</p>
-                    <p facs="#facs_2_region_1575450948127_48" rendition="#f" xml:id="p18" xml:space="preserve">
+                                            <lb/>wurden, daher sich zur Herausgabe
                                                 <lb/>durch die Akademie keinesfalls eigne.</p>
                     <p facs="#facs_2_region_1575450959774_51" rendition="#?12-86-98--155-1270" xml:id="p19" xml:space="preserve">
                                                     <lb/>
                                                     <choice>
                                                         <expan>Herr</expan>
-                                                        <abbr>
-                                                            Hr
-                                                            <am>.</am>
+                                                        <abbr>Hr<am>.</am>
                                                         </abbr>
                                                     </choice> Regierungsrath <hi>
                                                         <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
@@ -403,15 +379,14 @@
                                                             <abbr>A<am>.</am>
                                                         </abbr>
                                                     </choice>
-                                                    <choice>
+                                                    <rs ref="#muchar-albert-anton" type="person"><choice>
                                                         <expan>
-                                                            <rs ref="#muchar-albert-anton" type="person">von</rs>
+                                                            von
                                                         </expan>
                                                         <abbr>v<am>.</am>
                                                     </abbr>
                                                 </choice>
-                                                <rs ref="#muchar-albert-anton" type="person">Muchar's</rs>
-                                           </hi>
+                                                Muchar's</rs></hi>'s
                                             <lb/>handschriftlich eingesandtes Werk:<lb/>
                                                 "Geschichte der römischen
                                                 Reichs-
@@ -423,8 +398,7 @@
                                                 eine Ausführung dessen, was das
                                             <lb/>
                                                 gelehrte Mitglied der Akademie, in
-                                            <lb/>seinem "Noricum" und in seiner</p>
-                    <p facs="#facs_2_region_1575450988942_57" rendition="#f" xml:id="p21" xml:space="preserve">
+                                            <lb/>seinem "Noricum" und in seiner
                                                 <lb/>
                                                     "Geschichte von Steiermark", sich
                                                 <lb/>
@@ -440,7 +414,7 @@
                                                     seiner Ausdehnung willen – denn diese
                                                 <lb/>
                                                     erste Abtheilung geht nur bis zum
-                                                <lb/>Regierungsantritte des Diocletian,</p>
+                                                <lb/>Regierungsantritte des <rs type="person" ref="#diokletian">Diocletian</rs>,</p>
                 </div>
             </div>
             <div n="3" type="page" xml:id="d5">
@@ -458,10 +432,8 @@
                                                     <expan>Christus </expan>
                                                     <abbr>Chr<am>.</am>
                                                 </abbr>
-                                            </choice>
-                                                , und das Ganze dürfte sich bis
-                                            <lb/>ins <num>9</num>
-                                            <hi rend="super">te</hi>
+                                            </choice>, und das Ganze dürfte sich bis
+                                            <lb/>ins <num>9</num><hi rend="super">te</hi>
                                                 Jahrhundert erstrecken –
                                                 ab-
                                             <lb/>
@@ -481,16 +453,13 @@
                                                 <lb/>Auch <choice>
                                                     <expan>Herr</expan>
                                                     <abbr>
-                                                        Hr
-                                                        <am>.</am>
+                                                        Hr<am>.</am>
                                                     </abbr>
                                                 </choice>
                                                     Regierungsrath
                                                 <lb/>
                                                 <hi>
-                                                    <rs ref="#chmel-joseph" type="person">Chmel</rs>
-                                               </hi>
-                                                    , als zweiter
+                                                    <rs ref="#chmel-joseph" type="person">Chmel</rs></hi>, als zweiter
                                                     Berichter-
                                                 <lb/>
                                                     statter, erklärt sich mit diesem
@@ -510,8 +479,7 @@
                                                 Unterstützung und Empfehlung der
                                             <lb/>
                                                 Akademie werth halte; da es sich aber nur
-                                            <lb/>zur selbstständigen Herausgabe eigne</p>
-                    <p facs="#facs_3_region_1575452462110_142" rendition="#f" xml:id="p24" xml:space="preserve">
+                                            <lb/>zur selbstständigen Herausgabe eigne
                                                 <lb/>
                                                     und die Kräfte der Akademie, durch bereits
                                                 <lb/>
@@ -530,8 +498,7 @@
                                                     nigstens vor der Hand, darauf
                                                 <lb/>
                                                     beschränken, es dringend einem
-                                                <lb/>Verleger anzuempfehlen.<lb/>Sollten sich Keiner dazu finden,<lb/>und würden in der Folge ihre Ver-</p>
-                    <p facs="#facs_3_region_1575452474158_145" rendition="#f" xml:id="p25" xml:space="preserve">
+                                                <lb/>Verleger anzuempfehlen.<lb/>Sollten sich Keiner dazu finden,<lb/>und würden in der Folge ihre Ver-
                                                     <lb/>
                                                         hältnisse es erlauben, so seye sie
                                                     <lb/>
@@ -553,8 +520,7 @@
                                                             <choice>
                                                                 <expan>Herr</expan>
                                                                 <abbr>
-                                                                    Hr
-                                                                    <am>.</am>
+                                                                    Hr<am>.</am>
                                                                 </abbr>
                                                             </choice> Regierungsrath <hi>
                                                                 <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
@@ -564,17 +530,10 @@
                                                             <lb/>
                                                                 fend, aus seinen für die Denkschriften
                                                             <lb/>bestimmten archäologischen "Reise-<lb/>Bemerkungen".</p>
-                    <p facs="#facs_4_region_1575453231453_208" rendition="#fc" xml:id="p28" xml:space="preserve">
-                                                                <lb/>
-                                                                <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
-                                                            </p>
-                    <p facs="#facs_4_region_1575453256005_212" rendition="#r" xml:id="p29" xml:space="preserve">
-                                                                <lb/>
-                                                                <rs ref="#wolf-ferdinand" type="person">FWolf</rs>
-                                                            </p>
-                    <p facs="#facs_4_region_1575453264093_215" rendition="#?45-38-83--572-1063" xml:id="p30" xml:space="preserve">
-                                                                <lb/>
-                                                                <rs ref="#arneth-joseph-calasanz" type="person">JosephArneth</rs>
+                    <p facs="#facs_4_region_1575453231453_208" rendition="#f" xml:id="p28" xml:space="preserve">
+                                                            <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
+                                                            <lb/><rs ref="#wolf-ferdinand" type="person">FWolf</rs>
+                                                            <lb/><rs ref="#arneth-joseph-calasanz" type="person">JosephArneth</rs>
                                                             </p>
                 </div>
             </div>
