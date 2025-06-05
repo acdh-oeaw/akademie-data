@@ -17,6 +17,39 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="nasif-al-yazidschi">
+               <persName>
+                  <forename>Nasif</forename>
+                  <surname>al-Yazidschi</surname>
+               </persName>
+               <birth>
+                  <date when="1800-03-25">25.03.1800</date>
+                  <placeName>Kafr Shīmā</placeName>
+               </birth>
+               <death>
+                  <date when="1871-02-08">08.02.1871</date>
+                  <placeName>Beirut</placeName>
+               </death>   
+               <occupation>Islamischer Autor</occupation>
+               <occupation>Arabischlehrer</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/121634078</idno>
+            </person>
+            <person xml:id="gerhoh-von-reichersberg">
+               <persName>
+                  <forename>Gerhoch</forename>
+                  <surname>von Reichersberg</surname>
+               </persName>
+               <birth>
+                  <date>1092/93</date>
+                  <placeName>Polling</placeName>
+               </birth>
+               <death>
+                  <date when="1169-06-27">27.06.1269</date>
+                  <placeName>Reichersberg</placeName></death>
+               <occupation>Regularkanoniker</occupation>
+               <occupation>Kirchenreformer</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118690752</idno>
+            </person>
             <person xml:id="cupr-franz">
                <persName>
                   <forename>Franz</forename>
