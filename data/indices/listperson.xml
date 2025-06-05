@@ -8494,13 +8494,16 @@
                </persName>
                <birth>
                   <date when="1801-01-24">24.01.1801</date>
+                  <placeName>Drvenik b. Makarska/Dalmatien</placeName>
                </birth>
                <death>
                   <date when="1871-12-16">16.12.1871</date>
+                  <placeName>Makarska/Dalmatien</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50502/</idno>
-               <idno type="paas">50502</idno>
-            </person>
+               <occupation>Politiker</occupation>
+               <occupation>Publizist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1012603776</idno>
+               </person>
             <person xml:id="kurz-schreiner-anton">
                <persName>
                   <surname>Kurz (Schreiner)</surname>
