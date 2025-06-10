@@ -16,6 +16,38 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="san-marino">
+                    <placeName>San Marino</placeName>
+                    <location>
+                        <geo>43.93667 12.44639</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3168070</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4263384-9</idno>
+                </place>
+                <place xml:id="modena">
+                    <placeName>Modena</placeName>
+                    <location>
+                        <geo>44.64783 10.92539</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3173331</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4115170-7</idno>
+                </place>
+                <place xml:id="glasgow">
+                    <placeName>Glasgow</placeName>
+                    <location>
+                        <geo>55.86515 -4.25763</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2648579</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4021159-9</idno>
+                </place>
+                <place xml:id="krakau">
+                    <placeName>Krakau</placeName>
+                    <location>
+                        <geo>50.06143 19.93658</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3094802</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4073760-3</idno>
+                </place>
                 <place xml:id="bisotun">
                     <placeName>Bisotun</placeName>
                     <placeName type="alt">Behistun</placeName>
@@ -915,7 +947,6 @@
                 </place>
                 <place xml:id="cagliari">
                     <placeName>Cagliari</placeName>
-                    <placeName type="alt" xml:lang="deu">Cagliari</placeName>
                     <placeName type="alt" xml:lang="deu">Cagliari</placeName>
                     <location>
                         <geo>39.23054 9.11917</geo>
