@@ -17,6 +17,29 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="hoffmann-nn">
+               <persName>
+                  <surname>Hoffmann</surname>
+               </persName>
+               <occupation>Kann nicht sicher identifiziert werden!</occupation>
+               </person>
+            <person xml:id="neumann-karl-friedrich">
+               <persName>
+                  <forename>Karl Friedrich</forename>
+                  <surname>Neumann</surname>
+               </persName>
+               <birth>
+                  <date when="1793-12-28">28.12.1793</date>
+                  <placeName>Reichmannsdorf bei Bamberg</placeName>
+               </birth>
+               <death>
+                  <date when="1870-03-17">17.03.1870</date>
+                  <placeName>Berlin</placeName></death>
+               <occupation>Orientalist</occupation>
+               <occupation>Sinologe</occupation>
+               <occupation>Unsicher, ob er jener "Neumann" aus dem Protokoll C 18 v. 22. Mai 1848 ist!</occupation> 
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116962259</idno>
+            </person>
             <person xml:id="reiss-h">
                <persName>
                   <forename>H.</forename>
