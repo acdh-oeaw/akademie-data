@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="konigsberg-in-Preussen">
+                    <placeName>Königsberg</placeName>
+                    <placeName type="alt">Kaliningrad</placeName>
+                    <location>
+                        <geo>54.70649 20.51095</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/554234</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4031541-1</idno>
+                </place>
                 <place xml:id="san-marino">
                     <placeName>San Marino</placeName>
                     <location>
