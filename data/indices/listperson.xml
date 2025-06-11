@@ -17,6 +17,40 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="luynes-honore">
+               <persName>
+                  <forename>Honoré Théodore Paul Joseph</forename>
+                  <addName>Herzog</addName>
+                  <surname>Albert de Luynes</surname>
+               </persName>
+               <birth>
+                  <date when="1802-12-15">15.12.1802</date>
+                  <placeName>Paris</placeName>
+               </birth>
+               <death>
+                  <date when="1867-12-17">17.12.1867</date>
+                  <placeName>Rom</placeName></death>
+               <occupation>Archäologe</occupation>
+               <occupation>Numismatiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/100793509</idno>
+            </person>
+            <person xml:id="macaulay-thomas">
+               <persName>
+                  <forename>Thomas Babington</forename>
+                  <surname>MacAulay</surname>
+               </persName>
+               <birth>
+                  <date when="1811-04-07">7.4.1811</date>
+                  <placeName>Rothley Temple/Leicestershire</placeName>
+               </birth>
+               <death>
+                  <date when="1859-12-28">28.12.1859</date>
+                  <placeName>Kensington</placeName></death>
+               <occupation>Historiker</occupation>
+               <occupation>Dichter</occupation>
+               <occupation>Politiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11857566X</idno>
+            </person>
             <person xml:id="muczkowski-antoni">
                <persName>
                   <surname>Muczkowski</surname>
@@ -7799,17 +7833,12 @@
                <death>
                   <date when="1883-02-20">20.02.1883</date>
                </death>
-               <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
-                  >Archäologe</occupation>
-               <occupation code="#3677" scheme="#apis_vocabularies/professiontype/"
-                  >Kunsthistoriker</occupation>
-               <occupation code="#3759" scheme="#apis_vocabularies/professiontype/"
-                  >Numismatiker</occupation>
-               <occupation code="#3826" scheme="#apis_vocabularies/professiontype/"
-                  >Altertumswissenschaftler</occupation>
+               <occupation>Archäologe</occupation>
+               <occupation>Kunsthistoriker</occupation>
+               <occupation>Numismatiker</occupation>
+               <occupation>Altertumswissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115154094</idno>
-               <idno type="paas">5495</idno>
-            </person>
+               </person>
             <person xml:id="saint-genois-jules-ludger-dominique-ghislain">
                <persName>
                   <surname>Saint-Génois</surname>
@@ -9464,16 +9493,11 @@
                <death>
                   <date when="1890-09-30">30. 09.1890</date>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3672" scheme="#apis_vocabularies/professiontype/"
-                  >Germanist</occupation>
-               <occupation code="#3676" scheme="#apis_vocabularies/professiontype/"
-                  >Romanist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51182/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Germanist</occupation>
+               <occupation>Romanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116951796</idno>
-               <idno type="paas">51182</idno>
-            </person>
+               </person>
             <person xml:id="raumer-friedrich-ludwig-georg">
                <persName>
                   <surname>Raumer</surname>
