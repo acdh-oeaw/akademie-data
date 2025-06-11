@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="dunkirchen">
+                    <placeName>Dünkirchen</placeName>
+                    <placeName type="alt">Dunkerque</placeName>
+                    <location>
+                        <geo>51.0344 2.37681</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3020686/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4013217-1</idno>
+                </place>
                 <place xml:id="konigsberg-in-Preussen">
                     <placeName>Königsberg</placeName>
                     <placeName type="alt">Kaliningrad</placeName>
