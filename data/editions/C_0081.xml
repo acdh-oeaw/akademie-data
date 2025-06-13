@@ -352,8 +352,7 @@
                                     </choice> Mitglieder <choice>
                                         <expan>Herr</expan>
                                         <abbr>
-                                            Hr
-                                            <am>.</am>
+                                            Hr<am>.</am>
                                         </abbr>
                                     </choice>
                                     <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>
@@ -482,7 +481,7 @@
                     der <rs type="place" ref="#paris">Paris</rs>er Nationalbibliothek
                 <lb/>
                     enthaltend: Carlerus de legationibus
-                <lb/>Concilii <choice><expan><rs type="place" ref="#basel">Basiliensis</rs></expan><abbr>Basil><am>.</am></abbr></choice></p>
+                <lb/>Concilii <rs type="place" ref="#basel"><choice><expan>Basiliensis</expan><abbr>Basil<am>.</am></abbr></choice></rs></p>
                 </div>
             </div>
             <div n="2" type="page" xml:id="d3">
@@ -551,15 +550,15 @@
             <abbr>Hrn<am>.</am>
         </abbr>
     </choice>
-    <choice>
+    <rs ref="#kremer-alfred" type="person"><choice>
         <expan>
-            <rs ref="#kremer-alfred" type="person">von</rs>
+            von
         </expan>
         <abbr>v<am>.</am>
     </abbr>
 </choice>
 <lb/>
-<rs ref="#kremer-alfred" type="person">Kremer</rs>
+Kremer</rs>
     neuerlich erwirkten
 <lb/>
     großherrlichen Fermans um
@@ -688,7 +687,8 @@
 </choice>
 <rs ref="#carrara-franz" type="person">Carrara</rs> – <rs ref="#split-dalmatien" type="place">Spalato</rs>,<lb/>
     Fortsetzung seines Berichtes über
-<lb/>die Ausgrabungen bei <rs ref="#salona" type="place">Salona</rs>.<lb/>
+<lb/>die Ausgrabungen bei <rs ref="#salona" type="place">Salona</rs>.</p>
+                    <p facs="#facs_3_region_1579772177573_70" rendition="#f" xml:id="p50" xml:space="preserve"><lb/>
 <choice>
     <expan>Herrn</expan>
     <abbr>Hrn<am>.</am>
@@ -736,7 +736,8 @@
     die Fortsetzung seines Aufsatzes
 <lb/>
     "Die Grafen, Markgrafen und
-<lb/>Herzoge aus dem Hause Eppenstein.
+<lb/>Herzoge aus dem Hause Eppenstein.</p>
+                    <p facs="#facs_3_region_1579772177573_70" rendition="#f" xml:id="p51" xml:space="preserve">
 <lb/>
 <choice>
     <expan>Herrn</expan>
