@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="cerri-carl">
+               <persName>
+                  <surname>Cerri</surname>
+                  <forename>Carl/Carlo</forename>
+               </persName>
+               <birth>
+                  <date when="1816-03-14">14.03.1816</date>
+                  <placeName>Mailand</placeName>
+               </birth>
+               <death>
+                  <date when="1896-01-03">03.01.1896</date>
+                  <placeName>Wien, Pfarre Altlerchenfeld</placeName>
+               </death>
+               <occupation>Zeichner (1845, 1847 u. 1853), später technischer Official 1. Klasse i.R. beim k.k. militär-geographischen Institut (1890, 1891 u. 1893)</occupation>
+               <occupation>Kartograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1255805862</idno>
+            </person>
             <person xml:id="luynes-honore">
                <persName>
                   <forename>Honoré Théodore Paul Joseph</forename>
@@ -59,7 +76,7 @@
                <birth>
                   <date>1807</date>
                   <placeName>Lublin</placeName>
-                  </birth>
+               </birth>
                <death>
                   <date>6./7.04.1852</date>
                   <placeName>Warschau</placeName>
@@ -67,7 +84,7 @@
                <occupation>Philologe</occupation>
                <occupation>Archivar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/102224250</idno>
-              </person>
+            </person>
             <person xml:id="cavedoni-celestino">
                <persName>
                   <surname>Cavedoni</surname>
@@ -117,7 +134,7 @@
                </death>
                <occupation>Chemiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116917784</idno>
-               </person>            
+            </person>
             <person xml:id="Hausmann-johann-friedrich-ludwig">
                <persName>
                   <surname>Hausmann</surname>
@@ -135,7 +152,7 @@
                <occupation>Mineraloge</occupation>
                <occupation>Geologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10416588X</idno>
-               </person>
+            </person>
             <person xml:id="minich-angelo">
                <persName>
                   <surname>Minich</surname>
@@ -150,13 +167,13 @@
                   <placeName>Venedig</placeName>
                </death>
                <occupation>Chirurg</occupation>
-               </person>
+            </person>
             <person xml:id="hoffmann-nn">
                <persName>
                   <surname>Hoffmann</surname>
                </persName>
                <occupation>Kann nicht sicher identifiziert werden!</occupation>
-               </person>
+            </person>
             <person xml:id="neumann-karl-friedrich">
                <persName>
                   <forename>Karl Friedrich</forename>
@@ -171,7 +188,8 @@
                   <placeName>Berlin</placeName></death>
                <occupation>Orientalist</occupation>
                <occupation>Sinologe</occupation>
-               <occupation>Unsicher, ob er jener "Neumann" aus dem Protokoll C 18 v. 22. Mai 1848 ist!</occupation> 
+               <occupation>Unsicher, ob er jener "Neumann" aus dem Protokoll C 18 v. 22. Mai 1848
+                  ist!</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116962259</idno>
             </person>
             <person xml:id="reiss-h">
@@ -180,7 +198,7 @@
                   <surname>Reiss</surname>
                </persName>
                <occupation>Faktor bei der k.k. Staatsdruckerei (erw. 1852)</occupation>
-               </person>
+            </person>
             <person xml:id="nasif-al-yazidschi">
                <persName>
                   <forename>Nasif</forename>
@@ -193,7 +211,7 @@
                <death>
                   <date when="1871-02-08">08.02.1871</date>
                   <placeName>Beirut</placeName>
-               </death>   
+               </death>
                <occupation>Islamischer Autor</occupation>
                <occupation>Arabischlehrer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/121634078</idno>
@@ -6032,7 +6050,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Literaturwissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116956267</idno>
-               </person>
+            </person>
             <person xml:id="lanza-francesco-franz">
                <persName>
                   <surname>Lanza</surname>
@@ -7838,7 +7856,7 @@
                <occupation>Numismatiker</occupation>
                <occupation>Altertumswissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115154094</idno>
-               </person>
+            </person>
             <person xml:id="saint-genois-jules-ludger-dominique-ghislain">
                <persName>
                   <surname>Saint-Génois</surname>
@@ -8316,7 +8334,7 @@
                </death>
                <occupation>Abt (Administrator) des Stiftes Lambach (1820-1852)</occupation>
                <occupation>Archivar</occupation>
-               </person>
+            </person>
             <person xml:id="kaltenbaeck-kaltenbaek-johann-paul">
                <persName>
                   <surname>Kaltenbaeck/Kaltenbaek</surname>
@@ -8333,7 +8351,7 @@
                <occupation>Archivar</occupation>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/102027013</idno>
-               </person>
+            </person>
             <person xml:id="kleyle-franz-joachim">
                <persName>
                   <surname>Kleyle</surname>
@@ -8586,7 +8604,7 @@
                <occupation>Mönch</occupation>
                <occupation>Diplomatiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100226965</idno>
-               </person>
+            </person>
             <person xml:id="gevay-anton">
                <persName>
                   <surname>Gévay</surname>
@@ -8605,7 +8623,7 @@
                <occupation>Archivar</occupation>
                <occupation>Orientalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/144045206</idno>
-               </person>
+            </person>
             <person xml:id="frohlich-theodor">
                <persName>
                   <surname>Fröhlich</surname>
@@ -8627,12 +8645,12 @@
                   <placeName>Avignon</placeName>
                </birth>
                <death>
-                     <date>nach 1577</date>
-                     <placeName>Genua</placeName>
-                  </death>
-                  <occupation>jüdischer Chronist</occupation>
+                  <date>nach 1577</date>
+                  <placeName>Genua</placeName>
+               </death>
+               <occupation>jüdischer Chronist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/122750144</idno>
-               </person>
+            </person>
             <person xml:id="hagn-theoderich-georg">
                <persName>
                   <surname>Hagn</surname>
@@ -8665,7 +8683,7 @@
                <occupation>Politiker</occupation>
                <occupation>Publizist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1012603776</idno>
-               </person>
+            </person>
             <person xml:id="kurz-schreiner-anton">
                <persName>
                   <surname>Kurz (Schreiner)</surname>
@@ -9497,7 +9515,7 @@
                <occupation>Germanist</occupation>
                <occupation>Romanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116951796</idno>
-               </person>
+            </person>
             <person xml:id="raumer-friedrich-ludwig-georg">
                <persName>
                   <surname>Raumer</surname>
@@ -11453,7 +11471,7 @@
                <occupation>Physiker</occupation>
                <occupation>Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11879258X</idno>
-               </person>
+            </person>
             <person xml:id="hessler-ferdinand">
                <persName>
                   <surname>Hessler</surname>
@@ -11470,7 +11488,7 @@
                </death>
                <occupation>Chemiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116778245</idno>
-               </person>
+            </person>
             <person xml:id="wertheim-wilhelm">
                <persName>
                   <surname>Wertheim</surname>
@@ -11485,7 +11503,7 @@
                </death>
                <occupation>Physiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117572810</idno>
-               </person>
+            </person>
             <person xml:id="gauss-karl-friedrich">
                <persName>
                   <surname>Gauss</surname>
@@ -11504,7 +11522,7 @@
                <occupation>Astronom</occupation>
                <occupation>Geodät</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104234644</idno>
-               </person>
+            </person>
             <person xml:id="kunzek-lichton-von-august">
                <persName>
                   <surname>Kunzek-Lichton</surname>
@@ -11523,7 +11541,7 @@
                <occupation>Hochschullehrer</occupation>
                <occupation>Physiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/143285238</idno>
-               </person>
+            </person>
             <person xml:id="belli-giuseppe-giovanni">
                <persName>
                   <surname>Belli</surname>
@@ -11557,7 +11575,7 @@
                <occupation>Physiologe</occupation>
                <occupation>Anatom</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118765817</idno>
-               </person>
+            </person>
             <person xml:id="reichenbach-karl-ludwig">
                <persName>
                   <surname>Reichenbach</surname>
@@ -11577,7 +11595,7 @@
                <occupation>Naturwissenschaftler</occupation>
                <occupation>Unternehmer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/107050978</idno>
-               </person>
+            </person>
             <person xml:id="krauss-philipp">
                <persName>
                   <surname>Krauß</surname>
@@ -11687,7 +11705,7 @@
                <occupation>Arzt</occupation>
                <occupation>Botaniker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104109327</idno>
-               </person>
+            </person>
             <person xml:id="bischoff-theodor-ludwig">
                <persName>
                   <surname>Bischoff</surname>
@@ -11704,7 +11722,7 @@
                <occupation>Hochschullehrer</occupation>
                <occupation>Arzt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116195185</idno>
-               </person>
+            </person>
             <person xml:id="encke-johann-franz">
                <persName>
                   <surname>Encke</surname>
@@ -11721,7 +11739,7 @@
                <occupation>Mathematiker</occupation>
                <occupation>Astronom</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116471727</idno>
-               </person>
+            </person>
             <person xml:id="grysar-karl-josef">
                <persName>
                   <surname>Grysar</surname>
@@ -11738,7 +11756,7 @@
                <occupation>Philologe</occupation>
                <occupation>Oberlehrer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116902582</idno>
-               </person>
+            </person>
             <person xml:id="kammel-von-kampfthal-rudolf">
                <persName>
                   <surname>Kammel von Kampfthal</surname>
@@ -11753,7 +11771,7 @@
                   <placeName>Wien</placeName>
                </death>
                <occupation>Kanzlist</occupation>
-               </person>
+            </person>
             <person xml:id="grailich-josef-wilhelm">
                <persName>
                   <surname>Grailich</surname>
@@ -11761,16 +11779,16 @@
                </persName>
                <birth>
                   <date when="1829-02-16">16.02.1829</date>
-                  <placeName>Preßburg</placeName> 
+                  <placeName>Preßburg</placeName>
                </birth>
                <death>
                   <date when="1859-09-13">13.09.1859</date>
-                  <placeName>Wien</placeName> 
+                  <placeName>Wien</placeName>
                </death>
                <occupation>Hochschullehrer</occupation>
                <occupation>Mineraloge</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116820519</idno>
-               </person>
+            </person>
             <person xml:id="purkyne-johann-evangelista">
                <persName>
                   <surname>Purkyně</surname>
@@ -11791,7 +11809,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Physiologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118597159</idno>
-               </person>
+            </person>
             <person xml:id="russegger-josef">
                <persName>
                   <surname>Russegger</surname>
@@ -12636,7 +12654,7 @@
                <occupation>Paläontologe</occupation>
                <occupation>Ingenieur</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116059532</idno>
-               </person>
+            </person>
             <person xml:id="visiani-roberto">
                <persName>
                   <surname>Visiani</surname>
@@ -12706,18 +12724,18 @@
                   <surname>Borghesi</surname>
                   <addName>Graf von</addName>
                   <forename>Bartolomeo</forename>
-                  </persName>
-                     <birth>
-                        <date when="1781-07-11">11.07.1781</date>
-                        <placeName>Savignano sul Rubicone</placeName>
-                     </birth>
-                     <death>
-                        <date when="1860-04-16">16.04.1860</date>
-                        <placeName>San Marino</placeName>
-                     </death>
-                     <occupation>Numismatiker</occupation>
-                     <occupation>Philologe</occupation>
-                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/119546612</idno>
+               </persName>
+               <birth>
+                  <date when="1781-07-11">11.07.1781</date>
+                  <placeName>Savignano sul Rubicone</placeName>
+               </birth>
+               <death>
+                  <date when="1860-04-16">16.04.1860</date>
+                  <placeName>San Marino</placeName>
+               </death>
+               <occupation>Numismatiker</occupation>
+               <occupation>Philologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119546612</idno>
             </person>
             <person xml:id="coussemaker-de-edmond">
                <persName>
@@ -12736,7 +12754,7 @@
                <occupation>Musikologe</occupation>
                <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119430959</idno>
-               </person>
+            </person>
             <person xml:id="jenull-sebastian">
                <persName>
                   <surname>Jenull</surname>
