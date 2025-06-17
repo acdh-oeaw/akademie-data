@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="gaj-ljudevit">
+               <persName>
+                  <surname>Gaj</surname>
+                  <forename>Ljudevit</forename>
+               </persName>
+               <birth>
+                  <date when="1809-07-08">08.07.1809</date>
+                  <placeName>Krapina</placeName>
+               </birth>
+               <death>
+                  <date when="1872-04-20">20.04.1872</date>
+                  <placeName>Zagreb</placeName>
+               </death>
+               <occupation>Slavist</occupation>
+               <occupation>Politiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11871614X</idno>
+            </person>
             <person xml:id="cerri-carl">
                <persName>
                   <surname>Cerri</surname>
@@ -30,7 +47,8 @@
                   <date when="1896-01-03">03.01.1896</date>
                   <placeName>Wien, Pfarre Altlerchenfeld</placeName>
                </death>
-               <occupation>Zeichner (1845, 1847 u. 1853), später technischer Official 1. Klasse i.R. beim k.k. militär-geographischen Institut (1890, 1891 u. 1893)</occupation>
+               <occupation>Zeichner (1845, 1847 u. 1853), später technischer Official 1. Klasse i.R.
+                  beim k.k. militär-geographischen Institut (1890, 1891 u. 1893)</occupation>
                <occupation>Kartograph</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1255805862</idno>
             </person>
@@ -280,7 +298,8 @@
                   <surname>Bleiweis</surname>
                </persName>
                <occupation>Amtsdiener beim lf. Bezirksgericht in Gradisca (1848/49)</occupation>
-               <occupation>Verfasser eines zweibändigen Ms. "Der Slave aus dem Thale Japhaet"</occupation>
+               <occupation>Verfasser eines zweibändigen Ms. "Der Slave aus dem Thale
+                  Japhaet"</occupation>
             </person>
             <person xml:id="sunberg-herr">
                <persName>
@@ -3820,7 +3839,7 @@
                </death>
                <occupation>niederösterreichischer Landmarschall (1848-1860)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1033000302</idno>
-               </person>
+            </person>
             <person xml:id="cicogna-emanuele-a">
                <persName>
                   <surname>Cicogna</surname>
@@ -3837,7 +3856,7 @@
                <occupation>Historiker</occupation>
                <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100082882</idno>
-               </person>
+            </person>
             <person xml:id="boucher-de-perthes-jacques">
                <persName>
                   <surname>Boucher de Perthes</surname>
@@ -4101,15 +4120,12 @@
                </birth>
                <death>
                   <date when="1854-02-19">19.02.1854</date>
+                  <placeName>Michaelbeuern/Salzburg</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3787" scheme="#apis_vocabularies/professiontype/"
-                  >Ordenspriester</occupation>
-               <occupation code="#3957" scheme="#apis_vocabularies/professiontype/"
-                  >Prior</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Ordenspriester</occupation>
+               <occupation>Prior</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116526068</idno>
-               <idno type="paas">1947</idno>
             </person>
             <person xml:id="jager-albert">
                <persName>
@@ -5541,17 +5557,13 @@
                </birth>
                <death>
                   <date when="1897-10-04">04.10.1897</date>
+                  <placeName>London</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#3698" scheme="#apis_vocabularies/professiontype/"
-                  >Linguist</occupation>
-               <occupation code="#3753" scheme="#apis_vocabularies/professiontype/"
-                  >Arabist</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Orientalist</occupation>
+               <occupation>Linguist</occupation>
+               <occupation>Arabist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116472650</idno>
-               <idno type="paas">2180</idno>
             </person>
             <person xml:id="tafel-gottlieb-lukas-friedrich">
                <persName>
@@ -6120,13 +6132,9 @@
                   <date when="1883-03-13">13.03.1883</date>
                   <placeName>Tübingen</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3698" scheme="#apis_vocabularies/professiontype/"
-                  >Linguist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50131/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Linguist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118831216</idno>
-               <idno type="paas">50131</idno>
             </person>
             <person xml:id="fornasari-verce-andreas-joseph">
                <persName>
@@ -7176,7 +7184,7 @@
                   <forename>Gavriil Ivanovich / Гавриил Иванович</forename>
                </persName>
                <birth>
-                  <date when="1784-07-01">1784</date>
+                  <date>1784</date>
                </birth>
                <death>
                   <date when="1809-10-04">04.10.1809</date>
@@ -8984,8 +8992,6 @@
                   <placeName>Mailand</placeName></death>
                <occupation>Diplomat, Generalkonsul in Kairo</occupation>
                <occupation>Ägyptologe</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50588/</idno>
-               <idno type="paas">50588</idno>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1156042089</idno>
             </person>
             <person xml:id="dollinger-johann">
@@ -8999,15 +9005,12 @@
                </birth>
                <death>
                   <date when="1890-01-10">10.01.1890</date>
+                  <placeName>München</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3711" scheme="#apis_vocabularies/professiontype/">Katholischer
-                  Theologe</occupation>
-               <occupation code="#3712" scheme="#apis_vocabularies/professiontype/"
-                  >Kirchenhistoriker</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Theologe</occupation>
+               <occupation>Kirchenhistoriker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118526243</idno>
-               <idno type="paas">1562</idno>
             </person>
             <person xml:id="lassberg-joseph">
                <persName>
@@ -9024,20 +9027,13 @@
                   <date when="1855-03-15">15.03.1855</date>
                   <placeName>Meersburg</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3666" scheme="#apis_vocabularies/professiontype/"
-                  >Literarhistoriker</occupation>
-               <occupation code="#3672" scheme="#apis_vocabularies/professiontype/"
-                  >Germanist</occupation>
-               <occupation code="#4116" scheme="#apis_vocabularies/professiontype/"
-                  >Verwaltungsbeamter</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50589/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Germanist</occupation>
+               <occupation>Verwaltungsbeamter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118778862</idno>
-               <idno type="paas">50589</idno>
-            </person>
+               </person>
             <person xml:id="mittermaier-carl-joseph-anton">
                <persName>
                   <surname>Mittermaier</surname>
@@ -9070,17 +9066,15 @@
                </persName>
                <birth>
                   <date when="1805-12-12">12.12.1805</date>
+                  <placeName>Freudenthal/Krain</placeName>
                </birth>
                <death>
                   <date when="1886-05-12">12.05.1886</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
-               <occupation code="#3736" scheme="#apis_vocabularies/professiontype/"
-                  >Ministerialrat</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50708/</idno>
+               <occupation>Jurist</occupation>
+               <occupation>Ministerialrat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/144032317</idno>
-               <idno type="paas">50708</idno>
             </person>
             <person xml:id="birch-samuel">
                <persName>
@@ -9098,7 +9092,7 @@
                <occupation>Archäologe</occupation>
                <occupation>Ägyptologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116188839</idno>
-               </person>
+            </person>
             <person xml:id="galanos-galanos-demetrios-demetrios">
                <persName>
                   <surname>Galanos / Γαλανός</surname>
@@ -9130,7 +9124,7 @@
             <person xml:id="franzl-fraenzl-moriz-julius">
                <persName>
                   <surname>Fränzl/Fraenzl</surname>
-                  <addName>Ritter von</addName>
+                  <addName>Ritter von Vestenek</addName>
                   <nameLink>von</nameLink>
                   <forename>Moriz Julius</forename>
                </persName>
@@ -9139,9 +9133,10 @@
                </birth>
                <death>
                   <date when="1875-03-27">27.03.1875</date>
-               </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50862/</idno>
-               <idno type="paas">50862</idno>
+                  <placeName>Wien</placeName></death>
+               <occupation>Statistiker</occupation>
+               <occupation>Jurist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1035196964</idno>
             </person>
             <person xml:id="gachard-louis-prosper">
                <persName>
@@ -9154,13 +9149,11 @@
                </birth>
                <death>
                   <date when="1885-12-24">24.12.1885</date>
+                  <placeName>Brüssel</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
-                  >Archivar</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Archivar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100479480</idno>
-               <idno type="paas">2146</idno>
             </person>
             <person xml:id="hock-carl">
                <persName>
@@ -9202,7 +9195,7 @@
                <occupation>Historiker</occupation>
                <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1055088946</idno>
-               </person>
+            </person>
             <person xml:id="sprenger-aloys">
                <persName>
                   <surname>Sprenger</surname>
@@ -9239,7 +9232,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Literaturwissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/143917137</idno>
-               </person>
+            </person>
             <person xml:id="zingerle-pius-jakob">
                <persName>
                   <surname>Zingerle</surname>
@@ -9263,7 +9256,7 @@
                <occupation>Prior</occupation>
                <occupation>Seelsorger</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117004588</idno>
-               </person>
+            </person>
             <person xml:id="holmboe-christopher-andreas">
                <persName>
                   <surname>Holmboe</surname>
@@ -9271,17 +9264,15 @@
                </persName>
                <birth>
                   <date when="1796-03-19">19.03.1796</date>
+                  <placeName>Vang/Norwegen</placeName>
                </birth>
                <death>
                   <date when="1882-04-02">02.04.1882</date>
+                  <placeName>Kristiania (= Oslo)/Norwegen</placeName>
                </death>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#3759" scheme="#apis_vocabularies/professiontype/"
-                  >Numismatiker</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51059/</idno>
+               <occupation>Orientalist</occupation>
+               <occupation>Numismatiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116965665</idno>
-               <idno type="paas">51059</idno>
             </person>
             <person xml:id="jomard-edmond-francois">
                <persName>
@@ -9361,16 +9352,11 @@
                   <date when="1865-11-28">28.11.1865</date>
                   <placeName>Hamburg</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
-                  >Archivar</occupation>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51063/</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Archivar</occupation>
+               <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100180930</idno>
-               <idno type="paas">51063</idno>
-            </person>
+               </person>
             <person xml:id="lasaulx-ernst">
                <persName>
                   <surname>Lasaulx</surname>
@@ -9433,7 +9419,7 @@
                <occupation>Klassischer Philologe</occupation>
                <occupation>Bibliothekar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116400471</idno>
-               </person>
+            </person>
             <person xml:id="mac-guckin-de-slane-william">
                <persName>
                   <surname>Mac Guckin de Slane</surname>
@@ -9510,7 +9496,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Staatswissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119059622</idno>
-               </person>
+            </person>
             <person xml:id="ranke-leopold">
                <persName>
                   <surname>Ranke</surname>
@@ -9542,7 +9528,7 @@
                </birth>
                <occupation>Registrant beim k.k. Kreisamt in Znaim (1845)</occupation>
                <occupation>Beamter der niederösterreichischen Landstände (1849)</occupation>
-               </person>
+            </person>
             <person xml:id="buchner-andreas">
                <persName>
                   <surname>Buchner</surname>
@@ -9560,7 +9546,7 @@
                <occupation>Philologe</occupation>
                <occupation>Priester</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/138305277</idno>
-               </person>
+            </person>
             <person xml:id="schulz-heinrich-wilhelm">
                <persName>
                   <surname>Schulz</surname>
@@ -9579,7 +9565,7 @@
                <occupation>Museumsdirektor</occupation>
                <occupation>Zeichner</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117246077</idno>
-               </person>
+            </person>
             <person xml:id="streber-franz-seraph-napoleon">
                <persName>
                   <surname>Streber</surname>
@@ -9756,7 +9742,7 @@
                <occupation>Verwaltungsbeamter</occupation>
                <occupation>Zeitungsredakteur</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/139154132</idno>
-               </person>
+            </person>
             <person xml:id="castillejo-cristobal">
                <persName>
                   <surname>Castillejo</surname>
@@ -9811,7 +9797,7 @@
                <occupation>Historiker</occupation>
                <occupation>Kaufmann</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116978813</idno>
-               </person>
+            </person>
             <person xml:id="la-perouse-jean-francois">
                <persName>
                   <surname>La Pérouse</surname>
@@ -9842,13 +9828,13 @@
                   <forename>Salvatore</forename>
                </persName>
                <birth>
-                  <date when="1793-07-02">1793</date>
+                  <date when="1793-06-28">28.06.1793</date>
                </birth>
                <death>
-                  <date when="1870-07-02">1870</date>
+                  <date when="1870-07-02">02.07.1870</date>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52236/</idno>
-               <idno type="paas">52236</idno>
+               <occupation>Präsident der Ruvo-Ausgrabungskommission</occupation>
+               <occupation>Dichter, Schriftsteller, Eassayist</occupation>
             </person>
             <person xml:id="blanco-lorenzo">
                <persName>
@@ -9862,7 +9848,7 @@
                   <date when="1880-07-01">1880</date>
                </death>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/105377009X</idno>
-               </person>
+            </person>
             <person xml:id="gille-florent">
                <persName>
                   <surname>Gille</surname>
@@ -9881,11 +9867,11 @@
                <occupation>Kurator &lt;Museumskunde&gt;</occupation>
                <occupation>Staatsrat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1090247850</idno>
-               </person>
+            </person>
             <person xml:id="foringer-heinrich">
                <persName>
                   <surname>Föringer</surname>
-                  <forename>Heinrich</forename>
+                  <forename>Heinrich (Konrad)</forename>
                </persName>
                <birth>
                   <date when="1802-08-14">14.08.1802</date>
@@ -9895,11 +9881,8 @@
                   <date when="1880-02-09">09.02.1880</date>
                   <placeName>München</placeName>
                </death>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52237/</idno>
+               <occupation>Bibliothekar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116635517</idno>
-               <idno type="paas">52237</idno>
             </person>
             <person xml:id="reitmann-heinrich-hirsch-hersch">
                <persName>
@@ -9912,9 +9895,10 @@
                <death>
                   <date when="1866-01-10">10.01.1866</date>
                </death>
-               <occupation>Lehrer an der deutsch-isrealitischen Schule in Tarnopol (1849)</occupation>
+               <occupation>Lehrer an der deutsch-isrealitischen Schule in Tarnopol
+                  (1849)</occupation>
                <occupation>Leiter der Schule in Brody (1854-1866)</occupation>
-               </person>
+            </person>
             <person xml:id="romanelli-domenico">
                <persName>
                   <surname>Romanelli</surname>
@@ -10585,15 +10569,13 @@
                   <forename>Carlo</forename>
                </persName>
                <birth>
-                  <date when="1784-07-01">1784</date>
+                  <date>1784</date>
                   <placeName>Mailand</placeName>
                </birth>
                <death>
                   <date when="1849-03-22">22.03.1849</date>
                   <placeName>Mailand</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52731/</idno>
-               <idno type="paas">52731</idno>
             </person>
             <person xml:id="thomson-christian-jurgensen">
                <persName>
@@ -10627,21 +10609,19 @@
                <occupation>Geograf</occupation>
                <occupation>Marineoffizier</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117146390</idno>
-               </person>
+            </person>
             <person xml:id="dorfmann-hartnid">
                <persName>
                   <surname>Dorfmann</surname>
                   <forename>Hartnid</forename>
                </persName>
                <birth>
-                  <date when="1778-07-02">1778</date>
+                  <date>1778</date>
                </birth>
                <death>
                   <date when="1862-08-22">22.08.1862</date>
-                  <placeName>Graz</placeName>
+                  <placeName>Graz, Admonterhof (Pfarre Mariae Himmelfahrt)</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52759/</idno>
-               <idno type="paas">52759</idno>
             </person>
             <person xml:id="reichel-jakob">
                <persName>
@@ -10703,7 +10683,8 @@
                   <date when="1824-05-25">25.05.1824</date>
                   <placeName>Linz</placeName>
                </birth>
-               <occupation>oö Landschaftsarchiv- und Registraturpraktikant in Linz (1850)</occupation>
+               <occupation>oö Landschaftsarchiv- und Registraturpraktikant in Linz
+                  (1850)</occupation>
             </person>
             <person xml:id="mesgnien-meninski-franz">
                <persName>
