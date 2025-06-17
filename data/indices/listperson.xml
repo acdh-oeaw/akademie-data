@@ -6407,16 +6407,11 @@
                   <date when="1852-01-24">24.01.1852</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3639" scheme="#apis_vocabularies/professiontype/"
-                  >Theologe</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3949" scheme="#apis_vocabularies/professiontype/"
-                  >Gelehrter</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50197/</idno>
+               <occupation>Theologe</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Gelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118777750</idno>
-               <idno type="paas">50197</idno>
-            </person>
+               </person>
             <person xml:id="pollak-joachim-chaim-josef">
                <persName>
                   <surname>Pollak</surname>
@@ -9331,14 +9326,10 @@
                   <date when="1851-03-13">13.03.1851</date>
                   <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3637" scheme="#apis_vocabularies/professiontype/">Klassischer
-                  Philologe</occupation>
-               <occupation code="#3672" scheme="#apis_vocabularies/professiontype/"
-                  >Germanist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51062/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Germanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118568558</idno>
-               <idno type="paas">51062</idno>
-            </person>
+               </person>
             <person xml:id="lappenberg-johann-martin">
                <persName>
                   <surname>Lappenberg</surname>
@@ -9361,7 +9352,6 @@
                <persName>
                   <surname>Lasaulx</surname>
                   <addName>von</addName>
-                  <nameLink>von</nameLink>
                   <forename>Ernst</forename>
                </persName>
                <birth>
@@ -9372,18 +9362,12 @@
                   <date when="1861-05-10">10.05.1861</date>
                   <placeName>München</placeName>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3637" scheme="#apis_vocabularies/professiontype/">Klassischer
-                  Philologe</occupation>
-               <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
-                  >Archäologe</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51064/</idno>
+               <occupation>Politiker</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Klassischer Philologe</occupation>
+               <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118726617</idno>
-               <idno type="paas">51064</idno>
-            </person>
+               </person>
             <person xml:id="lenormant-charles">
                <persName>
                   <surname>Lenormant</surname>
@@ -9435,8 +9419,9 @@
                   <date when="1878-08-04">04.08.1878</date>
                   <placeName>Paris</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51067/</idno>
-               <idno type="paas">51067</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Orientalist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117633860</idno>
             </person>
             <person xml:id="panofka-theodor">
                <persName>
@@ -9967,14 +9952,13 @@
                   <forename>Aaron Haight</forename>
                </persName>
                <birth>
-                  <date when="1779-07-02">1779</date>
+                  <date>um 1779</date>
                </birth>
                <death>
                   <date when="1863-02-09">09.02.1863</date>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52337/</idno>
-               <idno type="paas">52337</idno>
-            </person>
+               <occupation>Rat am Obersten Gerichtshof der USA</occupation>
+              </person>
             <person xml:id="cubich-giambattista">
                <persName>
                   <surname>Cubich</surname>
@@ -10001,16 +9985,15 @@
                </persName>
                <birth>
                   <date when="1806-08-19">19.08.1806</date>
+                  <placeName>Polná/Mähren</placeName>
                </birth>
                <death>
                   <date when="1880-11-09">09.11.1880</date>
+                  <placeName>Polná/Mähren</placeName>
                </death>
-               <occupation code="#3831" scheme="#apis_vocabularies/professiontype/"
-                  >Journalist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50507/</idno>
+               <occupation>Journalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/139888764</idno>
-               <idno type="paas">50507</idno>
-            </person>
+               </person>
             <person xml:id="gersdorff-hermann-konstantin">
                <persName>
                   <surname>Gersdorff</surname>
@@ -10026,12 +10009,9 @@
                   <date when="1870-09-13">13.09.1870</date>
                   <placeName>Sedan</placeName>
                </death>
-               <occupation code="#3967" scheme="#apis_vocabularies/professiontype/"
-                  >General</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52603/</idno>
+               <occupation>General</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117543454</idno>
-               <idno type="paas">52603</idno>
-            </person>
+               </person>
             <person xml:id="esterhazy-nikolaus">
                <persName>
                   <surname>Esterhazy</surname>
@@ -10141,16 +10121,12 @@
                </birth>
                <death>
                   <date when="1871-03-12">12.03.1871</date>
-               </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
-                  >Archivar</occupation>
-               <occupation code="#3672" scheme="#apis_vocabularies/professiontype/"
-                  >Germanist</occupation>
+                  <placeName>Karlsruhe</placeName> </death>
+               <occupation>Historiker</occupation>
+               <occupation>Archivar</occupation>
+               <occupation>Germanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118861476</idno>
-               <idno type="paas">4488</idno>
-            </person>
+               </person>
             <person xml:id="herberstein-siegmund">
                <persName>
                   <surname>Herberstein</surname>
@@ -10166,8 +10142,7 @@
                   <date when="1566-03-28">28.03.1566</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
+               <occupation>Historiker</occupation>
                <occupation code="#3682" scheme="#apis_vocabularies/professiontype/"
                   >Diplomat</occupation>
                <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
@@ -10184,14 +10159,13 @@
                   <forename>Joseph Benedict</forename>
                </persName>
                <birth>
-                  <date when="1789-07-02">1789</date>
+                  <date>um 1789</date>
                </birth>
                <death>
                   <date when="1875-05-05">05.05.1875</date>
                   <placeName>Graz</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52656/</idno>
-               <idno type="paas">52656</idno>
+               <occupation>Direktor der Herbersteinischen Güter</occupation>
             </person>
             <person xml:id="ungnad-von-weissenwolff-hans-iii">
                <persName>
@@ -10382,15 +10356,15 @@
                   <forename>Johann</forename>
                </persName>
                <birth>
-                  <date when="1795-05-21">21.05.1795</date>
+                  <date when="1795-05-21">21.05.1795 (Tauftag)</date>
                   <placeName>Wien</placeName>
                </birth>
                <death>
                   <date when="1866-09-02">02.09.1866</date>
                   <placeName>Kronstadt</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52701/</idno>
-               <idno type="paas">52701</idno>
+               <occupation>Professor für Philosophie am Lyzeum in Innsbruck, dann in Wien</occupation> 
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/129573639</idno>
             </person>
             <person xml:id="neumann-leopold">
                <persName>
@@ -10536,10 +10510,9 @@
                </birth>
                <death>
                   <date when="1877-04-18">18.04.1877</date>
+                  <placeName>Cividale</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52727/</idno>
-               <idno type="paas">52727</idno>
-            </person>
+               <occupation>Historiker</occupation></person>
             <person xml:id="perini-agostino">
                <persName>
                   <surname>Perini</surname>
@@ -12026,17 +11999,15 @@
                </persName>
                <birth>
                   <date when="1801-07-14">14.07.1801</date>
-               </birth>
+                  <placeName>Koblenz</placeName> </birth>
                <death>
                   <date when="1858-04-28">28.04.1858</date>
+                  <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/"
-                  >Arzt</occupation>
-               <occupation code="#3706" scheme="#apis_vocabularies/professiontype/"
-                  >Physiologe</occupation>
+               <occupation>Arzt</occupation>
+               <occupation>Physiologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118585053</idno>
-               <idno type="paas">4561</idno>
-            </person>
+               </person>
             <person xml:id="bunsen-robert-wilhelm">
                <persName>
                   <surname>Bunsen</surname>
