@@ -1334,15 +1334,15 @@
                                     xml:id="z6" />Der zweite Secretär <rs type="person"
                                     ref="#wolf-ferdinand">Wolf</rs>
                             </p>
-                            <p rendition="#f"
+                            <p rendition="#fc"
                                facs="#facs_1_region_1532698988737_95"
                                xml:id="p7"
                                xml:space="preserve">
                                 <lb facs="#facs_1_line_1532698995071_96"
                                     xml:id="z8" />
-                                    Die wirklichen Mitglieder:
-                                <lb facs="#facs_1_region_1532697067243_70l1"
-                                    xml:id="z12" />
+                                    Die wirklichen Mitglieder:</p>
+                    <p rendition="#ll" facs="#facs_2_region_1532697134760_84" xml:id="p225" xml:space="preserve">
+                        <lb facs="#facs_1_line_1532699009797_97" xml:id="z390" />
                                 <choice>
                                     <expan>Freiherr</expan>
                                     <abbr>Freih<am>.</am>
@@ -1435,9 +1435,9 @@
                         <lb facs="#facs_1_region_1532697109457_82l5"
                             xml:id="z45" />
                         <rs type="person"
-                            ref="#kollar-vincenz">Kollar</rs>
-                        <lb facs="#facs_1_line_1532699009797_97"
-                            xml:id="z9" />
+                            ref="#kollar-vincenz">Kollar</rs></p>
+                    <p rendition="#rl" facs="#facs_2_region_1532697134760_84" xml:id="p125" xml:space="preserve">
+                        <lb facs="#facs_1_line_1532699009797_97" xml:id="z9" />
                         <rs type="person"
                             ref="#doppler-christian">Doppler</rs>
                         <lb facs="#facs_1_region_1532697079630_75l2"
@@ -1537,8 +1537,7 @@
                     <lb facs="#facs_2_region_1532697142919_85l2"
                         xml:id="z49" />
                     <rs type="person"
-                        ref="#schrotter-anton">Secretär</rs>
-                        , den Erlaß des hohen
+                        ref="#schrotter-anton">Secretär</rs>, den Erlaß des hohen
                     <lb facs="#facs_2_region_1532697142919_85l3"
                         xml:id="z50" />
                         Curatoriums vorgelesen, worin
@@ -1576,8 +1575,7 @@
                        xml:space="preserve">
                         <lb facs="#facs_2_line_1532699151052_102"
                             xml:id="z59" />
-                        <num>1</num>
-                        <hi rend="super">tens</hi>
+                        <num>1</num><hi rend="super">tens</hi>
                             mit der Wahl des
                             Präsi-
                         <lb facs="#facs_2_region_1532697134760_84l3"
@@ -1629,8 +1627,7 @@
                        xml:space="preserve">
                         <lb facs="#facs_2_region_1532697168987_88l1"
                             xml:id="z70" />
-                        <num>2</num>
-                        <hi rend="super">tens</hi> Da nach § <num>8</num>
+                        <num>2</num><hi rend="super">tens</hi> Da nach § <num>8</num>
                             der
                             Sta-
                         <lb facs="#facs_2_region_1532697168987_88l2"
@@ -1704,8 +1701,7 @@
                             <lb facs="#facs_3_r1l10"
                                 xml:id="z87" />len.<lb facs="#facs_3_r1l11"
                                 xml:id="z88" />
-                            <num>3</num>
-                            <hi rend="super">tens</hi> In Folge des § <num>7</num>
+                            <num>3</num><hi rend="super">tens</hi> In Folge des § <num>7</num>
                                 der
                             <lb facs="#facs_3_r1l12"
                                 xml:id="z89" />Statuten, und § <num>51</num>
@@ -1741,9 +1737,7 @@
                         </abbr>
                     </choice>
                     <rs type="person"
-                        ref="#wolf-ferdinand">Wolf</rs>
-                        ,
-                        des-
+                        ref="#wolf-ferdinand">Wolf</rs>, des-
                     <lb facs="#facs_3_r1l19"
                         xml:id="z96" />sen Functionszeit mit dem <num>27</num>.<lb facs="#facs_3_r1l20"
                         xml:id="z97" />des nächsten Monates abläuft,<lb facs="#facs_3_r1l21"
@@ -1757,8 +1751,7 @@
                     <lb facs="#facs_3_r1l24"
                         xml:id="z101" />stätigung nachzusuchen.<lb facs="#facs_3_line_1532697219953_89"
                         xml:id="z102" />
-                    <num>4</num>
-                    <hi rend="super">tens</hi>
+                    <num>4</num><hi rend="super">tens</hi>
                         Wird zur Wahl des
                     <lb facs="#facs_3_r1l27"
                         xml:id="z103" />
@@ -1770,8 +1763,7 @@
                     <lb facs="#facs_3_r1l29"
                         xml:id="z105" />geschritten.<lb facs="#facs_3_r1l30"
                         xml:id="z106" />
-                        Bei dem ersten Scrutin
-                        er-
+                        Bei dem ersten Scrutin er-
                     <lb facs="#facs_3_r1l31"
                         xml:id="z107" />hält <choice>
                         <expan>Professor</expan>
@@ -1802,12 +1794,10 @@
             xml:id="z109" />
         <rs type="person"
             ref="#ettingshausen-von-andreas">Ettingshausen</rs>
-        <num>5</num>
-            .
+        <num>5</num>.
         <lb facs="#facs_3_r1l34"
             xml:id="z110" />
-            Da somit keiner der
-            ge-
+            Da somit keiner der ge-
         <lb facs="#facs_3_r1l35"
             xml:id="z111" />nannten Herren die nöthige</p>
     </div>
@@ -1840,8 +1830,7 @@
         <lb facs="#facs_4_r2l5"
             xml:id="z116" />
         <rs type="person"
-            ref="#zippe-franz-xaver">Zippe</rs>
-            , er danke zwar den
+            ref="#zippe-franz-xaver">Zippe</rs>, er danke zwar den
         <lb facs="#facs_4_r2l6"
             xml:id="z117" />
             für ihn Stimmenden für das
@@ -1919,12 +1908,10 @@
 </abbr>
 </choice>
 <rs type="person"
-    ref="#brucke-von-ernst">Brücke</rs>
-    .
+    ref="#brucke-von-ernst">Brücke</rs>.
 <lb facs="#facs_4_r2l23"
     xml:id="z134" />
-<num>5</num>
-<hi rend="super">tens</hi>
+<num>5</num><hi rend="super">tens</hi>
     Wurde zur Wahl des
 <lb facs="#facs_4_r2l24"
     xml:id="z135" />
@@ -2326,8 +2313,7 @@
         Stimmen.
     <lb facs="#facs_7_r1l8"
         xml:id="z221" />
-    <num>7</num>
-    <hi rend="super">tens</hi> Wahl von <num>6</num>        
+    <num>7</num><hi rend="super">tens</hi> Wahl von <num>6</num>        
         correspon-
     <lb facs="#facs_7_r1l9"
         xml:id="z222" />
@@ -2590,10 +2576,7 @@
 <rs type="person"
     ref="#schmidl-adolf">Schmidl</rs>, Actuar der Akad. <num>16</num>.<lb facs="#facs_8_r1l27"
     xml:id="z273" />
-<num>8</num>
-<hi rend="super">tens</hi> Wahl von <num>2</num>
-    corresp.
-    Mitglie-
+<num>8</num><hi rend="super">tens</hi> Wahl von <num>2</num> <choice><expan>correspondirenden</expan><abbr>corresp<am>.</am></abbr>corresp</choice> Mitglie-
 <lb facs="#facs_8_r1l28"
     xml:id="z274" />
     dern der philos.-histor. Classe im
