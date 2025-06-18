@@ -17,6 +17,14 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="frei-christoph">
+               <persName>
+                  <forename>Christoph</forename>
+                  <surname>Frei</surname>
+               </persName>
+               <occupation>Verfasser eines Ms. "Ὑμνος εἰς τα γενεϑλια του Κυριου σωτηρος ἡμων Ιησου Χριστου" (hg. v. Josef Wartinger, Graz 1847)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/104260408</idno>
+            </person>
             <person xml:id="gaj-ljudevit">
                <persName>
                   <surname>Gaj</surname>
@@ -8165,12 +8173,16 @@
                </persName>
                <birth>
                   <date when="1802-05-20">20.05.1802</date>
+                  <placeName>Bystřice nad Pernštejnem</placeName>
                </birth>
                <death>
                   <date when="1847-01-13">13.01.1847</date>
+                  <placeName>Brünn</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50485/</idno>
-               <idno type="paas">50485</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Archivar</occupation>
+               <occupation>berüchtigter Fälscher</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/124694101</idno>
             </person>
             <person xml:id="bogaerts-felix">
                <persName>
