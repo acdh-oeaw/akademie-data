@@ -164,14 +164,14 @@
                     <p facs="#facs_1_region_1575650767647_438" rendition="#fc" xml:id="p6" xml:space="preserve">
                                     <lb/>am <num>21</num>. Juni <num>1848</num>.</p>
                     <p facs="#facs_1_region_1575650783183_441" rendition="#?16-84-100--403-2508" xml:id="p7" xml:space="preserve">
-                                        <lb/>Anwesend: Der Herr Präsident Baron <choice>
+                                        <lb/>Anwesend: Der Herr Präsident Baron <rs ref="#hammer-purgstall-von-joseph" type="person"><choice>
                                             <expan>
-                                                <rs ref="#hammer-purgstall-von-joseph" type="person">von</rs>
+                                                von
                                             </expan>
                                             <abbr>v<am>.</am>
                                         </abbr>
                                     </choice>
-                                    <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
+                                    Hammer-Purgstall</rs>
                                 </p>
                     <p facs="#facs_1_region_1575650787952_444" rendition="#f" xml:id="p8" xml:space="preserve">
                                     <lb/>Die wirklichen Mitglieder Herr <rs ref="#grillparzer-franz" type="person">Grillparzer</rs>
@@ -221,17 +221,16 @@
                                         </abbr>
                                     </choice>
                                     <rs ref="#diemer-josef" type="person">Diemer</rs>
-                                <lb/>Als Gast: Herr General-Secretär <choice>
+                                <lb/>Als Gast: Herr General-Secretär <rs ref="#ettingshausen-von-andreas" type="person"><choice>
                                         <expan>
-                                            <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
+                                            von
                                         </expan>
                                         <abbr>v<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>.</p>
+                                Ettingshausen</rs>.</p>
                     <p facs="#facs_1_region_1575650834847_460" rendition="#r" xml:id="p13" xml:space="preserve">
-                                    <lb/>Der Herr <hi>
-                                        <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi>
+                                    <lb/>Der Herr <hi><rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi>
                                         liest
                                     <lb/>
                                         seinen Bericht über die "Histoire
