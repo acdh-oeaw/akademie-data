@@ -7783,22 +7783,16 @@
                </persName>
                <birth>
                   <date when="1783-08-18">18.08.1783</date>
-               </birth>
+                  <placeName>Osoblaha</placeName> </birth>
                <death>
                   <date when="1856-05-24">24.05.1856</date>
-               </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <occupation code="#3660" scheme="#apis_vocabularies/professiontype/"
-                  >Pädagoge</occupation>
-               <occupation code="#3673" scheme="#apis_vocabularies/professiontype/"
-                  >Priester</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50171/</idno>
+                  <placeName>Wien</placeName></death>
+               <occupation>Historiker</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Pädagoge</occupation>
+               <occupation>Priester</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115401318</idno>
-               <idno type="paas">50171</idno>
-            </person>
+               </person>
             <person xml:id="rieti-da-mose">
                <persName>
                   <surname>da Rieti</surname>
