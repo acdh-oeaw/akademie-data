@@ -17,6 +17,31 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="neumann-franz-ernst">
+               <persName>
+                  <forename>Franz Ernst</forename>
+                  <nameLink>Adelsprädikat</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Neumann</surname>
+               </persName>
+               <persName type="alt">Thun von Hohenstein</persName>
+               <birth>
+                  <date when="1798-09-11">11.09.1798</date>
+                  <placeName>Schmelze bei Mellin</placeName>
+               </birth>
+               <death>
+                  <date when="1895-05-23">23.05.1895</date>
+                  <placeName>Königsberg i.Pr.</placeName></death>
+               <occupation>Physiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118786008</idno>
+            </person>
+            <person xml:id="ruzicka-nn">
+               <persName>
+                  <forename>NN</forename>
+                  <surname>Ružička</surname>
+               </persName>
+               <occupation>Administrator des Stiftes Seckau (1848)</occupation>
+               </person>
             <person xml:id="frei-christoph">
                <persName>
                   <forename>Christoph</forename>
@@ -7522,10 +7547,11 @@
                   <date when="1867-08-25">25.08.1867</date>
                   <placeName>Dresden</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50057/</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Kulturhistoriker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10030396X</idno>
-               <idno type="paas">50057</idno>
-            </person>
+               </person>
             <person xml:id="knapp-von-hipperlein-hypperlein-colomann">
                <persName>
                   <surname>Knapp von Hipperlein/Hypperlein</surname>
@@ -9288,18 +9314,12 @@
                   <date when="1862-09-23">23.09.1862</date>
                   <placeName>Paris</placeName>
                </death>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
-                  >Archäologe</occupation>
-               <occupation code="#3656" scheme="#apis_vocabularies/professiontype/"
-                  >Geograf</occupation>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51060/</idno>
+               <occupation>Orientalist</occupation>
+               <occupation>Archäologe</occupation>
+               <occupation>Geograf</occupation>
+               <occupation>Bibliothekar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117175048</idno>
-               <idno type="paas">51060</idno>
-            </person>
+               </person>
             <person xml:id="koehne-bernhard-karl">
                <persName>
                   <surname>Koehne</surname>
@@ -9764,14 +9784,10 @@
                   <date when="1885-08-15">15.08.1885</date>
                   <placeName>Kopenhagen</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
-                  >Archäologe</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51374/</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117424749</idno>
-               <idno type="paas">51374</idno>
-            </person>
+               </person>
             <person xml:id="zellweger-johann-kaspar">
                <persName>
                   <surname>Zellweger</surname>
@@ -10387,12 +10403,9 @@
                   <date when="1888-12-07">07.12.1888</date>
                   <placeName>Gries (Bozen)</placeName>
                </death>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52704/</idno>
+               <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116963026</idno>
-               <idno type="paas">52704</idno>
-            </person>
+               </person>
             <person xml:id="wackernagel-wilhelm">
                <persName>
                   <surname>Wackernagel</surname>
