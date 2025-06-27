@@ -17,6 +17,13 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="honegger-j-b">
+               <persName>
+                  <forename>J. B.</forename>
+                  <surname>Honegger</surname>
+               </persName>
+               <occupation>Architekt; Verfasser von "Karthagischen Alterthümern", im Jan. 1848 im Hotel d'Angleterre, 64 Rue Montmartre wohnhaft</occupation>
+               </person>
             <person xml:id="neumann-franz-ernst">
                <persName>
                   <forename>Franz Ernst</forename>
@@ -2427,21 +2434,17 @@
                </persName>
                <birth>
                   <date when="1772-11-28">28.11.1772</date>
-               </birth>
+                  <placeName>Leipzig</placeName></birth>
                <death>
                   <date when="1848-12-31">31.12.1848</date>
-               </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3637" scheme="#apis_vocabularies/professiontype/">Klassischer
-                  Philologe</occupation>
-               <occupation code="#3659" scheme="#apis_vocabularies/professiontype/"
-                  >Philosoph</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
+                  <placeName>Leipzig</placeName>
+                  </death>
+               <occupation>Philologe</occupation>
+               <occupation>Klassischer Philologe</occupation>
+               <occupation>Philosoph</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118703714</idno>
-               <idno type="paas">2772</idno>
-            </person>
+               </person>
             <person xml:id="guizot-francois-p">
                <persName>
                   <surname>Guizot</surname>
@@ -9197,13 +9200,9 @@
                   <date when="1869-01-02">02.01.1869</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3736" scheme="#apis_vocabularies/professiontype/"
-                  >Ministerialrat</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50865/</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Ministerialrat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100356877</idno>
-               <idno type="paas">50865</idno>
             </person>
             <person xml:id="delgado-y-hernandez-antonio">
                <persName>
@@ -9481,9 +9480,11 @@
                </persName>
                <birth>
                   <date when="1819-11-14">14. 11.1819</date>
+                  <placeName>Banz/Oberfranken</placeName>
                </birth>
                <death>
                   <date when="1890-09-30">30. 09.1890</date>
+                  <placeName>Waging bei Traunstein</placeName>
                </death>
                <occupation>Philologe</occupation>
                <occupation>Germanist</occupation>
@@ -10648,8 +10649,8 @@
                <death>
                   <date when="1851-05-30">30.05.1851</date>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52761/</idno>
-               <idno type="paas">52761</idno>
+               <occupation>Historiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/132916908</idno>
             </person>
             <person xml:id="sommer-eigentl-volte-johann-gottfried-jan-bohumir">
                <persName>
