@@ -438,20 +438,18 @@
                                 <lb/>der Sitzung der historisch-philologischen Classe</p>
                     <p facs="#facs_1_region_1574242421085_15" rendition="#fc" xml:id="p6" xml:space="preserve">
                                     <lb/>am <num>9</num>. Februar <num>1848</num>.</p>
-                    <p facs="#facs_1_region_1574242460109_20" rendition="#fc" xml:id="p7" xml:space="preserve">
-                                        <lb/>Anwesend: Der Herr Präsident Baron <choice>
+                    <p facs="#facs_1_region_1574242460109_20" rendition="#f" xml:id="p7" xml:space="preserve">
+                                        <lb/>Anwesend: Der Herr Präsident Baron <rs ref="#hammer-purgstall-von-joseph" type="person"><choice>
                                             <expan>
-                                                <rs ref="#hammer-purgstall-von-joseph" type="person">von</rs>
+                                                von
                                             </expan>
                                             <abbr>v<am>.</am>
                                         </abbr>
                                     </choice>
-                                    <rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>.</p>
-                    <p facs="#facs_1_region_1574242469653_23" rendition="#fc" xml:id="p8" xml:space="preserve">
+                                    Hammer-Purgstall</rs>.</p>
+                    <p facs="#facs_1_region_1574242469653_23" rendition="#f" xml:id="p8" xml:space="preserve">
                                         <lb/>Die wirklichen Mitglieder Herr <rs ref="#labus-johann" type="person">Labus</rs>
-                                    </p>
-                    <p facs="#facs_1_region_1574242499638_26" rendition="#r" xml:id="p9" xml:space="preserve">
-                                        <lb/>
+                                    <lb/>
                                         <choice>
                                             <expan>Herr</expan>
                                             <abbr>
@@ -484,14 +482,14 @@
                                             <abbr>Bar<am>.</am>
                                         </abbr>
                                     </choice>
-                                    <choice>
+                                    <rs ref="#hugel-karl-alexander" type="person"><choice>
                                         <expan>
-                                            <rs ref="#hugel-karl-alexander" type="person">von</rs>
+                                            von
                                         </expan>
                                         <abbr>v<am>.</am>
                                     </abbr>
                                 </choice>
-                                <rs ref="#hugel-karl-alexander" type="person">Hügel</rs>
+                                Hügel</rs>
                                 <lb/>
                                 <choice>
                                     <expan>Herr</expan>
@@ -553,14 +551,14 @@
                                 <am>-</am>
                             </abbr>
                         </choice>
-                        <choice>
+                        <rs ref="#karajan-von-theodor-georg" type="person"><choice>
                             <expan>
-                                <rs ref="#karajan-von-theodor-georg" type="person">von</rs>
+                                von
                             </expan>
                             <abbr>v<am>.</am>
                         </abbr>
                     </choice>
-                    <rs ref="#karajan-von-theodor-georg" type="person">Karajan</rs>
+                    Karajan</rs>
                     <lb/>
                     <choice>
                         <expan>Herr</expan>
@@ -583,14 +581,14 @@
                     </choice>
                     <rs ref="#wolf-ferdinand" type="person">Wolf</rs>.</p>
                     <p facs="#facs_1_region_1574242526429_33" rendition="#l" xml:id="p11" xml:space="preserve">
-                        <lb/>Als Gäste: der Herr General-Secretär <choice>
+                        <lb/>Als Gäste: der Herr General-Secretär <rs ref="#ettingshausen-von-andreas" type="person"><choice>
                             <expan>
-                                <rs ref="#ettingshausen-von-andreas" type="person">von</rs>
+                                von
                             </expan>
                             <abbr>v<am>.</am>
                         </abbr>
                     </choice>
-                    <rs ref="#ettingshausen-von-andreas" type="person">Ettingshausen</rs>
+                    Ettingshausen</rs>
                     <lb/>
                     <choice>
                         <expan>der</expan>
@@ -637,8 +635,7 @@
                 </choice>
                 <rs ref="#goldenthal-jakob" type="person">Goldenthal</rs>.</p>
                     <p facs="#facs_1_region_1574242545989_37" rendition="#?44-56-100--1084-2441" xml:id="p12" xml:space="preserve">
-                    <lb/>Der <hi>Herr <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs>
-               </hi>
+                    <lb/>Der <hi>Herr <rs ref="#hammer-purgstall-von-joseph" type="person">Präsident</rs></hi>
                     führt die drei
                 <lb/>
                     neugewählten wirklichen Mitglieder
@@ -663,10 +660,8 @@
                         <lb/>
                             laß Seiner kaiserlichen Hoheit des
                             Durchlauch-
-                        <lb/>tigsten Herrn <rs ref="#habsburg-lothringen-johann" type="person">Curators</rs> vom <num>5</num>
-                            . Februar
-                        <lb/>(<num>205</num>
-                            ) vor, worin der Akademie die
+                        <lb/>tigsten Herrn <rs ref="#habsburg-lothringen-johann" type="person">Curators</rs> vom <num>5</num>. Februar
+                        <lb/>(<num>205</num>) vor, worin der Akademie die
                             güti-
                         <lb/>
                             ge Verwendung des Herrn Obersten
@@ -709,17 +704,14 @@
                     <p facs="#facs_2_region_1574247350782_292" rendition="#?20-80-99--327-1639" xml:id="p18" xml:space="preserve">
                                         <lb/>
                                         <num>1</num>) von Herrn <hi>
-                                            <rs ref="#kewall-benjamin" type="person">Kewall</rs>
-                                       </hi>
-                                            , hebräischen
+                                            <rs ref="#kewall-benjamin" type="person">Kewall</rs></hi>, hebräischen
                                         <lb/>Lehrer in <rs ref="#wien" type="place">Wien</rs>, "Orientalische Blüthen",<lb/>mit einem Schreiben, worin er um "Be-<lb/>sprechung" bittet.</p>
                     <p facs="#facs_2_region_1574247389366_296" rendition="#?20-80-100--330-1647" xml:id="p19" xml:space="preserve">
                                             <lb/>
                                                 Wird, so wie die früher
                                                 einge-
                                             <lb/>sandten hebräischen Werken von <rs ref="#deutsch-simon" type="person">Deutsch</rs>
-                                            <lb/>und <rs ref="#stern-max-emanuel" type="person">Stern</rs>
-                                                , nun dem
+                                            <lb/>und <rs ref="#stern-max-emanuel" type="person">Stern</rs>, nun dem
                                                 correspondiren-
                                             <lb/>den Mitgliede Herrn <hi>
                                                 <choice>
@@ -727,23 +719,21 @@
                                                     <abbr>Dr<am>.</am>
                                                 </abbr>
                                             </choice>
-                                            <rs ref="#goldenthal-jakob" type="person">Goldenthal</rs>
-                                       </hi>
-                                            um
+                                            <rs ref="#goldenthal-jakob" type="person">Goldenthal</rs></hi> um
                                         <lb/>Bericht zugewiesen.</p>
                     <p facs="#facs_2_region_1574247393333_299" rendition="#l" xml:id="p20" xml:space="preserve">
                                             <lb/>(<num>171</num>.)</p>
                     <p facs="#facs_2_region_1574247401717_303" rendition="#?21-79-100--342-1649" xml:id="p21" xml:space="preserve">
                                                 <lb/>
-                                                <num>2</num>) von Herrn Hofrath Freiherrn <choice>
+                                                <num>2</num>) von Herrn Hofrath Freiherrn <rs ref="#deresenyi-paul" type="person"><choice>
                                                     <expan>
-                                                        <rs ref="#deresenyi-paul" type="person">von</rs>
+                                                        von
                                                     </expan>
                                                     <abbr>v<am>.</am>
                                                 </abbr>
                                             </choice>
                                             <lb/>
-                                            <rs ref="#deresenyi-paul" type="person">Deresenyi</rs>
+                                            Deresenyi</rs>
                                                 eine Zuschrift, worin er
                                             <lb/>
                                                 die Akademie um die Erlaubniß
@@ -788,13 +778,8 @@
                                                     über-
                                                 <lb/>häuft werden würde.</p>
                     <p facs="#facs_3_r1" rendition="#l" xml:id="p23" xml:space="preserve">
-                                                    <lb/>(<num>199</num>)</p>
-                    <p facs="#facs_3_region_1575272231717_836" rendition="#?17-82-100--276-1584" xml:id="p24" xml:space="preserve">
-                                                        <lb/>
-                                                        <num>3</num>) Von Herrn <hi>Honegger</hi>
-                                                            , Architekt
-                                                        <lb/>in <rs ref="#paris" type="place">Paris</rs>
-                                                            , ein Schreiben, in welchem er
+                                                    <lb/>(<num>199</num>) <num>3</num>) Von Herrn <rs type="person" ref="#honegger-j-b"><hi>Honegger</hi></rs>, Architekt
+                                                        <lb/>in <rs ref="#paris" type="place">Paris</rs>, ein Schreiben, in welchem er
                                                         <lb/>
                                                             der Akademie eine von ihm
                                                             ausgear-
