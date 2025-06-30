@@ -7740,18 +7740,14 @@
                </birth>
                <death>
                   <date when="1868-05-29">29.05.1868</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <occupation code="#3672" scheme="#apis_vocabularies/professiontype/"
-                  >Germanist</occupation>
-               <occupation code="#3703" scheme="#apis_vocabularies/professiontype/"
-                  >Literaturwissenschaftler</occupation>
+               <occupation>Philologe</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Germanist</occupation>
+               <occupation>Literaturwissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118740776</idno>
-               <idno type="paas">4957</idno>
-            </person>
+               </person>
             <person xml:id="piper-ferdinand">
                <persName>
                   <surname>Piper</surname>
