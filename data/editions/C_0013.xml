@@ -349,7 +349,7 @@
                                             <rs ref="#keiblinger-ignaz-franz" type="person">Kaiblinger</rs>
                                       <lb/>Als Gast Herr General-Secretär <rs ref="#ettingshausen-von-andreas" type="person">von Ettingshausen</rs>.</p>
                     <p facs="#facs_1_region_1575305346055_266" rendition="#lc" xml:id="p15" xml:space="preserve">
-                                                <lb/>(<num>317</num>) <lb/>Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> liest ein Schreiben
+                                                <lb/>(<num>317</num>) Der <rs ref="#wolf-ferdinand" type="person">Secretär</rs> liest ein Schreiben
                                                         <lb/>
                                                         <choice>
                                                             <expan>de dato</expan>
@@ -359,7 +359,7 @@
                                                     <num>10</num>. März <num>1848</num>
                                                         des vormaligen
                                                     <lb/>
-                                                    <rs ref="#inzaghi-karl" type="person">Obersten Kanzlers</rs>
+                                                    <rs ref="#inzaghi-karl" type="person">Obersten Kanzler</rs>s
                                                         nebst einer
                                                         Ab-
                                                     <lb/>
@@ -372,7 +372,7 @@
                                                     <lb/>
                                                         verständiget werden, daß die
                                                     <lb/>
-                                                        Ländern-Chefs bereits aufgefordert
+                                                        Länder-Chefs bereits aufgefordert
                                                     <lb/>
                                                         worden seyen, ihnen den Zugang
                                                     <lb/>zu den Archiven der landesfürstli-</p>
@@ -406,17 +406,17 @@
                                                         </choice> Peter</hi> in</p>
                     <p facs="#facs_2_region_1575305398119_282" rendition="#f" xml:id="p19" xml:space="preserve">
                                                             <lb/>
-                                                            <rs ref="#salzburg" type="place">Salzburg</rs>, <hi>Schotten</hi> zu <rs ref="#wien" type="place">Wien</rs>, 
-                                                            <hi><choice>
+                                                            <rs ref="#salzburg" type="place">Salzburg</rs>, <hi>Schotten</hi> zu <rs ref="#wien" type="place">Wien</rs>,<hi>
+                                                                <rs ref="#sankt-florian" type="place"><choice>
                                                                 <expan>
-                                                                    <rs ref="#sankt-florian" type="place">Sankt</rs>
+                                                                    Sankt
                                                                 </expan>
                                                                 <abbr>
                                                                     St.
                                                                 </abbr>
                                                             </choice>
                                                             <lb/>
-                                                            <rs ref="#sankt-florian" type="place">Florian</rs></hi>, <hi><rs ref="#michaelbeuern" type="place">Michaelbeurn</rs></hi>, 
+                                                            Florian</rs></hi>, <hi><rs ref="#michaelbeuern" type="place">Michaelbeurn</rs></hi>, 
                                                                 <hi>
                                                                 <choice>
                                                                     <expan>
@@ -461,15 +461,15 @@
                                                                 </abbr>
                                                             </choice>
                                                             <lb/>
-                                                            <rs ref="#boyer-xavier" type="person">Boyer</rs> aus <rs ref="#colmar" type="place">Colmar</rs>: Rodolphe
-                                                            <lb/>de Habsbourg. </p>
+                                                            <rs ref="#boyer-xavier" type="person">Boyer</rs> aus <rs ref="#colmar" type="place">Colmar</rs>: <rs type="person" ref="#habsburg-rudolf-i">Rodolphe
+                                                                <lb/>de Habsbourg</rs>. </p>
                     <p facs="#facs_2_region_1575305440751_294" rendition="#f" xml:id="p22" xml:space="preserve">
                                                                 <lb/>Herr <hi><choice>
                                                                     <expan>
                                                                         Doctor
                                                                     </expan>
                                                                     <abbr>
-                                                                        <hi>D</hi> or</abbr>
+                                                                        D<hi rend="super">or</hi></abbr>
                                                                     </choice>
                                                                     <rs ref="#pfizmaier-august" type="person">Pfizmaier</rs></hi> liest
                                                                     <lb/>seine für die Denkschriften be-</p>
@@ -649,23 +649,18 @@
                                                                                                         und Zwecke er erläutert, und
                                                                                                     <lb/>ein Exemplar der "Sanskrit-Gram-<lb/>
                                                                                                         matik" des correspondirenden
-                                                                                                    <lb/>Mitgliedes <choice>
+                                                                                                    <lb/>Mitgliedes <hi><choice>
                                                                                                         <expan>
-                                                                                                            <hi>Doctor</hi>
+                                                                                                            Doctor
                                                                                                         </expan>
                                                                                                         <abbr>
-                                                                                                            <hi>D</hi> r</abbr>
+                                                                                                            D<hi rend="super">r</hi></abbr>
                                                                                                         </choice>
-                                                                                                        <hi>
-                                                                                                            <rs ref="#boller-anton" type="person">Boller</rs></hi> und</p>
-                    <p facs="#facs_5_region_1575365316658_376" rendition="#f" xml:id="p33" xml:space="preserve">
-                                                                                                            <lb/>
-                                                                                                                liest ein Schreiben des
-                                                                                                                Profes-
-                                                                                                            <lb/>sors <rs ref="#brockhaus-hermann" type="person">Brockhaus</rs> aus <rs ref="#leipzig" type="place">Leipzig</rs>,<lb/>
-                                                                                                                worin diese Grammatik als
-                                                                                                            <lb/>
-                                                                                                                eines der trefflichsten Werke
+                                                                                                            <rs ref="#boller-anton" type="person">Boller</rs></hi> und
+                                                                                                            <lb/>liest ein Schreiben des Profes-
+                                                                                                            <lb/>sors <rs ref="#brockhaus-hermann" type="person">Brockhaus</rs> aus <rs ref="#leipzig" type="place">Leipzig</rs>,
+                                                                                                            <lb/>worin diese Grammatik als
+                                                                                                            <lb/>eines der trefflichsten Werke
                                                                                                             <lb/>dieses Faches beurtheilt wird.</p>
                     <p facs="#facs_5_region_1575365322611_379" rendition="#fc" xml:id="p34" xml:space="preserve">
                                                                                                             <lb/><rs ref="#hammer-purgstall-von-joseph" type="person">Hammer-Purgstall</rs>
