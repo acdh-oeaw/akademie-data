@@ -17,6 +17,20 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="karl-der-große">
+               <persName>
+                  <forename>Karl der Große</forename>
+                  </persName>
+               <birth>
+                  <date>747/748</date>
+                  </birth>
+               <death>
+                  <date>28.01.814</date>
+                  <placeName>Aachen</placeName></death>
+               <occupation>König des Fränkischen Reiches (seit 768)</occupation>
+               <occupation>Kaiser seit 800</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118560034</idno>
+            </person>
             <person xml:id="konfuzius">
                <persName>
                   <surname>Konfuzius</surname>
