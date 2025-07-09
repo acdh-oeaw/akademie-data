@@ -932,7 +932,7 @@
                                 <lb/>der Sitzung der historisch-philologischen Classe</p>
                     <p facs="#facs_1_region_1575012354748_42" rendition="#fc" xml:id="p6" xml:space="preserve">
                                     <lb/>vom <num>28</num>. Jänner <num>1848</num>.</p>
-                    <p facs="#facs_1_region_1575012273838_26" rendition="#fc" xml:id="p7" xml:space="preserve">
+                    <p facs="#facs_1_region_1575012273838_26" rendition="#f" xml:id="p7" xml:space="preserve">
                                         <lb/>Anwesend: Der Herr Präsident Baron <rs ref="#hammer-purgstall-von-joseph" type="person">
                                             <choice>
                                                 <expan>von</expan>
@@ -1068,9 +1068,7 @@
                                         </choice>
                                         <choice>
                                             <expan>Conventionsmünze</expan>
-                                            <abbr>CM<am>.</am>
-                                        </abbr>
-                                    </choice>), beträgt
+                                            <abbr>CM<am>.</am></abbr></choice>), beträgt
                                     <lb/>
                                         für die der Commission bewilligen hundert
                                     <lb/>Druckbogen - - - - - - <choice>
@@ -1168,16 +1166,8 @@
                                 <lb/>einen Unterstützungsbetrag von <num>200</num>
                                 <choice>
                                     <expan>Gulden</expan>
-                                    <abbr>
-                                        <choice>
-                                            <abbr>fl<am>.</am>
-                                        </abbr>
-                                        <expan>Gulden</expan>
-                                    </choice>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>                                
-                                an-
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice> an-
                             <lb/>tragen zu dürfen.</p>
                     <p facs="#facs_2_region_1575012844245_157" rendition="#r" xml:id="p13" xml:space="preserve">
                                 <lb/>Die Classe beschließt diesen Betrag von <choice>
@@ -1195,20 +1185,12 @@
                 <div xml:id="d6">
                     <p facs="#facs_3_region_1575013676693_409" rendition="#rr" xml:id="p14" xml:space="preserve">
                                     <lb/>Übertrag <choice>
-                                        <expan>Gulden</expan>
-                                        <abbr>
-                                            <choice>
-                                                <abbr>fl<am>.</am>
-                                            </abbr>
-                                            <expan>Gulden</expan>
-                                        </choice>
-                                        <am>.</am>
-                                    </abbr>
+                                    <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
                                 </choice>
                                 <choice>
                                     <expan>Conventionsmünze</expan>
-                                    <abbr>CM<am>.</am>
-                                </abbr>
+                                    <abbr>CM<am>.</am></abbr>
                             </choice>
                             <lb/>
                             <num>2</num>.<num>100</num>.</p>
@@ -1302,19 +1284,11 @@
                     <p facs="#facs_4_region_1575014117821_472" rendition="#rr" xml:id="p17" xml:space="preserve">
                                 <lb/>Übertrag <choice>
                                     <expan>Gulden</expan>
-                                    <abbr>
-                                        <choice>
-                                            <abbr>fl<am>.</am>
-                                        </abbr>
-                                        <expan>Gulden</expan>
-                                    </choice>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice>
                             <choice>
                                 <expan>Conventionsmünze</expan>
-                                <abbr>CM<am>.</am>
-                            </abbr>
+                                <abbr>CM<am>.</am></abbr>
                         </choice>
                         <num>2</num>.<num>100</num>.</p>
                     <p facs="#facs_4_region_1575014133151_477" rendition="#l" xml:id="p18" xml:space="preserve">
@@ -1372,15 +1346,9 @@
                                         <lb/>Ausgaben der Classe für das Jahr <num>1848</num>
                                         <lb/>die Summe von <num>10</num>.–<num>11</num>.<num>000</num>
                                         <choice>
-                                            <expan>Gulden</expan>
-                                            <abbr>
-                                                <choice>
-                                                    <abbr>fl<am>.</am>
-                                                </abbr>
-                                                <expan>Gulden</expan>
-                                            </choice>
-                                        </abbr>
-                                    </choice>
+                                    <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice>
                                     <choice>
                                         <expan>Conventionsmünze</expan>
                                         <abbr>CM<am>.</am>
@@ -1394,25 +1362,18 @@
                                     daß das Verhältniß zur Staatsdruckerei
                                 <lb/>noch immer nicht definitiv geregelt sey.</p>
                     <p facs="#facs_4_region_1575014165999_489" rendition="#l" xml:id="p22" xml:space="preserve">
-                                    <lb/>Herr Baron räth daher,<lb/>
-                                        die Voranschläge auf keinen Fall höher
+                                    <lb/>Herr Baron <hi><rs type="person" ref="#hugel-karl-alexander">von Hügel</rs></hi> räth daher,
+                                    <lb/>die Voranschläge auf keinen Fall höher
                                     <lb/>als auf <num>8</num>.<num>000</num>
                                     <choice>
-                                        <expan>Gulden</expan>
-                                        <abbr>
-                                            <choice>
-                                                <abbr>fl<am>.</am>
-                                            </abbr>
-                                            <expan>Gulden</expan>
-                                        </choice>
-                                    </abbr>
+                                    <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
                                 </choice>
                                 <choice>
                                     <expan>Conventionsmünze</expan>
                                     <abbr>CM<am>.</am>
                                 </abbr>
-                            </choice> für das Jahr <num>1848</num>
-                                zu
+                            </choice> für das Jahr <num>1848</num> zu
                             <lb/>stellen.</p>
                 </div>
             </div>
@@ -1422,20 +1383,14 @@
                     <p facs="#facs_5_region_1575019030681_835" rendition="#r" xml:id="p23" xml:space="preserve">
                                 <lb/>Übertrag <choice>
                                     <expan>Gulden</expan>
-                                    <abbr>
-                                        <choice>
-                                            <abbr>fl<am>.</am>
-                                        </abbr>
-                                        <expan>Gulden</expan>
-                                    </choice>
-                                    <am>.</am>
-                                </abbr>
-                            </choice>
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice>
                             <choice>
                                 <expan>Conventionsmünze</expan>
                                 <abbr>CM</abbr>
                             </choice>
-                            <num>2</num>.<num>100</num>.<lb/>
+                            <num>2</num>.<num>100</num>.</p>
+                    <p facs="#facs_19_region_1575270714015_551" rendition="#f" xml:id="p163" xml:space="preserve"><lb/>
                                 Die Classe beschließt, als Beitrag
                             <lb/>
                                 zu dem Diplomatar des Landes unter
@@ -1448,7 +1403,8 @@
                             <num>400</num>
                             <lb/>
                                 in den Voranschlag ihrer Budget's
-                            <lb/>aufzunehmen.<lb/>Der <hi>
+                            <lb/>aufzunehmen.</p>
+                    <p facs="#facs_19_region_1575270714015_551" rendition="#f" xml:id="p164" xml:space="preserve"><lb/>Der <hi>
                                 <rs ref="#wolf-ferdinand" type="person">Secretär</rs></hi>
                                 bemerkt
                                 fer-
@@ -1461,7 +1417,7 @@
                                 geneh-
                             <lb/>
                                 migten Anträge der Herausgabe
-                            <lb/>von Wassaf's persischer Geschichte mit <choice>
+                            <lb/>von <rs type="person" ref="#wassaf">Wassaf</rs>'s persischer Geschichte mit <choice>
                                 <expan>Gulden Conventionsmünze</expan>
                                 <abbr>
                                     <am>-</am>
@@ -1530,16 +1486,9 @@
                 <div xml:id="d12">
                     <p facs="#facs_6_region_1575019572215_931" rendition="#rr" xml:id="p26" xml:space="preserve">
                                         <lb/>Übertrag <choice>
-                                            <expan>Gulden</expan>
-                                            <abbr>
-                                                <choice>
-                                                    <abbr>fl<am>.</am>
-                                                </abbr>
-                                                <expan>Gulden</expan>
-                                            </choice>
-                                            <am>.</am>
-                                        </abbr>
-                                    </choice>
+                                    <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice>
                                     <choice>
                                         <expan>Conventionsmünze</expan>
                                         <abbr>CM<am>.</am>
@@ -1616,15 +1565,9 @@
                                         <lb/>
                                         <num>2000</num>
                                         <choice>
-                                            <expan>Gulden</expan>
-                                            <abbr>
-                                                <choice>
-                                                    <abbr>fl<am>.</am>
-                                                </abbr>
-                                                <expan>Gulden</expan>
-                                            </choice>
-                                        </abbr>
-                                    </choice>
+                                    <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice>
                                     <choice>
                                         <expan>Conventionsmünze</expan>
                                         <abbr>CM<am>.</am>
@@ -1637,15 +1580,8 @@
                 <div xml:id="d14">
                     <p facs="#facs_7_region_1575028336142_6" rendition="#rr" xml:id="p30" xml:space="preserve">
                                     <lb/>Übertrag <choice>
-                                        <expan>Gulden</expan>
-                                        <abbr>
-                                            <choice>
-                                                <abbr>fl<am>.</am>
-                                            </abbr>
-                                            <expan>Gulden</expan>
-                                        </choice>
-                                        <am>.</am>
-                                    </abbr>
+                                    <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
                                 </choice>
                                 <choice>
                                     <expan>Conventionsmünze</expan>
@@ -1672,15 +1608,9 @@
                                 <lb/>me von <num>1000</num>
                                 <choice>
                                     <expan>Gulden</expan>
-                                    <abbr>
-                                        <choice>
-                                            <abbr>fl<am>.</am>
-                                        </abbr>
-                                        <expan>Gulden</expan>
-                                    </choice>
-                                </abbr>
-                            </choice>
-                                für die Herausgabe von
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice>
+                               für die Herausgabe von
                             <lb/>
                             <rs ref="#arneth-joseph-calasanz" type="person">Arneth</rs>'s
                                 Werken in den Voranschlag
@@ -1691,15 +1621,9 @@
                             <lb/>gen der <hi>Abhandlungen</hi>, den Bogen
                             <lb/>zu <num>30</num>
                             <choice>
-                                <expan>Gulden</expan>
-                                <abbr>
-                                    <choice>
-                                        <abbr>fl<am>.</am>
-                                    </abbr>
                                     <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
                                 </choice>
-                            </abbr>
-                        </choice>
                         <choice>
                             <expan>Conventionsmünze</expan>
                             <abbr>CM<am>.</am>
@@ -1712,15 +1636,9 @@
                     </choice>
                     <num>1</num>,<num>500</num>
                     <lb/>also zusammen <choice>
-                        <expan>Gulden</expan>
-                        <abbr>
-                            <choice>
-                                <abbr>fl<am>.</am>
-                            </abbr>
-                            <expan>Gulden</expan>
-                        </choice>
-                    </abbr>
-                </choice>
+                                    <expan>Gulden</expan>
+                                            <abbr>fl<am>.</am></abbr>
+                                </choice>
                 <num>5</num>,<num>600</num>.</p>
                     <p facs="#facs_7_region_1575028362912_15" rendition="#r" xml:id="p33" xml:space="preserve">
                     <lb/>
@@ -1739,14 +1657,10 @@
                         <lb/>
                             in der gedachter Sitzung vorgebrachten
                         <lb/>Gründe gegen den Vorschlag des <hi>
-                            <rs ref="#wolf-ferdinand" type="person">Secretär</rs>s
-                       </hi>,<lb/>
-                            eine theilweise Bearbeitung einer
-                            histo-
-                        <lb/>
-                            risch vergleichenden Grammatik der
-                        <lb/>
-                        <hi>slawischen</hi> Sprachen zur <hi>ersten</hi>                            
+                            <rs ref="#wolf-ferdinand" type="person">Secretär</rs>s</hi>,
+                        <lb/>eine theilweise Bearbeitung einer histo-
+                        <lb/>risch vergleichenden Grammatik der
+                        <lb/><hi>slawischen</hi> Sprachen zur <hi>ersten</hi>                            
                             Preis-
                         <lb/>ausgabe einer doch vorzugsweise <hi>deutschen</hi>
                         <lb/>
