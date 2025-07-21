@@ -17,6 +17,20 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="dschingis-khan">
+               <persName>
+                  <surname>Dschingis Khan</surname>
+               </persName>
+               <birth>
+                  <date>um 1155/1167</date>
+                  </birth>
+               <death>
+                  <date>wohl 18.08.1227</date>
+               </death>
+               <occupation>Khagan der Mongolen</occupation>
+               <occupation>Begründer des Mongolischen Reiches</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118527576</idno>
+            </person>
             <person xml:id="julien-nn">
                <persName>
                   <surname>Julien</surname>
@@ -12148,19 +12162,17 @@
                </persName>
                <birth>
                   <date when="1801-03-26">26.03.1801</date>
+                  <placeName>Valognes</placeName>
                </birth>
                <death>
                   <date when="1871-05-24">24.05.1871</date>
+                  <placeName>Paris</placeName>
                </death>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3698" scheme="#apis_vocabularies/professiontype/"
-                  >Linguist</occupation>
-               <occupation code="#3949" scheme="#apis_vocabularies/professiontype/"
-                  >Gelehrter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Linguist</occupation>
+               <occupation>Gelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116244828</idno>
-               <idno type="paas">1616</idno>
-            </person>
+               </person>
             <person xml:id="frankl-ludwig-august">
                <persName>
                   <surname>Frankl</surname>
