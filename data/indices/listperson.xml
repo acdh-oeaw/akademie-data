@@ -17,6 +17,20 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="georg-v-hannover">
+               <persName>
+                  <forename>König von Hannover</forename>
+                  <surname>Georg V.</surname>
+               </persName>
+                 <birth>
+                  <date when="1819-05-27">27.05.1819</date>
+                  <placeName>Berlin</placeName>
+               </birth>
+               <death>
+                  <date when="1878-06-12">12.06.1878</date>
+                  <placeName>Paris</placeName></death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118690485</idno>
+            </person>
             <person xml:id="dschingis-khan">
                <persName>
                   <surname>Dschingis Khan</surname>
