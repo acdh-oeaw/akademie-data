@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="hannover">
+                    <placeName>Hannover</placeName>
+                    <location>
+                        <geo>52.37052 9.73322</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2910831/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4023349-2</idno>
+                </place>
                 <place xml:id="dunkirchen">
                     <placeName>Dünkirchen</placeName>
                     <placeName type="alt">Dunkerque</placeName>
