@@ -17,6 +17,111 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="studer-bernhard">
+               <persName>
+                  <surname>Studer</surname>
+                  <forename>Bernhard Rudolf</forename>
+               </persName>
+               <birth>
+                  <date when="1794-08-21">21.08.1794</date>
+                  <placeName>Büren an der Aare</placeName>
+               </birth>
+               <death>
+                  <date when="1887-05-02">02.05.1887</date>
+                  <placeName>Bern</placeName>
+               </death>
+               <occupation>Geologe</occupation>
+               <occupation>Mineraloge</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117354023</idno>
+            </person>
+            <person xml:id="cauchy-augustin">
+               <persName>
+                  <surname>Cauchy</surname>
+                  <nameLink>von</nameLink>
+                  <forename>Augustin</forename>
+               </persName>
+               <birth>
+                  <date when="1789-08-21">21.08.1789</date>
+                  <placeName>Paris</placeName>
+               </birth>
+               <death>
+                  <date when="1857-05-23">23.05.1857</date>
+                  <placeName>Sceaux</placeName>
+               </death>
+               <occupation>Mathematiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118519735</idno>
+            </person>            
+            <person xml:id="rathke-heinrich">
+               <persName>
+                  <surname>Rathke</surname>
+                  <forename>Heinrich</forename>
+               </persName>
+               <birth>
+                  <date when="1793-08-25">25.08.1793</date>
+                  <placeName>Danzig</placeName>
+               </birth>
+               <death>
+                  <date when="1860-09-03">03.09.1860</date>
+                  <placeName>Königsberg i. Pr.</placeName>
+               </death>
+               <occupation>Anatom</occupation>
+               <occupation>Zoologe</occupation>
+               <occupation>Embryologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116337591</idno>
+            </person>
+            <person xml:id="secchi-angelo">
+               <persName>
+                  <surname>Sechhi</surname>
+                  <forename>Angelo</forename>
+               </persName>
+               <birth>
+                  <date when="1818-06-28">28.06.1818</date>
+                  <placeName>Reggio nell'Emilia</placeName>
+               </birth>
+               <death>
+                  <date when="1878-02-28">28.02.1878</date>
+                  <placeName>Rom</placeName>
+               </death>
+               <occupation>Jesuit</occupation>
+               <occupation>Physiker</occupation>
+               <occupation>Astronom</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118795953</idno>
+            </person>
+            <person xml:id="langer-karl">
+               <persName>
+                  <surname>Langer</surname>
+                  <addName>Ritter von Edenberg (ab 1884)</addName>
+                  <forename>Karl</forename>
+               </persName>
+               <birth>
+                  <date when="1819-04-15">15.04.1819</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1887-12-07">07.12.1887</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Anatom</occupation>
+               <occupation>Arzt</occupation>
+               <occupation>Zoologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116720247</idno>
+            </person>            
+            <person xml:id="habsburg-lothringen-ferdinand-max">
+               <persName>
+                  <surname>Habsburg-Lothringen</surname>
+                  <forename>Ferdinand Max, Erzherzog</forename>
+                  </persName>
+               <birth>
+                  <date when="1832-07-06">06.07.1832</date>
+                  <placeName>Schönbrunn</placeName>
+               </birth>
+               <death>
+                  <date when="1867-06-19">19.06.1867</date>
+                  <placeName>Querétaro</placeName>
+               </death>
+               <occupation>König von Mexiko</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118579363</idno>
+               </person>
             <person xml:id="georg-v-hannover">
                <persName>
                   <forename>König von Hannover</forename>
@@ -2151,8 +2256,7 @@
                   <date when="1859-05-11">11.05.1859</date>
                   <placeName>Graz</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49496/</idno>
-               <idno type="paas">49496</idno>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118557750</idno>
             </person>
             <person xml:id="boue-ami">
                <persName>
@@ -12161,12 +12265,6 @@
                <persName>
                   <surname>Biot</surname>
                   <forename>Jean-Baptiste</forename>
-               </persName>
-            </person>
-            <person xml:id="cauchy-augustin-louis">
-               <persName>
-                  <surname>Cauchy</surname>
-                  <forename>Augustin-Louis</forename>
                </persName>
             </person>
             <person xml:id="du-meril-edelestand-pantaleon">
