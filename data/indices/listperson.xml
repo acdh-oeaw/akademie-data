@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="smola-karl">
+               <persName>
+                  <forename>Karl</forename>
+                  <nameLink>Freiherr von</nameLink>
+                  <surname>Smola</surname>
+               </persName>
+               <birth>
+                  <date when="1802-11-15">15.11.1802</date>
+                  <placeName>Budweis</placeName>
+               </birth>
+               <death>
+                  <date when="1862-02-14">14.02.1862</date>
+                  <placeName>Graz</placeName></death>
+               <occupation>Direktor des Polytechnischen Instituts (1853-1858)</occupation>
+               <occupation>Offizier</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/100339123</idno>
+            </person>
             <person xml:id="studer-bernhard">
                <persName>
                   <surname>Studer</surname>
@@ -12330,7 +12347,16 @@
                <persName>
                   <surname>Leibniz</surname>
                   <forename>Gottfried Wilhelm</forename>
-               </persName>
+                  </persName>
+                  <birth>
+                     <date when="1646-07-01">01.07.1646</date>
+                     <placeName>Leipzig</placeName>
+                  </birth>
+                  <death>
+                     <date when="1716-11-14">14.11.1716</date>
+                     <placeName>Hannover</placeName></death>
+                  <occupation>Universalgelehrter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118571249</idno>
             </person>
             <person xml:id="vetter-heinrich">
                <persName>
@@ -12339,17 +12365,14 @@
                </persName>
                <birth>
                   <date when="1811-10-29">29.10.1811</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Wien</placeName>
+                  <placeName>Wien</placeName>
                </birth>
                <death>
                   <date when="1866-02-01">01.02.1866</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Wien</placeName>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#4138" scheme="#apis_vocabularies/professiontype/"
-                  >Diener</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49390/</idno>
-               <idno type="paas">49390</idno>
-            </person>
+               <occupation>Diener der Akademie</occupation>
+               </person>
             <person xml:id="natterer-johann">
                <persName>
                   <surname>Natterer</surname>
@@ -12380,18 +12403,16 @@
                </persName>
                <birth>
                   <date when="1807-03-21">21.03.1807</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Wien</placeName>
+                  <placeName>Wien</placeName>
                </birth>
                <death>
                   <date when="1858-06-21">21.06.1858</date>
+                  <placeName>Karlsbad</placeName>
                </death>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
-               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/"
-                  >Arzt</occupation>
+               <occupation>Chemiker</occupation>
+               <occupation>Arzt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/120922150</idno>
-               <idno type="paas">2992</idno>
-            </person>
+               </person>
             <person xml:id="moth-franz">
                <persName>
                   <surname>Moth</surname>
@@ -12399,16 +12420,15 @@
                </persName>
                <birth>
                   <date when="1802-12-03">03.12.1802</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Žlutice</placeName>
+                  <placeName>Žlutice</placeName>
                </birth>
                <death>
                   <date when="1879-05-07">07.05.1879</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3651" scheme="#apis_vocabularies/professiontype/"
-                  >Mathematiker</occupation>
+               <occupation>Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1015364284</idno>
-               <idno type="paas">4522</idno>
-            </person>
+               </person>
             <person xml:id="gmelin-leopold">
                <persName>
                   <surname>Gmelin</surname>
@@ -12416,16 +12436,15 @@
                </persName>
                <birth>
                   <date when="1788-08-02">02.08.1788</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Göttingen</placeName>
+                  <placeName>Göttingen</placeName>
                </birth>
                <death>
                   <date when="1853-04-13">13.04.1853</date>
+                  <placeName>Heidelberg</placeName>
                </death>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
+               <occupation>Chemiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118852655</idno>
-               <idno type="paas">2277</idno>
-            </person>
+               </person>
             <person xml:id="madler-johann-heinrich">
                <persName>
                   <surname>Mädler</surname>
