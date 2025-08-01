@@ -17,6 +17,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="lange-ludwig">
+               <persName>
+                  <forename>(Christian Conrad) Ludwig</forename>
+                 <surname>Lange</surname>
+               </persName>
+               <birth>
+                  <date when="1825-03-04">7.4.1811</date>
+                  <placeName>Hannover</placeName>
+               </birth>
+               <death>
+                  <date when="1885-08-18">18.08.1885</date>
+                  <placeName>Leipzig</placeName>
+               </death>
+               <occupation>Altphilologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/104123184</idno>
+            </person>
             <person xml:id="smola-karl">
                <persName>
                   <forename>Karl</forename>
@@ -1837,7 +1853,7 @@
                <occupation>Fortifikationsschanz-Korporal (anläßlich seiner Eheschließung am 23.
                   Febr. 1841 in Wien/Feldsuperiorat)</occupation>
                <occupation>Hausinspektor am Polytechnischen Institut (ab 16.09.1853)</occupation>
-            </person>
+               <occupation>Zuletzt im Lehmann v. 1882 unter der Adresse "IV., Technikerstr. 13" erwähnt</occupation></person>
             <person xml:id="vetter-madgalena">
                <persName>
                   <forename>Magdalena</forename>
@@ -10279,18 +10295,18 @@
                   <surname>Lange</surname>
                   <forename>Peter Traugott</forename>
                </persName>
+               <persName type="alt">Lange von Burgenkron</persName>
                <birth>
                   <date when="1797-01-01">01.01.1797</date>
+                  <placeName>Kronstadt</placeName>
                </birth>
                <death>
                   <date when="1875-04-28">28.04.1875</date>
+                  <placeName>Kronstadt</placeName>
                </death>
-               <occupation code="#4051" scheme="#apis_vocabularies/professiontype/"
-                  >Bankier</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52639/</idno>
+               <occupation>Bankier</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1017547823</idno>
-               <idno type="paas">52639</idno>
-            </person>
+               </person>
             <person xml:id="khevenhuller-franz-christoph">
                <persName>
                   <surname>Khevenhüller</surname>
@@ -12121,20 +12137,15 @@
                </birth>
                <death>
                   <date when="1868-12-13">13.12.1868</date>
+                  <placeName>München</placeName>
                </death>
-               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/"
-                  >Arzt</occupation>
-               <occupation code="#3653" scheme="#apis_vocabularies/professiontype/"
-                  >Forschungsreisender</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
-               <occupation code="#3821" scheme="#apis_vocabularies/professiontype/"
-                  >Musikinstrumentenbauer</occupation>
-               <occupation code="#3822" scheme="#apis_vocabularies/professiontype/"
-                  >Geigenbauer</occupation>
+               <occupation>Arzt</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <occupation>Botaniker</occupation>
+               <occupation>Musikinstrumentenbauer</occupation>
+               <occupation>Geigenbauer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118731416</idno>
-               <idno type="paas">4220</idno>
-            </person>
+               </person>
             <person xml:id="balling-karl-joseph">
                <persName>
                   <surname>Balling</surname>
