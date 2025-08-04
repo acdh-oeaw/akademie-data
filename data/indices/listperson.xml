@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="brockhaus-heinrich">
+               <persName>
+                  <forename>Heinrich</forename>
+                  <surname>Brockhaus</surname>
+               </persName>
+               <birth>
+                  <date when="1804-02-04">04.02.1804</date>
+                  <placeName>Amsterdam</placeName>
+               </birth>
+               <death>
+                  <date when="1874-11-15">15.11.1874</date>
+                  <placeName>Leipzig</placeName></death>
+               <occupation>Verleger</occupation>
+               <occupation>Buchhändler</occupation>
+               <occupation>liberaler Politiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116552433</idno>
+            </person>
             <person xml:id="lange-ludwig">
                <persName>
                   <forename>(Christian Conrad) Ludwig</forename>
@@ -5029,16 +5046,11 @@
                   <date when="1877-01-05">05.01.1877</date>
                   <placeName>Leipzig</placeName>
                </death>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#3684" scheme="#apis_vocabularies/professiontype/"
-                  >Indologe</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49534/</idno>
+               <occupation>Orientalist</occupation>
+               <occupation>Indologe</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116552611</idno>
-               <idno type="paas">49534</idno>
-            </person>
+               </person>
             <person xml:id="rawlinson-henry">
                <persName>
                   <surname>Rawlinson</surname>
