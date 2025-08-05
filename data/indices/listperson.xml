@@ -17,6 +17,43 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="kliegl-joszef">
+               <persName>
+                  <surname>Kliegl</surname>
+                  <forename>Joszef</forename>
+               </persName>
+               <birth>
+                  <date when="1795-12-25">25.12.1795</date>
+                  <placeName>Baja</placeName>
+               </birth>
+               <death>
+                  <date when="1870-01-07">07.01.1870</date>
+                  <placeName>(Buda)Pest</placeName>
+               </death>
+               <occupation>Techniker</occupation>
+               <occupation>Erfinder</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1013585283</idno>
+               </person>
+            <person xml:id="seiller-johann-kaspar">
+               <persName>
+                  <surname>Seiller</surname>
+                  <addName>Ritter von (ab 1849)</addName>
+                  <addName>Freiherr von (ab 1860)</addName>
+                  <addName>Dr. iur. (ab 1826)</addName>
+                  <forename>Johann Kaspar</forename>
+               </persName>
+               <birth>
+                  <date when="1802-10-20">20.10.1802</date>
+                  <placeName>Marburg an der Drau</placeName>
+               </birth>
+               <death>
+                  <date when="1888-10-02">02.10.1888</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Bürgermeister von Wien (1851-1861)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/136374468</idno>
+               </person>
             <person xml:id="brockhaus-heinrich">
                <persName>
                   <forename>Heinrich</forename>
