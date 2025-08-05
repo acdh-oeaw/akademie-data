@@ -17,6 +17,25 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="korff-modest">
+               <persName>
+                  <forename>Modest Andreevič</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Korff</surname>
+               </persName>
+               <birth>
+                  <date>1800</date>
+                  <placeName>St. Petersburg</placeName>
+               </birth>
+               <death>
+                  <date>1876</date>
+               </death>
+               <occupation>Politiker</occupation>
+               <occupation>Jurist</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Direktor der späteren russischen Nationalbibliothek (1849-1861)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119424940</idno>
+            </person>
             <person xml:id="kliegl-joszef">
                <persName>
                   <surname>Kliegl</surname>
