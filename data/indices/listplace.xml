@@ -16,6 +16,24 @@
     <text>
         <body>
             <listPlace>
+              <place xml:id="rakonitz">
+                    <placeName>Rakonitz</placeName>
+                    <placeName>Rakovník</placeName>
+                    <location>
+                        <geo>50.1037 13.7334</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3067051</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4376086-7</idno>
+                </place>
+                <place xml:id="kaunowa">
+                    <placeName>Kaunowa</placeName>
+                    <placeName>Kounov u Rakovníka</placeName>
+                    <location>
+                        <geo>50.21287 13.67509</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3073087</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/1058459848</idno>
+                </place>
                 <place xml:id="hannover">
                     <placeName>Hannover</placeName>
                     <location>
