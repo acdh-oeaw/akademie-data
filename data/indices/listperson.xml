@@ -1142,7 +1142,7 @@
             </person>
             <person xml:id="pichler-georg">
                <persName>
-                  <surname>Pchler</surname>
+                  <surname>Pichler</surname>
                   <forename>Georg Abdon</forename>
                </persName>
                <birth>
@@ -9130,13 +9130,11 @@
                </birth>
                <death>
                   <date when="1715-02-06">06.02.1715</date>
+                  <placeName>St. Pölten</placeName>
                </death>
-               <occupation code="#4129" scheme="#apis_vocabularies/professiontype/"
-                  >Propst</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50519/</idno>
+               <occupation>Propst im Augustiner Chorherrenstift in St. Pölten</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/129248800</idno>
-               <idno type="paas">50519</idno>
-            </person>
+               </person>
             <person xml:id="romanelli-samuel-aaron">
                <persName>
                   <surname>Romanelli</surname>
@@ -9148,12 +9146,9 @@
                <death>
                   <date when="1814-10-17">17.10.1814</date>
                </death>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50545/</idno>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/132429039</idno>
-               <idno type="paas">50545</idno>
-            </person>
+               </person>
             <person
                xml:id="rankabis-rangabe-rhizos-rhankaves-rizos-ragkabes-alexandros-alexander-alexandros">
                <persName>
@@ -9396,12 +9391,14 @@
                </persName>
                <birth>
                   <date when="1760-07-01">1760</date>
+                  <placeName>Athen</placeName>
                </birth>
                <death>
                   <date when="1833-05-03">03.05.1833</date>
-               </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50713/</idno>
-               <idno type="paas">50713</idno>
+                  <placeName>Varanasi/Indien</placeName>
+                  </death>
+               <occupation>griechischer Indologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/123902061</idno>
             </person>
             <person xml:id="bambas-wenzel-vaclav-frantisek">
                <persName>
@@ -9592,18 +9589,16 @@
                </persName>
                <birth>
                   <date when="1817-07-04">04. 07.1817</date>
+                  <placeName>Berlin</placeName>
                </birth>
                <death>
                   <date when="1886-02-05">05.02.1886</date>
+                  <placeName>Würzburg</placeName>
                </death>
-               <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
-                  >Archäologe</occupation>
-               <occupation code="#3759" scheme="#apis_vocabularies/professiontype/"
-                  >Numismatiker</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51061/</idno>
+               <occupation>Archäologe</occupation>
+               <occupation>Numismatiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116285923</idno>
-               <idno type="paas">51061</idno>
-            </person>
+               </person>
             <person xml:id="lachmann-karl">
                <persName>
                   <surname>Lachmann</surname>
@@ -9854,8 +9849,9 @@
                   <date when="1864-11-20">20.11.1864</date>
                   <placeName>München</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51315/</idno>
-               <idno type="paas">51315</idno>
+               <occupation>Archäologe</occupation>
+               <occupation>Numismatiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117312797</idno>
             </person>
             <person xml:id="thierry-augustin">
                <persName>
@@ -9888,9 +9884,10 @@
                   <date when="1886-02-10">10.02.1886</date>
                   <placeName>London</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/51317/</idno>
-               <idno type="paas">51317</idno>
-            </person>
+               <occupation>Numismatiker</occupation>
+               <occupation>Indologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/130571598</idno>
+               </person>
             <person xml:id="liljegren-johan-gustaf">
                <persName>
                   <surname>Liljegren</surname>
@@ -10763,6 +10760,7 @@
             <person xml:id="muller-wilhelm-konrad-hermann">
                <persName>
                   <surname>Müller</surname>
+                  <nameLink>Baron von</nameLink>
                   <forename>Wilhelm Konrad Hermann</forename>
                </persName>
                <birth>
@@ -10773,14 +10771,10 @@
                   <date when="1890-01-04">04.01.1890</date>
                   <placeName>Göttingen</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3672" scheme="#apis_vocabularies/professiontype/"
-                  >Germanist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52726/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Germanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119555352</idno>
-               <idno type="paas">52726</idno>
-            </person>
+               </person>
             <person xml:id="d-orlandi-lorenzo">
                <persName>
                   <surname>Orlandi</surname>
@@ -10846,8 +10840,8 @@
                   <date when="1865-05-21">21.05.1865</date>
                   <placeName>Kopenhagen</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52736/</idno>
-               <idno type="paas">52736</idno>
+               <occupation>Altertumsforscher</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118810448</idno>
             </person>
             <person xml:id="washington-john">
                <persName>
