@@ -4973,14 +4973,12 @@
                </birth>
                <death>
                   <date when="1893-11-12">12.11.1893</date>
+                  <placeName>Unterwaltersdorf</placeName>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118651455</idno>
-               <idno type="paas">696</idno>
-            </person>
+               </person>
             <person xml:id="springer-johann">
                <persName>
                   <surname>Springer</surname>
@@ -4995,11 +4993,9 @@
                   <date when="1869-09-04">04.09.1869</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3679" scheme="#apis_vocabularies/professiontype/"
-                  >Statistiker</occupation>
+               <occupation>Statistiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117479861</idno>
-               <idno type="paas">6102</idno>
-            </person>
+               </person>
             <person xml:id="kubeck-karl-friedrich">
                <persName>
                   <surname>Kübeck-Kübau</surname>
@@ -5015,11 +5011,9 @@
                   <date when="1855-09-11">11.09.1855</date>
                   <placeName>Hadersdorf bei Wien</placeName>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
+               <occupation>Politiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116577355</idno>
-               <idno type="paas">3682</idno>
-            </person>
+               </person>
             <person xml:id="tkalec-jakob-franjo">
                <persName>
                   <surname>Tkalec</surname>
@@ -5027,12 +5021,14 @@
                </persName>
                <birth>
                   <date when="1822-02-22">22.02.1822</date>
+                  <placeName>Karlovac</placeName>
                </birth>
                <death>
                   <date when="1865-05-14">14.05.1865</date>
+                  <placeName>Zagreb</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50405/</idno>
-               <idno type="paas">50405</idno>
+               <occupation>Doktorand der Medizin in Wien (1850)</occupation>
+               <occupation>Naturwissenschaftler</occupation>
             </person>
             <person xml:id="kemeny-von-josef">
                <persName>
@@ -5043,13 +5039,16 @@
                </persName>
                <birth>
                   <date when="1795-09-11">11.09.1795</date>
+                  <placeName>Gerend/Siebenbürgen</placeName>
                </birth>
                <death>
                   <date when="1855-09-12">12.09.1855</date>
+                  <placeName>Gerend/Siebenbürgen</placeName>
                </death>
-               <idno subtype="GND" type="URL">https://d-nb.info/gnd/18247013X</idno>
-               <idno type="paas">3293</idno>
-            </person>
+               <occupation>Historiker</occupation>
+               <occupation>Politiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/139945865</idno>
+               </person>
             <person xml:id="cibrario-giovanni-antonio-luigi">
                <persName>
                   <surname>Cibrario</surname>
