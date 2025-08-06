@@ -9786,14 +9786,11 @@
                </birth>
                <death>
                   <date when="1886-05-23">23.05.1886</date>
+                  <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Historiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118598279</idno>
-               <idno type="URL" subtype="apis">https://apis.eos.arz.oeaw.ac.at/entity/6677</idno>
-               <idno type="paas">17391</idno>
             </person>
             <person xml:id="bohm-adalbert">
                <persName>
@@ -10893,17 +10890,13 @@
                </birth>
                <death>
                   <date when="1856-11-12">12.11.1856</date>
+                  <placeName>Brüssel</placeName>
                </death>
-               <occupation code="#3759" scheme="#apis_vocabularies/professiontype/"
-                  >Numismatiker</occupation>
-               <occupation code="#4011" scheme="#apis_vocabularies/professiontype/"
-                  >Sammler</occupation>
-               <occupation code="#4135" scheme="#apis_vocabularies/professiontype/"
-                  >Medailleur</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52760/</idno>
+               <occupation>Numismatiker</occupation>
+               <occupation>Sammler</occupation>
+               <occupation>Medailleur</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117521566</idno>
-               <idno type="paas">52760</idno>
-            </person>
+               </person>
             <person xml:id="hassler-hassler-leopold">
                <persName>
                   <surname>Hassler/Haßler</surname>
