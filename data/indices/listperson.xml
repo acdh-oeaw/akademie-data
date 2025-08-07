@@ -17,6 +17,77 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="schweizer-ferdinand">
+               <persName>
+                  <forename>Ferdinand</forename>
+                  <surname>Schweizer</surname>
+               </persName>
+               <birth>
+                  <date when="1823-10-18">18.10.1823</date>
+                  <placeName>Krems (Taufbuch, S. 130)</placeName>
+               </birth><occupation>Steindruckergehilfe (1849 anläßlich seiner Eheschließung in Wien, 8. Bez., Maria Treu, Traubuch, S. 14)</occupation>
+               <occupation>Faktor der k.k. Staatsdruckerei</occupation>
+            </person>
+            <person xml:id="wimmer-josef">
+               <persName>
+                  <forename>Josef</forename>
+                  <surname>Wimmer</surname>
+               </persName>
+               <occupation>Faktor in der Hof- und Staatsdruckerei</occupation>
+               <occupation>Lithograph</occupation>
+               <occupation>Erhielt im März 1858 die Wiener Gemeindezugehörigkeit (Wiener Zeitung v. 14. April 1858)</occupation>
+            </person>
+            <person xml:id="knoblich-augustin-joseph">
+               <persName>
+                  <forename>August(in Joseph)</forename>
+                  <surname>Knoblich</surname>
+               </persName>
+               <birth>
+                  <date when="1822-06-10">10.06.1822</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date>nach Mai 1900</date>
+               </death>
+               <occupation>Schriftsetzer (anläßlich der Eheschließung im Febr. 1847 in Wien, 2. Bez., St. Leopold)</occupation>
+               <occupation>Faktor bei der Staatsdruckerei</occupation>
+               <occupation>k.k. Post-Offizial (anläßlich des Todes seiner Ehefrau im Sept. 1875 in Wien, 2. Bez., St. Josef</occupation>
+               <occupation>Erhielt im Mai 1900 die silberne Verdienstmedaille (vgl. Österr.-Ungar. Buchdruckerzeitung v. 17. Mai 1900, S. 6)</occupation>
+            </person>
+            <person xml:id="jankovich-nikolaus">
+               <persName>
+                  <forename>Nikolaus / Miklós</forename>
+                  <nameLink>(von Jeszenicze)</nameLink>
+                  <surname>Jankovich/Janković</surname>
+               </persName>
+               <persName type="alt">Janković von Jeszenicze</persName>
+               <birth>
+                  <date>1773</date>
+                  <placeName>Pest</placeName>
+               </birth>
+               <death>
+                  <date when="1846-04-18">18.04.1846</date>
+                  <placeName>Pest</placeName></death>
+               <occupation>Altertumsforscher</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/124587356</idno>
+            </person>
+            <person xml:id="bock-cornelius">
+               <persName>
+                  <forename>Cornelius Peter</forename>
+                  <surname>Bock</surname>
+               </persName>
+               <birth>
+                  <date when="1804-06-08">08.06.1804</date>
+                  <placeName>Aachen</placeName>
+               </birth>
+               <death>
+                  <date when="1870-10-10">10.10.1870</date>
+                  <placeName>Freiburg i. Breisgau</placeName></death>
+               <occupation>Archäologe</occupation>
+               <occupation>Kunsthistoriker</occupation>
+               <occupation>Universitätsprofessor</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116214023</idno>
+            </person>
             <person xml:id="korff-modest">
                <persName>
                   <forename>Modest Andreevič</forename>
@@ -3580,16 +3651,11 @@
                   <date when="1896-07-09">09.07.1896</date>
                   <placeName>Klosterneuburg</placeName>
                </death>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3741" scheme="#apis_vocabularies/professiontype/"
-                  >Redakteur</occupation>
-               <occupation code="#3831" scheme="#apis_vocabularies/professiontype/"
-                  >Journalist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49559/</idno>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Redakteur</occupation>
+               <occupation>Journalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117409669</idno>
-               <idno type="paas">49559</idno>
-            </person>
+               </person>
             <person xml:id="maelen-van-der-philippe-marie">
                <persName>
                   <surname>Maelen</surname>
@@ -5304,17 +5370,15 @@
                </persName>
                <birth>
                   <date when="1814-01-07">07.01.1814</date>
+                  <placeName>Oberhelferswill/St. Gallen</placeName>
                </birth>
                <death>
                   <date when="1862-07-02">1862</date>
                   <placeName>Salzburg</placeName>
                </death>
-               <occupation code="#3759" scheme="#apis_vocabularies/professiontype/"
-                  >Numismatiker</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49557/</idno>
+               <occupation>Numismatiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/141607572</idno>
-               <idno type="paas">49557</idno>
-            </person>
+               </person>
             <person xml:id="wolf-adam">
                <persName>
                   <surname>Wolf</surname>
@@ -5327,18 +5391,14 @@
                </birth>
                <death>
                   <date when="1883-10-25">25.10.1883</date>
+                  <placeName>Graz</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
-               <occupation code="#3873" scheme="#apis_vocabularies/professiontype/"
-                  >Volkskundler</occupation>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Jurist</occupation>
+               <occupation>Volkskundler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117458333</idno>
-               <idno type="paas">7084</idno>
-            </person>
+               </person>
             <person xml:id="denhart-karl-christoph">
                <persName>
                   <surname>Denhart</surname>
@@ -5352,10 +5412,8 @@
                   <date when="1876-12-01">01.12.1876</date>
                   <placeName>Linz</placeName>
                </death>
-               <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
-                  >Archivar</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/apis/api2/entity/49564/</idno>
-               <idno type="paas">49564</idno>
+               <occupation>Archivar</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1187980374</idno>
             </person>
             <person xml:id="simony-friedrich">
                <persName>
