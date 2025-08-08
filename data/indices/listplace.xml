@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="neusohl">
+                    <placeName>Neusohl</placeName>
+                    <placeName type="alt">Banska Bystrica</placeName>
+                    <location>
+                        <geo>48.73946 19.15349</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3061186/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/501527-3</idno>
+                </place>
               <place xml:id="rakonitz">
                     <placeName>Rakonitz</placeName>
                     <placeName>Rakovník</placeName>
