@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="zenger-wenzel">
+               <persName>
+                  <forename>Wenzel</forename>
+                  <surname>Zenger</surname>
+                  </persName>
+               <persName type="alt">Václav Karel Bedich Zenger</persName>
+               <birth>
+                  <date when="1830-12-17">17.12.1830</date>
+                  <placeName>Komotau</placeName>
+               </birth>
+               <death>
+                  <date when="1908-01-22">22.11.1908</date>
+                  <placeName>Prag</placeName></death>
+               <occupation>Physiker</occupation>
+               <occupation>Mineraloge</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117596078</idno>
+            </person>
             <person xml:id="schweizer-ferdinand">
                <persName>
                   <forename>Ferdinand</forename>
