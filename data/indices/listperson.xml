@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="schroer-karl-julius">
+               <persName>
+                  <forename>Karl Julius</forename>
+                  <surname>Schröer</surname>
+               </persName>
+               <birth>
+                  <date when="1825-01-11">11.01.1825</date>
+                  <placeName>Preßburg</placeName>
+               </birth>
+               <death>
+                  <date when="1900-12-16">16.12.1900</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Germanist</occupation>
+               <occupation>Literaturhistoriker</occupation>
+               <occupation>Goethe-Forscher</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118827561</idno>
+            </person>
             <person xml:id="zenger-wenzel">
                <persName>
                   <forename>Wenzel</forename>
