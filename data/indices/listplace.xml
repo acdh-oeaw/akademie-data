@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="oberufer">
+                    <placeName>Oberufer</placeName>
+                    <placeName type="alt">Prievoz</placeName>
+                    <location>
+                        <geo>48.1448 17.17963</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3057998/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4116709-0</idno>
+                </place>
                 <place xml:id="neusohl">
                     <placeName>Neusohl</placeName>
                     <placeName type="alt">Banska Bystrica</placeName>
