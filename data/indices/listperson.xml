@@ -17,6 +17,16 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="sorvillo-natale">
+               <persName>
+                  <forename>Natale</forename>
+                  <surname>Sorvillo</surname>
+               </persName>
+               <death>
+                  <date when="1875-01-12">12.01.1875</date>
+               </death>
+                  <occupation>k.k. Generalkonsul in Neapel (ab 1844)</occupation>
+             </person>
             <person xml:id="schroer-karl-julius">
                <persName>
                   <forename>Karl Julius</forename>
