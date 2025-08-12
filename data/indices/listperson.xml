@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="haidinger-karl">
+               <persName>
+                  <surname>Haidinger</surname>
+                  <forename>Karl (Maria)</forename>
+               </persName>
+               <birth>
+                  <date when="1756-07-10">10.07.1756</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1797-03-16">16.03.1797</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Mineraloge</occupation>
+               <occupation>Montanwissenschaftlicher</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116392045</idno>
+            </person>
             <person xml:id="sorvillo-natale">
                <persName>
                   <forename>Natale</forename>
@@ -25,8 +42,8 @@
                <death>
                   <date when="1875-01-12">12.01.1875</date>
                </death>
-                  <occupation>k.k. Generalkonsul in Neapel (ab 1844)</occupation>
-             </person>
+               <occupation>k.k. Generalkonsul in Neapel (ab 1844)</occupation>
+            </person>
             <person xml:id="schroer-karl-julius">
                <persName>
                   <forename>Karl Julius</forename>
@@ -48,7 +65,7 @@
                <persName>
                   <forename>Wenzel</forename>
                   <surname>Zenger</surname>
-                  </persName>
+               </persName>
                <persName type="alt">Václav Karel Bedich Zenger</persName>
                <birth>
                   <date when="1830-12-17">17.12.1830</date>
@@ -73,8 +90,11 @@
                <death>
                   <date>nach 1875 (letzte Erwähnung im Lehmann (VIII. Bez., Lederergasse 19)</date>
                </death>
-               <occupation>Steindruckergehilfe (1849 anläßlich seiner Eheschließung in Wien, 8. Bez., Maria Treu, Traubuch, S. 14, sowie bei den Kindstaufen 1852 u. 1855 in Wien, 8. Bez., Alser Vorstadt)</occupation>
-               <occupation>Faktor der k.k. Staatsdruckerei (seit den Kindstaufen in Wien, 8. Bez., Alser Vorstadt, 1857 u. 1860)</occupation>
+               <occupation>Steindruckergehilfe (1849 anläßlich seiner Eheschließung in Wien, 8.
+                  Bez., Maria Treu, Traubuch, S. 14, sowie bei den Kindstaufen 1852 u. 1855 in Wien,
+                  8. Bez., Alser Vorstadt)</occupation>
+               <occupation>Faktor der k.k. Staatsdruckerei (seit den Kindstaufen in Wien, 8. Bez.,
+                  Alser Vorstadt, 1857 u. 1860)</occupation>
             </person>
             <person xml:id="wimmer-josef">
                <persName>
@@ -83,7 +103,8 @@
                </persName>
                <occupation>Faktor in der Hof- und Staatsdruckerei</occupation>
                <occupation>Lithograph</occupation>
-               <occupation>Erhielt im März 1858 die Wiener Gemeindezugehörigkeit (Wiener Zeitung v. 14. April 1858)</occupation>
+               <occupation>Erhielt im März 1858 die Wiener Gemeindezugehörigkeit (Wiener Zeitung v.
+                  14. April 1858)</occupation>
             </person>
             <person xml:id="knoblich-augustin-joseph">
                <persName>
@@ -97,10 +118,13 @@
                <death>
                   <date>nach Mai 1900</date>
                </death>
-               <occupation>Schriftsetzer (anläßlich der Eheschließung im Febr. 1847 in Wien, 2. Bez., St. Leopold)</occupation>
+               <occupation>Schriftsetzer (anläßlich der Eheschließung im Febr. 1847 in Wien, 2.
+                  Bez., St. Leopold)</occupation>
                <occupation>Faktor bei der Staatsdruckerei</occupation>
-               <occupation>k.k. Post-Offizial (anläßlich des Todes seiner Ehefrau im Sept. 1875 in Wien, 2. Bez., St. Josef</occupation>
-               <occupation>Erhielt im Mai 1900 die silberne Verdienstmedaille (vgl. Österr.-Ungar. Buchdruckerzeitung v. 17. Mai 1900, S. 6)</occupation>
+               <occupation>k.k. Post-Offizial (anläßlich des Todes seiner Ehefrau im Sept. 1875 in
+                  Wien, 2. Bez., St. Josef</occupation>
+               <occupation>Erhielt im Mai 1900 die silberne Verdienstmedaille (vgl. Österr.-Ungar.
+                  Buchdruckerzeitung v. 17. Mai 1900, S. 6)</occupation>
             </person>
             <person xml:id="jankovich-nikolaus">
                <persName>
@@ -152,7 +176,8 @@
                <occupation>Politiker</occupation>
                <occupation>Jurist</occupation>
                <occupation>Historiker</occupation>
-               <occupation>Direktor der späteren russischen Nationalbibliothek (1849-1861)</occupation>
+               <occupation>Direktor der späteren russischen Nationalbibliothek
+                  (1849-1861)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119424940</idno>
             </person>
             <person xml:id="kliegl-joszef">
@@ -171,7 +196,7 @@
                <occupation>Techniker</occupation>
                <occupation>Erfinder</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1013585283</idno>
-               </person>
+            </person>
             <person xml:id="seiller-johann-kaspar">
                <persName>
                   <surname>Seiller</surname>
@@ -191,7 +216,7 @@
                <occupation>Jurist</occupation>
                <occupation>Bürgermeister von Wien (1851-1861)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/136374468</idno>
-               </person>
+            </person>
             <person xml:id="brockhaus-heinrich">
                <persName>
                   <forename>Heinrich</forename>
@@ -212,7 +237,7 @@
             <person xml:id="lange-ludwig">
                <persName>
                   <forename>(Christian Conrad) Ludwig</forename>
-                 <surname>Lange</surname>
+                  <surname>Lange</surname>
                </persName>
                <birth>
                   <date when="1825-03-04">7.4.1811</date>
@@ -275,7 +300,7 @@
                </death>
                <occupation>Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118519735</idno>
-            </person>            
+            </person>
             <person xml:id="rathke-heinrich">
                <persName>
                   <surname>Rathke</surname>
@@ -330,12 +355,12 @@
                <occupation>Arzt</occupation>
                <occupation>Zoologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116720247</idno>
-            </person>            
+            </person>
             <person xml:id="habsburg-lothringen-ferdinand-max">
                <persName>
                   <surname>Habsburg-Lothringen</surname>
                   <forename>Ferdinand Max, Erzherzog</forename>
-                  </persName>
+               </persName>
                <birth>
                   <date when="1832-07-06">06.07.1832</date>
                   <placeName>Schönbrunn</placeName>
@@ -346,13 +371,13 @@
                </death>
                <occupation>König von Mexiko</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118579363</idno>
-               </person>
+            </person>
             <person xml:id="georg-v-hannover">
                <persName>
                   <forename>König von Hannover</forename>
                   <surname>Georg V.</surname>
                </persName>
-                 <birth>
+               <birth>
                   <date when="1819-05-27">27.05.1819</date>
                   <placeName>Berlin</placeName>
                </birth>
@@ -367,7 +392,7 @@
                </persName>
                <birth>
                   <date>um 1155/1167</date>
-                  </birth>
+               </birth>
                <death>
                   <date>wohl 18.08.1227</date>
                </death>
@@ -379,16 +404,18 @@
                <persName>
                   <surname>Julien</surname>
                </persName>
-               <occupation>Nicht mit Sicherheit zu identifizieren. Vielleicht der französische Linguist und Romanist Bernard JULLIEN (1798-1881) (https://d-nb.info/gnd/1055155686), 
-                  vielleicht aber auch der französische Sinolge Stanislas JULIEN (1797/99-1873) (https://d-nb.info/gnd/117230316).</occupation>
+               <occupation>Nicht mit Sicherheit zu identifizieren. Vielleicht der französische
+                  Linguist und Romanist Bernard JULLIEN (1798-1881)
+                  (https://d-nb.info/gnd/1055155686), vielleicht aber auch der französische Sinolge
+                  Stanislas JULIEN (1797/99-1873) (https://d-nb.info/gnd/117230316).</occupation>
             </person>
             <person xml:id="karl-der-große">
                <persName>
                   <forename>Karl der Große</forename>
-                  </persName>
+               </persName>
                <birth>
                   <date>747/748</date>
-                  </birth>
+               </birth>
                <death>
                   <date>28.01.814</date>
                   <placeName>Aachen</placeName></death>
@@ -400,22 +427,23 @@
                <persName>
                   <surname>Konfuzius</surname>
                </persName>
-                   <birth>
+               <birth>
                   <date>ca. 551 v.Chr.</date>
-                  </birth>
+               </birth>
                <death>
                   <date>ca. 479 v.Chr.</date>
                </death>
                <occupation>Philosoph</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118565036</idno>
-            </person>            
+            </person>
             <person xml:id="honegger-j-b">
                <persName>
                   <forename>J. B.</forename>
                   <surname>Honegger</surname>
                </persName>
-               <occupation>Architekt; Verfasser von "Karthagischen Alterthümern", im Jan. 1848 im Hotel d'Angleterre, 64 Rue Montmartre wohnhaft</occupation>
-               </person>
+               <occupation>Architekt; Verfasser von "Karthagischen Alterthümern", im Jan. 1848 im
+                  Hotel d'Angleterre, 64 Rue Montmartre wohnhaft</occupation>
+            </person>
             <person xml:id="neumann-franz-ernst">
                <persName>
                   <forename>Franz Ernst</forename>
@@ -440,13 +468,14 @@
                   <surname>Ružička</surname>
                </persName>
                <occupation>Administrator des Stiftes Seckau (1848)</occupation>
-               </person>
+            </person>
             <person xml:id="frei-christoph">
                <persName>
                   <forename>Christoph</forename>
                   <surname>Frei</surname>
                </persName>
-               <occupation>Verfasser eines Ms. "Ὑμνος εἰς τα γενεϑλια του Κυριου σωτηρος ἡμων Ιησου Χριστου" (hg. v. Josef Wartinger, Graz 1847)</occupation>
+               <occupation>Verfasser eines Ms. "Ὑμνος εἰς τα γενεϑλια του Κυριου σωτηρος ἡμων Ιησου
+                  Χριστου" (hg. v. Josef Wartinger, Graz 1847)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104260408</idno>
             </person>
             <person xml:id="gaj-ljudevit">
@@ -1615,7 +1644,8 @@
                   Wien</occupation>
                <occupation>Eheschließung am 7. Febr. 1836 in Wien/St. Joseph ob der
                   Laimgrube</occupation>
-               <occupation>Tod gemäß Wiener Zeitung v. 21. Juli 1852, S. 2014, u. Sterbebuch Wien/Karl Borromäus</occupation>
+               <occupation>Tod gemäß Wiener Zeitung v. 21. Juli 1852, S. 2014, u. Sterbebuch
+                  Wien/Karl Borromäus</occupation>
             </person>
             <person xml:id="theodosius">
                <persName>
@@ -2045,7 +2075,9 @@
                <occupation>Fortifikationsschanz-Korporal (anläßlich seiner Eheschließung am 23.
                   Febr. 1841 in Wien/Feldsuperiorat)</occupation>
                <occupation>Hausinspektor am Polytechnischen Institut (ab 16.09.1853)</occupation>
-               <occupation>Zuletzt im Lehmann v. 1882 unter der Adresse "IV., Technikerstr. 13" erwähnt</occupation></person>
+               <occupation>Zuletzt im Lehmann v. 1882 unter der Adresse "IV., Technikerstr. 13"
+                  erwähnt</occupation>
+            </person>
             <person xml:id="vetter-madgalena">
                <persName>
                   <forename>Magdalena</forename>
@@ -2829,13 +2861,13 @@
                <death>
                   <date when="1848-12-31">31.12.1848</date>
                   <placeName>Leipzig</placeName>
-                  </death>
+               </death>
                <occupation>Philologe</occupation>
                <occupation>Klassischer Philologe</occupation>
                <occupation>Philosoph</occupation>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118703714</idno>
-               </person>
+            </person>
             <person xml:id="guizot-francois-p">
                <persName>
                   <surname>Guizot</surname>
@@ -3703,7 +3735,7 @@
                <occupation>Redakteur</occupation>
                <occupation>Journalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117409669</idno>
-               </person>
+            </person>
             <person xml:id="maelen-van-der-philippe-marie">
                <persName>
                   <surname>Maelen</surname>
@@ -5092,7 +5124,7 @@
                <occupation>Politiker</occupation>
                <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118651455</idno>
-               </person>
+            </person>
             <person xml:id="springer-johann">
                <persName>
                   <surname>Springer</surname>
@@ -5109,7 +5141,7 @@
                </death>
                <occupation>Statistiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117479861</idno>
-               </person>
+            </person>
             <person xml:id="kubeck-karl-friedrich">
                <persName>
                   <surname>Kübeck-Kübau</surname>
@@ -5127,7 +5159,7 @@
                </death>
                <occupation>Politiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116577355</idno>
-               </person>
+            </person>
             <person xml:id="tkalec-jakob-franjo">
                <persName>
                   <surname>Tkalec</surname>
@@ -5162,7 +5194,7 @@
                <occupation>Historiker</occupation>
                <occupation>Politiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/139945865</idno>
-               </person>
+            </person>
             <person xml:id="cibrario-giovanni-antonio-luigi">
                <persName>
                   <surname>Cibrario</surname>
@@ -5219,7 +5251,7 @@
                <occupation>Indologe</occupation>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116552611</idno>
-               </person>
+            </person>
             <person xml:id="rawlinson-henry">
                <persName>
                   <surname>Rawlinson</surname>
@@ -5426,7 +5458,7 @@
                </death>
                <occupation>Numismatiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/141607572</idno>
-               </person>
+            </person>
             <person xml:id="wolf-adam">
                <persName>
                   <surname>Wolf</surname>
@@ -5446,7 +5478,7 @@
                <occupation>Jurist</occupation>
                <occupation>Volkskundler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117458333</idno>
-               </person>
+            </person>
             <person xml:id="denhart-karl-christoph">
                <persName>
                   <surname>Denhart</surname>
@@ -6819,7 +6851,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Gelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118777750</idno>
-               </person>
+            </person>
             <person xml:id="pollak-joachim-chaim-josef">
                <persName>
                   <surname>Pollak</surname>
@@ -7926,7 +7958,7 @@
                <occupation>Bibliothekar</occupation>
                <occupation>Kulturhistoriker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10030396X</idno>
-               </person>
+            </person>
             <person xml:id="knapp-von-hipperlein-hypperlein-colomann">
                <persName>
                   <surname>Knapp von Hipperlein/Hypperlein</surname>
@@ -8119,7 +8151,7 @@
                <occupation>Germanist</occupation>
                <occupation>Literaturwissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118740776</idno>
-               </person>
+            </person>
             <person xml:id="piper-ferdinand">
                <persName>
                   <surname>Piper</surname>
@@ -8180,7 +8212,8 @@
                </persName>
                <birth>
                   <date when="1783-08-18">18.08.1783</date>
-                  <placeName>Osoblaha</placeName> </birth>
+                  <placeName>Osoblaha</placeName>
+               </birth>
                <death>
                   <date when="1856-05-24">24.05.1856</date>
                   <placeName>Wien</placeName></death>
@@ -8189,7 +8222,7 @@
                <occupation>Pädagoge</occupation>
                <occupation>Priester</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115401318</idno>
-               </person>
+            </person>
             <person xml:id="rieti-da-mose">
                <persName>
                   <surname>da Rieti</surname>
@@ -8609,7 +8642,7 @@
                </death>
                <occupation>Historiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1157577733</idno>
-               </person>
+            </person>
             <person xml:id="dercsenyi-janos">
                <persName>
                   <surname>Dercsényi von Derczen</surname>
@@ -9240,7 +9273,7 @@
                </death>
                <occupation>Propst im Augustiner Chorherrenstift in St. Pölten</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/129248800</idno>
-               </person>
+            </person>
             <person xml:id="romanelli-samuel-aaron">
                <persName>
                   <surname>Romanelli</surname>
@@ -9254,7 +9287,7 @@
                </death>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/132429039</idno>
-               </person>
+            </person>
             <person
                xml:id="rankabis-rangabe-rhizos-rhankaves-rizos-ragkabes-alexandros-alexander-alexandros">
                <persName>
@@ -9430,7 +9463,7 @@
                <occupation>Germanist</occupation>
                <occupation>Verwaltungsbeamter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118778862</idno>
-               </person>
+            </person>
             <person xml:id="mittermaier-carl-joseph-anton">
                <persName>
                   <surname>Mittermaier</surname>
@@ -9502,7 +9535,7 @@
                <death>
                   <date when="1833-05-03">03.05.1833</date>
                   <placeName>Varanasi/Indien</placeName>
-                  </death>
+               </death>
                <occupation>griechischer Indologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/123902061</idno>
             </person>
@@ -9687,7 +9720,7 @@
                <occupation>Geograf</occupation>
                <occupation>Bibliothekar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117175048</idno>
-               </person>
+            </person>
             <person xml:id="koehne-bernhard-karl">
                <persName>
                   <surname>Koehne</surname>
@@ -9704,7 +9737,7 @@
                <occupation>Archäologe</occupation>
                <occupation>Numismatiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116285923</idno>
-               </person>
+            </person>
             <person xml:id="lachmann-karl">
                <persName>
                   <surname>Lachmann</surname>
@@ -9721,7 +9754,7 @@
                <occupation>Philologe</occupation>
                <occupation>Germanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118568558</idno>
-               </person>
+            </person>
             <person xml:id="lappenberg-johann-martin">
                <persName>
                   <surname>Lappenberg</surname>
@@ -9739,7 +9772,7 @@
                <occupation>Archivar</occupation>
                <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100180930</idno>
-               </person>
+            </person>
             <person xml:id="lasaulx-ernst">
                <persName>
                   <surname>Lasaulx</surname>
@@ -9759,7 +9792,7 @@
                <occupation>Klassischer Philologe</occupation>
                <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118726617</idno>
-               </person>
+            </person>
             <person xml:id="lenormant-charles">
                <persName>
                   <surname>Lenormant</surname>
@@ -9993,7 +10026,7 @@
                <occupation>Numismatiker</occupation>
                <occupation>Indologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/130571598</idno>
-               </person>
+            </person>
             <person xml:id="liljegren-johan-gustaf">
                <persName>
                   <surname>Liljegren</surname>
@@ -10154,7 +10187,7 @@
                <occupation>Historiker</occupation>
                <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117424749</idno>
-               </person>
+            </person>
             <person xml:id="zellweger-johann-kaspar">
                <persName>
                   <surname>Zellweger</surname>
@@ -10347,7 +10380,7 @@
                   <date when="1863-02-09">09.02.1863</date>
                </death>
                <occupation>Rat am Obersten Gerichtshof der USA</occupation>
-              </person>
+            </person>
             <person xml:id="cubich-giambattista">
                <persName>
                   <surname>Cubich</surname>
@@ -10382,7 +10415,7 @@
                </death>
                <occupation>Journalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/139888764</idno>
-               </person>
+            </person>
             <person xml:id="gersdorff-hermann-konstantin">
                <persName>
                   <surname>Gersdorff</surname>
@@ -10400,7 +10433,7 @@
                </death>
                <occupation>General</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117543454</idno>
-               </person>
+            </person>
             <person xml:id="esterhazy-nikolaus">
                <persName>
                   <surname>Esterhazy</surname>
@@ -10473,7 +10506,7 @@
                </death>
                <occupation>Bankier</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1017547823</idno>
-               </person>
+            </person>
             <person xml:id="khevenhuller-franz-christoph">
                <persName>
                   <surname>Khevenhüller</surname>
@@ -10510,12 +10543,13 @@
                </birth>
                <death>
                   <date when="1871-03-12">12.03.1871</date>
-                  <placeName>Karlsruhe</placeName> </death>
+                  <placeName>Karlsruhe</placeName>
+               </death>
                <occupation>Historiker</occupation>
                <occupation>Archivar</occupation>
                <occupation>Germanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118861476</idno>
-               </person>
+            </person>
             <person xml:id="herberstein-siegmund">
                <persName>
                   <surname>Herberstein</surname>
@@ -10752,7 +10786,8 @@
                   <date when="1866-09-02">02.09.1866</date>
                   <placeName>Kronstadt</placeName>
                </death>
-               <occupation>Professor für Philosophie am Lyzeum in Innsbruck, dann in Wien</occupation> 
+               <occupation>Professor für Philosophie am Lyzeum in Innsbruck, dann in
+                  Wien</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/129573639</idno>
             </person>
             <person xml:id="neumann-leopold">
@@ -10772,7 +10807,7 @@
                </death>
                <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116963026</idno>
-               </person>
+            </person>
             <person xml:id="wackernagel-wilhelm">
                <persName>
                   <surname>Wackernagel</surname>
@@ -10880,7 +10915,7 @@
                <occupation>Philologe</occupation>
                <occupation>Germanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119555352</idno>
-               </person>
+            </person>
             <person xml:id="d-orlandi-lorenzo">
                <persName>
                   <surname>Orlandi</surname>
@@ -10895,7 +10930,8 @@
                   <date when="1877-04-18">18.04.1877</date>
                   <placeName>Cividale</placeName>
                </death>
-               <occupation>Historiker</occupation></person>
+               <occupation>Historiker</occupation>
+            </person>
             <person xml:id="perini-agostino">
                <persName>
                   <surname>Perini</surname>
@@ -10996,7 +11032,7 @@
                <occupation>Sammler</occupation>
                <occupation>Medailleur</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117521566</idno>
-               </person>
+            </person>
             <person xml:id="hassler-hassler-leopold">
                <persName>
                   <surname>Hassler/Haßler</surname>
@@ -12305,7 +12341,7 @@
                <occupation>Musikinstrumentenbauer</occupation>
                <occupation>Geigenbauer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118731416</idno>
-               </person>
+            </person>
             <person xml:id="balling-karl-joseph">
                <persName>
                   <surname>Balling</surname>
@@ -12373,7 +12409,8 @@
                </persName>
                <birth>
                   <date when="1801-07-14">14.07.1801</date>
-                  <placeName>Koblenz</placeName> </birth>
+                  <placeName>Koblenz</placeName>
+               </birth>
                <death>
                   <date when="1858-04-28">28.04.1858</date>
                   <placeName>Berlin</placeName>
@@ -12381,7 +12418,7 @@
                <occupation>Arzt</occupation>
                <occupation>Physiologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118585053</idno>
-               </person>
+            </person>
             <person xml:id="bunsen-robert-wilhelm">
                <persName>
                   <surname>Bunsen</surname>
@@ -12472,7 +12509,7 @@
                <occupation>Linguist</occupation>
                <occupation>Gelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116244828</idno>
-               </person>
+            </person>
             <person xml:id="frankl-ludwig-august">
                <persName>
                   <surname>Frankl</surname>
@@ -12518,15 +12555,15 @@
                <persName>
                   <surname>Leibniz</surname>
                   <forename>Gottfried Wilhelm</forename>
-                  </persName>
-                  <birth>
-                     <date when="1646-07-01">01.07.1646</date>
-                     <placeName>Leipzig</placeName>
-                  </birth>
-                  <death>
-                     <date when="1716-11-14">14.11.1716</date>
-                     <placeName>Hannover</placeName></death>
-                  <occupation>Universalgelehrter</occupation>
+               </persName>
+               <birth>
+                  <date when="1646-07-01">01.07.1646</date>
+                  <placeName>Leipzig</placeName>
+               </birth>
+               <death>
+                  <date when="1716-11-14">14.11.1716</date>
+                  <placeName>Hannover</placeName></death>
+               <occupation>Universalgelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118571249</idno>
             </person>
             <person xml:id="vetter-heinrich">
@@ -12543,7 +12580,7 @@
                   <placeName>Wien</placeName>
                </death>
                <occupation>Diener der Akademie</occupation>
-               </person>
+            </person>
             <person xml:id="natterer-johann">
                <persName>
                   <surname>Natterer</surname>
@@ -12583,7 +12620,7 @@
                <occupation>Chemiker</occupation>
                <occupation>Arzt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/120922150</idno>
-               </person>
+            </person>
             <person xml:id="moth-franz">
                <persName>
                   <surname>Moth</surname>
@@ -12599,7 +12636,7 @@
                </death>
                <occupation>Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1015364284</idno>
-               </person>
+            </person>
             <person xml:id="gmelin-leopold">
                <persName>
                   <surname>Gmelin</surname>
@@ -12615,7 +12652,7 @@
                </death>
                <occupation>Chemiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118852655</idno>
-               </person>
+            </person>
             <person xml:id="madler-johann-heinrich">
                <persName>
                   <surname>Mädler</surname>
