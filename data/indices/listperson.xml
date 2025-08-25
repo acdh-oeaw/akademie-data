@@ -17,6 +17,41 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="heger-ignaz">
+               <persName>
+                  <forename>Ignaz</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Heger</surname>
+               </persName>
+               <birth>
+                  <date when="1824-11-24">24.11.1824</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1880-12-13">13.12.1880</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Mediziner</occupation>
+               <occupation>Mathematiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1011702894</idno>
+            </person>
+            <person xml:id="stein-friedrich">
+               <persName>
+                  <forename>(Samuel) Friedrich (Nathanael)</forename>
+                  <nameLink>von (ab 1878)</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Stein</surname>
+               </persName>
+               <birth>
+                  <date when="1818-11-03">3.11.1818</date>
+                  <placeName>Niemegk</placeName>
+               </birth>
+               <death>
+                  <date when="1885-01-09">09.01.1885</date>
+                  <placeName>Prag</placeName></death>
+               <occupation>Zoologe</occupation>
+               <occupation>Professor in Prag (ab 1855)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117240265</idno>
+            </person>
             <person xml:id="haidinger-karl">
                <persName>
                   <surname>Haidinger</surname>
@@ -31,7 +66,8 @@
                   <placeName>Wien</placeName>
                </death>
                <occupation>Mineraloge</occupation>
-               <occupation>Montanwissenschaftlicher</occupation>
+               <occupation>Geologe</occupation>
+               <occupation>Montanwissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116392045</idno>
             </person>
             <person xml:id="sorvillo-natale">
