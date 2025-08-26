@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A_0111.xml" xml:base="https://id.acdh.oeaw.ac.at/akademieprotokolle" prev="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0110.xml" next="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0112.xml">
+baumg<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A_0111.xml" xml:base="https://id.acdh.oeaw.ac.at/akademieprotokolle" prev="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0110.xml" next="https://id.acdh.oeaw.ac.at/akademieprotokolle/A_0112.xml">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -643,7 +643,10 @@
 					<p rendition="#fc" facs="#facs_1_region_1562140145681_24" xml:id="p4" xml:space="preserve">
             <lb facs="#facs_1_region_1562140145681_24l3" xml:id="z4"/>der Gesammtsitzung am <num>28</num>. Mai <num>1857</num>.</p>
 					<p rendition="#?23-77-100--591-2519" facs="#facs_1_region_1562140153278_30" xml:id="p5" xml:space="preserve">
-            <lb facs="#facs_1_region_1562140153278_30l1" xml:id="z5"/>Anwesend: <choice><expan>Seine</expan><abbr>S<hi rend="super">ne</hi></abbr></choice> Excellenz der Präsident <choice><expan/><abbr>Freih<am>.</am></abbr></choice> <rs type="person" ref="#baumgartner-von-andreas">Baumgartner</rs>.<lb facs="#facs_1_region_1562140153278_30l2" xml:id="z6"/>Der Vice-Präsident <rs type="person" ref="#karajan-von-theodor-georg">von Karajan</rs>.<lb facs="#facs_1_region_1562140153278_30l3" xml:id="z7"/>Der Generalsecretär <rs type="person" ref="#schrotter-anton">Schrötter</rs>,<lb facs="#facs_1_region_1562140153278_30l4" xml:id="z8"/>Der zweite Secretär <rs type="person" ref="#wolf-ferdinand">Wolf</rs>.</p>
+            <lb facs="#facs_1_region_1562140153278_30l1" xml:id="z5"/>Anwesend: <choice><expan>Seine</expan><abbr>S<hi rend="super">ne</hi></abbr></choice> Excellenz der Präsident <choice><expan/><abbr>Freih<am>.</am></abbr></choice> <choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> <rs type="person" ref="#baumgartner-von-andreas">Baumgartner</rs>.
+						<lb facs="#facs_1_region_1562140153278_30l2" xml:id="z6"/>Der Vice-Präsident <rs type="person" ref="#karajan-von-theodor-georg">von Karajan</rs>.
+						<lb facs="#facs_1_region_1562140153278_30l3" xml:id="z7"/>Der Generalsecretär <rs type="person" ref="#schrotter-anton">Schrötter</rs>,
+						<lb facs="#facs_1_region_1562140153278_30l4" xml:id="z8"/>Der zweite Secretär <rs type="person" ref="#wolf-ferdinand">Wolf</rs>.</p>
 					<p rendition="#fc" facs="#facs_1_region_1562140159923_33" xml:id="p7" xml:space="preserve">
             <lb facs="#facs_1_region_1562140159923_33l1" xml:id="z10"/>Die wirklichen Mitglieder:</p>
 					<p rendition="#ll" facs="#facs_1_region_1562140168878_36" xml:id="p8" xml:space="preserve">
