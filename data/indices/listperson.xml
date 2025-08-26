@@ -17,6 +17,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="foucher-de-careil">
+               <persName>
+                  <forename>Louis-Alexandre</forename>
+                  <surname>Foucher de Careil</surname>
+               </persName>
+               <birth>
+                  <date when="1826-05-01">1.5.1826</date>
+                  <placeName>Paris</placeName>
+               </birth>
+               <death>
+                  <date when="1891-01-10">10.01.1891</date>
+                  <placeName>Paris</placeName></death>
+               <occupation>philosophischer Schriftsteller</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117528307</idno>
+            </person>
             <person xml:id="heger-ignaz">
                <persName>
                   <forename>Ignaz</forename>
