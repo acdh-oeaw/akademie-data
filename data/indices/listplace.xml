@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="aussee">
+                    <placeName>(Bad) Aussee</placeName>
+                    <location>
+                        <geo>47.60998 13.78243</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2782070/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4079878-1</idno>
+                </place>
                 <place xml:id="oberufer">
                     <placeName>Oberufer</placeName>
                     <placeName>Prievoz</placeName>
