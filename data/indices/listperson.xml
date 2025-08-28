@@ -17,6 +17,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="sachs-julius">
+               <persName>
+                  <forename>Julius</forename>
+                  <nameLink>(von)</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Sachs</surname>
+               </persName>
+               <birth>
+                  <date when="1832-10-02">2.10.1832</date>
+                  <placeName>Breslau</placeName>
+               </birth>
+               <death>
+                  <date when="1897-05-29">29.5.1897</date>
+                  <placeName>Würzburg</placeName></death>
+               <occupation>Botaniker</occupation>
+               <occupation>Hochschullehrer</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118604600</idno>
+            </person>
             <person xml:id="foucher-de-careil">
                <persName>
                   <forename>Louis-Alexandre</forename>
