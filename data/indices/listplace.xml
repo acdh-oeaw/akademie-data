@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="deva">
+                    <placeName>Deva</placeName>
+                    <placeName type="alt">Dévá</placeName>
+                    <location>
+                        <geo>45.88333 22.9</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/679452</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/1046119-X</idno>
+                </place>
                 <place xml:id="aussee">
                     <placeName>(Bad) Aussee</placeName>
                     <location>
