@@ -16,14 +16,30 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="ibn-yamin">
+               <persName>
+                  <surname>Ibn Yamin</surname>
+               </persName>
+               <birth>
+                  <date>um 1286/87</date>
+                  <placeName>Faryūmad/Iran</placeName>
+               </birth>
+               <death>
+                  <date>um 1368</date>
+                  <placeName>Faryūmad/Iran</placeName>
+               </death>
+               <occupation>Dichter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/10408880X</idno>
+            </person>
             <person xml:id="zierler-friedrich">
                <persName>
                   <surname>Zierler</surname>
                   <forename>Friedrich</forename>
                </persName>
-               <occupation>"quiescierender Salzbergs-Schaffer" in Bad Aussee (April/Mai 1852)</occupation>
+               <occupation>"quiescierender Salzbergs-Schaffer" in Bad Aussee (April/Mai
+                  1852)</occupation>
                <occupation>Lebensdaten konnten nicht festgestellt werden</occupation>
-               </person>
+            </person>
             <person xml:id="pokorny-alois">
                <persName>
                   <surname>Pokorny</surname>
@@ -42,7 +58,7 @@
                <occupation>Lehrer</occupation>
                <occupation>Direktor des Realgymnasiums in Wien, II. Bezirk (ab 1864)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1176884440</idno>
-               </person>
+            </person>
             <person xml:id="sachs-julius">
                <persName>
                   <forename>Julius</forename>
@@ -213,7 +229,8 @@
                   <placeName>Wien</placeName>
                </birth>
                <death>
-                  <date>nach Mai 1900</date>
+                  <date when="1904-08-07">07.08.1904</date>
+                  <placeName>Wien</placeName>
                </death>
                <occupation>Schriftsetzer (anläßlich der Eheschließung im Febr. 1847 in Wien, 2.
                   Bez., St. Leopold)</occupation>
@@ -222,6 +239,8 @@
                   Wien, 2. Bez., St. Josef</occupation>
                <occupation>Erhielt im Mai 1900 die silberne Verdienstmedaille (vgl. Österr.-Ungar.
                   Buchdruckerzeitung v. 17. Mai 1900, S. 6)</occupation>
+               <occupation>Beerdigung am 9. Aug. 1904 auf dem Friedhof Gersthof (Grabstätte auf
+                  Friedhofsdauer)</occupation>
             </person>
             <person xml:id="jankovich-nikolaus">
                <persName>
@@ -2525,14 +2544,12 @@
                </birth>
                <death>
                   <date when="1869-06-10">10.06.1869</date>
+                  <placeName>(Wien-)Hietzing</placeName>
                </death>
-               <occupation code="#3399" scheme="#apis_vocabularies/professiontype/"
-                  >Buchdrucker</occupation>
-               <occupation code="#3842" scheme="#apis_vocabularies/professiontype/"
-                  >Direktor</occupation>
+               <occupation>Buchdrucker</occupation>
+               <occupation>Direktor der Hof- und Staatsdruckerei in Wien</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116376929</idno>
-               <idno type="paas">679</idno>
-            </person>
+               </person>
             <person xml:id="tschudi-johann-jakob">
                <persName>
                   <surname>Tschudi</surname>
@@ -2827,16 +2844,13 @@
                </birth>
                <death>
                   <date when="1876-05-29">29.05.1876</date>
+                  <placeName>Bonn</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3676" scheme="#apis_vocabularies/professiontype/"
-                  >Romanist</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
+               <occupation>Philologe</occupation>
+               <occupation>Romanist</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118525654</idno>
-               <idno type="paas">1546</idno>
-            </person>
+               </person>
             <person xml:id="thiersch-friedrich-wilhelm">
                <persName>
                   <surname>Thiersch</surname>
@@ -2851,16 +2865,13 @@
                </birth>
                <death>
                   <date when="1860-02-25">25.02.1860</date>
+                  <placeName>München</placeName>
                </death>
-               <occupation code="#3637" scheme="#apis_vocabularies/professiontype/">Klassischer
-                  Philologe</occupation>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <occupation code="#3660" scheme="#apis_vocabularies/professiontype/"
-                  >Pädagoge</occupation>
+               <occupation>Philologe</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Pädagoge</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118837877</idno>
-               <idno type="paas">6399</idno>
-            </person>
+               </person>
             <person xml:id="ritter-karl">
                <persName>
                   <surname>Ritter</surname>
@@ -2872,16 +2883,13 @@
                </birth>
                <death>
                   <date when="1859-09-28">28.09.1859</date>
+                  <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3653" scheme="#apis_vocabularies/professiontype/"
-                  >Forschungsreisender</occupation>
-               <occupation code="#3656" scheme="#apis_vocabularies/professiontype/"
-                  >Geograf</occupation>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <occupation>Geograf</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11860130X</idno>
-               <idno type="paas">5367</idno>
-            </person>
+               </person>
             <person xml:id="spaun-anton">
                <persName>
                   <surname>Spaun</surname>
@@ -2891,19 +2899,17 @@
                </persName>
                <birth>
                   <date when="1790-05-31">31.05.1790</date>
+                  <placeName>Linz</placeName>
                </birth>
                <death>
                   <date when="1849-06-26">26.06.1849</date>
+                  <placeName>Kremsmünster</placeName>
                </death>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3873" scheme="#apis_vocabularies/professiontype/"
-                  >Volkskundler</occupation>
-               <occupation code="#3878" scheme="#apis_vocabularies/professiontype/"
-                  >Beamter</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Volkskundler</occupation>
+               <occupation>Beamter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117481645</idno>
-               <idno type="paas">6086</idno>
-            </person>
+               </person>
             <person xml:id="schlechta-wssehrad-ottokar-maria">
                <persName>
                   <surname>Schlechta-Wssehrd</surname>
@@ -2919,11 +2925,9 @@
                   <date when="1894-12-18">18.12.1894</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
+               <occupation>Orientalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115828761</idno>
-               <idno type="paas">5632</idno>
-            </person>
+               </person>
             <person xml:id="pillersdorff-von-franz-xaver">
                <persName>
                   <surname>Pillersdorff</surname>
@@ -3001,7 +3005,7 @@
                </death>
                <occupation>Orientalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/102532818</idno>
-               </person>
+            </person>
             <person xml:id="uhland-johann-ludwig">
                <persName>
                   <surname>Uhland</surname>
@@ -3023,7 +3027,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Librettist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118625063</idno>
-               </person>
+            </person>
             <person xml:id="stenzel-gustav-adolf">
                <persName>
                   <surname>Stenzel</surname>
@@ -3041,7 +3045,7 @@
                <occupation>Archivar</occupation>
                <occupation>Abgeordneter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117272183</idno>
-               </person>
+            </person>
             <person xml:id="braumuller-von-wilhelm">
                <persName>
                   <surname>Braumüller</surname>
@@ -3448,15 +3452,11 @@
                   <date when="1870-06-02">02.06.1870</date>
                   <placeName>Brüssel</placeName>
                </death>
-               <occupation code="#3653" scheme="#apis_vocabularies/professiontype/"
-                  >Forschungsreisender</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
-               <occupation code="#3682" scheme="#apis_vocabularies/professiontype/"
-                  >Diplomat</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <occupation>Botaniker</occupation>
+               <occupation>Diplomat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11894343X</idno>
-               <idno type="paas">3011</idno>
-            </person>
+               </person>
             <person xml:id="munch-bellinghausen-eligius">
                <persName>
                   <surname>Münch-Bellinghausen</surname>
@@ -4677,16 +4677,13 @@
                </birth>
                <death>
                   <date when="1891-12-10">10.12.1891</date>
+                  <placeName>Innsbruck</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3787" scheme="#apis_vocabularies/professiontype/"
-                  >Ordenspriester</occupation>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Ordenspriester</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117051845</idno>
-               <idno type="paas">3083</idno>
-            </person>
+               </person>
             <person xml:id="bergmann-joseph">
                <persName>
                   <surname>Bergmann</surname>
@@ -6324,23 +6321,17 @@
                </persName>
                <birth>
                   <date when="1815-06-05">05.06.1815</date>
-                  <placeName>Most</placeName>
+                  <placeName>Brüx</placeName>
                </birth>
                <death>
                   <date when="1863-12-05">05.12.1863</date>
                   <placeName>Sigmaringen</placeName>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
-               <occupation code="#3738" scheme="#apis_vocabularies/professiontype/"
-                  >Abgeordneter</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49950/</idno>
+               <occupation>Politiker</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Jurist</occupation>
+               <occupation>Abgeordneter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118790927</idno>
-               <idno type="paas">49950</idno>
             </person>
             <person xml:id="uwarow-sergei-semjonowitsch">
                <persName>
@@ -7431,9 +7422,7 @@
                   <date when="1864-02-08">08.02.1864</date>
                   <placeName>Sankt Petersburg</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50476/</idno>
-               <idno type="paas">50476</idno>
-            </person>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11906765X</idno></person>
             <person xml:id="vrints-zu-falkenstein-maximilian">
                <persName>
                   <surname>Vrints zu Falkenstein</surname>
@@ -8923,8 +8912,16 @@
                   <surname>Windeck</surname>
                   <forename>Eberhard</forename>
                </persName>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50552/</idno>
-               <idno type="paas">50552</idno>
+               <birth>
+                  <date>um 1380</date>
+                  <placeName>Mainz</placeName>
+               </birth>
+               <death>
+                  <date>1440/41</date>
+               </death>
+               <occupation>Chronist</occupation>
+               <occupation>Kaufmann</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/100964206</idno>
             </person>
             <person xml:id="weis-johann-nepomuk">
                <persName>
@@ -12004,7 +12001,7 @@
                <occupation>Beamter</occupation>
                <occupation>Finanzminister (1848-1851)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116401605</idno>
-               </person>
+            </person>
             <person xml:id="hoernes-moriz">
                <persName>
                   <surname>Hoernes</surname>
@@ -12022,7 +12019,7 @@
                <occupation>Paläontologe</occupation>
                <occupation>Geologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116932716</idno>
-               </person>
+            </person>
             <person xml:id="ehrenberg-christian-gottfried">
                <persName>
                   <surname>Ehrenberg</surname>
@@ -12045,7 +12042,7 @@
                <occupation>Biologe</occupation>
                <occupation>Apotheker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118529250</idno>
-               </person>
+            </person>
             <person xml:id="meyer-hermann">
                <persName>
                   <surname>Meyer</surname>
@@ -13001,7 +12998,7 @@
                   <placeName>Wien</placeName>
                </death>
                <occupation>Kanzlist der Akademie (1854/55)</occupation>
-               </person>
+            </person>
             <person xml:id="capellmann-alois">
                <persName>
                   <surname>Capellmann</surname>
@@ -13009,12 +13006,12 @@
                   <forename>(Philipp) Alois</forename>
                </persName>
                <birth>
-                     <date>um 1806</date>
-                     </birth>
-                  <death>
-                     <date when="1860-04-07">07.04.1860</date>
-                     <placeName>Wien, Pfarre St. Rochus/Landstraße</placeName>
-                  </death>
+                  <date>um 1806</date>
+               </birth>
+               <death>
+                  <date when="1860-04-07">07.04.1860</date>
+                  <placeName>Wien, Pfarre St. Rochus/Landstraße</placeName>
+               </death>
                <occupation>Philologe</occupation>
                <occupation>Pädadoge</occupation>
                <occupation>Direktor des Akademischen Gymnasiums in Wien (1853-1860)</occupation>
@@ -13024,6 +13021,16 @@
                   <surname>Belnos</surname>
                   <forename>Sophie Charlotte</forename>
                </persName>
+               <birth>
+                  <date>18.02.1795</date>
+                  <placeName>Danapur,Dinapore,Dānāpur/Indien</placeName>
+               </birth>
+               <death>
+                  <date>24.04.1865</date>
+                  <placeName>Kopenhagen</placeName>
+               </death>
+               <occupation>Lithographin</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1055488014</idno>
             </person>
             <person xml:id="barrande-joachim">
                <persName>
