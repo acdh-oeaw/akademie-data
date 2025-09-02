@@ -16,6 +16,38 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="beheim-michael">
+               <persName>
+                  <surname>Beheim</surname>
+                  <forename>Michael</forename>
+               </persName>
+               <birth>
+                  <date>29.09.1420</date>
+                  <placeName>Sülzbach</placeName>
+               </birth>
+               <death>
+                  <date>Ende der 1470er Jahre</date>
+                  <placeName>Sülzbach</placeName>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Astronom</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118508342</idno>
+            </person>
+            <person xml:id="abu-zakariya">
+               <persName>
+                  <surname>Muhyī ad-Dīn Abū Zakarīyā Yahyā ibn Scharaf an-Nawawī</surname>
+               </persName>
+               <birth>
+                  <date>1233</date>
+                  <placeName>Nawa/Syrien</placeName>
+               </birth>
+               <death>
+                  <date>1277/78</date>
+                  <placeName>Nawa/Syrien</placeName>
+               </death>
+               <occupation>Rechtsgelehter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119158523</idno>
+            </person>
             <person xml:id="ibn-yamin">
                <persName>
                   <surname>Ibn Yamin</surname>
@@ -2549,7 +2581,7 @@
                <occupation>Buchdrucker</occupation>
                <occupation>Direktor der Hof- und Staatsdruckerei in Wien</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116376929</idno>
-               </person>
+            </person>
             <person xml:id="tschudi-johann-jakob">
                <persName>
                   <surname>Tschudi</surname>
@@ -2850,7 +2882,7 @@
                <occupation>Romanist</occupation>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118525654</idno>
-               </person>
+            </person>
             <person xml:id="thiersch-friedrich-wilhelm">
                <persName>
                   <surname>Thiersch</surname>
@@ -2871,7 +2903,7 @@
                <occupation>Bibliothekar</occupation>
                <occupation>Pädagoge</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118837877</idno>
-               </person>
+            </person>
             <person xml:id="ritter-karl">
                <persName>
                   <surname>Ritter</surname>
@@ -2889,7 +2921,7 @@
                <occupation>Forschungsreisender</occupation>
                <occupation>Geograf</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11860130X</idno>
-               </person>
+            </person>
             <person xml:id="spaun-anton">
                <persName>
                   <surname>Spaun</surname>
@@ -2909,7 +2941,7 @@
                <occupation>Volkskundler</occupation>
                <occupation>Beamter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117481645</idno>
-               </person>
+            </person>
             <person xml:id="schlechta-wssehrad-ottokar-maria">
                <persName>
                   <surname>Schlechta-Wssehrd</surname>
@@ -2927,7 +2959,7 @@
                </death>
                <occupation>Orientalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/115828761</idno>
-               </person>
+            </person>
             <person xml:id="pillersdorff-von-franz-xaver">
                <persName>
                   <surname>Pillersdorff</surname>
@@ -3456,7 +3488,7 @@
                <occupation>Botaniker</occupation>
                <occupation>Diplomat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11894343X</idno>
-               </person>
+            </person>
             <person xml:id="munch-bellinghausen-eligius">
                <persName>
                   <surname>Münch-Bellinghausen</surname>
@@ -4683,7 +4715,7 @@
                <occupation>Historiker</occupation>
                <occupation>Ordenspriester</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117051845</idno>
-               </person>
+            </person>
             <person xml:id="bergmann-joseph">
                <persName>
                   <surname>Bergmann</surname>
@@ -7422,7 +7454,8 @@
                   <date when="1864-02-08">08.02.1864</date>
                   <placeName>Sankt Petersburg</placeName>
                </death>
-               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11906765X</idno></person>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11906765X</idno>
+            </person>
             <person xml:id="vrints-zu-falkenstein-maximilian">
                <persName>
                   <surname>Vrints zu Falkenstein</surname>
