@@ -16,6 +16,30 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="persepolis">
+                    <placeName>Persepolis</placeName>
+                    <location>
+                        <geo>29.93509 52.89065</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/110836</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4045231-1</idno>
+                </place>
+                <place xml:id="khorsabad">
+                    <placeName>Khorsabad</placeName>
+                    <location>
+                        <geo>36.50862 43.22678</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/12421036</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4013365-5</idno>
+                </place>
+                <place xml:id="babylon">
+                    <placeName>Babylon</placeName>
+                    <location>
+                        <geo>32.54083 44.42417</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/98228</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4004101-3</idno>
+                </place>
                 <place xml:id="deva">
                     <placeName>Deva</placeName>
                     <placeName type="alt">Dévá</placeName>
@@ -51,7 +75,7 @@
                     <idno type="URL">https://sws.geonames.org/3061186/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/501527-3</idno>
                 </place>
-              <place xml:id="rakonitz">
+                <place xml:id="rakonitz">
                     <placeName>Rakonitz</placeName>
                     <placeName>Rakovník</placeName>
                     <location>
@@ -134,7 +158,7 @@
                         <geo>34.39931 47.44525</geo>
                     </location>
                     <idno> type="URL">https://www.geonames.org/140428/</idno>
-                    </place>
+                </place>
                 <place xml:id="bern">
                     <placeName>Bern</placeName>
                     <location>
