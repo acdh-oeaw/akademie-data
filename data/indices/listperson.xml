@@ -16,6 +16,55 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="portugal-eleonore">
+               <persName>
+                  <forename>Eleonore (Helena) von</forename>
+                  <surname>Portgual</surname>
+               </persName>
+               <persName type="alt">Eleonore von Habsburg</persName>
+               <birth>
+                  <date when="1436-09-18">18.09.1436</date>
+                  <placeName>Torres Vedras</placeName>
+               </birth>
+               <death>
+                  <date when="1467-09-03">07.09.1467</date>
+                  <placeName>Wiener Neustadt</placeName></death>
+               <occupation>Ehefrau Kaiser Friedrichs III.</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119367459</idno>
+            </person>
+            <person xml:id="habsburg-friedrich-III">
+               <persName>
+                  <forename>Friedrich III., Kaiser</forename>
+                 <surname>Habsburg</surname>
+               </persName>
+              <birth>
+                  <date when="1415-09-21">21.09.1415</date>
+                  <placeName>Innsbruck</placeName>
+               </birth>
+               <death>
+                  <date when="1493-08-19">19.08.1493</date>
+                  <placeName>Linz</placeName></death>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118535773</idno>
+            </person>
+            <person xml:id="jeitteles-ludwig">
+               <persName>
+                  <forename>Ludwig (Heinrich)</forename>
+                  <surname>Jeitteles</surname>
+               </persName>
+               <birth>
+                  <date when="1830-01-12">12.01.1830</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1883-01-25">25.01.1883</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Pädagoge</occupation>
+               <occupation>Zoologe</occupation>
+               <occupation>Prähistoriker</occupation>
+               <occupation>Seismologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117094269</idno>
+            </person>
             <person xml:id="beheim-michael">
                <persName>
                   <surname>Beheim</surname>
