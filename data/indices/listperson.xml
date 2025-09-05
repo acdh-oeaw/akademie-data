@@ -2591,7 +2591,7 @@
                <persName>
                   <surname>Wolf</surname>
                   <addName>Dr. phil.</addName>
-                  <forename>Ferdinand Josef</forename>
+                  <forename>Ferdinand (Josef)</forename>
                </persName>
                <birth>
                   <date when="1796-12-08">08.12.1796</date>
@@ -2601,17 +2601,12 @@
                   <date when="1866-02-18">18.02.1866</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <occupation code="#3666" scheme="#apis_vocabularies/professiontype/"
-                  >Literarhistoriker</occupation>
-               <occupation code="#3676" scheme="#apis_vocabularies/professiontype/"
-                  >Romanist</occupation>
-               <occupation code="#3698" scheme="#apis_vocabularies/professiontype/"
-                  >Linguist</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Romanist</occupation>
+               <occupation>Linguist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10427557X</idno>
-               <idno type="paas">7091</idno>
-            </person>
+               </person>
             <person xml:id="auer-welsbach-von-alois">
                <persName>
                   <surname>Auer-Welsbach</surname>
