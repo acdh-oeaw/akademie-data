@@ -16,6 +16,22 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="kapstadt">
+                    <placeName>Kapstadt</placeName>
+                    <location>
+                        <geo>-33.92584 18.42322</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3369157/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4029615-5</idno>
+                </place>
+                <place xml:id="rio-de-janeiro">
+                    <placeName>Rio de Janeiro</placeName>
+                    <location>
+                        <geo>-22.90642 -43.18223</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3451190/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4076741-3</idno>
+                </place>
                 <place xml:id="persepolis">
                     <placeName>Persepolis</placeName>
                     <location>
