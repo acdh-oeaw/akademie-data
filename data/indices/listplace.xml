@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="jena">
+                    <placeName>Jena</placeName>
+                    <location>
+                        <geo>50.92878 11.5899</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2895044/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4028557-1</idno>
+                </place>
                 <place xml:id="kapstadt">
                     <placeName>Kapstadt</placeName>
                     <location>
