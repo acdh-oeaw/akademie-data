@@ -16,6 +16,128 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="hochstetter-ferdinand_1829">
+               <persName>
+                  <surname>Hochstetter</surname>
+                  <addName>Ritter von</addName>
+                  <forename>Ferdinand</forename>
+               </persName>
+               <birth>
+                  <date when="1829-04-30">30.04.1829</date>
+                  <placeName>Esslingen am Neckar</placeName>
+               </birth>
+               <death>
+                  <date when="1884-07-18">18.07.1884</date>
+                  <placeName>Ober-Döbling</placeName>
+               </death>
+               <occupation>Geograph</occupation>
+               <occupation>Geologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119338467</idno>
+               </person>
+            <person xml:id="suess-eduard">
+               <persName>
+                  <surname>Suess</surname>
+                  <forename>Eduard</forename>
+               </persName>
+               <birth>
+                  <date when="1831-08-20">20.08.1831</date>
+                  <placeName>London</placeName>
+               </birth>
+               <death>
+                  <date when="1914-04-26">26.04.1914</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Geologe</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Akademie-Präsident (1898-1914)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757709</idno>
+               </person>
+            <person xml:id="erben-karl-jaromir">
+               <persName>
+                  <surname>Erben</surname>
+                  <forename>Karl Jaromír</forename>
+               </persName>
+               <birth>
+                  <date when="1811-11-07">07.11.1811</date>
+                  <placeName>Miletín/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1870-11-21">21.11.1870</date>
+                  <placeName>Prag</placeName>
+               </death>
+               <occupation>Archivar</occupation>
+               <occupation>Historiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118682245</idno>
+               </person>
+            <person xml:id="lott-Franz">
+               <persName>
+                  <surname>Lott</surname>
+                  <addName>Dr. phil.</addName>
+                  <forename>Franz (Karl)</forename>
+               </persName>
+               <birth>
+                  <date when="1807-01-28">28.01.1807</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1874-02-15">15.02.1874</date>
+                  <placeName>Görz</placeName>
+               </death>
+               <occupation>Philosoph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/104268298</idno>
+               </person>
+            <person xml:id="eitelberger-rudolf">
+               <persName>
+                  <surname>Eitelberger</surname>
+                  <addName>Ritter von Edelberg</addName>
+                  <addName>Dr. phil.</addName>
+                  <forename>Rudolf</forename>
+               </persName>
+               <birth>
+                  <date when="1817-04-17">17.04.1817</date>
+                  <placeName>Olmütz</placeName>
+               </birth>
+               <death>
+                  <date when="1885-04-18">18.04.1885</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Kunsthistoriker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116437456</idno>
+               </person>
+            <person xml:id="rosenzweig-vinzenz">
+               <persName>
+                  <surname>Rosenzweig</surname>
+                  <addName>Ritter von</addName>
+                  <forename>Vinzenz</forename>
+               </persName>
+               <birth>
+                  <date>1791</date>
+                  <placeName>Znaim</placeName>
+               </birth>
+               <death>
+                  <date when="1865-12-08">08.12.1865</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Orientalist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/101937568X</idno>
+            </person>
+            <person xml:id="vahlen-johannes">
+               <persName>
+                  <surname>Vahlen</surname>
+                  <addName>Dr. phil.</addName>
+                  <forename>Johannes</forename>
+               </persName>
+               <birth>
+                  <date when="1830-09-27">27.09.1830</date>
+                  <placeName>Bonn</placeName>
+               </birth>
+               <death>
+                  <date when="1911-11-30">30.11.1911</date>
+                  <placeName>Berlin</placeName>
+               </death>
+               <occupation>Klassischer Philologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117325279</idno>
+               </person>
             <person xml:id="portugal-eleonore">
                <persName>
                   <forename>Eleonore (Helena) von</forename>
@@ -1912,7 +2034,7 @@
             <person xml:id="ficker-julius">
                <persName>
                   <forename>Julius</forename>
-                  <nameLink>Adelsprädikat</nameLink>
+                  <nameLink>von</nameLink>
                   <surname>Ficker</surname>
                </persName>
                <persName type="alt">Ficker von Feldhaus (ab 1885)</persName>
@@ -3421,13 +3543,10 @@
                   <date when="1957-04-29">29.04.1957</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3631" scheme="#apis_vocabularies/professiontype/"
-                  >Physiker</occupation>
-               <occupation code="#3691" scheme="#apis_vocabularies/professiontype/"
-                  >Meteorologe</occupation>
+               <occupation>Physiker</occupation>
+               <occupation>Meteorologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116490136</idno>
-               <idno type="paas">1933</idno>
-            </person>
+               </person>
             <person xml:id="inzaghi-karl">
                <persName>
                   <surname>Inzaghi</surname>
