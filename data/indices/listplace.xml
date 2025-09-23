@@ -16,6 +16,16 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="krickehau">
+                    <placeName>Krickehau</placeName>
+                    <placeName type="alt">Handlová</placeName>
+                    <placeName type="alt">Nyitrabánya</placeName>
+                    <location>
+                        <geo>48.7276 18.76012</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/3060139</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4073811-5</idno>
+                </place>
                 <place xml:id="jena">
                     <placeName>Jena</placeName>
                     <location>
