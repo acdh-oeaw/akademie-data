@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="lienz">
+                    <placeName>Lienz</placeName>
+                    <location>
+                        <geo>46.8289 12.76903</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2772505/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4035690-5</idno>
+                </place>
                 <place xml:id="krickehau">
                     <placeName>Krickehau</placeName>
                     <placeName type="alt">Handlová</placeName>
