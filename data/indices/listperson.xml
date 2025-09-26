@@ -16,6 +16,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="keil-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Keil</surname>
+               </persName>
+               <birth>
+                  <date when="1822-06-22">22.06.1822</date>
+                  <placeName>Graslitz/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1876-03-10">10.03.1876</date>
+                  <placeName>Marburg an der Drau</placeName></death>
+               <occupation>Geoplastiker</occupation>
+               <occupation>Kartograph</occupation>
+               <occupation>Apothekergehilfe (1858)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116094095</idno>
+            </person>
             <person xml:id="peters-karl">
                <persName>
                   <surname>Peters</surname>
