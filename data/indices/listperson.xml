@@ -16,6 +16,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="augustus-kaiser">
+               <persName>
+                  <surname>Augustus</surname>
+                  </persName>
+               <birth>
+                  <date>23.09.63 v.Chr.</date>
+                  <placeName>Rom</placeName>
+               </birth>
+               <death>
+                  <date>19.08.14 n.Chr.</date>
+                  <placeName>Nola bei Neapel</placeName>
+               </death>
+               <occupation>Römischer Kaiser</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118505122</idno>
+               </person>
             <person xml:id="keil-franz">
                <persName>
                   <forename>Franz</forename>
