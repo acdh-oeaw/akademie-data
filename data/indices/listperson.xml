@@ -16,6 +16,36 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="lukas-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Lukas</surname>
+               </persName>
+               <birth>
+                  <date>1825</date>
+                  <placeName>Prag</placeName>
+               </birth>
+               <death>
+                  <date when="1888-12-17">17.12.1888</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Volontär an der Sternwarte in Prag, später Assistent an der Zentralanstalt für Meteorologie und Erdmagnetismus</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1192526066</idno>
+            </person>
+            <person xml:id="ramsauer-johann-georg">
+               <persName>
+                  <forename>Johann Georg</forename>
+                  <surname>Ramsauer</surname>
+               </persName>
+               <birth>
+                  <date when="1795-03-07">07.03.1795</date>
+                  <placeName>Hallstatt</placeName>
+               </birth>
+               <death>
+                  <date when="1874-01-01">01.01.1874</date>
+                  <placeName>Linz</placeName></death>
+               <occupation>Bergwerksbeamter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118959980</idno>
+            </person>
             <person xml:id="augustus-kaiser">
                <persName>
                   <surname>Augustus</surname>
