@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="echerntal">
+                    <placeName>Echerntal</placeName>
+                    <placeName type="alt">Echernthal</placeName>
+                    <location>
+                        <geo>47.55 13.63333</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2605297/</idno>
+                    </place>
                 <place xml:id="lienz">
                     <placeName>Lienz</placeName>
                     <location>
