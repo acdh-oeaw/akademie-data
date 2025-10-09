@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="pavia">
+                    <placeName>Pavia</placeName>
+                    <location>
+                        <geo>45.19205 9.15917</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3171366/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4044970-1</idno>
+                </place>
                 <place xml:id="echerntal">
                     <placeName>Echerntal</placeName>
                     <placeName type="alt">Echernthal</placeName>
