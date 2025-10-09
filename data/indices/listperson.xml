@@ -16,6 +16,41 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="muller-joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Müller</surname>
+               </persName>
+               <birth>
+                  <date when="1825-05-02">02.05.1825</date>
+                  <placeName>Brünn</placeName>
+               </birth>
+               <death>
+                  <date when="1895-07-13">13.07.1895</date>
+                  <placeName>Turin</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Kultusminister</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117597023</idno>
+            </person>
+            <person xml:id="loosey-karl-friedrich">
+               <persName>
+                  <forename>Karl Friedrich</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Loosey</surname>
+               </persName>
+               <persName type="alt">von Loosey</persName>
+               <birth>
+                  <date when="1814-01-16">16.01.1814</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1870-07-22">22.07.1870</date>
+                  <placeName>New York</placeName></death>
+               <occupation>Diplomat</occupation>
+               <occupation>Ingenieur</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117214035</idno>
+            </person>
             <person xml:id="lukas-franz">
                <persName>
                   <forename>Franz</forename>
