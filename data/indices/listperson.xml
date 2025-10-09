@@ -16,6 +16,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="wullerstorf-bernhard-aloys">
+               <persName>
+                  <forename>Bernhard Aloys</forename>
+                  <nameLink>Freiherr von</nameLink>
+                  <surname>Wüllerstorf(-Urbair)</surname>
+               </persName>
+               <persName type="alt">Wüllerstorf und Urbair</persName>
+               <birth>
+                  <date when="1816-01-29">29.01.1816</date>
+                  <placeName>Triest</placeName>
+               </birth>
+               <death>
+                  <date when="1883-08-10">10.08.1883</date>
+                  <placeName>Klobenstein/Tirol</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Admiral</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118635433</idno>
+            </person>            
             <person xml:id="muller-joseph">
                <persName>
                   <forename>Joseph</forename>
@@ -8685,8 +8703,8 @@
                <death>
                   <date when="1867-09-10">10.09.1867</date>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50310/</idno>
-               <idno type="paas">50310</idno>
+               <occupation>Schriftsteller</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117600059</idno>
             </person>
             <person xml:id="scheda-josef">
                <persName>
@@ -8702,20 +8720,16 @@
                   <date when="1888-07-23">23.07.1888</date>
                   <placeName>Wien-Mauer</placeName>
                </death>
-               <occupation code="#3656" scheme="#apis_vocabularies/professiontype/"
-                  >Geograf</occupation>
-               <occupation code="#4125" scheme="#apis_vocabularies/professiontype/"
-                  >Militär</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50311/</idno>
+               <occupation>Geograf</occupation>
+               <occupation>Militär</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117620335</idno>
-               <idno type="paas">50311</idno>
-            </person>
+               </person>
             <person xml:id="schiller-johann-christoph-friedrich">
                <persName>
                   <surname>Schiller</surname>
                   <addName>von</addName>
                   <nameLink>von</nameLink>
-                  <forename>Johann Christoph Friedrich</forename>
+                  <forename>(Johann Christoph) Friedrich</forename>
                </persName>
                <birth>
                   <date when="1759-11-10">10.11.1759</date>
@@ -8725,22 +8739,14 @@
                   <date when="1805-05-09">09.05.1805</date>
                   <placeName>Weimar</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3765" scheme="#apis_vocabularies/professiontype/"
-                  >Dramatiker</occupation>
-               <occupation code="#3769" scheme="#apis_vocabularies/professiontype/"
-                  >Librettist</occupation>
-               <occupation code="#3935" scheme="#apis_vocabularies/professiontype/"
-                  >Erzähler</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50384/</idno>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dramatiker</occupation>
+               <occupation>Librettist</occupation>
+               <occupation>Erzähler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118607626</idno>
-               <idno type="paas">50384</idno>
-            </person>
+               </person>
             <person xml:id="schneller-joseph">
                <persName>
                   <surname>Schneller</surname>
@@ -8748,12 +8754,15 @@
                </persName>
                <birth>
                   <date when="1801-12-19">19.12.1801</date>
+                  <placeName>Zürich</placeName>
                </birth>
                <death>
                   <date when="1879-12-19">19.12.1879</date>
+                  <placeName>Luzern</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50385/</idno>
-               <idno type="paas">50385</idno>
+               <occupation>Archivar</occupation>
+               <occupation>Historiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1076597130</idno>
             </person>
             <person xml:id="sartyni-schreniawa-matthaus">
                <persName>
