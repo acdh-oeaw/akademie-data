@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="kotschy-theodor">
+               <persName>
+                  <forename>(Karl Georog) Theodor</forename>
+                  <surname>Kotschy</surname>
+               </persName>
+               <birth>
+                  <date when="1813-04-15">15.04.1813</date>
+                  <placeName>Ustron/Österreichisch Schlesien</placeName>
+               </birth>
+               <death>
+                  <date when="1866-06-11">11.06.1866</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Botaniker</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11634444X</idno>
+            </person>
             <person xml:id="wullerstorf-bernhard-aloys">
                <persName>
                   <forename>Bernhard Aloys</forename>
@@ -33,7 +49,7 @@
                <occupation>Politiker</occupation>
                <occupation>Admiral</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118635433</idno>
-            </person>            
+            </person>
             <person xml:id="muller-joseph">
                <persName>
                   <forename>Joseph</forename>
@@ -81,7 +97,8 @@
                <death>
                   <date when="1888-12-17">17.12.1888</date>
                   <placeName>Wien</placeName></death>
-               <occupation>Volontär an der Sternwarte in Prag, später Assistent an der Zentralanstalt für Meteorologie und Erdmagnetismus</occupation>
+               <occupation>Volontär an der Sternwarte in Prag, später Assistent an der
+                  Zentralanstalt für Meteorologie und Erdmagnetismus</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1192526066</idno>
             </person>
             <person xml:id="ramsauer-johann-georg">
@@ -102,7 +119,7 @@
             <person xml:id="augustus-kaiser">
                <persName>
                   <surname>Augustus</surname>
-                  </persName>
+               </persName>
                <birth>
                   <date>23.09.63 v.Chr.</date>
                   <placeName>Rom</placeName>
@@ -113,7 +130,7 @@
                </death>
                <occupation>Römischer Kaiser</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118505122</idno>
-               </person>
+            </person>
             <person xml:id="keil-franz">
                <persName>
                   <forename>Franz</forename>
@@ -150,7 +167,7 @@
                <occupation>Paläontologe</occupation>
                <occupation>Arzt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11611746X</idno>
-               </person>
+            </person>
             <person xml:id="kerner-anton">
                <persName>
                   <surname>Kerner</surname>
@@ -186,7 +203,7 @@
                <occupation>Kunsthistoriker</occupation>
                <occupation>Kunstkritiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/124205402</idno>
-               </person>
+            </person>
             <person xml:id="hochstetter-ferdinand_1829">
                <persName>
                   <surname>Hochstetter</surname>
@@ -204,7 +221,7 @@
                <occupation>Geograph</occupation>
                <occupation>Geologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119338467</idno>
-               </person>
+            </person>
             <person xml:id="suess-eduard">
                <persName>
                   <surname>Suess</surname>
@@ -222,7 +239,7 @@
                <occupation>Politiker</occupation>
                <occupation>Akademie-Präsident (1898-1914)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757709</idno>
-               </person>
+            </person>
             <person xml:id="erben-karl-jaromir">
                <persName>
                   <surname>Erben</surname>
@@ -239,7 +256,7 @@
                <occupation>Archivar</occupation>
                <occupation>Historiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118682245</idno>
-               </person>
+            </person>
             <person xml:id="lott-Franz">
                <persName>
                   <surname>Lott</surname>
@@ -256,7 +273,7 @@
                </death>
                <occupation>Philosoph</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104268298</idno>
-               </person>
+            </person>
             <person xml:id="eitelberger-rudolf">
                <persName>
                   <surname>Eitelberger</surname>
@@ -274,7 +291,7 @@
                </death>
                <occupation>Kunsthistoriker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116437456</idno>
-               </person>
+            </person>
             <person xml:id="rosenzweig-vinzenz">
                <persName>
                   <surname>Rosenzweig</surname>
@@ -308,7 +325,7 @@
                </death>
                <occupation>Klassischer Philologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117325279</idno>
-               </person>
+            </person>
             <person xml:id="portugal-eleonore">
                <persName>
                   <forename>Eleonore (Helena) von</forename>
@@ -328,9 +345,9 @@
             <person xml:id="habsburg-friedrich-III">
                <persName>
                   <forename>Friedrich III., Kaiser</forename>
-                 <surname>Habsburg</surname>
+                  <surname>Habsburg</surname>
                </persName>
-              <birth>
+               <birth>
                   <date when="1415-09-21">21.09.1415</date>
                   <placeName>Innsbruck</placeName>
                </birth>
@@ -2899,7 +2916,7 @@
                <occupation>Romanist</occupation>
                <occupation>Linguist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10427557X</idno>
-               </person>
+            </person>
             <person xml:id="auer-welsbach-von-alois">
                <persName>
                   <surname>Auer-Welsbach</surname>
@@ -3612,7 +3629,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Theologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118765809</idno>
-               </person>
+            </person>
             <person xml:id="grauert-wilhelm-heinrich">
                <persName>
                   <surname>Grauert</surname>
@@ -3630,7 +3647,7 @@
                <occupation>Philologe</occupation>
                <occupation>Historiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116824441</idno>
-               </person>
+            </person>
             <person xml:id="wenrich-georg">
                <persName>
                   <surname>Wenrich</surname>
@@ -3711,7 +3728,7 @@
                <occupation>Physiker</occupation>
                <occupation>Meteorologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116490136</idno>
-               </person>
+            </person>
             <person xml:id="inzaghi-karl">
                <persName>
                   <surname>Inzaghi</surname>
@@ -3729,7 +3746,7 @@
                </death>
                <occupation>Politiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/13018747X</idno>
-               </person>
+            </person>
             <person xml:id="mohl-julius">
                <persName>
                   <surname>Mohl</surname>
@@ -3746,7 +3763,7 @@
                </death>
                <occupation>Orientalist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100824544</idno>
-               </person>
+            </person>
             <person xml:id="hanka-wenzeslaus">
                <persName>
                   <surname>Hanka</surname>
@@ -3764,7 +3781,7 @@
                <occupation>Historiker</occupation>
                <occupation>Bibliothekar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118720201</idno>
-               </person>
+            </person>
             <person xml:id="petter-franz">
                <persName>
                   <surname>Petter</surname>
@@ -3782,7 +3799,7 @@
                <occupation>Ethnologe</occupation>
                <occupation>Geograf</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/136215718</idno>
-               </person>
+            </person>
             <person xml:id="hugel-karl-alexander">
                <persName>
                   <surname>Hügel</surname>
@@ -3840,7 +3857,7 @@
                <occupation>Historiker</occupation>
                <occupation>Literarhistoriker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118538918</idno>
-               </person>
+            </person>
             <person xml:id="habsburg-lothringe-franz-joseph-i">
                <persName>
                   <surname>Habsburg-Lothringen</surname>
@@ -3879,7 +3896,7 @@
                <occupation>Orientalist</occupation>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118545426</idno>
-               </person>
+            </person>
             <person xml:id="blumberger-friedrich">
                <persName>
                   <surname>Blumberger</surname>
@@ -3897,7 +3914,7 @@
                <occupation>Archivar</occupation>
                <occupation>Mönch</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/139644903</idno>
-               </person>
+            </person>
             <person xml:id="exner-franz-seraphin">
                <persName>
                   <surname>Exner</surname>
@@ -8723,7 +8740,7 @@
                <occupation>Geograf</occupation>
                <occupation>Militär</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117620335</idno>
-               </person>
+            </person>
             <person xml:id="schiller-johann-christoph-friedrich">
                <persName>
                   <surname>Schiller</surname>
@@ -8746,7 +8763,7 @@
                <occupation>Librettist</occupation>
                <occupation>Erzähler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118607626</idno>
-               </person>
+            </person>
             <person xml:id="schneller-joseph">
                <persName>
                   <surname>Schneller</surname>
@@ -11992,7 +12009,7 @@
                <occupation>Germanist</occupation>
                <occupation>Linguist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118806521</idno>
-               </person>
+            </person>
             <person xml:id="reuss-august-emanuel">
                <persName>
                   <surname>Reuss</surname>
@@ -12010,7 +12027,7 @@
                <occupation>Mineraloge</occupation>
                <occupation>Arzt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10082594X</idno>
-               </person>
+            </person>
             <person xml:id="carlini-franz">
                <persName>
                   <surname>Carlini</surname>
