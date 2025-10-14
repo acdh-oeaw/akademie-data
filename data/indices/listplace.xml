@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="haselbach">
+                    <placeName>Haselbach</placeName>
+                    <location>
+                        <geo>48.43333 16.28333</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/2776759</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4800221-5</idno>
+                </place>
                 <place xml:id="pavia">
                     <placeName>Pavia</placeName>
                     <location>
