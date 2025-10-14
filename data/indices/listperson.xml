@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="premysl-ottokar-II">
+               <persName>
+                  <surname>Ottokar II. Přemysl</surname>
+               </persName>
+               <birth>
+                  <date>um 1232</date>
+               </birth>
+               <death>
+                  <date when="1278-08-26">26.08.1278</date>
+                  <placeName>Dürnkrut/Niederösterreich</placeName>
+               </death>
+               <occupation>König von Böhmen (ab 1253)</occupation>
+               <occupation>Herzog von Österreich (1251-1276)</occupation>
+               <occupation>Herzog von Steiermark (1251-1254 u. 1260-1276)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118590898</idno>
+            </person>
             <person xml:id="kotschy-theodor">
                <persName>
                   <forename>(Karl Georog) Theodor</forename>
