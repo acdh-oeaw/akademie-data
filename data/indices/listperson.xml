@@ -16,6 +16,62 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="habsburg-lothringen-rainer">
+               <persName>
+                  <forename>Rainer, Erzherzog</forename>
+                  <surname>Habsburg-Lothringen</surname>
+               </persName>
+               <birth>
+                  <date when="1827-01-11">11.01.1827</date>
+                  <placeName>Mailand</placeName>
+               </birth>
+               <death>
+                  <date when="1913-01-27">27.01.1913</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Förderer von Kunst und Wissenschaft</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117700886</idno>
+            </person>
+            <person
+               xml:id="schmerling-anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <nameLink>Ritter von</nameLink>
+                  <surname>Schmerling</surname>
+               </persName>
+               <birth>
+                  <date when="1805-08-23">23.08.1805</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1893-05-23">23.05.1893</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Jurist, Präsident des Obersten Gerichtshofes</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119233460</idno>
+            </person>
+            <person xml:id="jagiellone-ludwig">
+               <persName>
+                  <forename>Ludwig II.</forename>
+                  <surname>aus dem Haus der Jagiellonen</surname>
+               </persName>
+               <birth>
+                  <date when="1506-07-01">01.07.1501</date>
+                  <placeName>Ofen</placeName>
+               </birth>
+               <death>
+                  <date when="1526-08-29">29.08.1526</date>
+                  <placeName>Mohács</placeName></death>
+               <occupation>König von Böhmen, Ungarn und Kroatien</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119392895</idno>
+            </person>
+            <person xml:id="guidoto-vincenzo">
+               <persName>
+                  <forename>Vincenzo</forename>
+                  <surname>Guidoto</surname>
+               </persName>
+               <occupation>Venezianischer Gesandter am Hof Ludwigs II. von Ungarn
+                  (1524/25)</occupation>
+            </person>
             <person xml:id="premysl-ottokar-II">
                <persName>
                   <surname>Ottokar II. Přemysl</surname>
