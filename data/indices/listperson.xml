@@ -16,6 +16,25 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="qazwīnī-zakarīyā">
+               <persName>
+                  <forename>Zakarīyā Ibn-Muḥammad al-</forename>
+                  <surname>Qazwīnī</surname>
+               </persName>
+               <birth>
+                  <date>um 1203</date>
+                  <placeName>Kaswin/Iran</placeName>
+               </birth>
+               <death>
+                  <date>1283</date>
+                  <placeName>Wāsiṭ, Irak</placeName></death>
+               <occupation>Verfasser der ʿAjāʾib al-maḫlūqāt wa-ġarāʾib al-mawğūdāt (= Die Wunder
+                  der Schöpfung und die Merkwürdigkeiten der vorhandenen Dinge; um
+                  1270)</occupation>
+               <occupation>Geograph</occupation>
+               <occupation>Kosmograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119374382</idno>
+            </person>
             <person xml:id="kulmer-franz">
                <persName>
                   <surname>Kulmer</surname>
