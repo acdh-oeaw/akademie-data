@@ -6447,7 +6447,7 @@
                <occupation>Philosoph</occupation>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117116661</idno>
-               </person>
+            </person>
             <person xml:id="krafft-albrecht">
                <persName>
                   <surname>Krafft</surname>
@@ -6465,7 +6465,7 @@
                <occupation>Kunsthistoriker</occupation>
                <occupation>Übersetzer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117539295</idno>
-               </person>
+            </person>
             <person xml:id="cipariu-timotei">
                <persName>
                   <surname>Cipariu</surname>
@@ -6482,7 +6482,7 @@
                <occupation>Priester</occupation>
                <occupation>Romanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118881922</idno>
-               </person>
+            </person>
             <person xml:id="duellius-raimund">
                <persName>
                   <surname>Duellius</surname>
@@ -6500,7 +6500,7 @@
                <occupation>Katholischer Theologe (Augustiner-Chorherr)</occupation>
                <occupation>Bibliothekar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116235586</idno>
-               </person>
+            </person>
             <person xml:id="graff-eberhard-gottlieb">
                <persName>
                   <surname>Graff</surname>
@@ -6516,7 +6516,7 @@
                </death>
                <occupation>Germanist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118541374</idno>
-               </person>
+            </person>
             <person xml:id="gewinner-heinrich">
                <persName>
                   <surname>Gewinner</surname>
@@ -6531,10 +6531,10 @@
                   <placeName>Linz, Pfarre St. Matthias</placeName>
                </death>
                <occupation>Verwaltungsjurist</occupation>
-               <occupation>Justiziar u. Landgerichtsverwalter der Herrschaft Pöchlarn 
-                  (anläßlich seiner Eheschließung 1833 in Pöchlarn)</occupation>
+               <occupation>Justiziar u. Landgerichtsverwalter der Herrschaft Pöchlarn (anläßlich
+                  seiner Eheschließung 1833 in Pöchlarn)</occupation>
                <occupation>Privatier (anläßlich seines Todes)</occupation>
-               </person>
+            </person>
             <person xml:id="titze-franz-nicolaus">
                <persName>
                   <surname>Titze</surname>
@@ -6551,7 +6551,7 @@
                <occupation>Historiker</occupation>
                <occupation>Universitätsprofessor in Prag, dann in Wien</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/100642985</idno>
-               </person>
+            </person>
             <person xml:id="oberleitner-carl">
                <persName>
                   <surname>Oberleitner</surname>
@@ -6568,7 +6568,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Finanzbeamter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11707697X</idno>
-               </person>
+            </person>
             <person xml:id="blucher-ephraim-israel">
                <persName>
                   <surname>Blücher</surname>
@@ -6930,14 +6930,14 @@
                </persName>
                <birth>
                   <date when="1799-04-03">03.04.1799</date>
-                  <placeName>Lipník nad Bečvou</placeName>
+                  <placeName>Leipnik/Mähren</placeName>
                </birth>
                <death>
                   <date when="1849-08-19">19.08.1849</date>
                   <placeName>Wien</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50192/</idno>
-               <idno type="paas">50192</idno>
+               <occupation>Pädagoge</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1344254357</idno>
             </person>
             <person xml:id="kollar-jan">
                <persName>
@@ -6946,7 +6946,7 @@
                </persName>
                <birth>
                   <date when="1793-07-29">29.07.1793</date>
-                  <placeName>Mošovce</placeName>
+                  <placeName>Moschotz/Oberungarn</placeName>
                </birth>
                <death>
                   <date when="1852-01-24">24.01.1852</date>
@@ -6964,15 +6964,14 @@
                </persName>
                <birth>
                   <date when="1798-12-16">16.12.1798</date>
-                  <placeName>Trebitsch</placeName>
+                  <placeName>Trebitsch/Mähren</placeName>
                </birth>
                <death>
                   <date when="1879-12-16">16.12.1879</date>
-                  <placeName>Trebitsch</placeName>
+                  <placeName>Trebitsch/Mähren</placeName>
                </death>
-               <occupation>Rabbiner in Trebitsch/Mähren</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50168/</idno>
-               <idno type="paas">50168</idno>
+               <occupation>Rabbiner in Trebitsch</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/142104345</idno>
             </person>
             <person xml:id="lepsius-karl-richard">
                <persName>
@@ -6981,22 +6980,18 @@
                </persName>
                <birth>
                   <date when="1810-12-23">23.12.1810</date>
-                  <placeName>Naumburg</placeName>
+                  <placeName>Naumburg an der Saale</placeName>
                </birth>
                <death>
                   <date when="1884-07-10">10.07.1884</date>
+                  <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3658" scheme="#apis_vocabularies/professiontype/"
-                  >Bibliothekar</occupation>
-               <occupation code="#3681" scheme="#apis_vocabularies/professiontype/"
-                  >Ägyptologe</occupation>
-               <occupation code="#3726" scheme="#apis_vocabularies/professiontype/"
-                  >Museumsdirektor</occupation>
+               <occupation>Philologe</occupation>
+               <occupation>Bibliothekar</occupation>
+               <occupation>Ägyptologe</occupation>
+               <occupation>Museumsdirektor</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118727699</idno>
-               <idno type="paas">3897</idno>
-            </person>
+               </person>
             <person xml:id="seyffarth-gustav">
                <persName>
                   <surname>Seyffarth</surname>
@@ -7004,20 +6999,16 @@
                </persName>
                <birth>
                   <date when="1796-07-13">13.07.1796</date>
-                  <placeName>Uebigau-Wahrenbrück</placeName>
+                  <placeName>Uebigau-Wahrenbrück/Süd-Brandenburg</placeName>
                </birth>
                <death>
                   <date when="1885-11-17">17.11.1885</date>
                   <placeName>New York City</placeName>
                </death>
-               <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
-                  >Archäologe</occupation>
-               <occupation code="#3681" scheme="#apis_vocabularies/professiontype/"
-                  >Ägyptologe</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50216/</idno>
+               <occupation>Archäologe</occupation>
+               <occupation>Ägyptologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117459666</idno>
-               <idno type="paas">50216</idno>
-            </person>
+               </person>
             <person xml:id="rau-karl-heinrich">
                <persName>
                   <surname>Rau</surname>
@@ -7029,14 +7020,12 @@
                </birth>
                <death>
                   <date when="1870-03-18">18.03.1870</date>
+                  <placeName>Heidelberg</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3728" scheme="#apis_vocabularies/professiontype/"
-                  >Wirtschaftswissenschaftler</occupation>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Wirtschaftswissenschaftler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118787942</idno>
-               <idno type="paas">5218</idno>
-            </person>
+               </person>
             <person xml:id="baumgartner-franz">
                <persName>
                   <surname>Baumgartner</surname>
