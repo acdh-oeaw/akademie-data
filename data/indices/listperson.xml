@@ -9332,13 +9332,15 @@
                   <forename>Jean-Joseph</forename>
                </persName>
                <birth>
-                  <date when="1811-07-02">1811</date>
+                  <date when="1811-07-19">19.07.1811</date>
+                  <placeName>Lontzen, Prov. Lüttich/Belgien</placeName>
                </birth>
                <death>
-                  <date when="1886-07-02">1886</date>
+                  <date when="1886-09-20">20.09.1886</date>
+                  <placeName>Stavelot, Prov. Lüttich/Belgien</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50521/</idno>
-               <idno type="paas">50521</idno>
+               <occupation>Professor am Priesterseminar in Rolduc</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1055692576</idno>
             </person>
             <person xml:id="neubauer-ernst-rudolf-vinzenz">
                <persName>
@@ -9347,22 +9349,18 @@
                </persName>
                <birth>
                   <date when="1822-04-14">14.04.1822</date>
+                  <placeName>Iglau/Mähren</placeName>
                </birth>
                <death>
                   <date when="1890-05-04">04.05.1890</date>
+                  <placeName>Radautz/Bukowina</placeName>
                </death>
-               <occupation code="#3400" scheme="#apis_vocabularies/professiontype/"
-                  >Verleger</occupation>
-               <occupation code="#3663" scheme="#apis_vocabularies/professiontype/"
-                  >Gymnasiallehrer</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3768" scheme="#apis_vocabularies/professiontype/"
-                  >Lyriker</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50520/</idno>
+               <occupation>Verleger</occupation>
+               <occupation>Gymnasiallehrer</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Lyriker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116945591</idno>
-               <idno type="paas">50520</idno>
-            </person>
+               </person>
             <person xml:id="burger-honorius">
                <persName>
                   <surname>Burger</surname>
@@ -9376,13 +9374,10 @@
                   <date when="1878-07-21">21.07.1878</date>
                   <placeName>Altenburg</placeName>
                </death>
-               <occupation code="#3711" scheme="#apis_vocabularies/professiontype/">Katholischer
-                  Theologe</occupation>
-               <occupation code="#3951" scheme="#apis_vocabularies/professiontype/">Abt</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50555/</idno>
+               <occupation>Katholischer Theologe</occupation>
+               <occupation>Abt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/129063533</idno>
-               <idno type="paas">50555</idno>
-            </person>
+               </person>
             <person xml:id="schopper-valentin">
                <persName>
                   <surname>Schopper</surname>
@@ -9390,19 +9385,16 @@
                </persName>
                <birth>
                   <date when="1771-09-09">09.09.1771</date>
-                  <placeName>Horní Dvǒriště</placeName>
+                  <placeName>Oberhaid/Böhmen</placeName>
                </birth>
                <death>
                   <date when="1857-09-05">05.09.1857</date>
-                  <placeName>České Budějovice</placeName>
+                  <placeName>Böhmisch-Budweis/Böhmen</placeName>
                </death>
-               <occupation code="#3787" scheme="#apis_vocabularies/professiontype/"
-                  >Ordenspriester</occupation>
-               <occupation code="#3951" scheme="#apis_vocabularies/professiontype/">Abt</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50554/</idno>
+               <occupation>Ordenspriester</occupation>
+               <occupation>Abt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1032422920</idno>
-               <idno type="paas">50554</idno>
-            </person>
+               </person>
             <person xml:id="somerau-beeckh-maximilian-joseph">
                <persName>
                   <surname>Somerau-Beeckh</surname>
@@ -9418,14 +9410,10 @@
                   <date when="1853-03-31">31.03.1853</date>
                   <placeName>Olmütz</placeName>
                </death>
-               <occupation code="#3711" scheme="#apis_vocabularies/professiontype/">Katholischer
-                  Theologe</occupation>
-               <occupation code="#3953" scheme="#apis_vocabularies/professiontype/"
-                  >Kardinal</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50553/</idno>
+               <occupation>Katholischer Theologe</occupation>
+               <occupation>Kardinal</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104377062</idno>
-               <idno type="paas">50553</idno>
-            </person>
+               </person>
             <person xml:id="laurin-anton">
                <persName>
                   <forename>Anton</forename>
@@ -9434,11 +9422,12 @@
                </persName>
                <birth>
                   <date when="1789-01-21">21.1.1789</date>
-                  <placeName>Vipava</placeName>
+                  <placeName>Wippach/Küstenland</placeName>
                </birth>
                <death>
                   <date when="1869-06-12">12.06.1869</date>
-                  <placeName>Mailand</placeName></death>
+                  <placeName>Mailand</placeName>
+               </death>
                <occupation>Diplomat, Generalkonsul in Kairo</occupation>
                <occupation>Ägyptologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1156042089</idno>
@@ -9496,16 +9485,11 @@
                   <date when="1867-08-28">28.08.1867</date>
                   <placeName>Heidelberg</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3683" scheme="#apis_vocabularies/professiontype/"
-                  >Jurist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50662/</idno>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118844784</idno>
-               <idno type="paas">50662</idno>
-            </person>
+               </person>
             <person xml:id="fluck-von-leidenkron-josef-bruno">
                <persName>
                   <surname>Fluck von Leidenkron</surname>
@@ -9548,7 +9532,7 @@
                   <forename>Demetrios / Δημήτριος</forename>
                </persName>
                <birth>
-                  <date when="1760-07-01">1760</date>
+                  <date>1760</date>
                   <placeName>Athen</placeName>
                </birth>
                <death>
@@ -9565,12 +9549,15 @@
                </persName>
                <birth>
                   <date when="1822-10-05">05.10.1822</date>
+                  <placeName>Tschernositz/Böhmen</placeName>
                </birth>
                <death>
                   <date when="1904-01-16">16.01.1904</date>
+                  <placeName>(Prag-)Smichow</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50712/</idno>
-               <idno type="paas">50712</idno>
+               <occupation>Sprachwissenschaftlicher</occupation>
+               <occupation>Slawist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1056132477</idno>
             </person>
             <person xml:id="franzl-fraenzl-moriz-julius">
                <persName>
@@ -10888,8 +10875,10 @@
                   <date when="1869-01-15">15.01.1869</date>
                   <placeName>London</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52724/</idno>
-               <idno type="paas">52724</idno>
+               <occupation>Archäologe</occupation>
+               <occupation>Antiquar</occupation>
+               <occupation>Biblithekar im British Museum</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/100790615</idno>
             </person>
             <person xml:id="hermann-heinrich">
                <persName>
@@ -10904,16 +10893,11 @@
                   <date when="1865-01-29">29.01.1865</date>
                   <placeName>Klagenfurt</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3673" scheme="#apis_vocabularies/professiontype/"
-                  >Priester</occupation>
-               <occupation code="#4091" scheme="#apis_vocabularies/professiontype/"
-                  >Domkapitular</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52725/</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Priester</occupation>
+               <occupation>Domkapitular</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/12362214X</idno>
-               <idno type="paas">52725</idno>
-            </person>
+               </person>
             <person xml:id="muller-wilhelm-konrad-hermann">
                <persName>
                   <surname>Müller</surname>
@@ -10961,16 +10945,11 @@
                   <date when="1878-10-19">19.10.1878</date>
                   <placeName>Padua</placeName>
                </death>
-               <occupation code="#3656" scheme="#apis_vocabularies/professiontype/"
-                  >Geograf</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3741" scheme="#apis_vocabularies/professiontype/"
-                  >Redakteur</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/52728/</idno>
+               <occupation>Geograf</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Redakteur</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/130479179</idno>
-               <idno type="paas">52728</idno>
-            </person>
+               </person>
             <person xml:id="zardetti-carlo">
                <persName>
                   <surname>Zardetti</surname>
@@ -10984,6 +10963,9 @@
                   <date when="1849-03-22">22.03.1849</date>
                   <placeName>Mailand</placeName>
                </death>
+               <occupation>Archäologe</occupation>
+               <occupation>Numismatiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1157848575</idno>
             </person>
             <person xml:id="thomson-christian-jurgensen">
                <persName>
