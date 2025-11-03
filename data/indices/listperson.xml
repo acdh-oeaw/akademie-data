@@ -1,3 +1,4 @@
+
 <?xml-stylesheet type="text/xsl" href="listperson.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ga_listperson">
    <teiHeader>
@@ -8544,13 +8545,9 @@
                   <date when="1888-04-18">18.04.1888</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3900" scheme="#apis_vocabularies/professiontype/"
-                  >Unternehmer</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50537/</idno>
+               <occupation>Politiker</occupation>
+               <occupation>Unternehmer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116766549</idno>
-               <idno type="paas">50537</idno>
             </person>
             <person xml:id="al-ghani-al-nabulusi-abd">
                <persName>
@@ -8587,19 +8584,16 @@
                </persName>
                <birth>
                   <date when="1810-07-18">18.07.1810</date>
+                  <placeName>Wien</placeName>
                </birth>
                <death>
                   <date when="1886-07-04">04.07.1886</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3400" scheme="#apis_vocabularies/professiontype/"
-                  >Verleger</occupation>
-               <occupation code="#4074" scheme="#apis_vocabularies/professiontype/"
-                  >Kunsthändler</occupation>
-               <occupation code="#4127" scheme="#apis_vocabularies/professiontype/"
-                  >Musikalienhändler</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50484/</idno>
+               <occupation>Verleger</occupation>
+               <occupation>Kunsthändler</occupation>
+               <occupation>Musikalienhändler</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/13230287X</idno>
-               <idno type="paas">50484</idno>
             </person>
             <person xml:id="boczek-bocek-anton">
                <persName>
@@ -8608,7 +8602,7 @@
                </persName>
                <birth>
                   <date when="1802-05-20">20.05.1802</date>
-                  <placeName>Bystřice nad Pernštejnem</placeName>
+                  <placeName>Bistritz ob Pernstein/Mähren</placeName>
                </birth>
                <death>
                   <date when="1847-01-13">13.01.1847</date>
@@ -8626,30 +8620,28 @@
                </persName>
                <birth>
                   <date when="1805-07-02">02.07.1805</date>
+                  <placeName>Brüssel</placeName>
                </birth>
                <death>
                   <date when="1851-03-16">16.03.1851</date>
+                  <placeName>Antwerpen</placeName>
                </death>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50486/</idno>
+               <occupation>Historiker</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116229349</idno>
-               <idno type="paas">50486</idno>
             </person>
             <person xml:id="boyer-xavier">
                <persName>
                   <surname>Boyer</surname>
-                  <forename>Marie Francois Xavier Valentin</forename>
+                  <forename>(Marie François) Xavier (Valentin)</forename>
                </persName>
                <birth>
                   <date when="1801-02-28">28.02.1801</date>
-                  <placeName>Colmar</placeName>
+                  <placeName>Colmar/Elsaß</placeName>
                </birth>
                <death>
                   <date when="1863-07-11">11.07.1863</date>
-                  <placeName>Colmar</placeName>
+                  <placeName>Colmar/Elsaß</placeName>
                </death>
                <occupation>Historiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1157577733</idno>
@@ -8662,7 +8654,7 @@
                </persName>
                <birth>
                   <date when="1802-10-06">06.10.1802</date>
-                  <placeName>Tokay</placeName>
+                  <placeName>Tokey/Ungarn</placeName>
                </birth>
                <death>
                   <date when="1863-08-29">29.08.1863</date>
@@ -8678,23 +8670,18 @@
                </persName>
                <birth>
                   <date when="1388-08-10">10.08.1388</date>
+                  <placeName>Haselbach/Niederösterreich</placeName>
                </birth>
                <death>
                   <date when="1464-01-12">12.01.1464</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3625" scheme="#apis_vocabularies/professiontype/"
-                  >Hochschullehrer</occupation>
-               <occupation code="#3682" scheme="#apis_vocabularies/professiontype/"
-                  >Diplomat</occupation>
-               <occupation code="#3850" scheme="#apis_vocabularies/professiontype/"
-                  >Pfarrer</occupation>
-               <occupation code="#3857" scheme="#apis_vocabularies/professiontype/"
-                  >Geschichtsschreiber</occupation>
-               <occupation code="#3949" scheme="#apis_vocabularies/professiontype/"
-                  >Gelehrter</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50489/</idno>
+               <occupation>Hochschullehrer</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Pfarrer</occupation>
+               <occupation>Geschichtsschreiber</occupation>
+               <occupation>Gelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118681516</idno>
-               <idno type="paas">50489</idno>
             </person>
             <person xml:id="eichthal-gustave">
                <persName>
@@ -8704,19 +8691,16 @@
                </persName>
                <birth>
                   <date when="1804-03-22">22.03.1804</date>
+                  <placeName>Nancy/Lothringen</placeName>
                </birth>
                <death>
                   <date when="1886-04-09">09.04.1886</date>
+                  <placeName>Paris</placeName>
                </death>
-               <occupation code="#3639" scheme="#apis_vocabularies/professiontype/"
-                  >Theologe</occupation>
-               <occupation code="#3654" scheme="#apis_vocabularies/professiontype/"
-                  >Ethnologe</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50490/</idno>
+               <occupation>Theologe</occupation>
+               <occupation>Ethnologe</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116418222</idno>
-               <idno type="paas">50490</idno>
             </person>
             <person xml:id="talbot-william-henry-fox">
                <persName>
@@ -8725,17 +8709,15 @@
                </persName>
                <birth>
                   <date when="1800-02-11">11.02.1800</date>
+                  <placeName>Dorset/England</placeName>
                </birth>
                <death>
                   <date when="1877-09-17">17.09.1877</date>
+                  <placeName>Wiltshire/England</placeName>
                </death>
-               <occupation code="#3722" scheme="#apis_vocabularies/professiontype/"
-                  >Fotograf</occupation>
-               <occupation code="#3931" scheme="#apis_vocabularies/professiontype/"
-                  >Erfinder</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50491/</idno>
+               <occupation>Fotograf</occupation>
+               <occupation>Erfinder</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118753851</idno>
-               <idno type="paas">50491</idno>
             </person>
             <person xml:id="jobard-jean-baptiste-ambroise-marcellin">
                <persName>
@@ -8744,21 +8726,17 @@
                </persName>
                <birth>
                   <date when="1792-05-14">14.05.1792</date>
+                  <placeName>Baissey, Dep. Haute-Marne/Frankreich</placeName>
                </birth>
                <death>
                   <date when="1861-07-02">1861</date>
+                  <placeName>Brüssel</placeName>
                </death>
-               <occupation code="#3722" scheme="#apis_vocabularies/professiontype/"
-                  >Fotograf</occupation>
-               <occupation code="#3800" scheme="#apis_vocabularies/professiontype/"
-                  >Künstler</occupation>
-               <occupation code="#3880" scheme="#apis_vocabularies/professiontype/"
-                  >Lithograf</occupation>
-               <occupation code="#3900" scheme="#apis_vocabularies/professiontype/"
-                  >Unternehmer</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50503/</idno>
+               <occupation>Fotograf</occupation>
+               <occupation>Künstler</occupation>
+               <occupation>Lithograf</occupation>
+               <occupation>Unternehmer</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/142300276</idno>
-               <idno type="paas">50503</idno>
             </person>
             <person xml:id="kaisermayr-carl-karl-johannes">
                <persName>
@@ -8767,11 +8745,11 @@
                </persName>
                <birth>
                   <date when="1777-04-02">02.04.1777 (Tauftag)</date>
-                  <placeName>(Waizenkirchen-)Sittling</placeName>
+                  <placeName>(Waizenkirchen-)Sittling/Oberösterreich</placeName>
                </birth>
                <death>
                   <date when="1852-05-05">05.05.1852</date>
-                  <placeName>Lambach</placeName>
+                  <placeName>Lambach/Oberösterreich</placeName>
                </death>
                <occupation>Abt (Administrator) des Stiftes Lambach (1820-1852)</occupation>
                <occupation>Archivar</occupation>
@@ -8783,7 +8761,7 @@
                </persName>
                <birth>
                   <date when="1804-01-11">11.01.1804</date>
-                  <placeName>Hofkirchen</placeName></birth>
+                  <placeName>Hofkirchen an der Trattnach/Oberösterreich</placeName></birth>
                <death>
                   <date when="1861-06-22">22.06.1861</date>
                   <placeName>Wien</placeName>
@@ -8802,15 +8780,15 @@
                </persName>
                <birth>
                   <date when="1775-10-14">14.10.1775</date>
+                  <placeName>Haslach/Baden</placeName>
                </birth>
                <death>
                   <date when="1854-10-31">31.10.1854</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3766" scheme="#apis_vocabularies/professiontype/"
-                  >Hofrat</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50508/</idno>
+               <occupation>Hofrat</occupation>
+               <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/101672624</idno>
-               <idno type="paas">50508</idno>
             </person>
             <person xml:id="wessely-wessely-hartwig-naphtali-herz">
                <persName>
@@ -8825,10 +8803,9 @@
                   <date when="1805-02-28">28.02.1805</date>
                   <placeName>Hamburg</placeName>
                </death>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50551/</idno>
-               <idno type="paas">50551</idno>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Dichter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119178583</idno>
             </person>
             <person xml:id="timoni-franz">
                <persName>
@@ -8843,7 +8820,7 @@
                </birth>
                <death>
                   <date when="1865-11-13">13.11.1865</date>
-                  <placeName>(Wien-)Hietzing</placeName>
+                  <placeName>(Wien-)Hietzing, Pfarre Maria Hietzing</placeName>
                </death>
                <occupation>Münzsammler</occupation>
             </person>
@@ -9360,7 +9337,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Lyriker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116945591</idno>
-               </person>
+            </person>
             <person xml:id="burger-honorius">
                <persName>
                   <surname>Burger</surname>
@@ -9377,7 +9354,7 @@
                <occupation>Katholischer Theologe</occupation>
                <occupation>Abt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/129063533</idno>
-               </person>
+            </person>
             <person xml:id="schopper-valentin">
                <persName>
                   <surname>Schopper</surname>
@@ -9394,7 +9371,7 @@
                <occupation>Ordenspriester</occupation>
                <occupation>Abt</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1032422920</idno>
-               </person>
+            </person>
             <person xml:id="somerau-beeckh-maximilian-joseph">
                <persName>
                   <surname>Somerau-Beeckh</surname>
@@ -9413,7 +9390,7 @@
                <occupation>Katholischer Theologe</occupation>
                <occupation>Kardinal</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104377062</idno>
-               </person>
+            </person>
             <person xml:id="laurin-anton">
                <persName>
                   <forename>Anton</forename>
@@ -9489,7 +9466,7 @@
                <occupation>Politiker</occupation>
                <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118844784</idno>
-               </person>
+            </person>
             <person xml:id="fluck-von-leidenkron-josef-bruno">
                <persName>
                   <surname>Fluck von Leidenkron</surname>
@@ -10897,7 +10874,7 @@
                <occupation>Priester</occupation>
                <occupation>Domkapitular</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/12362214X</idno>
-               </person>
+            </person>
             <person xml:id="muller-wilhelm-konrad-hermann">
                <persName>
                   <surname>Müller</surname>
@@ -10949,7 +10926,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Redakteur</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/130479179</idno>
-               </person>
+            </person>
             <person xml:id="zardetti-carlo">
                <persName>
                   <surname>Zardetti</surname>
