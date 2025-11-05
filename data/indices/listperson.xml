@@ -17,6 +17,61 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="braun-alexander">
+               <persName>
+                  <forename>Alexander</forename>
+                  <addName>Prof. Dr.</addName>
+                  <surname>Braun</surname>
+               </persName>
+               <birth>
+                  <date when="1805-05-10">10.05.1805</date>
+                  <placeName>Regensburg</placeName>
+               </birth>
+               <death>
+                  <date when="1877-03-29">29.03.1877</date>
+                  <placeName>Berlin</placeName>
+               </death>
+               <occupation>Botaniker</occupation>
+               <occupation>Biologe</occupation>
+               <occupation>Paläontologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116415576</idno>
+            </person>
+            <person xml:id="helmholtz-hermann">
+               <persName>
+                  <forename>Hermann (Ludwig)</forename>
+                  <nameLink>von</nameLink>
+                  <addName>Prof. Dr. med. et Dr. phil. </addName>
+                  <surname>Helmholtz</surname>
+               </persName>
+               <birth>
+                  <date when="1821-08-31">31.08.1821</date>
+                  <placeName>Potsdam</placeName>
+               </birth>
+               <death>
+                  <date when="1894-09-08">08.09.1894</date>
+                  <placeName>Berlin</placeName></death>
+               <occupation>Physiker</occupation>
+               <occupation>Physiologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11854893X</idno>
+            </person>
+            <person xml:id="bleeker-pieter">
+               <persName>
+                  <forename>Pieter</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Bleeker</surname>
+               </persName>
+               <birth>
+                  <date when="1819-07-10">10.07.1819</date>
+                  <placeName>Zaandam/Niederlande</placeName>
+               </birth>
+               <death>
+                  <date when="1878-01-24">24.01.1878</date>
+                  <placeName>Den Haag</placeName>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Naturwissenschaftler (Ichthyologe)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116201207</idno>
+            </person>
             <person xml:id="qazwīnī-zakarīyā">
                <persName>
                   <forename>Zakarīyā Ibn-Muḥammad al-</forename>
@@ -3769,11 +3824,11 @@
             <person xml:id="mohl-julius">
                <persName>
                   <surname>Mohl</surname>
-                  <addName>von</addName>
+                  <addName>von (seit 1838)</addName>
                   <forename>Julius</forename>
                </persName>
                <birth>
-                  <date when="1799-10-25">25.10.1799</date>
+                  <date when="1800-10-25">25.10.1800</date>
                   <placeName>Stuttgart</placeName>
                </birth>
                <death>
