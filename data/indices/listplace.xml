@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="batavia">
+                    <placeName>Batavia</placeName>
+                    <placeName type="alt">Jakarta</placeName>
+                    <location>
+                        <geo>-6.21462 106.84513</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/1642911/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/64162-5</idno>
+                </place>
                 <place xml:id="haselbach">
                     <placeName>Haselbach</placeName>
                     <location>
