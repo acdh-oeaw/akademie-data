@@ -13342,12 +13342,24 @@
                <persName>
                   <surname>Montecuccoli</surname>
                   <nameLink>von</nameLink>
+                  <persName type="alt">von Montecuccoli-Laderchi</persName>
                   <forename>Albert</forename>
                </persName>
-            </person>
+               <birth>
+                  <date when="1802-06-30">30.06.1802</date>
+                  <placeName>Mitterau/Niederösterreich</placeName>
+               </birth>
+               <death>
+                  <date when="1852-08-19">19.08.1852</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>niederösterreichischer Landmarschall (1846-1848)</occupation>
+               <occupation>Verwaltungsbeamter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1023823330</idno>
+               </person>
             <person xml:id="hofmann-von-august-wilhelm">
                <persName>
                   <surname>Hofmann</surname>
+                  <nameLink>von (ab 1888)</nameLink>
                   <forename>August Wilhelm</forename>
                </persName>
                <birth>
