@@ -13383,8 +13383,21 @@
             <person xml:id="kolenati-friedrich">
                <persName>
                   <surname>Kolenati</surname>
+                  <addName>Prof. (seit 1848) Dr. (seit 1836)</addName>
                   <forename>Friedrich</forename>
                </persName>
+               <birth>
+                  <date when="1812-09-12">12.09.1812</date>
+                  <placeName>Prag</placeName>
+               </birth>
+               <death>
+                  <date when="1864-07-17">17.07.1864</date>
+                  <placeName>in einer Sennhütte auf dem Altvater/Mähren bzw. Oberschlesien</placeName>
+               </death>
+               <occupation>Zoologe</occupation>
+               <occupation>Botaniker</occupation>
+               <occupation>Mineraloge</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116314273</idno>
             </person>
             <person xml:id="klaps-jacob">
                <persName>
