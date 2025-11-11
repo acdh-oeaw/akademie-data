@@ -1,4 +1,3 @@
-
 <?xml-stylesheet type="text/xsl" href="listperson.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ga_listperson">
    <teiHeader>
@@ -17,6 +16,42 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="bruck-karl">
+               <persName>
+                  <forename>Karl Ludwig</forename>
+                  <nameLink>Ritter von (ab 1844), Freiherr von (seit 1849)</nameLink>
+                  <surname>Bruck</surname>
+               </persName>
+               <birth>
+                  <date when="1798-10-18">18.10.1798</date>
+                  <placeName>(Wuppertal-)Elberfeld</placeName>
+               </birth>
+               <death>
+                  <date when="1860-04-23">23.04.1860</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Kaufmann</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Finanzminister (1855-1860)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118857401</idno>
+            </person>
+            <person xml:id="goluchowski-agenor">
+               <persName>
+                  <forename>Agenor Romuald</forename>
+                  <nameLink>Graf von Gołuchowo</nameLink>
+                  <surname>Gołuchowski</surname>
+               </persName>
+               <birth>
+                  <date when="1812-02-08">08.02.1812</date>
+                  <placeName>Skała Podolska</placeName>
+               </birth>
+               <death>
+                  <date when="1875-08-03">03.08.1875</date>
+                  <placeName>Lemberg</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Statthalter in Galizien</occupation>
+               <occupation>Minister des Innern (1859/60)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11676516X</idno>
+            </person>
             <person xml:id="braun-alexander">
                <persName>
                   <forename>Alexander</forename>
