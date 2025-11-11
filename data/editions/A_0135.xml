@@ -301,9 +301,9 @@
 					<p rendition="#?22-78-100--536-2391" facs="#facs_1_region_1565014739023_1207" xml:id="p5" xml:space="preserve">
             <lb facs="#facs_1_region_1565014739023_1207l1" xml:id="z5"/>Anwesend: <choice><expan>Seine</expan><abbr>S<hi rend="super">ne</hi></abbr></choice> Excellenz der Präsident <choice><expan>Freiherr</expan><abbr>Freih<am>.</am></abbr></choice> <rs type="person" ref="#baumgartner-von-andreas">von Baumgartner</rs>
             <lb facs="#facs_1_region_1565014739023_1207l2" xml:id="z6"/>Der Vice-Präsident <rs type="person" ref="#karajan-von-theodor-georg">von Karajan</rs>.<lb facs="#facs_1_region_1565014739023_1207l3" xml:id="z7"/>Der Generalsecretär <rs type="person" ref="#schrotter-anton">Schrötter</rs>.<lb facs="#facs_1_region_1565014739023_1207l4" xml:id="z8"/>Der zweite Secretär <rs type="person" ref="#wolf-ferdinand">Wolf</rs>.</p>
-					<p rendition="#l" facs="#facs_1_region_1565014736386_1204" xml:id="p6" xml:space="preserve">
+					<p rendition="#fc" facs="#facs_1_region_1565014736386_1204" xml:id="p6" xml:space="preserve">
             <lb facs="#facs_1_region_1565014741348_1210l1" xml:id="z10"/>Die wirklichen Mitglieder</p>
-					<p rendition="#lc" facs="#facs_1_region_1565014744235_1213" xml:id="p8" xml:space="preserve">
+					<p rendition="#ll" facs="#facs_1_region_1565014744235_1213" xml:id="p8" xml:space="preserve">
             <lb facs="#facs_1_region_1565014744235_1213l1" xml:id="z11"/><rs type="person" ref="#zippe-franz-xaver">Zippe</rs>
             <lb facs="#facs_1_region_1565014744235_1213l2" xml:id="z12"/><rs type="person" ref="#arneth-joseph-calasanz">Arneth</rs>
             <lb facs="#facs_1_region_1565014744235_1213l3" xml:id="z13"/><rs type="person" ref="#stampfer-simon">Stampfer</rs>
@@ -321,7 +321,7 @@
             <lb facs="#facs_1_region_1565014744235_1213l16" xml:id="z25"/><rs type="person" ref="#fitzinger-leopold">Fitzinger</rs>
             <lb facs="#facs_1_region_1565014744235_1213l17" xml:id="z26"/><rs type="person" ref="#diemer-josef">Diemer</rs>
             <lb facs="#facs_1_region_1565014744235_1213l18" xml:id="z27"/><rs type="person" ref="#boue-ami">Boué</rs></p>
-					<p rendition="#r" facs="#facs_1_region_1565014747839_1216" xml:id="p9" xml:space="preserve">
+					<p rendition="#rl" facs="#facs_1_region_1565014747839_1216" xml:id="p9" xml:space="preserve">
             <lb facs="#facs_1_region_1565014747839_1216l1" xml:id="z28"/><rs type="person" ref="#diesing-carl-moritz">Diesing</rs>
             <lb facs="#facs_1_region_1565014747839_1216l2" xml:id="z29"/><rs type="person" ref="#rokitansky-von-karl">Rokitansky</rs>
             <lb facs="#facs_1_region_1565014747839_1216l3" xml:id="z30"/><rs type="person" ref="#skoda-josef">Skoda</rs>
@@ -346,27 +346,29 @@
 				<div xml:id="d4">
 					<p rendition="#f" facs="#facs_2_region_1565014880190_1234" xml:id="p10" xml:space="preserve">
             <lb facs="#facs_2_region_1565014880190_1234l1" xml:id="z45"/><num>967</num>. Note <choice><expan>Seiner</expan><abbr>S<hi rend="super">er</hi></abbr></choice> Exellenz 
-            <lb facs="#facs_2_region_1565014880190_1234l2" xml:id="z46"/>des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs type="person" ref="#">Minister</rs> des Innern,<lb facs="#facs_2_region_1565014880190_1234l3" xml:id="z47"/>durch welche die <choice><expan>kaiserlichen</expan><abbr>kaisl<am>.</am></abbr></choice> Akademie 
-            <lb facs="#facs_2_region_1565014880190_1234l4" xml:id="z48"/>von der allerhöchsten 
-            Ent-<lb facs="#facs_2_region_1565014880190_1234l5" xml:id="z49"/>schließung vom <num>27</num>. October 
-            <lb facs="#facs_2_region_1565014880190_1234l6" xml:id="z50"/>verständigt wird, des Inhaltes,<lb facs="#facs_2_region_1565014880190_1234l7" xml:id="z51"/>daß die Stelle eines 
-            Cura-<lb facs="#facs_2_region_1565014880190_1234l8" xml:id="z52"/>tors der <choice><expan>kaiserlichen</expan><abbr>kaisl<am>.</am></abbr></choice> Akademie 
-            <lb facs="#facs_2_region_1565014880190_1234l9" xml:id="z53"/>bis auf Weiteres 
-            unbe-<lb facs="#facs_2_region_1565014880190_1234l10" xml:id="z54"/>setzt zu bleiben hat, und 
+            <lb facs="#facs_2_region_1565014880190_1234l2" xml:id="z46"/>des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs type="person" ref="#goluchowski-agenor">Minister</rs> des Innern,
+			<lb facs="#facs_2_region_1565014880190_1234l3" xml:id="z47"/>durch welche die <choice><expan>kaiserlichen</expan><abbr>kaisl<am>.</am></abbr></choice> Akademie 
+            <lb facs="#facs_2_region_1565014880190_1234l4" xml:id="z48"/>von der allerhöchsten Ent-
+			<lb facs="#facs_2_region_1565014880190_1234l5" xml:id="z49"/>schließung vom <num>27</num>. October 
+            <lb facs="#facs_2_region_1565014880190_1234l6" xml:id="z50"/>verständigt wird, des Inhaltes,
+			<lb facs="#facs_2_region_1565014880190_1234l7" xml:id="z51"/>daß die Stelle eines Cura-
+			<lb facs="#facs_2_region_1565014880190_1234l8" xml:id="z52"/>tors der <choice><expan>kaiserlichen</expan><abbr>kaisl<am>.</am></abbr></choice> Akademie 
+            <lb facs="#facs_2_region_1565014880190_1234l9" xml:id="z53"/>bis auf Weiteres unbe-
+			<lb facs="#facs_2_region_1565014880190_1234l10" xml:id="z54"/>setzt zu bleiben hat, und 
             <lb facs="#facs_2_region_1565014880190_1234l11" xml:id="z55"/>daß alle die Gebahrung 
-            <lb facs="#facs_2_region_1565014880190_1234l12" xml:id="z56"/>und Verrechnung der 
-            der-<lb facs="#facs_2_region_1565014880190_1234l13" xml:id="z57"/>selben bewilligten 
-            Geld-<lb facs="#facs_2_region_1565014880190_1234l14" xml:id="z58"/>mittel betreffenden 
-            Ange-<lb facs="#facs_2_region_1565014880190_1234l15" xml:id="z59"/>legenheiten vom 
-            Ministe-<lb facs="#facs_2_region_1565014880190_1234l16" xml:id="z60"/>rium des Innern an das 
-            <lb facs="#facs_2_region_1565014880190_1234l17" xml:id="z61"/>Finanzministerium 
-            über-<lb facs="#facs_2_region_1565014880190_1234l18" xml:id="z62"/>tragen werden.</p>
+            <lb facs="#facs_2_region_1565014880190_1234l12" xml:id="z56"/>und Verrechnung der der-
+			<lb facs="#facs_2_region_1565014880190_1234l13" xml:id="z57"/>selben bewilligten Geld-
+			<lb facs="#facs_2_region_1565014880190_1234l14" xml:id="z58"/>mittel betreffenden Ange-
+			<lb facs="#facs_2_region_1565014880190_1234l15" xml:id="z59"/>legenheiten vom Ministe-
+			<lb facs="#facs_2_region_1565014880190_1234l16" xml:id="z60"/>rium des Innern an das 
+            <lb facs="#facs_2_region_1565014880190_1234l17" xml:id="z61"/>Finanzministerium über-
+			<lb facs="#facs_2_region_1565014880190_1234l18" xml:id="z62"/>tragen werden.</p>
 					<p rendition="#l" facs="#facs_2_region_1565014874355_1228" xml:id="p11" xml:space="preserve">
-            <lb facs="#facs_2_region_1565014882502_1237l1" xml:id="z64"/>Wird zur 
-            Wissen-<lb facs="#facs_2_region_1565014882502_1237l2" xml:id="z65"/>schaft genommen.</p>
+            <lb facs="#facs_2_region_1565014882502_1237l1" xml:id="z64"/>Wird zur Wissen-
+			<lb facs="#facs_2_region_1565014882502_1237l2" xml:id="z65"/>schaft genommen.</p>
 					<p rendition="#f" facs="#facs_2_region_1565014885125_1240" xml:id="p13" xml:space="preserve">
-            <lb facs="#facs_2_region_1565014885125_1240l1" xml:id="z66"/><num>856</num>. Dank des 
-            Universi-<lb facs="#facs_2_region_1565014885125_1240l2" xml:id="z67"/>täts-Consistoriums für 
+            <lb facs="#facs_2_region_1565014885125_1240l1" xml:id="z66"/><num>856</num>. Dank des Universi-
+			<lb facs="#facs_2_region_1565014885125_1240l2" xml:id="z67"/>täts-Consistoriums für 
             <lb facs="#facs_2_region_1565014885125_1240l4" xml:id="z68"/>die ihm zu Theil gewordene 
             <lb facs="#facs_2_region_1565014885125_1240l5" xml:id="z69"/>Erlaubniß den großen Saal</p>
 					</div>
@@ -376,7 +378,8 @@
 				<div xml:id="d6">
 					<p rendition="#f" facs="#facs_3_region_1565015024899_1264" xml:id="p15" xml:space="preserve">
             <lb facs="#facs_3_region_1565015024899_1264l1" xml:id="z71"/>im Akademie-Gebäude 
-            <lb facs="#facs_3_region_1565015024899_1264l2" xml:id="z72"/>zu den jährlicher Rectors-<lb facs="#facs_3_region_1565015024899_1264l3" xml:id="z73"/>Inaugurationen und zu der 
+            <lb facs="#facs_3_region_1565015024899_1264l2" xml:id="z72"/>zu den jährlicher Rectors-
+			<lb facs="#facs_3_region_1565015024899_1264l3" xml:id="z73"/>Inaugurationen und zu der 
             <lb facs="#facs_3_region_1565015024899_1264l4" xml:id="z74"/>verfloßenen Schillerfeier 
             <lb facs="#facs_3_region_1565015024899_1264l5" xml:id="z75"/>der Universität zu 
             be-<lb facs="#facs_3_region_1565015024899_1264l6" xml:id="z76"/>nützen.</p>
@@ -386,9 +389,10 @@
 					<p rendition="#?10-88-98--141-1432" facs="#facs_3_region_1565015030563_1270" xml:id="p17" xml:space="preserve">
             <lb facs="#facs_3_region_1565015030563_1270l1" xml:id="z79"/><num>888</num>. Commissionsbericht der 
             <lb facs="#facs_3_region_1565015030563_1270l2" xml:id="z80"/>Herren <rs type="person" ref="#bergmann-joseph">Bergmann</rs>, <rs type="person" ref="#diemer-josef">Diemer</rs>,<lb facs="#facs_3_region_1565015030563_1270l3" xml:id="z81"/><rs type="person" ref="#fenzl-eduard">Fenzl</rs>, <rs type="person" ref="#littrow-von-karl">von Littrow</rs> und 
-            <lb facs="#facs_3_region_1565015030563_1270l4" xml:id="z82"/><rs type="person" ref="#">Schrötter</rs> über die Frage,<lb facs="#facs_3_region_1565015030563_1270l5" xml:id="z83"/>ob die fernere Benützung 
-            <lb facs="#facs_3_region_1565015030563_1270l7" xml:id="z84"/>des Saales im <num>2</num><hi rend="super">ten</hi> 
-            Stock-<lb facs="#facs_3_region_1565015030563_1270l8" xml:id="z85"/>werke zur Abhaltung 
+            <lb facs="#facs_3_region_1565015030563_1270l4" xml:id="z82"/><rs type="person" ref="#schrotter-anton">Schrötter</rs> über die Frage,
+			<lb facs="#facs_3_region_1565015030563_1270l5" xml:id="z83"/>ob die fernere Benützung 
+            <lb facs="#facs_3_region_1565015030563_1270l7" xml:id="z84"/>des Saales im <num>2</num><hi rend="super">ten</hi> Stock-
+			<lb facs="#facs_3_region_1565015030563_1270l8" xml:id="z85"/>werke zur Abhaltung 
             <lb facs="#facs_3_region_1565015030563_1270l9" xml:id="z86"/>von naturwissenschaftlichen 
             <lb facs="#facs_3_region_1565015030563_1270l10" xml:id="z87"/>Montagsvorträgen unter 
             <lb facs="#facs_3_region_1565015030563_1270l11" xml:id="z88"/>den gleichen Begünstigungen 
@@ -407,8 +411,8 @@
 				<pb n="" facs="#facs_4" xml:id="pag4"/>
 				<div xml:id="d8">
 					<p rendition="#?15-84-99--227-1532" facs="#facs_4_region_1565015166918_1300" xml:id="p21" xml:space="preserve">
-            <lb facs="#facs_4_region_1565015166918_1300l1" xml:id="z97"/><num>946</num>. <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> Director Karl von
-            <lb facs="#facs_4_region_1565015166918_1300l2" xml:id="z98"/><rs type="person" ref="#littrow-von-karl">Littrow</rs> stellt das Ansuchen 
+            <lb facs="#facs_4_region_1565015166918_1300l1" xml:id="z97"/><num>946</num>. <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> Director Karl <rs type="person" ref="#littrow-von-karl">von
+            <lb facs="#facs_4_region_1565015166918_1300l2" xml:id="z98"/>Littrow</rs> stellt das Ansuchen 
             <lb facs="#facs_4_region_1565015166918_1300l3" xml:id="z99"/>dem <num>2</num><hi rend="super">ten</hi> Amtsdiener der 
             <lb facs="#facs_4_region_1565015166918_1300l4" xml:id="z100"/><choice><expan/><abbr>k<am>.</am> k<am>.</am></abbr></choice> Sternwarte eine 
             <lb facs="#facs_4_region_1565015166918_1300l5" xml:id="z101"/>im hinteren Theile des 
@@ -423,7 +427,7 @@
             <lb facs="#facs_4_region_1565015168914_1303l1" xml:id="z110"/>Wird unter obiger 
             <lb facs="#facs_4_region_1565015168914_1303l2" xml:id="z111"/>Bedingung genehmigt.</p>
 					<p rendition="#?14-86-99--209-1532" facs="#facs_4_region_1565015173486_1306" xml:id="p24" xml:space="preserve">
-            <lb facs="#facs_4_region_1565015173486_1306l1" xml:id="z112"/><num>921</num>.Gesuch der Beamten 
+            <lb facs="#facs_4_region_1565015173486_1306l1" xml:id="z112"/><num>921</num>. Gesuch der Beamten 
             <lb facs="#facs_4_region_1565015173486_1306l2" xml:id="z113"/>des <choice><expan>kaiserlich-königlichen</expan><abbr>k<am>.</am> k<am>.</am></abbr></choice> Universal-Ca-<lb facs="#facs_4_region_1565015173486_1306l3" xml:id="z114"/>meral-Zahlamtes um 
             <lb facs="#facs_4_region_1565015173486_1306l5" xml:id="z115"/>die Genehmigung der 
             <lb facs="#facs_4_region_1565015173486_1306l6" xml:id="z116"/>üblichen Remuneration.</p>
@@ -443,35 +447,31 @@
             <lb facs="#facs_5_region_1565015289167_1324l1" xml:id="z125"/>Gehalts-Vorschuß von 
             <lb facs="#facs_5_region_1565015289167_1324l2" xml:id="z126"/><num>50</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice> <choice><expan>Österreichische Währung</expan><abbr>Ö<am>.</am>W<am>.</am></abbr></choice> gegen 
             Rück-<lb facs="#facs_5_region_1565015289167_1324l3" xml:id="z127"/>zahlung in monatlichen 
-            <lb facs="#facs_5_region_1565015289167_1324l4" xml:id="z128"/>Raten à <num>4</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice> <num>16</num> <choice><expan>Kronen</expan><abbr>kr<am>.</am></abbr></choice> <choice><expan>Österreichische Währung</expan><abbr>Ö<am>.</am>W<am>.</am></abbr></choice>
+            <lb facs="#facs_5_region_1565015289167_1324l4" xml:id="z128"/>Raten à <num>4</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice> <num>16</num> <choice><expan>Kreuzer</expan><abbr>kr<am>.</am></abbr></choice> <choice><expan>Österreichische Währung</expan><abbr>Ö<am>.</am>W<am>.</am></abbr></choice>
             <lb facs="#facs_5_region_1565015289167_1324l5" xml:id="z129"/>vom <num>1</num>. December <choice><expan>dieses</expan><abbr>d<am>.</am></abbr></choice> <choice><expan>Jahres</expan><abbr>J<am>.</am></abbr></choice> 
             an-<lb facs="#facs_5_region_1565015289167_1324l6" xml:id="z130"/>gefangen.</p>
 					<p rendition="#f" facs="#facs_5_region_1565015291163_1327" xml:id="p30" xml:space="preserve">
             <lb facs="#facs_5_region_1565015291163_1327l1" xml:id="z131"/>Wird bewilligt.</p>
 					<p rendition="#?15-85-100--227-1554" facs="#facs_5_region_1565015299684_1336" xml:id="p31" xml:space="preserve">
-            <lb facs="#facs_5_region_1565015299684_1336l1" xml:id="z132"/>Gesuch des 
+            <lb facs="#facs_5_region_1565015293005_1330l1" xml:id="z138"/><num>959</num>. Gesuch des 
             Kanzleidie-<lb facs="#facs_5_region_1565015299684_1336l2" xml:id="z133"/>ners <rs type="person" ref="#vetter-heinrich">Vetter</rs> um einen 
             Ge-<lb facs="#facs_5_region_1565015299684_1336l3" xml:id="z134"/>halts-Vorschluß von <num>100</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice>
             <lb facs="#facs_5_region_1565015299684_1336l4" xml:id="z135"/><choice><expan>Österreichische Währung</expan><abbr>Ö<am>.</am>W<am>.</am></abbr></choice> rückzahlbar in Raten 
-            <lb facs="#facs_5_region_1565015299684_1336l5" xml:id="z136"/>à <num>5</num> <choice><expan>Gulden</expan><abbr>fr</abbr></choice> der monatlich von 
+            <lb facs="#facs_5_region_1565015299684_1336l5" xml:id="z136"/>à <num>5</num> <choice><expan>Gulden</expan><abbr>fr</abbr></choice> monatlich von 
             <lb facs="#facs_5_region_1565015299684_1336l6" xml:id="z137"/><num>1</num>. Jänner <num>1860</num> angefangen.</p>
 					<p rendition="#l" facs="#facs_5_region_1565015293005_1330" xml:id="p32" xml:space="preserve">
-            <lb facs="#facs_5_region_1565015293005_1330l1" xml:id="z138"/><num>959</num>.</p>
-					<p rendition="#?16-82-98--245-1518" facs="#facs_5_region_1565015302289_1339" xml:id="p33" xml:space="preserve">
             <lb facs="#facs_5_region_1565015302289_1339l1" xml:id="z139"/>Der Vorschuß eines 
             <lb facs="#facs_5_region_1565015302289_1339l2" xml:id="z140"/>vierteljährigen Gehaltes 
-            <lb facs="#facs_5_region_1565015302289_1339l3" xml:id="z141"/>im Betrage von <num>73</num><hi rend="super">.</hi><num>5</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice>
+            <lb facs="#facs_5_region_1565015302289_1339l3" xml:id="z141"/>im Betrage von <num>79</num><hi rend="super">.</hi><num>5</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice>
             <lb facs="#facs_5_region_1565015302289_1339l4" xml:id="z142"/>wird gegen Rückzahlung 
             <lb facs="#facs_5_region_1565015302289_1339l5" xml:id="z143"/>in <num>12</num> monatlichen Raten 
             <lb facs="#facs_5_region_1565015302289_1339l6" xml:id="z144"/>bewilliget.</p>
 					<p rendition="#?13-86-99--204-1536" facs="#facs_5_region_1565015304849_1342" xml:id="p34" xml:space="preserve">
-            <lb facs="#facs_5_region_1565015304849_1342l1" xml:id="z145"/>Gesuch des zweiten 
-            <lb facs="#facs_5_region_1565015304849_1342l2" xml:id="z146"/>Kanzlisten von <rs type="person" ref="#kammel-von-kampfthal-rudolf">Kammel</rs>
-            <lb facs="#facs_5_region_1565015304849_1342l3" xml:id="z147"/>um Gewährung einer 
-            Un-<lb facs="#facs_5_region_1565015304849_1342l4" xml:id="z148"/>terstützung.</p>
-					<p rendition="#l" facs="#facs_5_region_1565015294893_1333" xml:id="p35" xml:space="preserve">
-            <lb facs="#facs_5_region_1565015294893_1333l1" xml:id="z149"/><num>952</num>.</p>
-					<p rendition="#?16-84-100--245-1550" facs="#facs_5_region_1565015307033_1345" xml:id="p36" xml:space="preserve">
+            <lb facs="#facs_5_region_1565015304849_1342l1" xml:id="z145"/><num>952</num>. Gesuch des zweiten 
+            <lb facs="#facs_5_region_1565015304849_1342l2" xml:id="z146"/>Kanzlisten <rs type="person" ref="#kammel-von-kampfthal-rudolf">von Kammel</rs>
+            <lb facs="#facs_5_region_1565015304849_1342l3" xml:id="z147"/>um Gewährung einer Un-
+			<lb facs="#facs_5_region_1565015304849_1342l4" xml:id="z148"/>terstützung.</p>
+								<p rendition="#?16-84-100--245-1550" facs="#facs_5_region_1565015307033_1345" xml:id="p36" xml:space="preserve">
             <lb facs="#facs_5_region_1565015307033_1345l1" xml:id="z150"/>Eine Unterstützung von 
             <lb facs="#facs_5_region_1565015307033_1345l2" xml:id="z151"/><num>50</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice> wird bewilliget.</p>
 				</div>
@@ -480,11 +480,9 @@
 				<pb n="" facs="#facs_6" xml:id="pag6"/>
 				<div xml:id="d12">
 					<p rendition="#?16-83-99--240-1500" facs="#facs_6_region_1565015408398_1363" xml:id="p37" xml:space="preserve">
-            <lb facs="#facs_6_region_1565015408398_1363l1" xml:id="z152"/>Gesuch des ersten 
+            <lb facs="#facs_6_region_1565015408398_1363l1" xml:id="z152"/><num>960</num>. Gesuch des ersten 
             Kanz-<lb facs="#facs_6_region_1565015408398_1363l2" xml:id="z153"/>listen <rs type="person" ref="#beutel-johann">Beutel</rs> um eine 
             <lb facs="#facs_6_region_1565015408398_1363l3" xml:id="z154"/>Aushilfe.</p>
-					<p rendition="#l" facs="#facs_6_region_1565015405824_1360" xml:id="p38" xml:space="preserve">
-            <lb facs="#facs_6_region_1565015405824_1360l1" xml:id="z155"/><num>960</num>.</p>
 					<p rendition="#?16-84-100--250-1518" facs="#facs_6_region_1565015411301_1366" xml:id="p39" xml:space="preserve">
             <lb facs="#facs_6_region_1565015411301_1366l1" xml:id="z156"/>Ein Vorschluß von 
             <lb facs="#facs_6_region_1565015411301_1366l2" xml:id="z157"/><num>150</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice>; in <num>12</num> monatlichen 
@@ -494,7 +492,7 @@
             <lb facs="#facs_6_region_1565015411301_1366l6" xml:id="z161"/>bewilliget.</p>
 					<p rendition="#?10-87-96--150-1464" facs="#facs_6_region_1565015413564_1369" xml:id="p40" xml:space="preserve">
             <lb facs="#facs_6_region_1565015413564_1369l1" xml:id="z162"/>Schluß der Sitzung 
-            <lb facs="#facs_6_region_1565015413564_1369l2" xml:id="z163"/>um <num>6</num><hi rend="super"><num>3</num></hi>/<num>4</num> Uhr.</p>
+            <lb facs="#facs_6_region_1565015413564_1369l2" xml:id="z163"/>um <num>6</num> <num>3</num>/<num>4</num> Uhr.</p>
 					<p rendition="#r" facs="#facs_6_region_1565015415373_1372" xml:id="p41" xml:space="preserve">
             <lb facs="#facs_6_region_1565015415373_1372l2" xml:id="z164"/><rs type="person" ref="#baumgartner-von-andreas">Baumgartner</rs>
             <lb facs="#facs_6_region_1565015417510_1375l1" xml:id="z165"/><rs type="person" ref="#schrotter-anton">ASchrötter</rs></p>
