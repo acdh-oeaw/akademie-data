@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="aristoteles">
+               <persName>
+                  <surname>Aristoteles</surname>
+                  <persName type="alt">Ἀριστοτέλης</persName>
+               </persName>
+               <birth>
+                  <date>384 v. Chr.</date>
+                  <placeName>Stageira/Halbinsel Chalkidiki</placeName>
+               </birth>
+               <death>
+                  <date>322 v. Chr.</date>
+                  <placeName>Chalkis auf Euböa</placeName></death>
+               <occupation>Universalgelehrter</occupation>
+               <occupation>Philosoph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118650130</idno>
+            </person>
             <person xml:id="bruck-karl">
                <persName>
                   <forename>Karl Ludwig</forename>
@@ -1891,7 +1907,6 @@
                <persName>
                   <surname>Anakreon</surname>
                </persName>
-               <persName type="alt">Ἀνακρέων</persName>
                <persName type="alt">Anakréōn</persName>
                <birth>
                   <date>um 575/560 v. Chr.</date>
