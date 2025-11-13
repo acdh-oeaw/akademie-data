@@ -945,20 +945,16 @@
                     </location>
                     <idno type="URL">https://sws.geonames.org/3173435/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4037100-1</idno>
-                    <idno type="paas">39653</idno>
-                </place>
-                <place xml:id="jihlava">
-                    <placeName>Jihlava</placeName>
+                    </place>
+                <place xml:id="iglau">
+                    <placeName>Iglau</placeName>
                     <placeName type="alt" xml:lang="deu">Jihlava</placeName>
-                    <placeName type="alt" xml:lang="deu">Jihlava</placeName>
-                    <placeName type="alt" xml:lang="deu">Iglau</placeName>
                     <location>
                         <geo>49.3961 15.59124</geo>
                     </location>
-                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50673/</idno>
                     <idno type="URL">https://sws.geonames.org/3074199/</idno>
-                    <idno type="paas">50673</idno>
-                </place>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/040265153</idno>
+                    </place>
                 <place xml:id="tubingen">
                     <placeName>Tübingen</placeName>
                     <placeName type="alt" xml:lang="eng">Tübingen</placeName>
@@ -967,8 +963,7 @@
                     </location>
                     <idno type="URL">https://sws.geonames.org/2820860/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4061147-4</idno>
-                    <idno type="paas">11343</idno>
-                </place>
+                    </place>
                 <place xml:id="kairo">
                     <placeName>Kairo</placeName>
                     <placeName type="alt" xml:lang="eng">Cairo</placeName>
@@ -976,8 +971,7 @@
                         <geo>30.06263 31.24967</geo>
                     </location>
                     <idno type="URL">https://sws.geonames.org/360630/</idno>
-                    <idno type="paas">11353</idno>
-                </place>
+                    </place>
                 <place xml:id="antwerpen">
                     <placeName>Antwerpen</placeName>
                     <placeName type="alt" xml:lang="eng">Antwerp</placeName>
@@ -985,8 +979,7 @@
                         <geo>51.21989 4.40346</geo>
                     </location>
                     <idno type="URL">https://sws.geonames.org/2803138/</idno>
-                    <idno type="paas">11161</idno>
-                </place>
+                    </place>
                 <place xml:id="iraklio">
                     <placeName>Iraklio</placeName>
                     <placeName type="alt" xml:lang="eng">Heraklion</placeName>
@@ -994,8 +987,7 @@
                         <geo>35.32787 25.14341</geo>
                     </location>
                     <idno type="URL">https://sws.geonames.org/261745/</idno>
-                    <idno type="paas">11325</idno>
-                </place>
+                 </place>
                 <place xml:id="lemberg">
                     <placeName>Lemberg</placeName>
                     <placeName type="alt" xml:lang="None">L'viv</placeName>
@@ -1015,8 +1007,7 @@
                     </location>
                     <idno type="URL">https://sws.geonames.org/702550/</idno>
                     <idno subtype="GND" type="URL">https://d-nb.info/gnd/4035304-7</idno>
-                    <idno type="paas">29354</idno>
-                </place>
+                    </place>
                 <place xml:id="berlin">
                     <placeName>Berlin</placeName>
                     <placeName type="alt" xml:lang="eng">Berlin</placeName>
@@ -1024,24 +1015,20 @@
                         <geo>52.52437 13.41053</geo>
                     </location>
                     <idno type="URL">https://sws.geonames.org/2950159/</idno>
-                    <idno type="paas">11151</idno>
-                </place>
+                   </place>
                 <place xml:id="seckau">
                     <placeName>Seckau</placeName>
                     <location>
                         <geo>47.26667 14.78333</geo>
                     </location>
                     <idno type="URL">https://sws.geonames.org/2765335/</idno>
-                    <idno type="paas">11712</idno>
-                </place>
+                   </place>
                 <place xml:id="simancas">
                     <placeName>Simancas</placeName>
                     <location>
                         <geo>41.59072 -4.82796</geo>
                     </location>
-                    <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50675/</idno>
                     <idno type="URL">https://sws.geonames.org/3108917/</idno>
-                    <idno type="paas">50675</idno>
                 </place>
                 <place xml:id="gotha">
                     <placeName>Gotha</placeName>
