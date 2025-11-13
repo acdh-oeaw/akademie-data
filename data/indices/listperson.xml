@@ -16,6 +16,26 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="ochs-peter">
+               <persName>
+                  <surname>Ochs</surname>
+                  <addName>Dr. iur. (seit 1776)</addName>
+                  <forename>Peter</forename>
+               </persName>
+               <birth>
+                  <date when="1752-08-20">20.08.1752</date>
+                  <placeName>Nantes</placeName>
+               </birth>
+               <death>
+                  <date when="1821-06-19">19.06.1821</date>
+                  <placeName>Basel</placeName>
+               </death>
+               <occupation>Jurist</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Schriftsteller</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118735896</idno>
+               </person>
             <person xml:id="aristoteles">
                <persName>
                   <surname>Aristoteles</surname>
@@ -13165,12 +13185,6 @@
                   <surname>Alembert</surname>
                   <forename>de</forename>
                   <forename>Jean Le Rond</forename>
-               </persName>
-            </person>
-            <person xml:id="ochs-peter">
-               <persName>
-                  <surname>Ochs</surname>
-                  <forename>Peter</forename>
                </persName>
             </person>
             <person xml:id="ragusa-johannes">
