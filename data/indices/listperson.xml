@@ -16,6 +16,41 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="khlesl-melchior">
+               <persName>
+                  <surname>Khlesl</surname>
+                  <forename>Melchior</forename>
+               </persName>
+               <birth>
+                  <date when="1552-02-19">19.02.1559</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1630-09-18">18.09.1630</date>
+                  <placeName>Wiener Neustadt</placeName>
+               </death>
+               <occupation>Bischof von Wien (ab 1602)</occupation>
+               <occupation>Erster Minister Kaiser Matthias'</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119120712</idno>
+            </person>
+            <person xml:id="habsburg-matthias">
+               <persName>
+                  <surname>Habsburg</surname>
+                  <forename>Matthias, Kaiser</forename>
+               </persName>
+               <birth>
+                  <date when="1557-02-24">24.02.1557</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1619-03-20">20.03.1619</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Kaiser des Heiligen Römischen Reiches (ab 1612)</occupation>
+               <occupation>König von Ungarn und Kroatien(ab 1608)</occupation>
+               <occupation>König von Böhmen (ab 1611)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119400839</idno>
+            </person>
             <person xml:id="ochs-peter">
                <persName>
                   <surname>Ochs</surname>
@@ -35,7 +70,7 @@
                <occupation>Historiker</occupation>
                <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118735896</idno>
-               </person>
+            </person>
             <person xml:id="aristoteles">
                <persName>
                   <surname>Aristoteles</surname>
@@ -13419,7 +13454,7 @@
                <occupation>niederösterreichischer Landmarschall (1846-1848)</occupation>
                <occupation>Verwaltungsbeamter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1023823330</idno>
-               </person>
+            </person>
             <person xml:id="hofmann-von-august-wilhelm">
                <persName>
                   <surname>Hofmann</surname>
@@ -13456,7 +13491,8 @@
                </birth>
                <death>
                   <date when="1864-07-17">17.07.1864</date>
-                  <placeName>in einer Sennhütte auf dem Altvater/Mähren bzw. Oberschlesien</placeName>
+                  <placeName>in einer Sennhütte auf dem Altvater/Mähren bzw.
+                     Oberschlesien</placeName>
                </death>
                <occupation>Zoologe</occupation>
                <occupation>Botaniker</occupation>
