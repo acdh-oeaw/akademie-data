@@ -16,6 +16,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="winckler-anton">
+               <persName>
+                  <surname>Winckler</surname>
+                  <addName>Dr. phil. (1847)</addName>
+                  <forename>Anton</forename>
+               </persName>
+               <birth>
+                  <date when="1821-08-03">03.08.1821</date>
+                  <placeName>Riegel/Baden</placeName>
+               </birth>
+               <death>
+                  <date when="1892-08-30">30.08.1892</date>
+                  <placeName>Maria Schutz/Niederösterreich</placeName>
+               </death>
+               <occupation>Mathematiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117581712</idno>
+               </person>
             <person xml:id="schuh-franz">
                <persName>
                   <surname>Schuh</surname>
