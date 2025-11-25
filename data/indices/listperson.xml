@@ -16,6 +16,165 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="schuh-franz">
+               <persName>
+                  <surname>Schuh</surname>
+                  <forename>Franz</forename>
+               </persName>
+               <birth>
+                  <date when="1804-10-17">17.10.1804 (Tauftag)</date>
+                  <placeName>Scheibbs/Niederösterreich</placeName>
+               </birth>
+               <death>
+                  <date when="1865-12-22">22.12.1865</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Mediziner</occupation>
+               <occupation>Chirurg</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11764708X</idno>
+               </person>
+            <person xml:id="pitha-franz-von">
+               <persName>
+                  <surname>Pitha</surname>
+                  <addName>Freiherr von</addName>
+                  <addName>Dr. med. (1836)</addName>
+                  <addName>Dr. chir. (1837)</addName>
+                  <forename>Franz</forename>
+               </persName>
+               <birth>
+                  <date when="1798-10-16">16.10.1798</date>
+                  <placeName>Řakom/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1875-12-29">29.12.1875</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Mediziner</occupation>
+               <occupation>Chirurg</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117689580</idno>
+            </person>
+            <person xml:id="molin-raffaele">
+               <persName>
+                  <surname>Molin</surname>
+                  <forename>Raffaele</forename>
+               </persName>
+               <birth>
+                  <date when="1825-10-25">25.10.1825</date>
+                  <placeName>Zadar</placeName>
+               </birth>
+               <death>
+                  <date when="1887-06-29">29.06.1887</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Mediziner</occupation>
+               <occupation>Parasitologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1055105425</idno>
+            </person>
+            <person xml:id="czermak-johann-nepomuk">
+               <persName>
+                  <surname>Czermak</surname>
+                  <addName>Dr. med.</addName>
+                  <forename>Johann Nepomuk</forename>
+               </persName>
+               <birth>
+                  <date when="1828-06-17">17.06.1828</date>
+                  <placeName>Prag</placeName>
+               </birth>
+               <death>
+                  <date when="1873-09-17">17.09.1873</date>
+                  <placeName>Leipzig</placeName>
+               </death>
+               <occupation>Mediziner</occupation>
+               <occupation>Physiologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116776951</idno>
+            </person>
+            <person xml:id="stefan-josef">
+               <persName>
+                  <surname>Stefan</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <birth>
+                  <date when="1835-03-24">24.03.1835</date>
+                  <placeName>St. Peter bei Ebenthal (heute Stadtteil von Klagenfurt</placeName>
+               </birth>
+               <death>
+                  <date when="1893-01-07">07.01.1893</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Mathematiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119059096</idno>
+            </person>
+            <person xml:id="maury-matthew-fontaine">
+               <persName>
+                  <surname>Maury</surname>
+                  <forename>Matthew Fontaine</forename>
+               </persName>
+               <birth>
+                  <date when="1806-01-14">14.01.1806</date>
+                  <placeName>Spotsylvania/Virginia</placeName>
+               </birth>
+               <death>
+                  <date when="1873-02-01">01.02.1873</date>
+                  <placeName>Lexington/Virginia</placeName>
+               </death>
+               <occupation>Hydrograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116857986</idno>
+            </person>
+            <person xml:id="oppolzer-johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <nameLink>von (ab 1869)</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Oppolzer</surname>
+               </persName>
+               <birth>
+                  <date when="1808-08-04">04.08.1808</date>
+                  <placeName>Gratzen/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1871-04-16">16.04.1871</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Internist</occupation>
+               <occupation>Mediziner</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117139270</idno>
+            </person>
+            <person xml:id="wedl-carl">
+               <persName>
+                  <forename>Carl</forename>
+                  <nameLink>Adelsprädikat</nameLink>
+                  <addName>Dr. med. (1839)</addName>
+                  <addName>Dr. chir. (1840)</addName>
+                  <surname>Wedl</surname>
+               </persName>
+               <birth>
+                  <date when="1815-10-14">14.10.1815</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1891-09-21">21.09.1891</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Anatom</occupation>
+               <occupation>Histologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117207934</idno>
+            </person>
+            <person xml:id="hebra-ferdinand">
+               <persName>
+                  <forename>Ferdinand</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Hebra</surname>
+               </persName>
+               <birth>
+                  <date when="1816-09-07">07.09.1816</date>
+                  <placeName>Brünn</placeName>
+               </birth>
+               <death>
+                  <date when="1880-08-05">05.08.1880</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Dermatologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116555998</idno>
+            </person>
             <person xml:id="khlesl-melchior">
                <persName>
                   <surname>Khlesl</surname>
