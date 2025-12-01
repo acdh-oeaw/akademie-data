@@ -16,6 +16,39 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="pawlowski-stanislaus">
+               <persName>
+                  <forename>Stanisław</forename>
+                  <surname>Pawłowski</surname>
+               </persName>
+               <birth>
+                  <date>um 1530</date>
+                  </birth>
+               <death>
+                  <date when="1598-06-02">02.06.1598</date>
+                  <placeName>Olmütz</placeName></death>
+               <occupation>Bishof von Olmütz</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119782677</idno>
+            </person>
+            <person xml:id="mayer-eduard">
+               <persName>
+                  <forename>Eduard</forename>
+                  <nameLink>von Ahrdorff</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Mayer</surname>
+               </persName>
+               <persName type="alt">Mayer von Ahrdorff</persName>
+               <birth>
+                  <date>1804</date>
+                  </birth>
+               <death>
+                  <date when="1886-03-27">27.03.1886</date>
+                  <placeName>Kremsier</placeName></death>
+               <occupation>Archivar</occupation>
+               <occupation>Numismatiker</occupation>
+               <occupation>Bibliothekar</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1021153362</idno>
+            </person>
             <person xml:id="winckler-anton">
                <persName>
                   <surname>Winckler</surname>
@@ -508,6 +541,7 @@
                <death>
                   <date when="1895-07-13">13.07.1895</date>
                   <placeName>Turin</placeName></death>
+               <occupation>Klassischer Philologe</occupation>
                <occupation>Politiker</occupation>
                <occupation>Kultusminister</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117597023</idno>
