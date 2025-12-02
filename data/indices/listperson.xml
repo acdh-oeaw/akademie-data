@@ -16,6 +16,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="helfert-joseph-alexander">
+               <persName>
+                  <forename>Joseph Alexander</forename>
+                  <nameLink>Freiherr von (ab 1854)</nameLink>
+                  <addName>Dr. iur. (1842)</addName>
+                  <surname>Helfert</surname>
+               </persName>
+               <birth>
+                  <date when="1820-11-03">03.11.1820</date>
+                  <placeName>Prag</placeName>
+               </birth>
+               <death>
+                  <date when="1910-03-16">16.03.1910</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Historiker</occupation>
+               <occupation>Unterrichtsminister (1860/61)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11877381X</idno>
+            </person>
             <person xml:id="pawlowski-stanislaus">
                <persName>
                   <forename>Stanisław</forename>
