@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="koln">
+                    <placeName>Köln</placeName>
+                    <location>
+                        <geo>50.93333 6.95</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2886242/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4031483-2</idno>
+                </place>
                 <place xml:id="batavia">
                     <placeName>Batavia</placeName>
                     <placeName type="alt">Jakarta</placeName>
