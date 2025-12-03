@@ -16,6 +16,41 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="gregor-der-große-papst">
+               <persName>
+                  <forename>Gregor der Große</forename>
+                  <surname>Gregor der Große</surname>
+               </persName>
+               <birth>
+                  <date>um 540</date>
+                  <placeName>Rom</placeName>
+               </birth>
+               <death>
+                  <date>12.03.604</date>
+                  <placeName>Rom</placeName></death>
+               <occupation>Papst (590-604)</occupation>
+               <occupation>Kirchenvater</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118541838</idno>
+            </person>
+            <person xml:id="humboldt-von-wilhelm">
+               <persName>
+                  <forename>Wilhelm</forename>
+                  <nameLink>Freiherr von</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Humboldt</surname>
+               </persName>
+               <birth>
+                  <date when="1767-06-22">22.06.1767</date>
+                  <placeName>Potsdam</placeName>
+               </birth>
+               <death>
+                  <date when="1835-04-08">08.04.1835</date>
+                  <placeName>(Berlin-)Tegel</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Linguist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118554727</idno>
+            </person>
             <person xml:id="helfert-joseph-alexander">
                <persName>
                   <forename>Joseph Alexander</forename>
