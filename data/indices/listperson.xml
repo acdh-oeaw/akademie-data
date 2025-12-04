@@ -16,6 +16,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="lexer-mathias">
+               <persName>
+                  <forename>Mathias</forename>
+                  <nameLink>Ritter von (ab 1885)</nameLink>
+                  <addName>Dr. phil. (ab 1860)</addName>
+                  <surname>Lexer</surname>
+               </persName>
+               <birth>
+                  <date when="1830-10-18">18.10.1830</date>
+                  <placeName>Liesing im Lesachtal/Kärnten</placeName>
+               </birth>
+               <death>
+                  <date when="1892-04-16">16.04.1892</date>
+                  <placeName>Nürnberg</placeName></death>
+               <occupation>Germanist</occupation>
+               <occupation>Lexikograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119057328</idno>
+            </person>
             <person xml:id="gregor-der-große-papst">
                <persName>
                   <forename>Gregor der Große</forename>
