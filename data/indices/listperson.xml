@@ -16,6 +16,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="arago-francois">
+               <persName>
+                  <forename>François (Jean Dominique)</forename>
+                  <surname>Arago</surname>
+               </persName>
+               <birth>
+                  <date when="1786-02-26">26.02.1786</date>
+                  <placeName>Estagel bei Perginan</placeName>
+               </birth>
+               <death>
+                  <date when="1853-10-02">02.10.1853</date>
+                  <placeName>Paris</placeName></death>
+               <occupation>Astronom</occupation>
+               <occupation>Physiker</occupation>
+               <occupation>Politiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118847767</idno>
+            </person>
             <person xml:id="lexer-mathias">
                <persName>
                   <forename>Mathias</forename>
