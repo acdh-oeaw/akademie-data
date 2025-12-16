@@ -16,6 +16,109 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="herschel-john">
+               <persName>
+                  <forename>John (Frederick William)</forename>
+                  <nameLink>1. Baronet</nameLink>
+                  <surname>Herschel</surname>
+               </persName>
+               <birth>
+                  <date when="1792-03-07">07.03.1792</date>
+                  <placeName>Slough/Buckinghamshire</placeName>
+               </birth>
+               <death>
+                  <date when="1871-05-11">11.05.1871</date>
+                  <placeName>Hawkhurst/Kent</placeName></death>
+               <occupation>Astronom</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118703897</idno>
+            </person>
+            <person xml:id="plana-giovanni-antonio-amadeo">
+               <persName>
+                  <forename>Giovanni Antonio Amadeo</forename>
+                  <addName>Professor der Astronomie</addName>
+                  <surname>Plana</surname>
+               </persName>
+               <persName type="alt">Thun von Hohenstein</persName>
+               <birth>
+                  <date when="1781-11-06">06.11.1781</date>
+                  <placeName>Voghera</placeName>
+               </birth>
+               <death>
+                  <date when="1864-01-20">20.01.1864</date>
+                  <placeName>Turin</placeName></death>
+               <occupation>Astonom</occupation>
+               <occupation>Mathematiker</occupation>
+               <occupation>Direktor der Sternwarte in Turin</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/124087272</idno>
+            </person>
+            <person xml:id="meneghini-guiseppe">
+               <persName>
+                  <forename>Giuseppe (Giovanni Antonio)</forename>
+                  <addName>Professor für Physik, Chemie und Botanik (1839)</addName>
+                  <surname>Meneghini</surname>
+               </persName>
+               <birth>
+                  <date when="1811-07-30">30.07.1811</date>
+                  <placeName>Padua</placeName>
+               </birth>
+               <death>
+                  <date when="1889-01-29">29.01.1889</date>
+                  <placeName>Pisa</placeName></death>
+               <occupation>Geologe</occupation>
+               <occupation>Paläontologe</occupation>
+               <occupation>Chirurg</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116881399</idno>
+            </person>
+            <person xml:id="airy-george">
+               <persName>
+                  <forename>George Biddell</forename>
+                  <nameLink>Sir</nameLink>
+                  <surname>Airy</surname>
+               </persName>
+               <birth>
+                  <date when="1801-07-27">27.07.1801</date>
+                  <placeName>Alnwick</placeName>
+               </birth>
+               <death>
+                  <date when="1892-01-02">02.01.1892</date>
+                  <placeName>Greenwich</placeName></death>
+               <occupation>Mathematiker</occupation>
+               <occupation>Astronom</occupation>
+               <occupation>Direktor der Sternwarte in Greenwich</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116274646</idno>
+            </person>
+            <person xml:id="murchison-roderick-impey">
+               <persName>
+                  <forename>Roderick Impey</forename>
+                  <surname>Murchison</surname>
+               </persName>
+               <birth>
+                  <date when="1792-02-19">19.02.1792</date>
+                  <placeName>Tarradale</placeName>
+               </birth>
+               <death>
+                  <date when="1871-10-22">22.10.1871</date>
+                  <placeName>London</placeName></death>
+               <occupation>Geologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119297345</idno>
+            </person>
+            <person xml:id="gay-lussac-joseph-louis">
+               <persName>
+                  <forename>Joseph Louis</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Gay-Lussac</surname>
+               </persName>
+               <birth>
+                  <date when="1778-12-06">06.12.1778</date>
+                  <placeName>Saint-Léonard-de-Noblat</placeName>
+               </birth>
+               <death>
+                  <date when="1850-05-09">09.05.1850</date>
+                  <placeName>Paris</placeName></death>
+               <occupation>Chemiker</occupation>
+               <occupation>Physiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118716581</idno>
+            </person>
             <person xml:id="arago-francois">
                <persName>
                   <forename>François (Jean Dominique)</forename>
