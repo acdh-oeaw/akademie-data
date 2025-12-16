@@ -16,6 +16,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="kohl-emil">
+               <persName>
+                  <surname>Kohl</surname>
+                  <addName>Dr. phil. (1890)</addName>
+                  <forename>Emil (Viktor)</forename>
+               </persName>
+               <birth>
+                  <date when="1862-03-31">31.03.1862</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1924-04-10">19.04.1924</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Physiker</occupation>
+               <occupation>Kanzlist (1897-1900), dann Aktuar der Akademie (1900-1924)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117530875</idno>
+               </person>
             <person xml:id="herschel-john">
                <persName>
                   <forename>John (Frederick William)</forename>
