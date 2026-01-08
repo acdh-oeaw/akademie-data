@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="khartum">
+                    <placeName>Khartum</placeName>
+                    <placeName type="alt">Chartum</placeName>
+                    <location>
+                        <geo>15.55177 32.53241</geo>
+                    </location>
+                    <idno type="URL">https://www.geonames.org/379252</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4110249-6</idno>
+                </place>
                 <place xml:id="koln">
                     <placeName>Köln</placeName>
                     <location>
