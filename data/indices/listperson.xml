@@ -16,6 +16,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="heuglin-martin-theodor">
+               <persName>
+                  <surname>Heuglin</surname>
+                  <forename>Martin Theodor</forename>
+               </persName>
+               <birth>
+                  <date when="1824-03-20">20.03.1824</date>
+                  <placeName>Hirschlagen/Württemberg</placeName>
+               </birth>
+               <death>
+                  <date when="1876-11-05">05.11.1876</date>
+                  <placeName>Stuttgart</placeName>
+               </death>
+               <occupation>Afrika- und Polarforscher</occupation>
+               <occupation>Ornithologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116782226</idno>
+               </person>
+            
             <person xml:id="kohl-emil">
                <persName>
                   <surname>Kohl</surname>
