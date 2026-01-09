@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="hauer-joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <nameLink>Ritter von</nameLink>
+                  <surname>Hauer</surname>
+               </persName>
+               <birth>
+                  <date when="1778-03-06">06.03.1778</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1863-02-02">02.02.1863</date>
+                  <placeName>Paläontologe</placeName></death>
+               <occupation>Finanzbeamter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116522860</idno>
+            </person>
             <person xml:id="heuglin-martin-theodor">
                <persName>
                   <surname>Heuglin</surname>
@@ -12241,14 +12257,12 @@
                </birth>
                <death>
                   <date when="1899-03-20">20.03.1899</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3629" scheme="#apis_vocabularies/professiontype/"
-                  >Mineraloge</occupation>
-               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/"
-                  >Geologe</occupation>
+               <occupation>Mineraloge</occupation>
+               <occupation>Geologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119059509</idno>
-               <idno type="paas">2627</idno>
-            </person>
+               </person>
             <person xml:id="salomon-josef-johann-michael">
                <persName>
                   <surname>Salomon</surname>
