@@ -290,7 +290,7 @@
             <lb facs="#facs_1_region_1555577233770_105l9" xml:id="z33"/><rs type="person" ref="#jager-albert" key="Jäger, Albert">Jäger</rs>
             <lb facs="#facs_1_region_1555577233770_105l10" xml:id="z34"/><rs type="person" ref="#redtenbacher-josef" key="Redtenbacher, Josef">Redtenbacher</rs>
             <lb facs="#facs_1_region_1555577233770_105l11" xml:id="z35"/><rs type="person" ref="#hyrtl-joseph" key="Hyrtl, Joseph">Hyrtl</rs>
-            <lb facs="#facs_1_region_1555577233770_105l12" xml:id="z36"/><rs type="person" ref="#" key="Kollár , Vincenz">Kollar</rs>
+            <lb facs="#facs_1_region_1555577233770_105l12" xml:id="z36"/><rs type="person" ref="#kollar-vincenz" key="Kollár , Vincenz">Kollar</rs>
             <lb facs="#facs_1_region_1555577233770_105l13" xml:id="z37"/><rs type="person" ref="#burg-von-adam" key="Burg, von, Adam">von Burg</rs>
             <lb facs="#facs_1_region_1555577233770_105l14" xml:id="z38"/><rs type="person" ref="#fenzl-eduard" key="Fenzl, Eduard">Fenzl</rs></p>
                <p rendition="#rr" facs="#facs_1_region_1555577241508_108" xml:id="p9" xml:space="preserve">
@@ -302,7 +302,7 @@
             <lb facs="#facs_1_region_1555577241508_108l6" xml:id="z16"/><rs type="person" ref="#rokitansky-von-karl" key="Rokitansky, von, Karl">Rokitansky</rs>
             <lb facs="#facs_1_region_1555577241508_108l7" xml:id="z17"/><rs type="person" ref="#skoda-josef" key="Skoda, Josef">Skoda</rs>
             <lb facs="#facs_1_region_1555577241508_108l8" xml:id="z18"/><rs type="person" ref="#springer-johann" key="Springer, johann">Springer</rs>
-            <lb facs="#facs_1_region_1555577241508_108l9" xml:id="z19"/><rs type="person" ref="#petzval-joseph" key="Petzval, Joseph">Petzval</rs>
+            <lb facs="#facs_1_region_1555577241508_108l9" xml:id="z19"/><rs type="person" ref="#petzval-josef">Petzval</rs>
             <lb facs="#facs_1_region_1555577241508_108l10" xml:id="z20"/><rs type="person" ref="#brucke-von-ernst" key="Brücke, von, Ernst">Brücke</rs>
             <lb facs="#facs_1_region_1555577241508_108l11" xml:id="z21"/><rs type="person" ref="#seidl-johann-gabriel" key="Seidl, johann Gabriel">Seidl</rs>
             <lb facs="#facs_1_region_1555577241508_108l12" xml:id="z22"/><rs type="person" ref="#birk-von-ernst" key="Birk, von, Ernst">Birk</rs>
@@ -319,30 +319,34 @@
                <p rendition="#l" facs="#facs_2_region_1555579666829_123" xml:id="p12" xml:space="preserve">
             <lb facs="#facs_2_region_1555579666829_123l1" xml:id="z41"/><num>26</num>.</p>
                <p rendition="#?15-84-100--220-1430" facs="#facs_2_region_1555579676612_126" xml:id="p13" xml:space="preserve">
-            <lb facs="#facs_2_region_1555579676612_126l1" xml:id="z42"/>Die Direction der k. k. 
-            ori-<lb facs="#facs_2_region_1555579676612_126l2" xml:id="z43"/>entalischen Akademie dankt 
+            <lb facs="#facs_2_region_1555579676612_126l1" xml:id="z42"/>Die Direction der k. k. ori-
+            <lb facs="#facs_2_region_1555579676612_126l2" xml:id="z43"/>entalischen Akademie dankt 
             <lb facs="#facs_2_region_1555579676612_126l3" xml:id="z44"/>in einer Zuschrift vom 
-            <lb facs="#facs_2_region_1555579676612_126l4" xml:id="z45"/><num>10</num>. Jänner <choice><expan>dieses Jahres</expan><abbr>d<am>.</am>J<am>.</am></abbr></choice> Zahl <num>3</num> der 
-            Aka-<lb facs="#facs_2_region_1555579676612_126l5" xml:id="z46"/>demie für deren 
-            Theilnäh-<lb facs="#facs_2_region_1555579676612_126l6" xml:id="z47"/>mie an ihrer Säcularfeier,<lb facs="#facs_2_region_1555579676612_126l7" xml:id="z48"/>übersendet die 
-            Gedächtniß-<lb facs="#facs_2_region_1555579676612_126l8" xml:id="z49"/>medaille, den Festbericht 
-            <lb facs="#facs_2_region_1555579676612_126l9" xml:id="z50"/>und die Festrede.<lb facs="#facs_2_region_1555579676612_126l10" xml:id="z51"/>Wird zur Wissenschaft 
+            <lb facs="#facs_2_region_1555579676612_126l4" xml:id="z45"/><num>10</num>. Jänner <choice><expan>dieses Jahres</expan><abbr>d<am>.</am>J<am>.</am></abbr></choice> Zahl <num>3</num> der Aka- 
+            <lb facs="#facs_2_region_1555579676612_126l5" xml:id="z46"/>demie für deren Theilnah- 
+            <lb facs="#facs_2_region_1555579676612_126l6" xml:id="z47"/>mie an ihrer Säcularfeier,
+            <lb facs="#facs_2_region_1555579676612_126l7" xml:id="z48"/>übersendet die Gedächtniß- 
+            <lb facs="#facs_2_region_1555579676612_126l8" xml:id="z49"/>medaille, den Festbericht 
+            <lb facs="#facs_2_region_1555579676612_126l9" xml:id="z50"/>und die Festrede.
+            <lb facs="#facs_2_region_1555579676612_126l10" xml:id="z51"/>Wird zur Wissenschaft 
             <lb facs="#facs_2_region_1555579676612_126l11" xml:id="z52"/>genommen.</p>
                <p rendition="#l" facs="#facs_2_region_1555579679951_129" xml:id="p14" xml:space="preserve">
             <lb facs="#facs_2_region_1555579679951_129l1" xml:id="z53"/><num>83</num>.</p>
                <p rendition="#?16-83-100--233-1430" facs="#facs_2_region_1555579686971_132" xml:id="p15" xml:space="preserve">
-            <lb facs="#facs_2_region_1555579686971_132l1" xml:id="z54"/>Das Comité der 
-            Buko-<lb facs="#facs_2_region_1555579686971_132l2" xml:id="z55"/>winer Landesbibliothek zu 
-            <lb facs="#facs_2_region_1555579686971_132l3" xml:id="z56"/><rs type="place" ref="#">Cernowitz</rs> dankt in einen-<lb facs="#facs_2_region_1555579686971_132l4" xml:id="z57"/>Schreiben vom <num>26</num>. 
-            Novem-<lb facs="#facs_2_region_1555579686971_132l5" xml:id="z58"/>ber <choice><expan>vergangenen</expan><abbr>v<am>.</am></abbr></choice> <choice><expan>Jahres</expan><abbr>J<am>.</am></abbr></choice> Zahl <num>29</num> für die 
-            Be-<lb facs="#facs_2_region_1555579686971_132l6" xml:id="z59"/>theilung mit den 
-            akademi-<lb facs="#facs_2_region_1555579686971_132l7" xml:id="z60"/>schen Druckschriften.</p>
+            <lb facs="#facs_2_region_1555579686971_132l1" xml:id="z54"/>Das Comité der Buko-
+            <lb facs="#facs_2_region_1555579686971_132l2" xml:id="z55"/>winer Landesbibliothek zu 
+            <lb facs="#facs_2_region_1555579686971_132l3" xml:id="z56"/><rs type="place" ref="#czernowitz">Cernowitz</rs> dankt in einem
+            <lb facs="#facs_2_region_1555579686971_132l4" xml:id="z57"/>Schreiben vom <num>26</num>. Novem- 
+            <lb facs="#facs_2_region_1555579686971_132l5" xml:id="z58"/>ber <choice><expan>vergangenen</expan><abbr>v<am>.</am></abbr></choice> <choice><expan>Jahres</expan><abbr>J<am>.</am></abbr></choice> Zahl <num>29</num> für die Be- 
+            <lb facs="#facs_2_region_1555579686971_132l6" xml:id="z59"/>theilung mit den akademi- 
+            <lb facs="#facs_2_region_1555579686971_132l7" xml:id="z60"/>schen Druckschriften.</p>
                <p rendition="#f" facs="#facs_2_region_1555579693866_135" xml:id="p16" xml:space="preserve">
-            <lb facs="#facs_2_region_1555579693866_135l1" xml:id="z61"/>Der <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">General-Secretär</rs><lb facs="#facs_2_region_1555579693866_135l2" xml:id="z62"/>legt das Protokoll der Com--mission vor, welche in der 
-            <lb facs="#facs_2_region_1555579693866_135l4" xml:id="z63"/>Gesammtsitzung vom <num>15</num>. 
-            De-<lb facs="#facs_2_region_1555579693866_135l5" xml:id="z64"/>cember <choice><expan>vergangenen</expan><abbr>v<am>.</am></abbr></choice> <choice><expan>Jahres</expan><abbr>J<am>.</am></abbr></choice> zur Prüfung 
+            <lb facs="#facs_2_region_1555579693866_135l1" xml:id="z61"/>Der <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">General-Secretär</rs>
+            <lb facs="#facs_2_region_1555579693866_135l2" xml:id="z62"/>legt das Protokoll der Com--mission vor, welche in der 
+            <lb facs="#facs_2_region_1555579693866_135l4" xml:id="z63"/>Gesammtsitzung vom <num>15</num>. De- 
+            <lb facs="#facs_2_region_1555579693866_135l5" xml:id="z64"/>cember <choice><expan>vergangenen</expan><abbr>v<am>.</am></abbr></choice> <choice><expan>Jahres</expan><abbr>J<am>.</am></abbr></choice> zur Prüfung 
             <lb facs="#facs_2_region_1555579693866_135l6" xml:id="z65"/>seiner Rechnung ernannt 
-            <lb facs="#facs_2_region_1555579693866_135l7" xml:id="z66"/>worden war. - Dieselbe 
+            <lb facs="#facs_2_region_1555579693866_135l7" xml:id="z66"/>worden war. – Dieselbe 
             wur-<lb facs="#facs_2_region_1555579693866_135l8" xml:id="z67"/>de vollkommen richtig 
             befun-<lb facs="#facs_2_region_1555579693866_135l9" xml:id="z68"/>den.</p>
             </div>
@@ -356,32 +360,35 @@
             <lb facs="#facs_3_region_1555579821886_150l1" xml:id="z70"/><hi>der <choice><expan>mathematisch-naturwissenschaftlichen</expan><abbr>mathem<am>.</am><am>-</am>naturw<am>.</am></abbr></choice> Classe</hi></p>
                <p rendition="#f" facs="#facs_3_region_1555579829483_153" xml:id="p19" xml:space="preserve">
             <lb facs="#facs_3_region_1555579829483_153l1" xml:id="z71"/>Die Classe sucht an, die 
-            <lb facs="#facs_3_region_1555579829483_153l2" xml:id="z72"/>in ihrer Sitzung vom <num>12</num>. 
-            Jän-<lb facs="#facs_3_region_1555579829483_153l3" xml:id="z73"/>ner <choice><expan>dieses Jahres</expan><abbr>d<am>.</am>J<am>.</am></abbr></choice> dem wirklichen 
-            Mit-<lb facs="#facs_3_region_1555579829483_153l4" xml:id="z74"/>gliede, <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice> <rs type="person" ref="#rochleder-friedrich" key="Rochleder, Friedrich">Rochleder</rs>
+            <lb facs="#facs_3_region_1555579829483_153l2" xml:id="z72"/>in ihrer Sitzung vom <num>12</num>. Jän- 
+            <lb facs="#facs_3_region_1555579829483_153l3" xml:id="z73"/>ner <choice><expan>dieses Jahres</expan><abbr>d<am>.</am>J<am>.</am></abbr></choice> dem wirklichen Mit- 
+            <lb facs="#facs_3_region_1555579829483_153l4" xml:id="z74"/>gliede, <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice> <rs type="person" ref="#rochleder-friedrich" key="Rochleder, Friedrich">Rochleder</rs>
             <lb facs="#facs_3_region_1555579829483_153l5" xml:id="z75"/>in <rs type="place" ref="#prag">Prag</rs> zur Fortsetzung 
-            <lb facs="#facs_3_region_1555579829483_153l6" xml:id="z76"/>seiner chemischen Arbeiten,<lb facs="#facs_3_region_1555579829483_153l7" xml:id="z77"/>zuerkannten <num>200</num> <choice><expan>Gulden</expan><abbr>fr</abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CMze<am>.</am></abbr></choice> 
-            ge-<lb facs="#facs_3_region_1555579829483_153l8" xml:id="z78"/>nehmigen zu wollen.<lb facs="#facs_3_region_1555579829483_153l9" xml:id="z79"/>Wird bewilliget.</p>
+            <lb facs="#facs_3_region_1555579829483_153l6" xml:id="z76"/>seiner chemischen Arbeiten,
+            <lb facs="#facs_3_region_1555579829483_153l7" xml:id="z77"/>zuerkannten <num>200</num> <choice><expan>Gulden</expan><abbr>fr</abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CMze<am>.</am></abbr></choice> ge- 
+            <lb facs="#facs_3_region_1555579829483_153l8" xml:id="z78"/>nehmigen zu wollen.
+            <lb facs="#facs_3_region_1555579829483_153l9" xml:id="z79"/>Wird bewilliget.</p>
                <p rendition="#f" facs="#facs_3_region_1555579834304_156" xml:id="p20" xml:space="preserve">
             <lb facs="#facs_3_region_1555579834304_156l1" xml:id="z80"/>Der <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">Generalsecretär</rs>
             <lb facs="#facs_3_region_1555579834304_156l2" xml:id="z81"/>bemerkt, daß für den Fall 
-            <lb facs="#facs_3_region_1555579834304_156l3" xml:id="z82"/>als für den nächsten 
-            Jahr-<lb facs="#facs_3_region_1555579834304_156l4" xml:id="z83"/>gang des Almanachs 
-            kei-<lb facs="#facs_3_region_1555579834304_156l5" xml:id="z84"/>ne neuen Antrage 
-            ge-<lb facs="#facs_3_region_1555579834304_156l6" xml:id="z85"/>stellt würden, derselbe 
-            als-<lb facs="#facs_3_region_1555579834304_156l7" xml:id="z86"/>so in der bisherigen Form 
+            <lb facs="#facs_3_region_1555579834304_156l3" xml:id="z82"/>als für den nächsten Jahr- 
+            <lb facs="#facs_3_region_1555579834304_156l4" xml:id="z83"/>gang des Almanachs kei- 
+            <lb facs="#facs_3_region_1555579834304_156l5" xml:id="z84"/>ne neuen Antrage ge- 
+            <lb facs="#facs_3_region_1555579834304_156l6" xml:id="z85"/>stellt würden, derselbe als- 
+            <lb facs="#facs_3_region_1555579834304_156l7" xml:id="z86"/>so in der bisherigen Form 
             <lb facs="#facs_3_region_1555579834304_156l8" xml:id="z87"/>zu erscheinen hätte, die 
-            <lb facs="#facs_3_region_1555579834304_156l9" xml:id="z88"/>Einberufung der Almanach-<lb facs="#facs_3_region_1555579834304_156l10" xml:id="z89"/>Commission entfallen dürfte.</p>
+            <lb facs="#facs_3_region_1555579834304_156l9" xml:id="z88"/>Einberufung der Almanach-
+            <lb facs="#facs_3_region_1555579834304_156l10" xml:id="z89"/>Commission entfallen dürfte.</p>
                <p rendition="#f" facs="#facs_3_region_1555579839810_159" xml:id="p21" xml:space="preserve">
             <lb facs="#facs_3_region_1555579839810_159l1" xml:id="z90"/>Der Gegenstand soll, da 
             <lb facs="#facs_3_region_1555579839810_159l2" xml:id="z91"/>die Herren nicht darauf 
             <lb facs="#facs_3_region_1555579839810_159l3" xml:id="z92"/>vorbereitet waren, bis 
             <lb facs="#facs_3_region_1555579839810_159l4" xml:id="z93"/>zur nächsten Sitzung offen 
-            <lb facs="#facs_3_region_1555579839810_159l5" xml:id="z94"/>bleiben; gehen keine 
-            An-<lb facs="#facs_3_region_1555579839810_159l6" xml:id="z95"/>träge auf Änderungen oder 
+            <lb facs="#facs_3_region_1555579839810_159l5" xml:id="z94"/>bleiben; gehen keine An-
+            <lb facs="#facs_3_region_1555579839810_159l6" xml:id="z95"/>träge auf Änderungen oder 
             <lb facs="#facs_3_region_1555579839810_159l7" xml:id="z96"/>Neuerungen ein, so wird 
-            <lb facs="#facs_3_region_1555579839810_159l8" xml:id="z97"/>angenommen, daß der 
-            Al-<lb facs="#facs_3_region_1555579839810_159l9" xml:id="z98"/>manach in der bisherigen 
+            <lb facs="#facs_3_region_1555579839810_159l8" xml:id="z97"/>angenommen, daß der Al- 
+            <lb facs="#facs_3_region_1555579839810_159l9" xml:id="z98"/>manach in der bisherigen 
             <lb facs="#facs_3_region_1555579839810_159l10" xml:id="z99"/>Form erscheine.</p>
                <p rendition="#lc" facs="#facs_3_region_1555579843852_162" xml:id="p22" xml:space="preserve"/>
                <p rendition="#f" facs="#facs_3_region_1555579858999_166" xml:id="p23" xml:space="preserve">
@@ -394,32 +401,38 @@
             <div xml:id="d8">
                <p rendition="#f" facs="#facs_4_r1" xml:id="p24" xml:space="preserve">
             <lb facs="#facs_4_r1l1" xml:id="z102"/>der Geschäftsordnung in 
-            <lb facs="#facs_4_r1l2" xml:id="z103"/>der nächsten 
-            Gesamtsit-<lb facs="#facs_4_r1l3" xml:id="z104"/>zung die Mitglieder 
-            ge-<lb facs="#facs_4_r1l4" xml:id="z105"/>nannt werden müßten, 
-            wel-<lb facs="#facs_4_r1l5" xml:id="z106"/>che in der feierlichen 
-            Sit-<lb facs="#facs_4_r1l6" xml:id="z107"/>zung Vorträge zu halten 
-            <lb facs="#facs_4_r1l7" xml:id="z108"/>beabsichtigen.<lb facs="#facs_4_r1l8" xml:id="z109"/>Die Präsidenten der 
-            <lb facs="#facs_4_r1l9" xml:id="z110"/>Classen werden ersucht 
-            die-<lb facs="#facs_4_r1l10" xml:id="z111"/>sen Gegenstand in ihren 
+            <lb facs="#facs_4_r1l2" xml:id="z103"/>der nächsten Gesamtsit- 
+            <lb facs="#facs_4_r1l3" xml:id="z104"/>zung die Mitglieder ge- 
+            <lb facs="#facs_4_r1l4" xml:id="z105"/>nannt werden müßten, wel- 
+            <lb facs="#facs_4_r1l5" xml:id="z106"/>che in der feierlichen Sit- 
+            <lb facs="#facs_4_r1l6" xml:id="z107"/>zung Vorträge zu halten 
+            <lb facs="#facs_4_r1l7" xml:id="z108"/>beabsichtigen.
+            <lb facs="#facs_4_r1l8" xml:id="z109"/>Die Präsidenten der 
+            <lb facs="#facs_4_r1l9" xml:id="z110"/>Classen werden ersucht die-
+            <lb facs="#facs_4_r1l10" xml:id="z111"/>sen Gegenstand in ihren 
             <lb facs="#facs_4_r1l11" xml:id="z112"/>Sitzungen zur Sprache zu 
-            <lb facs="#facs_4_r1l12" xml:id="z113"/>bringen, um in der 
-            näch-<lb facs="#facs_4_r1l13" xml:id="z114"/>sten Gesammtsitzung 
-            darü-<lb facs="#facs_4_r1l14" xml:id="z115"/>ber definitiv beschließen 
-            <lb facs="#facs_4_r1l15" xml:id="z116"/>zu können.<lb facs="#facs_4_r1l16" xml:id="z117"/>Der <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">General-Secretär</rs><lb facs="#facs_4_r1l17" xml:id="z118"/>zeigt an, daß Professor 
-            <lb facs="#facs_4_r1l18" xml:id="z119"/><rs type="person" ref="#dudik-beda-franz" key="Dudík, Beda Franz">Dudik</rs> in <rs type="place" ref="#">brunn</rs> die von 
+            <lb facs="#facs_4_r1l12" xml:id="z113"/>bringen, um in der näch- 
+            <lb facs="#facs_4_r1l13" xml:id="z114"/>sten Gesammtsitzung darü- 
+            <lb facs="#facs_4_r1l14" xml:id="z115"/>ber definitiv beschließen 
+            <lb facs="#facs_4_r1l15" xml:id="z116"/>zu können.
+            <lb facs="#facs_4_r1l16" xml:id="z117"/>Der <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">General-Secretär</rs>
+            <lb facs="#facs_4_r1l17" xml:id="z118"/>zeigt an, daß Professor 
+            <lb facs="#facs_4_r1l18" xml:id="z119"/><rs type="person" ref="#dudik-beda-franz" key="Dudík, Beda Franz">Dudik</rs> in <rs type="place" ref="#brunn">Brünn</rs> die von 
             <lb facs="#facs_4_r1l19" xml:id="z120"/>der Akademie aus der 
-            <lb facs="#facs_4_r1l20" xml:id="z121"/><choice><expan>königlichen</expan><abbr>königl<am>.</am></abbr></choice> Bibliothek zu <rs type="place" ref="#stockholm">Stock</rs>-<lb facs="#facs_4_r1l21" xml:id="z122"/><rs type="place" ref="#stockholm">holm</rs> für ihn entlehnten 
+            <lb facs="#facs_4_r1l20" xml:id="z121"/><choice><expan>königlichen</expan><abbr>königl<am>.</am></abbr></choice> Bibliothek zu <rs type="place" ref="#stockholm">Stock-
+            <lb facs="#facs_4_r1l21" xml:id="z122"/>holm</rs> für ihn entlehnten 
             <lb facs="#facs_4_r1l22" xml:id="z123"/>Handschriften:<lb facs="#facs_4_r1l23" xml:id="z124"/>Vita S. Catharina und 
             <lb facs="#facs_4_r1l24" xml:id="z125"/>Chronicon bohemicum 
             <lb facs="#facs_4_r1l25" xml:id="z126"/>anonymi zurückgestellt 
-            <lb facs="#facs_4_r1l26" xml:id="z127"/>habe, und dieselben 
-            be-<lb facs="#facs_4_r1l27" xml:id="z128"/>reits nach <rs type="place" ref="#stockholm">Stockholm</rs> 
-            über-<lb facs="#facs_4_r1l28" xml:id="z129"/>mittelt wurden.<lb facs="#facs_4_r1l29" xml:id="z130"/>Es wird beschlossen, daß 
+            <lb facs="#facs_4_r1l26" xml:id="z127"/>habe, und dieselben be-
+            <lb facs="#facs_4_r1l27" xml:id="z128"/>reits nach <rs type="place" ref="#stockholm">Stockholm</rs> über- 
+            <lb facs="#facs_4_r1l28" xml:id="z129"/>mittelt wurden.
+            <lb facs="#facs_4_r1l29" xml:id="z130"/>Es wird beschlossen, daß 
             <lb facs="#facs_4_r1l30" xml:id="z131"/>die Akademie ihren Dank 
             <lb facs="#facs_4_r1l31" xml:id="z132"/>für diese Mittheilung der 
-            <lb facs="#facs_4_r1l32" xml:id="z133"/>Bibliothek in <rs type="place" ref="#Stockholm">Stockholm</rs> 
-            aus-<lb facs="#facs_4_r1l33" xml:id="z134"/>spreche.<lb facs="#facs_4_r1l34" xml:id="z135"/>Der Kanzellist <rs type="person" ref="#lippka-vincenz" key="Lippka, Vincenz">Lippka</rs></p>
+            <lb facs="#facs_4_r1l32" xml:id="z133"/>Bibliothek in <rs type="place" ref="#Stockholm">Stockholm</rs> aus- 
+            <lb facs="#facs_4_r1l33" xml:id="z134"/>spreche.
+            <lb facs="#facs_4_r1l34" xml:id="z135"/>Der Kanzellist <rs type="person" ref="#lippka-vincenz" key="Lippka, Vincenz">Lippka</rs></p>
             </div>
          </div>
          <div type="page" n="5" xml:id="d9">
@@ -427,32 +440,33 @@
             <div xml:id="d10">
                <p rendition="#f" facs="#facs_5_region_1555580598099_263" xml:id="p25" xml:space="preserve">
             <lb facs="#facs_5_region_1555580598099_263l1" xml:id="z136"/>bittet um einen Vorschluß 
-            <lb facs="#facs_5_region_1555580598099_263l2" xml:id="z137"/>von <num>180</num> <choice><expan>Gulden</expan><abbr>fr</abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CMze<am>.</am></abbr></choice> gegen 
-            Rück-<lb facs="#facs_5_region_1555580598099_263l3" xml:id="z138"/>zahlung in <num>18</num> gleichen 
+            <lb facs="#facs_5_region_1555580598099_263l2" xml:id="z137"/>von <num>180</num> <choice><expan>Gulden</expan><abbr>fr</abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CMze<am>.</am></abbr></choice> gegen Rück- 
+            <lb facs="#facs_5_region_1555580598099_263l3" xml:id="z138"/>zahlung in <num>18</num> gleichen 
             <lb facs="#facs_5_region_1555580598099_263l4" xml:id="z139"/>Monatsraten vom <num>1</num>. Juli <choice><expan>dieses Jahres</expan><abbr>d<am>.</am>J<am>.</am></abbr></choice>
             <lb facs="#facs_5_region_1555580598099_263l5" xml:id="z140"/>angefangen.</p>
                <p rendition="#f" facs="#facs_5_region_1555580602982_266" xml:id="p26" xml:space="preserve">
             <lb facs="#facs_5_region_1555580602982_266l1" xml:id="z141"/>Es wird beschlossen dem 
-            <lb facs="#facs_5_region_1555580602982_266l2" xml:id="z142"/><rs type="person" ref="#lippka-vincenz" key="Lippka, Vincenz">Petenten</rs> zwar keinen 
-            Vor-<lb facs="#facs_5_region_1555580602982_266l3" xml:id="z143"/>schuß, aber in Rücksicht 
-            sein-<lb facs="#facs_5_region_1555580602982_266l4" xml:id="z144"/>ner bedrängten Lage 
-            ei-<lb facs="#facs_5_region_1555580602982_266l5" xml:id="z145"/>ne Aushilfe von <num>80</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CMze<am>.</am></abbr></choice>
+            <lb facs="#facs_5_region_1555580602982_266l2" xml:id="z142"/><rs type="person" ref="#lippka-vincenz" key="Lippka, Vincenz">Petent</rs>en zwar keinen Vor- 
+            <lb facs="#facs_5_region_1555580602982_266l3" xml:id="z143"/>schuß, aber in Rücksicht sein- 
+            <lb facs="#facs_5_region_1555580602982_266l4" xml:id="z144"/>ner bedrängten Lage ei- 
+            <lb facs="#facs_5_region_1555580602982_266l5" xml:id="z145"/>ne Aushilfe von <num>80</num> <choice><expan>Gulden</expan><abbr>fr<am>.</am></abbr></choice> <choice><expan>Conventionsmünze</expan><abbr>CMze<am>.</am></abbr></choice>
             <lb facs="#facs_5_region_1555580602982_266l6" xml:id="z146"/>zu bewilligen.</p>
                <p rendition="#f" facs="#facs_5_region_1555580609238_269" xml:id="p27" xml:space="preserve">
             <lb facs="#facs_5_region_1555580609238_269l1" xml:id="z147"/><choice><expan>Seine</expan><abbr>S<hi rend="super">ne</hi></abbr></choice> Excellenz der Herr 
             <lb facs="#facs_5_region_1555580609238_269l2" xml:id="z148"/><rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas">Präsident</rs> weiset auf die 
             <lb facs="#facs_5_region_1555580609238_269l3" xml:id="z149"/>bevorstehende Vermählung 
-            <lb facs="#facs_5_region_1555580609238_269l4" xml:id="z150"/><choice><expan>Seiner</expan><abbr>S<hi rend="super">er</hi></abbr></choice> <choice><expan>kaiserlich-königlichen</expan><abbr>k<am>.</am> k<am>.</am></abbr></choice> Apostolischen <rs type="person" ref="#habsburg-lothringe-franz-joseph-i" key=", Franz Joseph I.">
-            Maje-<lb facs="#facs_5_region_1555580609238_269l5" break="no" xml:id="z151"/>stät</rs> hin und stellt den Antrag,<lb facs="#facs_5_region_1555580609238_269l6" xml:id="z152"/>die Akademie wolle in 
-            ei-<lb facs="#facs_5_region_1555580609238_269l7" xml:id="z153"/>ner Adresse ihre Gefühle 
+            <lb facs="#facs_5_region_1555580609238_269l4" xml:id="z150"/><choice><expan>Seiner</expan><abbr>S<hi rend="super">er</hi></abbr></choice> <choice><expan>kaiserlich-königlichen</expan><abbr>k<am>.</am> k<am>.</am></abbr></choice> Apostolischen <rs type="person" ref="#habsburg-lothringe-franz-joseph-i" key=", Franz Joseph I."> Maje-
+            <lb facs="#facs_5_region_1555580609238_269l5" break="no" xml:id="z151"/>stät</rs> hin und stellt den Antrag,
+            <lb facs="#facs_5_region_1555580609238_269l6" xml:id="z152"/>die Akademie wolle in ei- 
+            <lb facs="#facs_5_region_1555580609238_269l7" xml:id="z153"/>ner Adresse ihre Gefühle 
             <lb facs="#facs_5_region_1555580609238_269l8" xml:id="z154"/>über dieses beglückende 
             <lb facs="#facs_5_region_1555580609238_269l9" xml:id="z155"/>Ereigniß kund geben.</p>
                <p rendition="#f" facs="#facs_5_region_1555580615790_272" xml:id="p28" xml:space="preserve">
             <lb facs="#facs_5_region_1555580615790_272l1" xml:id="z156"/>Dieser Antrag wurde 
-            <lb facs="#facs_5_region_1555580615790_272l2" xml:id="z157"/>mit Acclamation 
-            angenom-<lb facs="#facs_5_region_1555580615790_272l3" xml:id="z158"/>men und beschlossen, daß 
-            <lb facs="#facs_5_region_1555580615790_272l4" xml:id="z159"/>der Entwurf zu dieser 
-            Adres-<lb facs="#facs_5_region_1555580615790_272l5" xml:id="z160"/>se der Akademie in der 
+            <lb facs="#facs_5_region_1555580615790_272l2" xml:id="z157"/>mit Acclamation angenom- 
+            <lb facs="#facs_5_region_1555580615790_272l3" xml:id="z158"/>men und beschlossen, daß 
+            <lb facs="#facs_5_region_1555580615790_272l4" xml:id="z159"/>der Entwurf zu dieser Adres- 
+            <lb facs="#facs_5_region_1555580615790_272l5" xml:id="z160"/>se der Akademie in der 
             <lb facs="#facs_5_region_1555580615790_272l6" xml:id="z161"/>nächsten Gesammtsitzung 
             <lb facs="#facs_5_region_1555580615790_272l7" xml:id="z162"/>vorgelegt werde.</p>
                <p rendition="#?5-86-91--67-1197" facs="#facs_5_region_1555580618255_275" xml:id="p29" xml:space="preserve">
