@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="ober-döbling">
+                    <placeName>(Wien-)Ober-Döbling</placeName>
+                    <placeName type="alt">Oberdöbling</placeName>
+                    <location>
+                        <geo>48.24281 16.35034</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/12196318/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/7644860-5</idno>
+                </place>
                 <place xml:id="khartum">
                     <placeName>Khartum</placeName>
                     <placeName type="alt">Chartum</placeName>
