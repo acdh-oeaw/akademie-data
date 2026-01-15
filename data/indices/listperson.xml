@@ -16,6 +16,25 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="plener-ignaz">
+               <persName>
+                  <forename>Ignaz</forename>
+                  <nameLink>Freiherr von</nameLink>
+                  <surname>Plener</surname>
+               </persName>
+               <birth>
+                  <date when="1810-05-21">21.05.1810</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1908-02-17">17.02.1908</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Finanzminister (1860-1865)</occupation>
+               <occupation>Handelsminister (1867-1870)</occupation>
+               <occupation>Ministerpräsident (Jan./Febr. 1870)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118595016</idno>
+            </person>
             <person xml:id="holl-stahlberg-anton-carl">
                <persName>
                   <forename>Anton Carl</forename>
