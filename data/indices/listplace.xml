@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="susa">
+                    <placeName>Susa</placeName>
+                    <location>
+                        <geo>32.1942 48.2436</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/114593/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4118912-7</idno>
+                </place>
                 <place xml:id="ober-döbling">
                     <placeName>(Wien-)Ober-Döbling</placeName>
                     <placeName type="alt">Oberdöbling</placeName>
