@@ -16,6 +16,11 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="kinz">
+               <persName>
+               </persName>
+               <occupation>Gemäß AÖAW, Allg. Akten, No. 381/1852, hieß der Verfasser Christoph Nimtsgern und war Lehrer a.D. in Gottlob.</occupation>
+            </person>
             <person xml:id="plener-ignaz">
                <persName>
                   <forename>Ignaz</forename>
@@ -3271,7 +3276,7 @@
                <death>
                   <date when="1876-05-19">19.05.1876</date>
                   <placeName>Wien</placeName></death>
-               <occupation>Aktuar der Akademie</occupation>
+               <occupation>Aktuar der Akademie (1860-1876)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/133085341</idno>
             </person>
             <person xml:id="jakschitsch-wladimir">
