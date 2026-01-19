@@ -16,6 +16,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="dietrichstein-moriz">
+               <persName>
+                  <forename>Moriz (Joseph)</forename>
+                  <nameLink>Fürst von</nameLink>
+                  <surname>Dietrichstein(-Proskau-Leslie)</surname>
+               </persName>
+               <birth>
+                  <date when="1775-02-19">19.02.1775</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1864-08-27">27.08.1864</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Offizier</occupation>
+               <occupation>Oberstkämmerer (1845-1848)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116113669</idno>
+            </person>
             <person xml:id="kinz">
                <persName>
                </persName>
