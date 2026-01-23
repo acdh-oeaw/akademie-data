@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="norgate-frederick">
+               <persName>
+                  <forename>Frederick</forename>
+                  <surname>Norgate</surname>
+               </persName>
+               <birth>
+                  <date>21.11.1817</date>
+                  <placeName>Hethersett, Norfolk</placeName>
+               </birth>
+               <death>
+                  <date>10.08.1908</date>
+                  <placeName>London</placeName>
+               </death>
+               <occupation>Buchhändler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1298805988</idno>
+            </person>
             <person xml:id="dietrichstein-moriz">
                <persName>
                   <forename>Moriz (Joseph)</forename>
@@ -34,9 +50,9 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116113669</idno>
             </person>
             <person xml:id="kinz">
-               <persName>
-               </persName>
-               <occupation>Gemäß AÖAW, Allg. Akten, No. 381/1852, hieß der Verfasser Christoph Nimtsgern und war Lehrer a.D. in Gottlob.</occupation>
+               <persName> </persName>
+               <occupation>Gemäß AÖAW, Allg. Akten, No. 381/1852, hieß der Verfasser Christoph
+                  Nimtsgern und war Lehrer a.D. in Gottlob.</occupation>
             </person>
             <person xml:id="plener-ignaz">
                <persName>
@@ -61,7 +77,7 @@
                <persName>
                   <forename>Anton Carl</forename>
                   <nameLink>von</nameLink>
-                  <addName></addName>
+                  <addName/>
                   <surname>Holl von Stahlberg</surname>
                </persName>
                <birth>
@@ -108,8 +124,8 @@
                <occupation>Afrika- und Polarforscher</occupation>
                <occupation>Ornithologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116782226</idno>
-               </person>
-            
+            </person>
+
             <person xml:id="kohl-emil">
                <persName>
                   <surname>Kohl</surname>
@@ -127,7 +143,7 @@
                <occupation>Physiker</occupation>
                <occupation>Kanzlist (1897-1900), dann Aktuar der Akademie (1900-1924)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117530875</idno>
-               </person>
+            </person>
             <person xml:id="herschel-john">
                <persName>
                   <forename>John (Frederick William)</forename>
@@ -326,7 +342,7 @@
                </persName>
                <birth>
                   <date>um 1530</date>
-                  </birth>
+               </birth>
                <death>
                   <date when="1598-06-02">02.06.1598</date>
                   <placeName>Olmütz</placeName></death>
@@ -343,7 +359,7 @@
                <persName type="alt">Mayer von Ahrdorff</persName>
                <birth>
                   <date>1804</date>
-                  </birth>
+               </birth>
                <death>
                   <date when="1886-03-27">27.03.1886</date>
                   <placeName>Kremsier</placeName></death>
@@ -368,7 +384,7 @@
                </death>
                <occupation>Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117581712</idno>
-               </person>
+            </person>
             <person xml:id="schuh-franz">
                <persName>
                   <surname>Schuh</surname>
@@ -385,7 +401,7 @@
                <occupation>Mediziner</occupation>
                <occupation>Chirurg</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11764708X</idno>
-               </person>
+            </person>
             <person xml:id="pitha-franz-von">
                <persName>
                   <surname>Pitha</surname>
@@ -11757,7 +11773,7 @@
                <occupation>Schriftsteller</occupation>
                <occupation>Offizier</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118808346</idno>
-               </person>
+            </person>
             <person xml:id="fenzl-eduard">
                <persName>
                   <surname>Fenzl</surname>
@@ -12322,7 +12338,7 @@
                <occupation>Mineraloge</occupation>
                <occupation>Geologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/119059509</idno>
-               </person>
+            </person>
             <person xml:id="salomon-josef-johann-michael">
                <persName>
                   <surname>Salomon</surname>
