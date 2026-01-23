@@ -16,6 +16,22 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="schloglmuhl">
+                    <placeName>Schlöglmühl</placeName>
+                    <location>
+                        <geo>47.68307 15.91232</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2765884/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/7721045-1</idno>
+                </place>
+                <place xml:id="saint-andrews">
+                    <placeName>St. Andrews</placeName>
+                    <location>
+                        <geo>56.33871 -2.79902</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2638864/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4118218-2</idno>
+                </place>
                 <place xml:id="susa">
                     <placeName>Susa</placeName>
                     <location>
