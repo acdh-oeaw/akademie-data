@@ -16,6 +16,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="starhemberg-ernst-rudiger">
+               <persName>
+                  <surname>Starhemberg</surname>
+                  <addName>von</addName>
+                  <forename>Ernst Rüdiger</forename>
+               </persName>
+               <birth>
+                  <date>12.01.1638</date>
+                  <placeName>Graz</placeName>
+               </birth>
+               <death>
+                  <date>04.06.1701</date>
+                  <placeName>Vösendorf bei Wien</placeName>
+               </death>
+               <occupation>ksl. Feldmarschall</occupation>
+               <occupation>Präsident des Hofkriegsrates</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117216402</idno>
+               </person>
             <person xml:id="norgate-frederick">
                <persName>
                   <forename>Frederick</forename>
