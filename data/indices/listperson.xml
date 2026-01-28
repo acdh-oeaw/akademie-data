@@ -16,6 +16,25 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="radetzky-josef-wenzel">
+               <persName>
+                  <forename>Josef Wenzel</forename>
+                  <nameLink>Graf von Radetz</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Radetzky</surname>
+               </persName>
+               <persName type="alt">Radetzky von Radetz</persName>
+               <birth>
+                  <date when="1766-11-02">02.11.1766</date>
+                  <placeName>Trebnitz/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1858-01-05">05.01.1858</date>
+                  <placeName>Mailand</placeName></death>
+               <occupation>Feldmarschall</occupation>
+               <occupation>General-Gouverneur/Statthalter von Lombardo-Venetien (1848-1857)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
+            </person>
             <person xml:id="starhemberg-ernst-rudiger">
                <persName>
                   <surname>Starhemberg</surname>
@@ -68,7 +87,10 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116113669</idno>
             </person>
             <person xml:id="kinz">
-               <persName> </persName>
+               <persName> 
+                  <forename>NN</forename>
+                  <surname>NN</surname>
+               </persName>
                <occupation>Gemäß AÖAW, Allg. Akten, No. 381/1852, hieß der Verfasser Christoph
                   Nimtsgern und war Lehrer a.D. in Gottlob.</occupation>
             </person>
