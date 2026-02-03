@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="forster-ludwig">
+               <persName>
+                  <forename>Ludwig (Christian Friedrich)</forename>
+                  <surname>Förster</surname>
+               </persName>
+               <birth>
+                  <date when="1797-10-08">08.10.1797</date>
+                  <placeName>Ansbach</placeName>
+               </birth>
+               <death>
+                  <date when="1863-06-16">16.06.1863</date>
+                  <placeName>Bad Gleichenberg/Steiermark</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Kultusminister</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119509369</idno>
+            </person>
             <person xml:id="radetzky-josef-wenzel">
                <persName>
                   <forename>Josef Wenzel</forename>
