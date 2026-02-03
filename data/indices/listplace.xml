@@ -16,6 +16,22 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="sydenham">
+                    <placeName>Sydenham</placeName>
+                    <location>
+                        <geo>51.71059 -0.94461</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/12262755/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/145461-4</idno>
+                </place>
+                <place xml:id="adelsberger-grotten">
+                    <placeName>Adelsberger Grotten</placeName>
+                    <location>
+                        <geo>45.78384 14.21348</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/7287917/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/111936955X</idno>
+                </place>
                 <place xml:id="schloglmuhl">
                     <placeName>Schlöglmühl</placeName>
                     <location>
