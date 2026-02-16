@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="leuven">
+                    <placeName>Leuven</placeName>
+                    <placeName type="alt">Löwen</placeName>
+                    <location>
+                        <geo>50.87959 4.70093</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2792482/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4074300-7</idno>
+                </place>
                 <place xml:id="sydenham">
                     <placeName>Sydenham</placeName>
                     <location>
