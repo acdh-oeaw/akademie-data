@@ -16,6 +16,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="malfatti-cesare">
+               <persName>
+                  <forename>Cesare</forename>
+                  <nameLink>Baron von</nameLink>
+                  <surname>Malfatti</surname>
+               </persName>
+               <birth>
+                  <date when="1805-07-11">11.07.1805</date>
+                  <placeName>Rovereto</placeName>
+               </birth>
+               <death>
+                  <date when="1879-01-27">27.01.1879</date>
+                  <placeName>Rovereto</placeName></death>
+               <occupation>Podestà von Rovereto (1851-1860 u. 1867-1873)</occupation>
+               </person>
             <person xml:id="forster-ludwig">
                <persName>
                   <forename>Ludwig (Christian Friedrich)</forename>
