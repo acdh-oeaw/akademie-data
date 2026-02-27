@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="bamberg-josef">
+               <persName>
+                  <forename>Josef</forename>
+                  <nameLink>Freiherr von</nameLink>
+                  <surname>Bamberg</surname>
+               </persName>
+               <birth>
+                  <date when="1801-02-28">28.02.1801</date>
+                  <placeName>Lichtenwald/Steiermark</placeName>
+               </birth>
+               <death>
+                  <date when="1870-11-20">20.11.1870</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Militär</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/14386663X</idno>
+            </person>
             <person xml:id="malfatti-cesare">
                <persName>
                   <forename>Cesare</forename>
