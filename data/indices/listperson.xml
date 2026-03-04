@@ -16,6 +16,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="kurz-heinrich">
+               <persName>
+                  <forename>Heinrich</forename>
+                  <surname>Kurz</surname>
+               </persName>
+               <birth>
+                  <date when="1805-04-28">28.04.1805</date>
+                  <placeName>Paris</placeName>
+               </birth>
+               <death>
+                  <date when="1873-02-24">24.02.1873</date>
+                  <placeName>Aarau</placeName></death>
+               <occupation>Kantonsbibliothekar (seit 1846)</occupation>
+               <occupation>Literaturhistoriker</occupation>
+               <occupation>Sinologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/100816703</idno>
+            </person>
             <person xml:id="williams-edmund-sydney">
                <persName>
                   <forename>Edmund Sydney</forename>
