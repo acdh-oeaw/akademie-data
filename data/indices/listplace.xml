@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="aarau">
+                    <placeName>Aarau</placeName>
+                    <location>
+                        <geo>47.39254 8.04422</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2661881/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4000018-7</idno>
+                </place>
                 <place xml:id="leuven">
                     <placeName>Leuven</placeName>
                     <placeName type="alt">Löwen</placeName>
