@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="williams-edmund-sydney">
+               <persName>
+                  <forename>Edmund Sydney</forename>
+                  <surname>Williams</surname>
+               </persName>
+               <birth>
+                  <date when="1817-01-28">28.01.1817</date>
+                  <placeName>Beeston/Nottinghamshire</placeName>
+               </birth>
+               <death>
+                  <date when="1891-09-01">11.09.1891</date>
+                  <placeName>London</placeName></death>
+               <occupation>Verleger</occupation>
+               <occupation>Buchhändler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1298805961</idno>
+            </person>
             <person xml:id="bamberg-josef">
                <persName>
                   <forename>Josef</forename>
