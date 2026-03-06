@@ -16,6 +16,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="wagner-andreas">
+               <persName>
+                  <forename>Johann Andreas</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Wagner</surname>
+               </persName>
+               <birth>
+                  <date when="1797-03-21">21.03.1797</date>
+                  <placeName>Nürnberg</placeName>
+               </birth>
+               <death>
+                  <date when="1861-12-19">19.12.1861</date>
+                  <placeName>München</placeName></death>
+               <occupation>Zoologe</occupation>
+               <occupation>Paläontologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/104136308</idno>
+            </person>
             <person xml:id="kurz-heinrich">
                <persName>
                   <forename>Heinrich</forename>
@@ -79,7 +96,7 @@
                   <date when="1879-01-27">27.01.1879</date>
                   <placeName>Rovereto</placeName></death>
                <occupation>Podestà von Rovereto (1851-1860 u. 1867-1873)</occupation>
-               </person>
+            </person>
             <person xml:id="forster-ludwig">
                <persName>
                   <forename>Ludwig (Christian Friedrich)</forename>
@@ -112,7 +129,8 @@
                   <date when="1858-01-05">05.01.1858</date>
                   <placeName>Mailand</placeName></death>
                <occupation>Feldmarschall</occupation>
-               <occupation>General-Gouverneur/Statthalter von Lombardo-Venetien (1848-1857)</occupation>
+               <occupation>General-Gouverneur/Statthalter von Lombardo-Venetien
+                  (1848-1857)</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
             </person>
             <person xml:id="starhemberg-ernst-rudiger">
@@ -132,7 +150,7 @@
                <occupation>ksl. Feldmarschall</occupation>
                <occupation>Präsident des Hofkriegsrates</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117216402</idno>
-               </person>
+            </person>
             <person xml:id="norgate-frederick">
                <persName>
                   <forename>Frederick</forename>
@@ -167,7 +185,7 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116113669</idno>
             </person>
             <person xml:id="kinz">
-               <persName> 
+               <persName>
                   <forename>NN</forename>
                   <surname>NN</surname>
                </persName>
