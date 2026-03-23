@@ -16,6 +16,39 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="schreibers-karl-franz-anton">
+               <persName>
+                  <forename>Karl (Franz Anton)</forename>
+                  <nameLink>Ritter von</nameLink>
+                  <surname>Schreibers</surname>
+               </persName>
+               <birth>
+                  <date when="1775-08-15">15.08.1775</date>
+                  <placeName>Preßburg</placeName>
+               </birth>
+               <death>
+                  <date when="1852-05-21">21.05.1852</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Botaniker</occupation>
+               <occupation>Direktor des k.k. Naturalien-Kabinetts</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117045535</idno>
+            </person>            
+            <person xml:id="munch-bellinghausen-joachim-eduard">
+               <persName>
+                  <forename>Joachim Eduard</forename>
+                  <surname>Münch-Bellinghausen</surname>
+                  <addName>Graf von</addName></persName>
+               <birth>
+                  <date when="1786-09-29">29.09.1786</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1866-08-03">03.08.1866</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Politiker (Staatsminister)</occupation>
+               <occupation>Jurist</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117173266</idno>
+            </person>
             <person xml:id="wagner-andreas">
                <persName>
                   <forename>Johann Andreas</forename>
@@ -13936,13 +13969,24 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117684481</idno>
                <idno type="paas">4833</idno>
             </person>
-            <person xml:id="colloredo-mannfeld-ferdinand">
-               <persName>
-                  <surname>Colloredo-Mannfeld</surname>
-                  <nameLink>von</nameLink>
-                  <forename>Ferdinand</forename>
-               </persName>
-            </person>
+               <person xml:id="colloredo-mannsfeld-ferdinand">
+                  <persName>
+                     <forename>Ferdinand</forename>
+                     <nameLink>Graf von</nameLink>
+                     <surname>Colloredo-Mannsfeld</surname>
+                  </persName>
+                  <birth>
+                     <date when="1777-07-30">30.07.1777</date>
+                     <placeName>Wien</placeName>
+                  </birth>
+                  <death>
+                     <date when="1848-12-10">10.12.1848</date>
+                     <placeName>Schloß Stiebar bei Gresten/NÖ</placeName></death>
+                  <occupation>Diplomat</occupation>
+                  <occupation>Politiker</occupation>
+                  <occupation>Unternehmer</occupation>
+                  <idno subtype="GND" type="URL">https://d-nb.info/gnd/116639725</idno>
+               </person>
             <person xml:id="habsburg-lothringen-ludwig-joseph">
                <persName>
                   <surname>Habsburg</surname>
@@ -13952,20 +13996,17 @@
                </persName>
                <birth>
                   <date when="1784-12-13">13.12.1784</date>
-                  <placeName>Florenz</placeName>
+                  <placeName>Pisa</placeName>
                </birth>
                <death>
                   <date when="1864-12-21">21.12.1864</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3967" scheme="#apis_vocabularies/professiontype/"
-                  >General</occupation>
-               <occupation code="#3972" scheme="#apis_vocabularies/professiontype/"
-                  >Soldat</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>General</occupation>
+               <occupation>Soldat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/130256811</idno>
-               <idno type="paas">2485</idno>
-            </person>
+               </person>
             <person xml:id="habsburg-lothringen-franz-karl">
                <persName>
                   <surname>Habsburg</surname>
