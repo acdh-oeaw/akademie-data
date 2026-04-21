@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="edinburgh">
+                    <placeName>Edinburgh</placeName>
+                    <location>
+                        <geo>55.95206 -3.19648</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2650225/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4013557-3</idno>
+                </place>
                 <place xml:id="aarau">
                     <placeName>Aarau</placeName>
                     <location>
