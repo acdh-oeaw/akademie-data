@@ -16,6 +16,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="brewster-david">
+               <persName>
+                  <forename>David</forename>
+                  <surname>Brewster</surname>
+               </persName>
+               <birth>
+                  <date>11.12.1781</date>
+                  <placeName>Canongate/Schottland</placeName>
+               </birth>
+               <death>
+                  <date>10.02.1868</date>
+                  <placeName>Allerly/Schottland</placeName></death>
+               <occupation>Physiker</occupation>
+               <occupation>Apotheker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119440660</idno>
+            </person>
             <person xml:id="schreibers-karl-franz-anton">
                <persName>
                   <forename>Karl (Franz Anton)</forename>
