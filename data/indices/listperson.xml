@@ -64,7 +64,7 @@
                <occupation>Botaniker</occupation>
                <occupation>Direktor des k.k. Naturalien-Kabinetts</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117045535</idno>
-            </person>            
+            </person>
             <person xml:id="munch-bellinghausen-joachim-eduard">
                <persName>
                   <forename>Joachim Eduard</forename>
@@ -13967,20 +13967,26 @@
                   <date when="1897-07-30">30.07.1897</date>
                   <placeName>Wien</placeName>
                </death>
-               <occupation code="#3626" scheme="#apis_vocabularies/professiontype/"
-                  >Politiker</occupation>
-               <occupation code="#3632" scheme="#apis_vocabularies/professiontype/"
-                  >Historiker</occupation>
-               <occupation code="#3650" scheme="#apis_vocabularies/professiontype/"
-                  >Archivar</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Archivar</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116344857</idno>
-               <idno type="paas">641</idno>
             </person>
             <person xml:id="biechl-friedrich">
                <persName>
                   <surname>Biechl</surname>
                   <forename>Friedrich</forename>
                </persName>
+               <birth>
+                  <date>um 1816</date>
+                  <placeName>Seewalchen (?)</placeName>
+               </birth>
+               <death>
+                  <date when="1872-11-16">16.11.1872</date>
+                  <placeName>Linz/Hlg. Familie</placeName></death>
+               <occupation>Kanzlist der kaiserliche-königlichen Stiftungs-Verwaltung in Linz (1850)</occupation>
+               <occupation>Steueramtsoffizial I. Klasse (Nov. 1871, (Linzer) Tages-Post v. 18. Nov. 1871, S. 2)</occupation>
+               <occupation>k.k. Beamter (1872)</occupation>
             </person>
             <person xml:id="panizza-bartolomeo">
                <persName>
@@ -14001,24 +14007,24 @@
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/117684481</idno>
                <idno type="paas">4833</idno>
             </person>
-               <person xml:id="colloredo-mannsfeld-ferdinand">
-                  <persName>
-                     <forename>Ferdinand</forename>
-                     <nameLink>Graf von</nameLink>
-                     <surname>Colloredo-Mannsfeld</surname>
-                  </persName>
-                  <birth>
-                     <date when="1777-07-30">30.07.1777</date>
-                     <placeName>Wien</placeName>
-                  </birth>
-                  <death>
-                     <date when="1848-12-10">10.12.1848</date>
-                     <placeName>Schloß Stiebar bei Gresten/NÖ</placeName></death>
-                  <occupation>Diplomat</occupation>
-                  <occupation>Politiker</occupation>
-                  <occupation>Unternehmer</occupation>
-                  <idno subtype="GND" type="URL">https://d-nb.info/gnd/116639725</idno>
-               </person>
+            <person xml:id="colloredo-mannsfeld-ferdinand">
+               <persName>
+                  <forename>Ferdinand</forename>
+                  <nameLink>Graf von</nameLink>
+                  <surname>Colloredo-Mannsfeld</surname>
+               </persName>
+               <birth>
+                  <date when="1777-07-30">30.07.1777</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1848-12-10">10.12.1848</date>
+                  <placeName>Schloß Stiebar bei Gresten/NÖ</placeName></death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Unternehmer</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116639725</idno>
+            </person>
             <person xml:id="habsburg-lothringen-ludwig-joseph">
                <persName>
                   <surname>Habsburg</surname>
@@ -14038,7 +14044,7 @@
                <occupation>General</occupation>
                <occupation>Soldat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/130256811</idno>
-               </person>
+            </person>
             <person xml:id="habsburg-lothringen-franz-karl">
                <persName>
                   <surname>Habsburg</surname>
