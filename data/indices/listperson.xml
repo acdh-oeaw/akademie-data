@@ -16,6 +16,41 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="schmitt-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <nameLink>Ritter von (seit 1868)</nameLink>
+                  <addName>Dr. jur. (Uni Wien 1828)</addName>
+                  <surname>Schmitt</surname>
+               </persName>
+               <birth>
+                  <date when="1816-07-25">25.07.1816</date>
+                  <placeName>Braunau/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1883-04-24">24.04.1883</date>
+                  <placeName>Böhmisch Aicha/Böhmen</placeName></death>
+               <occupation>Parlamentarier</occupation>
+               <occupation>Hof- und Gerichtsadvokat</occupation>
+            </person>
+            <person xml:id="mann-josef">
+               <persName>
+                  <forename>Josef (Johann)</forename>
+                  <nameLink>Ritter von</nameLink>
+                  <surname>Mann</surname>
+               </persName>
+               <birth>
+                  <date when="1804-05-19">19.5.1804</date>
+                  <placeName>Gabel/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1889-03-20">20.03.1889</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Biologe</occupation>
+               <occupation>Entomolge</occupation>
+               <occupation>Schmetterlingsforscher</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1146877838</idno>
+            </person>
             <person xml:id="elfinger-anton">
                <persName>
                   <forename>Anton</forename>
