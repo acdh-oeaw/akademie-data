@@ -16,6 +16,25 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="dittenberger-gustav">
+               <persName>
+                  <forename>(Hans) Gustav</forename>
+                  <nameLink>von Dittenberg</nameLink>
+                  <surname>Dittenberger</surname>
+               </persName>
+               <persName type="alt">Dittenberger von Dittenberg</persName>
+               <birth>
+                  <date>1794 oder 1799</date>
+                  <placeName>Neuenweg/Baden</placeName>
+               </birth>
+               <death>
+                  <date when="1879-10-15">15.10.1879</date>
+                  <placeName>Moskau</placeName></death>
+               <occupation>Maler</occupation>
+               <occupation>Graphiker</occupation>
+               <occupation>Fotograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1012376877</idno>
+            </person>
             <person xml:id="schmitt-franz">
                <persName>
                   <forename>Franz</forename>
