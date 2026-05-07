@@ -16,6 +16,29 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="crillanovich-balthasar">
+               <persName>
+                  <forename>Balthasar/Baldassare</forename>
+                  <surname>Crillanovich</surname>
+               </persName>
+               <occupation>k.k. (provisorischer) Vize-Konsul in Lissabon</occupation>
+               </person>
+            <person xml:id="costa_de_macedo-joaquim">
+               <persName>
+                  <forename>Joaquim José</forename>
+                  <surname>da Costa Macedo</surname>
+               </persName>
+               <birth>
+                  <date when="1777-04-25">25.4.1777</date>
+                  <placeName>Lissabon</placeName>
+               </birth>
+               <death>
+                  <date when="1867-03-15">15.03.1867</date>
+                  <placeName>Golegã/Portugal</placeName></death>
+               <occupation>Historiker</occupation>
+               <occupation>Generalsekretär der Academia das Ciências de Lisboa</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116628448</idno>
+            </person>
             <person xml:id="dittenberger-gustav">
                <persName>
                   <forename>(Hans) Gustav</forename>
