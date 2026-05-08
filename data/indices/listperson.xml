@@ -16,6 +16,39 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="kolbe-hermann">
+               <persName>
+                  <forename>Hermann</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Kolbe</surname>
+               </persName>
+               <birth>
+                  <date when="1818-09-27">27.09.1818</date>
+                  <placeName>Elliehausen bei Göttingen</placeName>
+               </birth>
+               <death>
+                  <date when="1884-11-25">25.11.1884</date>
+                  <placeName>Leipzig</placeName></death>
+               <occupation>Chemiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119151375</idno>
+            </person>
+            <person xml:id="agassiz-Louis">
+               <persName>
+                  <forename>(Jean) Louis (Rodolphe)</forename>
+                  <surname>Agassiz</surname>
+               </persName>
+               <birth>
+                  <date when="1807-05-28">28.05.1807</date>
+                  <placeName>Môtier, Kanton Freiburg/Schweiz</placeName>
+               </birth>
+               <death>
+                  <date when="1873-12-14">14.12.1873</date>
+                  <placeName>Cambridge, Massachusetts/USA</placeName></death>
+               <occupation>Zoologe</occupation>
+               <occupation>Ichthyologe</occupation>
+               <occupation>Glaziologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118643967</idno>
+            </person>
             <person xml:id="crillanovich-balthasar">
                <persName>
                   <forename>Balthasar/Baldassare</forename>
@@ -14306,23 +14339,6 @@
                   <surname>Kappeller</surname>
                   <forename>Heinrich</forename>
                </persName>
-            </person>
-            <person xml:id="agassiz-louis">
-               <persName>
-                  <surname>Agassiz</surname>
-                  <forename>Louis</forename>
-               </persName>
-               <birth>
-                  <date when="1807-05-28">28.05.1807</date>
-                  <placeName>Haut-Vully, Ortsteil Môtier/Schweiz</placeName>
-               </birth>
-               <death>
-                  <date when="1873-12-14">14.12.1873</date>
-                  <placeName>Cambridge/Mass.</placeName>
-               </death>
-               <occupation>Naturwissenschaftler</occupation>
-               <occupation>Zoologe</occupation>
-               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118643967</idno>
             </person>
             <person xml:id="kamtz-ludwig-friedrich">
                <persName>
