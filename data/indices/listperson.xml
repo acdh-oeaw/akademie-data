@@ -16,6 +16,21 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="rose-gustav">
+               <persName>
+                  <forename>Gustav</forename>
+                  <addName>Dr. (Uni Kiel 1820)</addName>
+                  <surname>Rose</surname>
+               </persName>
+               <birth>
+                  <date when="1798-03-18">18.03.1798</date>
+                  <placeName>Berlin</placeName>
+               </birth>
+               <death>
+                  <date when="1873-07-15">15.07.1873</date>
+                  <placeName>Berlin</placeName></death>
+               <occupation>Mineraloge</occupation>
+               </person>
             <person xml:id="kolbe-hermann">
                <persName>
                   <forename>Hermann</forename>
