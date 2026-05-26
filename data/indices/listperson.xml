@@ -15,6 +15,19 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="enthoffer-joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Enthoffer</surname>
+               </persName>
+               <birth>
+                  <date>1818</date>
+                  </birth>
+               <death>
+                  <date when="1909-04-06">06.04.1909</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Kupferstecher, der 1857 in die USA emigrierte</occupation>
+               </person>
             <person xml:id="esterhazy-moritz">
                <persName>
                   <forename>Moritz</forename>
