@@ -15,6 +15,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="miller-william-hallows">
+               <persName>
+                  <forename>William Hallows</forename>
+                  <surname>Miller</surname>
+               </persName>
+               <birth>
+                  <date when="1801-04-06">06.04.1801</date>
+                  <placeName>Llandovery, Carmarthenshire/Wales</placeName>
+               </birth>
+               <death>
+                  <date when="1880-05-20">20.05.1880</date>
+                  <placeName>Cambridge, Cambridgeshire/England</placeName></death>
+               <occupation>Mineraloge</occupation>
+               <occupation>Kristallograph</occupation>
+               <occupation>Foreign Secretary der Royal Society of London (1852-1873)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117043842</idno>            
+            </person>
             <person xml:id="muller-johann-georg-friedrich">
                <persName>
                   <forename>Johann Georg Friedrich</forename>
@@ -14341,12 +14358,6 @@
                   1847</occupation>
                <occupation>Lebte noch im April 1892 (Neue Freie Presse v. 21. April
                   1892)</occupation>
-            </person>
-            <person xml:id="smith-w-h">
-               <persName>
-                  <surname>Smith</surname>
-                  <forename>W. H.</forename>
-               </persName>
             </person>
             <person xml:id="helmreichen-virgil">
                <persName>
