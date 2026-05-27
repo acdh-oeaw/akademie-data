@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="erlangen">
+                    <placeName>Erlangen</placeName>
+                    <location>
+                        <geo>49.59099 11.00783</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2929567/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4015299-6</idno>
+                </place>
                 <place xml:id="edinburgh">
                     <placeName>Edinburgh</placeName>
                     <location>
