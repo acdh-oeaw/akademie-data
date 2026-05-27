@@ -15,6 +15,20 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="muller-johann-georg-friedrich">
+               <persName>
+                  <forename>Johann Georg Friedrich</forename>
+                  <surname>Müller</surname>
+               </persName>
+               <birth>
+                  <date>1804</date>
+                  </birth>
+               <death>
+                  <date>1870</date>
+               </death>
+               <occupation>Direktor der Universitätsbibliothek Erlangen (1844-1870)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117592706</idno>
+            </person>
             <person xml:id="bermann-jeremias">
                <persName>
                   <forename>Jeremias</forename>
