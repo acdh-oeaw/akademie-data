@@ -15,6 +15,67 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="bermann-jeremias">
+               <persName>
+                  <forename>Jeremias</forename>
+                  <surname>Bermann</surname>
+               </persName>
+               <birth>
+                  <date>um 1770</date>
+                  <placeName>Oesdorf/Bistum Paderborn</placeName>
+               </birth>
+               <death>
+                  <date when="1855-01-02">02.01.1855</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Kunst- und Musikalienhändler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118757393</idno>
+            </person>
+            <person xml:id="beck-friedrich">
+               <persName>
+                  <forename>Friedrich</forename>
+                  <surname>Beck</surname>
+               </persName>
+               <birth>
+                  <date when="1802-04-20">20.04.1802</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1860-02-18">18.02.1860</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Universitäts- und Verlagsbuchhändler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/143533460</idno>
+            </person>
+            <person xml:id="schmid-von-anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <nameLink>von (seit 1825)</nameLink>
+                  <surname>Schmid</surname>
+               </persName>
+               <birth>
+                  <date>um 1765</date>
+                  <placeName>Tetschen</placeName>
+               </birth>
+               <death>
+                  <date when="1855-06-27">27.06.1855</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Buchdrucker (druckte Hammer-Purgstalls "Fundgruben des Orients"</occupation>
+               <occupation>Buchhändler</occupation>
+            </person>
+            <person xml:id="schaumburg-konrad-friedrich">
+               <persName>
+                  <forename>Konrad Friedrich</forename>
+                  <surname>Schaumburg</surname>
+               </persName>
+               <birth>
+                  <date when="1801-04-07">7.4.1801 (Tauftag)</date>
+                  <placeName>Wien-St. Stephan</placeName>
+               </birth>
+               <death>
+                  <date when="1877-08-15">15.08.1877</date>
+                  <placeName>Wien-St. Othmar unter den Weißgerbern</placeName></death>
+               <occupation>Buchhändler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/136255590</idno>
+            </person>
             <person xml:id="pratobevera-adolf">
                <persName>
                   <forename>Adolf</forename>
@@ -73,8 +134,8 @@
                   <date>1818</date>
                </birth>
                <death>
-                  <date when="1909-04-06">06.04.1909</date>
-                  <placeName>Wien</placeName></death>
+                  <date when="1909-04-02">02.04.1909</date>
+                  <placeName>District of Columbia/USA</placeName></death>
                <occupation>Kupferstecher im k.k. militär-geographischen Institut, der 1857 in die
                   USA emigrierte</occupation>
             </person>
