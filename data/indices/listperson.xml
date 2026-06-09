@@ -15,6 +15,62 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="sophokles">
+               <persName>
+                  <surname>Sophokles</surname>
+               </persName>
+               <persName type="alt">Thun von Hohenstein</persName>
+               <birth>
+                  <date>497/496 v. Chr.</date>
+                  <placeName>Kolonos</placeName>
+               </birth>
+               <death>
+                  <date>406/405 v. Chr.</date>
+                  <placeName>Athen</placeName></death>
+               <occupation>Dramatiker</occupation>
+               <occupation>Philosoph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118615688</idno>
+            </person>
+            <person xml:id="hesiod">
+               <persName>
+                  <surname>Hesiod</surname>
+               </persName>
+               <birth>
+                  <date>um 700 v. Chr.</date>
+                  <placeName>vermutlich in Askra/Boetien</placeName>
+               </birth>
+               <occupation>griechischer Dichter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118550292</idno>
+            </person>
+            <person xml:id="legendre-adrien-marie">
+               <persName>
+                  <forename>Adrien-Marie</forename>
+                  <surname>Legendre</surname>
+               </persName>
+               <birth>
+                  <date when="1752-09-18">18.09.1752</date>
+                  <placeName>Paris</placeName>
+               </birth>
+               <death>
+                  <date when="1833-01-09">09.01.1833</date>
+                  <placeName>Paris</placeName></death>
+               <occupation>Mathematiker</occupation>
+               <occupation>Ingenieur</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118779249</idno>
+            </person>
+            <person xml:id="homer">
+               <persName>
+                  <surname>Homer</surname>
+               </persName>
+               <birth>
+                  <date>ca. 2. Hälfte des 8. Jahrhunderts v. Chr.</date>
+                  </birth>
+               <death>
+                  <date>ca. 1. Hälfte des 7. Jahrhunderts v. Chr.</date>
+               </death>
+               <occupation>griechischer Dichter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11855333X</idno>
+            </person>
             <person xml:id="francolini-joseph">
                <persName>
                   <forename>Joseph</forename>
