@@ -15,6 +15,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="stadion-franz-seraph">
+               <persName>
+                  <forename>Franz Seraph</forename>
+                  <nameLink>Graf von Warthausen und Thannhausen</nameLink>
+                  <surname>Stadion</surname>
+               </persName>
+               <birth>
+                  <date when="1806-07-27">27.07.1806</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1853-06-08">08.06.1853</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Minister des Innern (1848/49)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119520702</idno>
+            </person>
             <person xml:id="sophokles">
                <persName>
                   <surname>Sophokles</surname>
