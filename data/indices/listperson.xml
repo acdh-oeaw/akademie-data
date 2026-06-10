@@ -15,6 +15,41 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="heller-carl">
+               <persName>
+                  <forename>Carl (Bartholomäus)</forename>
+                  <nameLink>Adelsprädikat</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Heller</surname>
+               </persName>
+               <birth>
+                  <date when="1824-11-20">20.11.1824</date>
+                  <placeName>Misloborschitz/Mähren</placeName>
+               </birth>
+               <death>
+                  <date when="1880-12-14">14.12.1880</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Botaniker</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/102078831</idno>
+            </person>
+            <person xml:id="berzelius-jöns-jakob">
+               <persName>
+                  <forename>Jöns Jakob</forename>
+                  <nameLink>von (ab 1818)</nameLink><surname>Berzelius</surname>
+               </persName>
+               <birth>
+                  <date when="1779-08-20">20.08.1779</date>
+                  <placeName>Socken Väversunda/Schweden</placeName>
+               </birth>
+               <death>
+                  <date when="1848-08-07">07.08.1848</date>
+                  <placeName>Stockholm</placeName></death>
+               <occupation>Chemiker</occupation>
+               <occupation>Mediziner</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118510185</idno>
+            </person>
             <person xml:id="stadion-franz-seraph">
                <persName>
                   <forename>Franz Seraph</forename>
