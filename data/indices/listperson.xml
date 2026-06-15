@@ -15,6 +15,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="krausler-johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <addName>Dr. phil. hc (1848, phil. Fak., Uni Graz)</addName>
+                  <surname>Krausler</surname>
+               </persName>
+               <death>
+                  <date>1852</date>
+               </death>
+               <occupation>Direktor der Universitätsbibliothek Graz (1833-1852)</occupation>
+               </person>
+            <person xml:id="thal-james">
+               <persName>
+                  <forename>James</forename>
+                  <surname>Thal</surname>
+               </persName>
+               <occupation>k.k. Generalkonsul in St. Petersburg (erw. 1849-1856)</occupation>
+               </person>
             <person xml:id="heller-carl">
                <persName>
                   <forename>Carl (Bartholomäus)</forename>
