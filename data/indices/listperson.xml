@@ -15,6 +15,79 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="zeuschner-ludwig">
+               <persName>
+                  <forename>Ludwig/Ludwik</forename>
+                  <nameLink>Adelsprädikat</nameLink>
+                  <addName>Dr. phil.</addName>
+                  <surname>Zeuschner/Zejszner</surname>
+               </persName>
+               <persName type="alt">Zejszner</persName>
+               <birth>
+                  <date when="1803-08-15">15.08.1803</date>
+                  <placeName>Warschau</placeName>
+               </birth>
+               <death>
+                  <date when="1871-01-03">03.01.1871</date>
+                  <placeName>Krakau</placeName></death>
+               <occupation>Mineraloge</occupation>
+               <occupation>Geologe</occupation>
+               <occupation>Kartograph</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117597333</idno>
+            </person>
+            <person xml:id="heufler-ludwig">
+               <persName>
+                  <forename>Ludwig</forename>
+                  <nameLink>von (Ritter, seit 1865 Freiherr)</nameLink>
+                  <surname>Heufler (von Hohenbühel)</surname>
+               </persName>
+               <persName type="alt">Hohenbühel (Heufler zu Rasen)</persName>
+               <birth>
+                  <date when="1817-08-26">26.08.1817</date>
+                  <placeName>Innsbruck</placeName>
+               </birth>
+               <death>
+                  <date when="1885-06-08">08.06.1885</date>
+                  <placeName>Altzoll bei Solbad Hall/Tirol</placeName></death>
+               <occupation>Botaniker</occupation>
+               <occupation>Geograph</occupation>
+               <occupation>Statistiker</occupation>
+               <occupation>Genealoge</occupation>
+               <occupation>Beamter</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116953462</idno>
+            </person>
+            <person xml:id="ettingshausen-constantin">
+               <persName>
+                  <forename>Constantin</forename>
+                  <nameLink>Freiherr von</nameLink>
+                  <addName>Dr. med. (1848)</addName><surname>Ettingshausen</surname>
+               </persName>
+               <birth>
+                  <date when="1826-06-16">16.06.1826</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1897-02-01">01.02.1897</date>
+                  <placeName>Graz</placeName></death>
+               <occupation>Paläobotaniker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116585536</idno>
+            </person>
+            <person xml:id="roth-eduard">
+               <persName>
+                  <forename>Eduard (Maximilian)</forename>
+                  <surname>Röth</surname>
+               </persName>
+               <birth>
+                  <date when="1807-10-12">12.10.1807</date>
+                  <placeName>Hanau</placeName>
+               </birth>
+               <death>
+                  <date when="1858-07-07">07.07.1858</date>
+                  <placeName>Heidelberg</placeName></death>
+               <occupation>Philosoph</occupation>
+               <occupation>Professor für Sanskrit an der Universität Heidelberg (ab 1850)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116595957</idno>
+            </person>
             <person xml:id="krausler-johann">
                <persName>
                   <forename>Johann</forename>
