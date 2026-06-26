@@ -15,6 +15,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="ruzicka-matej">
+               <persName>
+                  <forename>Matěj (Jakub)</forename>
+                  <surname>Růžička</surname>
+               </persName>
+               <birth>
+                  <date when="1807-07-20">20.07.1807</date>
+                  <placeName>Tabor</placeName>
+               </birth>
+               <death>
+                  <date when="1885-06-02">02.06.1885</date>
+                  <placeName>Neuhaus</placeName>
+               </death>
+               <occupation>Benediktinermönch</occupation>
+               <occupation>Lehrer am Gymnasium in Klattau</occupation>
+               <occupation>zunächst provisorischer (Dez. 1854), dann Direktor des katholischen Gymnasiums in Neusohl (1857-1862)</occupation>
+               <occupation>Direktor des Gymnasiums in Neuhaus (1862 bis zur Pensionierung 1875)</occupation>
+            </person>
             <person xml:id="zeuschner-ludwig">
                <persName>
                   <forename>Ludwig/Ludwik</forename>
