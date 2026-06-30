@@ -15,6 +15,25 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="brecher-gideon">
+               <persName>
+                  <forename>Gideon</forename>
+                  <addName>Dr. med. (ab 1849)</addName>
+                  <surname>Brecher</surname>
+               </persName>
+               <persName type="alt">Gedaliah Ben Eliézer</persName>
+               <birth>
+                  <date when="1797-01-12">12.01.1797</date>
+                  <placeName>Proßnitz</placeName>
+               </birth>
+               <death>
+                  <date when="1873-05-14">14.05.1873</date>
+                  <placeName>Proßnitz</placeName>
+               </death>
+               <occupation>Arzt</occupation>
+               <occupation>Schriftsteller</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/131355627</idno>
+            </person>
             <person xml:id="ruzicka-matej">
                <persName>
                   <forename>Matěj (Jakub)</forename>
