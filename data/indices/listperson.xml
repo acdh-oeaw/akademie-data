@@ -9079,13 +9079,13 @@
                </persName>
                <birth>
                   <date when="1818-05-31">31.05.1818</date>
-                  <placeName>Hradec Králové</placeName>
+                  <placeName>Königgrätz</placeName>
                </birth>
                <death>
                   <date when="1905-06-12">12.06.1905</date>
+                  <placeName>Prag</placeName>
                </death>
-               <idno type="URL">https://apis.eos.arz.oeaw.ac.at/entity/6483</idno>
-               <idno type="paas">6483</idno>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117404845</idno>
             </person>
             <person xml:id="dozy-reinhart-pieter-anne">
                <persName>
@@ -9094,18 +9094,16 @@
                </persName>
                <birth>
                   <date when="1820-02-21">21.02.1820</date>
+                  <placeName>Leiden</placeName>
                </birth>
                <death>
                   <date when="1883-04-29">29.04.1883</date>
+                  <placeName>Leiden</placeName>
                </death>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#3698" scheme="#apis_vocabularies/professiontype/"
-                  >Linguist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49881/</idno>
+               <occupation>Orientalist</occupation>
+               <occupation>Linguist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116191171</idno>
-               <idno type="paas">49881</idno>
-            </person>
+               </person>
             <person xml:id="dukes-leopold">
                <persName>
                   <surname>Dukes</surname>
@@ -9113,20 +9111,17 @@
                </persName>
                <birth>
                   <date when="1810-02-02">02.02. 1810</date>
+                  <placeName>Preßburg</placeName>
                </birth>
                <death>
-                  <date when="1891-08-03">03.08. 1891</date>
+                  <date when="1891-08-03">03.08.1891</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3639" scheme="#apis_vocabularies/professiontype/"
-                  >Theologe</occupation>
-               <occupation code="#3666" scheme="#apis_vocabularies/professiontype/"
-                  >Literarhistoriker</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/49882/</idno>
+               <occupation>Theologe</occupation>
+               <occupation>Literarhistoriker</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116243678</idno>
-               <idno type="paas">49882</idno>
-            </person>
+               </person>
             <person xml:id="egner-von-krudt-johann">
                <persName>
                   <surname>Egner von Krudt</surname>
@@ -13503,25 +13498,19 @@
                </persName>
                <birth>
                   <date when="1801-10-12">12.10.1801</date>
-                  <placeName>Ribeauvillé</placeName>
+                  <placeName>Rappoltsweiler/Elsaß</placeName>
                </birth>
                <death>
                   <date when="1870-09-14">14.09.1870</date>
                   <placeName>München</placeName>
                </death>
-               <occupation code="#3631" scheme="#apis_vocabularies/professiontype/"
-                  >Physiker</occupation>
-               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/"
-                  >Astronom</occupation>
-               <occupation code="#3781" scheme="#apis_vocabularies/professiontype/"
-                  >Techniker</occupation>
-               <occupation code="#3900" scheme="#apis_vocabularies/professiontype/"
-                  >Unternehmer</occupation>
-               <occupation code="#3931" scheme="#apis_vocabularies/professiontype/"
-                  >Erfinder</occupation>
+               <occupation>Physiker</occupation>
+               <occupation>Astronom</occupation>
+               <occupation>Techniker</occupation>
+               <occupation>Unternehmer</occupation>
+               <occupation>Erfinder</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11900755X</idno>
-               <idno type="paas">6168</idno>
-            </person>
+               </person>
             <person xml:id="rose-heinrich">
                <persName>
                   <surname>Rose</surname>
@@ -13533,14 +13522,12 @@
                </birth>
                <death>
                   <date when="1864-01-27">27.01.1864</date>
+                  <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3627" scheme="#apis_vocabularies/professiontype/"
-                  >Chemiker</occupation>
-               <occupation code="#3725" scheme="#apis_vocabularies/professiontype/"
-                  >Apotheker</occupation>
+               <occupation>Chemiker</occupation>
+               <occupation>Apotheker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118602640</idno>
-               <idno type="paas">5419</idno>
-            </person>
+               </person>
             <person xml:id="grunert-johann-august">
                <persName>
                   <surname>Grunert</surname>
@@ -13548,18 +13535,16 @@
                </persName>
                <birth>
                   <date when="1797-02-07">07.02.1797</date>
-                  <placeName xmlns="http://www.tei-c.org/ns/1.0">Halle (Westf.)</placeName>
+                  <placeName>Halle a.d. Saale</placeName>
                </birth>
                <death>
                   <date when="1872-06-07">07.06.1872</date>
+                  <placeName>Greifswald</placeName>
                </death>
-               <occupation code="#3631" scheme="#apis_vocabularies/professiontype/"
-                  >Physiker</occupation>
-               <occupation code="#3651" scheme="#apis_vocabularies/professiontype/"
-                  >Mathematiker</occupation>
+               <occupation>Physiker</occupation>
+               <occupation>Mathematiker</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116900679</idno>
-               <idno type="paas">2434</idno>
-            </person>
+               </person>
             <person xml:id="quetelet-lambert-adolphe">
                <persName>
                   <surname>Quetelet</surname>
@@ -13571,20 +13556,15 @@
                </birth>
                <death>
                   <date when="1874-02-17">17.02.1874</date>
+                  <placeName>Brüssel</placeName>
                </death>
-               <occupation code="#3651" scheme="#apis_vocabularies/professiontype/"
-                  >Mathematiker</occupation>
-               <occupation code="#3653" scheme="#apis_vocabularies/professiontype/"
-                  >Forschungsreisender</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
-               <occupation code="#3679" scheme="#apis_vocabularies/professiontype/"
-                  >Statistiker</occupation>
-               <occupation code="#3694" scheme="#apis_vocabularies/professiontype/"
-                  >Astronom</occupation>
+               <occupation>Mathematiker</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <occupation>Botaniker</occupation>
+               <occupation>Statistiker</occupation>
+               <occupation>Astronom</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118743171</idno>
-               <idno type="paas">5167</idno>
-            </person>
+               </person>
             <person xml:id="redtenbacher-ludwig">
                <persName>
                   <surname>Redtenbacher</surname>
