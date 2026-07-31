@@ -15,7 +15,41 @@
    <text>
       <body>
          <listPerson>
-            <person xml:id="morlot-adolph">
+            <person xml:id="ragsky-franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <addName>Dr. med. (Wien 1840)</addName>
+                  <surname>Ragsky</surname>
+               </persName>
+               <birth>
+                  <date when="1814-03-27">27.03.1814</date>
+                  <placeName>Jungwoschitz/Böhmen</placeName>
+               </birth>
+               <death>
+                  <date when="1875-07-06">06.07.1875</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Chemiker an der k.k. geologischen Reichsanstalt (1851-1854)</occupation>
+               <occupation>Lehrer, zuletzt Direktor der Realschule in Wien-Guempendorf</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1160778515</idno>
+            </person>
+            <person xml:id="pettko-jan">
+               <persName>
+                  <forename>Ján</forename>
+                  <surname>Pettko</surname>
+               </persName>
+               <birth>
+                  <date when="1812-11-11">11.11.1812</date>
+                  <placeName>Drietoma/Oberungarn</placeName>
+               </birth>
+               <death>
+                  <date when="1890-10-26">26.10.1890</date>
+                  <placeName>Preßburg</placeName></death>
+               <occupation>Geologe</occupation>
+               <occupation>Mineraloge</occupation>
+               <occupation>Professor für Mineralogie, Geologe u. Palänotologie an der Berg- und Forstakademie in Schemnitz (1847)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1025884469</idno>
+            </person><person xml:id="morlot-adolph">
                <persName>
                   <forename>(Karl) Adolph</forename>
                   <nameLink>von</nameLink>
