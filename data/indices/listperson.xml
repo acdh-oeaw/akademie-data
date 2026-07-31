@@ -15,6 +15,38 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="morlot-adolph">
+               <persName>
+                  <forename>(Karl) Adolph</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Morlot</surname>
+               </persName>
+               <birth>
+                  <date when="1820-03-22">22.03.1820</date>
+                  <placeName>Neapel</placeName>
+               </birth>
+               <death>
+                  <date when="1867-02-10">10.02.1867</date>
+                  <placeName>Bern</placeName></death>
+               <occupation>Geologe</occupation>
+               <occupation>Prähistoriker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116929626</idno>
+            </person>
+            <person xml:id="fritsch-carl">
+               <persName>
+                  <forename>Carl</forename>
+                  <surname>Fritsch</surname>
+               </persName>
+               <birth>
+                  <date when="1812-08-16">16.08.1812</date>
+                  <placeName>Prag</placeName>
+               </birth>
+               <death>
+                  <date when="1879-12-26">26.12.1879</date>
+                  <placeName>Salzburg</placeName></death>
+               <occupation>Meteorologe</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116825251</idno>
+            </person>
             <person xml:id="brecher-gideon">
                <persName>
                   <forename>Gideon</forename>
@@ -9294,18 +9326,16 @@
                </persName>
                <birth>
                   <date when="1805-08-04">04.08.1805</date>
+                  <placeName>Frankfurt am Main</placeName>
                </birth>
                <death>
                   <date when="1855-12-31">31.12.1855</date>
+                  <placeName>Göttingen</placeName>
                </death>
-               <occupation code="#3637" scheme="#apis_vocabularies/professiontype/">Klassischer
-                  Philologe</occupation>
-               <occupation code="#3649" scheme="#apis_vocabularies/professiontype/"
-                  >Archäologe</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50003/</idno>
+               <occupation>Klassischer Philologe</occupation>
+               <occupation>Archäologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116739517</idno>
-               <idno type="paas">50003</idno>
-            </person>
+               </person>
             <person xml:id="hohenbuhel-heufler-zu-rasen-ludwig">
                <persName>
                   <surname>Hohenbühel (Heufler zu Rasen)</surname>
@@ -9315,12 +9345,15 @@
                </persName>
                <birth>
                   <date when="1817-08-26">26. 08. 1817</date>
+                  <placeName>Innsbruck</placeName>
                </birth>
                <death>
                   <date when="1885-06-08">08. 06. 1885</date>
+                  <placeName>Hall in Tirol</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50007/</idno>
-               <idno type="paas">50007</idno>
+               <occupation>Jurist</occupation>
+               <occupation>Botaniker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116953462</idno>
             </person>
             <person xml:id="holzl-franz">
                <persName>
@@ -9329,18 +9362,16 @@
                </persName>
                <birth>
                   <date when="1791-02-10">10.02.1791</date>
+                  <placeName>Wien</placeName>
                </birth>
                <death>
                   <date when="1850-02-07">07.02.1850</date>
+                  <placeName>Wien</placeName>
                </death>
-               <occupation code="#3769" scheme="#apis_vocabularies/professiontype/"
-                  >Librettist</occupation>
-               <occupation code="#3878" scheme="#apis_vocabularies/professiontype/"
-                  >Beamter</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50023/</idno>
+               <occupation>Librettist</occupation>
+               <occupation>Beamter in der kaiserlichen Kabinettskanzlei</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/104646373X</idno>
-               <idno type="paas">50023</idno>
-            </person>
+               </person>
             <person xml:id="kaempf-saul-isaac">
                <persName>
                   <surname>Kaempf</surname>
@@ -9348,22 +9379,17 @@
                </persName>
                <birth>
                   <date when="1818-05-06">06. 05. 1818</date>
-                  <placeName>Lysá nad Labem</placeName>
+                  <placeName>Lissa an der Elbe</placeName>
                </birth>
                <death>
                   <date when="1892-10-16">16. 10. 1892</date>
                   <placeName>Prag</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#4089" scheme="#apis_vocabularies/professiontype/"
-                  >Rabbiner</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50043/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Orientalist</occupation>
+               <occupation>Rabbiner</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/10259466X</idno>
-               <idno type="paas">50043</idno>
-            </person>
+               </person>
             <person xml:id="klemm-gustav-friedrich">
                <persName>
                   <surname>Klemm</surname>
@@ -9404,16 +9430,16 @@
                </persName>
                <birth>
                   <date when="1794-03-14">14.03.1794</date>
+                  <placeName>Wien</placeName>   
                </birth>
                <death>
                   <date when="1859-06-18">18.06.1859</date>
+                  <placeName>Wien</placeName>   
                </death>
-               <occupation code="#3767" scheme="#apis_vocabularies/professiontype/"
-                  >Finanzbeamter</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50069/</idno>
+               <occupation>Finanzbeamter</occupation>
+               <occupation>Jurist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/136522025</idno>
-               <idno type="paas">50069</idno>
-            </person>
+               </person>
             <person xml:id="krusenstern-adam-johann">
                <persName>
                   <surname>Krusenstern</surname>
@@ -9423,13 +9449,15 @@
                </persName>
                <birth>
                   <date when="1770-11-08">08.11.1770</date>
-                  <placeName>Hagudi</placeName>
+                  <placeName>Hagudi/Estland</placeName>
                </birth>
                <death>
                   <date when="1846-08-12">12.08.1846</date>
+                  <placeName>Schloß Ass bei Gilsenhof/Estland</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50072/</idno>
-               <idno type="paas">50072</idno>
+               <occupation>Admiral</occupation>
+               <occupation>Weltumsegler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119021285</idno>
             </person>
             <person xml:id="habsburg-ladislaus-postumus">
                <persName>
@@ -9438,50 +9466,52 @@
                </persName>
                <birth>
                   <date when="1440-02-22">22.02.1440</date>
+                  <placeName>Komorn</placeName>
                </birth>
                <death>
                   <date when="1457-11-23">23.11.1457</date>
+                  <placeName>Prag</placeName>
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50073/</idno>
-               <idno type="paas">50073</idno>
+               <occupation>Ladislaus V., König von Ungarn</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118725866</idno>
             </person>
             <person xml:id="laurian-august-treboniu">
                <persName>
                   <surname>Laurian</surname>
+                  <addName>Dr. (Uni Göttingen</addName>
                   <forename>August Treboniu</forename>
                </persName>
                <birth>
                   <date when="1810-07-17">17.07.1810</date>
-               </birth>
+                  <placeName>Hochfeld/Siebenbürgen</placeName></birth>
                <death>
                   <date when="1881-02-27">27.02.1881</date>
+                  <placeName>Bukarest</placeName> 
                </death>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50085/</idno>
-               <idno type="paas">50085</idno>
+               <occupation>Sprachwissenschaftler</occupation>
+               <occupation>Historiker</occupation>
+               <occupation>Politiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1027644732</idno>
             </person>
             <person xml:id="luzzatto-filosseno">
                <persName>
                   <surname>Luzzatto</surname>
-                  <forename>Filosseno</forename>
+                  <forename>Filosseno/Philoxène</forename>
                </persName>
                <birth>
                   <date when="1829-07-10">10.07.1829</date>
+                  <placeName>Triest</placeName>
                </birth>
                <death>
                   <date when="1854-01-25">25.01.1854</date>
+                  <placeName>Padua</placeName>
                </death>
-               <occupation code="#3624" scheme="#apis_vocabularies/professiontype/"
-                  >Philologe</occupation>
-               <occupation code="#3640" scheme="#apis_vocabularies/professiontype/"
-                  >Orientalist</occupation>
-               <occupation code="#3644" scheme="#apis_vocabularies/professiontype/"
-                  >Paläograf</occupation>
-               <occupation code="#3698" scheme="#apis_vocabularies/professiontype/"
-                  >Linguist</occupation>
-               <idno type="URL">https://paas.acdh.oeaw.ac.at/entity/50105/</idno>
+               <occupation>Philologe</occupation>
+               <occupation>Orientalist</occupation>
+               <occupation>Paläograf</occupation>
+               <occupation>Linguist</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/1020050411</idno>
-               <idno type="paas">50105</idno>
-            </person>
+               </person>
             <person xml:id="mas-latrie-comte-de-jacques-marie-joseph-louis">
                <persName>
                   <surname>Mas-Latrie, Comte de</surname>
