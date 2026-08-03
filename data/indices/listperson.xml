@@ -15,6 +15,55 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="bache-alexander">
+               <persName>
+                  <forename>Alexander D.</forename>
+                  <surname>Bache</surname>
+               </persName>
+               <birth>
+                  <date when="1806-07-19">19.07.1806</date>
+                  <placeName>Philadelphia/NY</placeName>
+               </birth>
+               <death>
+                  <date when="1867-02-17">17.02.1867</date>
+                  <placeName>Newport/RI</placeName></death>
+               <occupation>Physiker</occupation>
+               <occupation>Chemiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119214601</idno>
+            </person>
+            <person xml:id="graham-thomas">
+               <persName>
+                  <forename>Thomas</forename>
+                  <surname>Graham</surname>
+               </persName>
+               <birth>
+                  <date when="1805-12-21">21.12.1805</date>
+                  <placeName>Glasgow</placeName>
+               </birth>
+               <death>
+                  <date when="1869-09-11">11.09.1869</date>
+                  <placeName>London</placeName>
+               </death>
+               <occupation>Chemiker</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/11871838X</idno>
+            </person>
+            <person xml:id="scheffer-josef">
+               <persName>
+                  <forename>Josef</forename>
+                  <surname>Scheffer</surname>
+               </persName>
+               <birth>
+                  <date when="1794-11-07">07.11.1794</date>
+                  <placeName>Breitenfurt/Österreichisch Schlesien</placeName>
+               </birth>
+               <death>
+                  <date when="1875-12-25">25.12.1875</date>
+                  <placeName>Mödling</placeName></death>
+               <occupation>k.k. Unterleutnant (1826 anläßlich seiner Eheschließung in Mödling)</occupation>
+               <occupation>Entomologe</occupation>
+               <occupation>Bürgermeister in Mödling/NÖ (1848-1861)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1192805763</idno>
+            </person>
             <person xml:id="ragsky-franz">
                <persName>
                   <forename>Franz</forename>
