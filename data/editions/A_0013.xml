@@ -584,7 +584,7 @@
             <lb facs="#facs_1_r1008" xml:id="z5"/>Anwesend: der Präsident Freiherr <rs type="person" ref="#hammer-purgstall-von-joseph" key="Hammer-Purgstall, von, Joseph">Hammer-Purgstall</rs>
             <lb facs="#facs_1_r1010" xml:id="z6"/><choice><expan>Der</expan><abbr><am>"</am></abbr></choice> Vice- <choice><expan>Präsident</expan><abbr><am>"</am></abbr></choice> <rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas">Baumgartner</rs>
             <lb facs="#facs_1_line_1499413135734_37" xml:id="z7"/><choice><expan>Der</expan><abbr><am>"</am></abbr></choice> General-Secretär <rs type="person" ref="#ettingshausen-von-andreas" key="Ettingshausen, von, Andreas"><choice><expan>von</expan><abbr>v<am>.</am></abbr></choice> Ettingshausen</rs>
-            <lb facs="#facs_1_line_1499413140539_38" xml:id="z8"/><choice><expan>Der</expan><abbr><am>"</am></abbr></choice> <num>2</num>te <choice><expan>Sekretär</expan><abbr><am>"</am></abbr></choice> <rs type="person" ref="#wolf-ferdinand" key="Wolf, Ferdinand">Wolf</rs></p>
+            <lb facs="#facs_1_line_1499413140539_38" xml:id="z8"/><choice><expan>Der</expan><abbr><am>"</am></abbr></choice> <num>2</num><hi rend="super">te</hi> <choice><expan>Sekretär</expan><abbr><am>"</am></abbr></choice> <rs type="person" ref="#wolf-ferdinand" key="Wolf, Ferdinand">Wolf</rs></p>
                <p rendition="#f" facs="#facs_1_region_1499409643837_7" xml:id="p8" xml:space="preserve">
             <lb facs="#facs_1_r1014" xml:id="z9"/>Die wirklichen Mitglieder <rs type="person" ref="#grillparzer-franz" key="Grillparzer, Franz">Grillparzer</rs>
             <lb facs="#facs_1_line_1499413242487_39" xml:id="z10"/><rs type="person" ref="#partsch-paul" key="Partsch, Paul">Partsch</rs>
@@ -759,7 +759,7 @@
             <lb facs="#facs_5_r1009" xml:id="z152"/>und Liebe zu solchen Beobachtungen 
             <lb facs="#facs_5_r1010" xml:id="z153"/>kund gibt, fehlen die nöthigen 
             In-<lb facs="#facs_5_r1011" xml:id="z154"/>strumente. So befinde sich zu 
-            <lb facs="#facs_5_r1012" xml:id="z155"/><rs type="place" ref="#">raigern</rs> in Mähren ein junger 
+            <lb facs="#facs_5_r1012" xml:id="z155"/><rs type="place" ref="#raigern">Raigern</rs> in Mähren ein junger 
             <lb facs="#facs_5_r1013" xml:id="z156"/>Mann Namens Joseph <rs type="person" ref="#hoffner-josef" key="Hoffner, Josef">Hoffner</rs> der 
             <lb facs="#facs_5_r1014" xml:id="z157"/>seit mehreren Jahren sich an der 
             <lb facs="#facs_5_r1015" xml:id="z158"/><rs type="place" ref="#prag">Prag</rs>er Sternwarte mit solchen 
@@ -767,7 +767,7 @@
             <lb facs="#facs_5_r1017" xml:id="z160"/><choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> <rs type="person" ref="#kreil-karl" key="Kreil, Karl">Kreil</rs> dringend ersucht habe,
             <lb facs="#facs_5_r1018" xml:id="z161"/>ihm meteorologische Instrumen- 
             <lb facs="#facs_5_r1019" xml:id="z162"/>te zukommen zu lassen. Ein ähn- 
-            <lb facs="#facs_5_r1020" xml:id="z163"/>liche Ansuchen hat <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs type="person" ref="#">Brettner</rs>
+            <lb facs="#facs_5_r1020" xml:id="z163"/>liche Ansuchen hat <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs type="person" ref="#prettner-johann">Brettner</rs>
             <lb facs="#facs_5_r1021" xml:id="z164"/>zu <rs type="place" ref="#klagenfurt">Klagenfurt</rs> an <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice> Director 
             <lb facs="#facs_5_r1022" xml:id="z165"/><rs type="person" ref="#kreil-karl" key="Kreil, Karl">Kreil</rs> gestellt, zur Einrichtung 
             <lb facs="#facs_5_r1023" xml:id="z166"/>einer meteorologischen Station 
@@ -854,7 +854,7 @@
             <lb facs="#facs_7_r1015" xml:id="z231"/>den vorgenommen werde.</p>
                <p rendition="#r" facs="#facs_7_region_1499411029627_5" xml:id="p31" xml:space="preserve">
             <lb facs="#facs_7_r1017" xml:id="z232"/>Nun wurde zu den 
-            Reform-<lb facs="#facs_7_r1018" xml:id="z233"/>vorschlägen übergeangen, in 
+            Reform-<lb facs="#facs_7_r1018" xml:id="z233"/>vorschlägen übergegangen, in 
             <lb facs="#facs_7_r1019" xml:id="z234"/>Bezug auf welche der <rs type="person" ref="#ettingshausen-von-andreas" key="Ettingshausen, von, Andreas">General-
             <lb facs="#facs_7_r1020" xml:id="z235"/>Secretär</rs> den Commissionsbericht 
             <lb facs="#facs_7_r1021" xml:id="z236"/>vorlas.</p>
@@ -873,7 +873,8 @@
             <lb facs="#facs_7_r1034" xml:id="z248"/>hin gar keine Gesammtsitzun- 
             <lb facs="#facs_7_r1035" xml:id="z249"/>gen Statt finden, also die Akade- 
             <lb facs="#facs_7_r1036" xml:id="z250"/>mie nicht mehr einen Körper aus- 
-            <lb facs="#facs_7_r1037" xml:id="z251"/>machen solle.
+            <lb facs="#facs_7_r1037" xml:id="z251"/>machen solle.</p>
+               <p rendition="#r" facs="#facs_7_region_1499411039370_6" xml:id="p132" xml:space="preserve">
             <lb facs="#facs_7_r1038" xml:id="z252"/>Der <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas">Vice-Präsident</rs> 
             be-<lb facs="#facs_7_r1039" xml:id="z253"/>merkt dagegen, daß die Angabe</p>
             </div>
@@ -898,7 +899,7 @@
             Uneinig-<lb facs="#facs_8_r1014" xml:id="z267"/>keit entstehen und damit die 
             Akade-<lb facs="#facs_8_r1015" xml:id="z268"/>mie zerfallen.</p>
                <p rendition="#l" facs="#facs_8_region_1499411070599_9" xml:id="p34" xml:space="preserve">
-            <lb facs="#facs_8_r1017" xml:id="z269"/>Professor <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">Schrötter</rs> erwidert,
+            <lb facs="#facs_8_r1017" xml:id="z269"/>Professor <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">Schrötter</rs> erwiedert,
             <lb facs="#facs_8_r1018" xml:id="z270"/>es sey keineswegs die Absicht der 
             <lb facs="#facs_8_r1019" xml:id="z271"/>Commission die Akademie ohne 
             Sta-<lb facs="#facs_8_r1020" xml:id="z272"/>tuten zu lassen, denn jede Classe wird 
@@ -906,7 +907,7 @@
             ma-<lb facs="#facs_8_r1022" xml:id="z274"/>chen. Auf die Bemerkung des <choice><expan>Herrn</expan><abbr>Hrn<am>.</am></abbr></choice>
             <lb facs="#facs_8_r1023" xml:id="z275"/><rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas">Vice-Präsidenten</rs>, daß davon im 
             <lb facs="#facs_8_r1024" xml:id="z276"/>Vorschlage keine Erwähnung geschehen,
-            <lb facs="#facs_8_r1025" xml:id="z277"/>führt <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice> <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">Schrötter</rs> fort, daß 
+            <lb facs="#facs_8_r1025" xml:id="z277"/>fährt <choice><expan>Herr</expan><abbr>Hr<am>.</am></abbr></choice> <choice><expan>Professor</expan><abbr>Prof<am>.</am></abbr></choice> <rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">Schrötter</rs> fort, daß 
             <lb facs="#facs_8_r1026" xml:id="z278"/>es sich von selbst verstehe, daß 
             <lb facs="#facs_8_r1027" xml:id="z279"/>was von Statuten und 
             Geschäftsord-<lb facs="#facs_8_r1028" xml:id="z280"/>nung nicht ausdrücklich aufgehoben 
@@ -1003,7 +1004,7 @@
             <lb facs="#facs_10_r1034" xml:id="z358"/>sich darüber, daß ihm die zu 
             wissen-<lb facs="#facs_10_r1035" xml:id="z359"/>schaftlichen Zwecken von der 
             Akade-<lb facs="#facs_10_r1036" xml:id="z360"/>mie bewilligten Geldbeträge bis 
-            <lb facs="#facs_10_r1037" xml:id="z361"/>setzt noch nicht eingehändigt, ja 
+            <lb facs="#facs_10_r1037" xml:id="z361"/>jetzt noch nicht eingehändigt, ja 
             <lb facs="#facs_10_r1038" xml:id="z362"/>nicht einmal angewiesen worden 
             <lb facs="#facs_10_r1039" xml:id="z363"/>seyen, daß auf seine dießfällige 
             <lb facs="#facs_10_r1040" xml:id="z364"/>Anfrage von ihm die Beibringung</p>
@@ -1044,15 +1045,16 @@
                <p rendition="#r" facs="#facs_11_region_1499411159073_18" xml:id="p43" xml:space="preserve">
             <lb facs="#facs_11_line_1499755288960_5" xml:id="z392"/>Hiemit wurde die Sitzung 
             <lb facs="#facs_11_line_1499755292954_6" xml:id="z393"/>geschlossen.</p>
-               <p rendition="#r" facs="#facs_11_region_1499411171557_19" xml:id="p44" xml:space="preserve">
-            <lb facs="#facs_11_r1033" xml:id="z394"/><rs type="person" ref="#hammer-purgstall-von-joseph" key="Hammer-Purgstall, von, Joseph">Hammer-Purgstall</rs>
+               <p rendition="#ll" facs="#facs_11_region_1499411171557_19" xml:id="p44" xml:space="preserve">
             <lb facs="#facs_11_r1035" xml:id="z395"/><rs type="person" ref="#fenzl-eduard" key="Fenzl, Eduard">Ed Fenzl</rs>
+            <lb facs="#facs_11_r1045" xml:id="z399"/><rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">ASchrötter</rs>
+            <lb facs="#facs_11_r1049" xml:id="z401"/><rs type="person" ref="#partsch-paul" key="Partsch, Paul">P. Partsch</rs></p>
+          <p rendition="#rl" facs="#facs_1_region_1556182609899_124" xml:id="p45" xml:space="preserve">
+            <lb facs="#facs_11_r1033" xml:id="z394"/><rs type="person" ref="#hammer-purgstall-von-joseph" key="Hammer-Purgstall, von, Joseph">Hammer-Purgstall</rs>
             <lb facs="#facs_11_r1037" xml:id="z396"/><rs type="person" ref="#baumgartner-von-andreas" key="Baumgartner, von, Andreas">ABaumgartner</rs>
             <lb facs="#facs_11_r1039" xml:id="z397"/><rs type="person" ref="#ettingshausen-von-andreas" key="Ettingshausen, von, Andreas">Av. Ettingshausen</rs>
             <lb facs="#facs_11_r1041" xml:id="z398"/><rs type="person" ref="#wolf-ferdinand" key="Wolf, Ferdinand">FWolf</rs>
-            <lb facs="#facs_11_r1045" xml:id="z399"/><rs type="person" ref="#schrotter-anton" key="Schrötter, von, Anton">ASchrötter</rs>
             <lb facs="#facs_11_r1047" xml:id="z400"/><rs type="person" ref="#pfizmaier-august" key="Pfizmaier, August">Aug. Pfizmaier</rs>
-            <lb facs="#facs_11_r1049" xml:id="z401"/><rs type="person" ref="#partsch-paul" key="Partsch, Paul">P. Partsch</rs>
             <lb facs="#facs_11_r1051" xml:id="z402"/><rs type="person" ref="#arneth-joseph-calasanz">Joseph Arneth</rs>
             <lb facs="#facs_11_r1053" xml:id="z403"/><rs type="person" ref="#bergmann-joseph" key="Bergmann, von, Joseph">Jos. Bergmann</rs>
             <lb facs="#facs_11_r1055" xml:id="z404"/><rs type="person" ref="#grillparzer-franz" key="Grillparzer, Franz">Grillparzer</rs>
