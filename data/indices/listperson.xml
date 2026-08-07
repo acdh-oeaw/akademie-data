@@ -15,6 +15,22 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="prettner-johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Prettner</surname>
+               </persName>
+               <birth>
+                  <date when="1812-01-24">24.01.1812</date>
+                  <placeName>Glanegg/Kärnten</placeName>
+               </birth>
+               <death>
+                  <date when="1875-03-18">18.03.1875</date>
+                  <placeName>Klagenfurt</placeName></death>
+               <occupation>Meteorologe</occupation>
+               <occupation>Direktor einer Bleiweißfabrik in Klagenfurt</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1026721989</idno>
+            </person>
             <person xml:id="bache-alexander">
                <persName>
                   <forename>Alexander D.</forename>
