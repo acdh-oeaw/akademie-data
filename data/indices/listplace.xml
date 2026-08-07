@@ -16,6 +16,14 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="freiburg-breisgau">
+                    <placeName>Freiburg im Breisgau</placeName>
+                    <location>
+                        <geo>47.9959 7.85222</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/2925177/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4018272-1</idno>
+                </place>
                 <place xml:id="erlangen">
                     <placeName>Erlangen</placeName>
                     <location>
