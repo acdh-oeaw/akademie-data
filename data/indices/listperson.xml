@@ -15,6 +15,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="schwarzenberg-felix">
+               <persName>
+                  <forename>Felix</forename>
+                  <nameLink>Fürst</nameLink>
+                  <surname>Schwarzenberg</surname>
+               </persName>
+               <birth>
+                  <date when="1800-10-02">02.10.1800</date>
+                  <placeName>Krumau</placeName>
+               </birth>
+               <death>
+                  <date when="1852-04-05">05.04.1852</date>
+                  <placeName>Wien</placeName>
+               </death>
+               <occupation>Ministerpräsident (1848-1852)</occupation>
+               <occupation>Diplomat</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/118612050</idno>
+            </person>
             <person xml:id="prettner-johann">
                <persName>
                   <forename>Johann</forename>
