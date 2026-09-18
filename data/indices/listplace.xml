@@ -16,6 +16,30 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="schönbrunn-schloss">
+                    <placeName>Schloss Schönbrunn</placeName>
+                    <location>
+                        <geo>48.18494 16.31229</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/6354998/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4117646-7</idno>
+                </place>
+                <place xml:id="wien-rennweg">
+                    <placeName>(Wien-)Rennweg</placeName>
+                    <location>
+                        <geo>48.19838 16.37734</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/12510632/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4785907-6</idno>
+                </place>
+                <place xml:id="amras-schloss">
+                    <placeName>Schloss Amras</placeName>
+                   <location>
+                       <geo>47.25570 11.43359</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3319531/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4001643-2</idno>
+                </place>
                 <place xml:id="freiburg-breisgau">
                     <placeName>Freiburg im Breisgau</placeName>
                     <location>
