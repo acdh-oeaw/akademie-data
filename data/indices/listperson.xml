@@ -15,6 +15,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="wessenberg-johann-philipp">
+               <persName>
+                  <forename>Johann Philipp</forename>
+                  <nameLink>Freiherr von</nameLink>
+                  <surname>Wessenberg-Ampringen</surname>
+               </persName>
+               <birth>
+                  <date when="1773-11-28">28.11.1773</date>
+                  <placeName>Dresden</placeName>
+               </birth>
+               <death>
+                  <date when="1858-08-01">01.08.1858</date>
+                  <placeName>Freiburg im Breisgau</placeName></death>
+               <occupation>Diplomat</occupation>
+               <occupation>Politiker</occupation>
+               <occupation>Ministerpräsident (Juli-Nov. 1848)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/115670475</idno>
+            </person>
             <person xml:id="rusch-mechaniker">
                <persName>
                   <forename>NN</forename>
