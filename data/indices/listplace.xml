@@ -16,6 +16,25 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="vincovce">
+                    <placeName>Vinkovci</placeName>
+                    <placeName type="alt">Vincovce</placeName>
+                    <placeName type="alt">Winkowitz</placeName>
+                    <location>
+                        <geo>45.28833 18.80472</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3187719/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4108282-5</idno>
+                </place>
+                <place xml:id="zengg">
+                    <placeName>Zengg</placeName>
+                    <placeName type="alt">Senj</placeName>
+                    <location>
+                        <geo>44.98944 14.90583</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3191055/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4252629-2</idno>
+                </place>
                 <place xml:id="schönbrunn-schloss">
                     <placeName>Schloss Schönbrunn</placeName>
                     <location>
