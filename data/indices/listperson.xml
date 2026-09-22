@@ -15,6 +15,37 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="stockler-emanuel">
+               <persName>
+                  <forename>Emanuel</forename>
+                  <surname>Stöckler</surname>
+               </persName>
+               <birth>
+                  <date when="1819-12-24">24.12.1819</date>
+                  <placeName>Nikolsburg/Mähren</placeName>
+               </birth>
+               <death>
+                  <date when="1893-11-05">05.11.1893</date>
+                  <placeName>Bozen</placeName></death>
+               <occupation>Landschaftsmaler</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/1021269867</idno>
+            </person>
+            <person xml:id="libay-ludwig">
+               <persName>
+                  <forename>(Karl) Ludwig</forename>
+                  <surname>Libay</surname>
+               </persName>
+               <birth>
+                  <date when="1814-05-13">13.05.1814</date>
+                  <placeName>Neusohl/Oberungarn</placeName>
+               </birth>
+               <death>
+                  <date when="1888-01-17">17.01.1888</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>akademischer Landschaftsmaler</occupation>
+               <occupation>Lithograf</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/119506033</idno>
+            </person>
             <person xml:id="wessenberg-johann-philipp">
                <persName>
                   <forename>Johann Philipp</forename>
@@ -9586,6 +9617,7 @@
                </death>
                <occupation>Finanzbeamter</occupation>
                <occupation>Jurist</occupation>
+               <occupation>Ministerialrat</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/136522025</idno>
                </person>
             <person xml:id="krusenstern-adam-johann">
