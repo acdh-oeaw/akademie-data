@@ -15,6 +15,24 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="thinnfeld-ferdinand">
+               <persName>
+                  <forename>Ferdinand (Joseph Johann)</forename>
+                  <nameLink>von (seit 1853 Freiherr)</nameLink>
+                  <surname>Thinnfeld</surname>
+               </persName>
+               <birth>
+                  <date when="1793-04-24">24.04.1793</date>
+                  <placeName>Graz</placeName>
+               </birth>
+               <death>
+                  <date when="1868-04-08">08.04.1868</date>
+                  <placeName>Schloß Thinnfeld bei Deutschfeistritz</placeName></death>
+               <occupation>Politiker</occupation>
+               <occupation>Minister für Ackerbau und Bergbau (1848-1853)</occupation>
+               <occupation>Industrieller</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/128485396</idno>
+            </person>
             <person xml:id="stockler-emanuel">
                <persName>
                   <forename>Emanuel</forename>
