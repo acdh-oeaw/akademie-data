@@ -15,6 +15,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="proch-heinrich">
+               <persName>
+                  <forename>Heinrich</forename>
+                  <surname>Proch</surname>
+               </persName>
+               <birth>
+                  <date when="1809-07-23">23.07.1809 (Tauftag)</date>
+                  <placeName>Wien, Pfarre St. Joseph (2. Bez.)</placeName>
+               </birth>
+               <death>
+                  <date when="1878-12-18">18.12.1878</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Komponist</occupation>
+               <occupation>Dirigent</occupation>
+               <occupation>Präses der Akademie der Tonkunst in Wien (ab 1854)</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/116291710</idno>
+            </person>
             <person xml:id="neumeyer-august-friedrich">
                <persName>
                   <forename>(Friedrich) August</forename>
@@ -3484,6 +3501,7 @@
             </person>
             <person xml:id="groll-andreas">
                <persName>
+                  <forename>Andreas</forename>
                   <surname>Groll</surname>
                </persName>
                <birth>

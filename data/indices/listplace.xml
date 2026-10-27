@@ -16,6 +16,15 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="veglia">
+                    <placeName>Veglia</placeName>
+                    <placeName type="alt">Krk</placeName>
+                    <location>
+                        <geo>45.07528 14.61694</geo>
+                    </location>
+                    <idno type="URL">https://sws.geonames.org/3197206/</idno>
+                    <idno subtype="GND" type="URL">https://d-nb.info/gnd/4441622-2</idno>
+                </place>
                 <place xml:id="vincovce">
                     <placeName>Vinkovci</placeName>
                     <placeName type="alt">Vincovce</placeName>
