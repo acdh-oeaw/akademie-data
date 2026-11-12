@@ -15,6 +15,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="botzenhart-roman">
+               <persName>
+                  <forename>Roman</forename>
+                  <addName>Dr. phil.</addName>
+                  <surname>Botzenhart</surname>
+               </persName>
+               <birth>
+                  <date when="1812-12-04">04.12.1812</date>
+                  <placeName>Wien</placeName>
+               </birth>
+               <death>
+                  <date when="1848-12-16">16.12.1848</date>
+                  <placeName>Wien</placeName></death>
+               <occupation>Mineraloge</occupation>
+               <occupation>Mediziner</occupation>
+               <idno subtype="GND" type="URL">https://d-nb.info/gnd/117622133</idno>
+            </person>
             <person xml:id="proch-heinrich">
                <persName>
                   <forename>Heinrich</forename>
