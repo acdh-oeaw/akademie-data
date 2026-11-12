@@ -14200,25 +14200,20 @@
                </persName>
                <birth>
                   <date when="1809-10-22">22.10.1809</date>
+                  <placeName>Reichenberg/Böhmen</placeName>
                </birth>
                <death>
-                  <date when="1849-09-01">01.09.1849</date>
+                  <date>September 1849</date>
+                  <placeName>im Atlantik bei einem Schiffsuntergang</placeName>
                </death>
-               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
-                  >Naturwissenschaftler</occupation>
-               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/"
-                  >Paläontologe</occupation>
-               <occupation code="#3669" scheme="#apis_vocabularies/professiontype/"
-                  >Botaniker</occupation>
-               <occupation code="#3774" scheme="#apis_vocabularies/professiontype/"
-                  >Zeichner</occupation>
-               <occupation code="#3880" scheme="#apis_vocabularies/professiontype/"
-                  >Lithograf</occupation>
-               <occupation code="#3945" scheme="#apis_vocabularies/professiontype/"
-                  >Mykologe</occupation>
+               <occupation>Naturwissenschaftler</occupation>
+               <occupation>Paläontologe</occupation>
+               <occupation>Botaniker</occupation>
+               <occupation>Zeichner</occupation>
+               <occupation>Lithograf</occupation>
+               <occupation>Mykologe</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/11667153X</idno>
-               <idno type="paas">1356</idno>
-            </person>
+               </person>
             <person xml:id="humboldt-von-alexander-friedrich">
                <persName>
                   <surname>Humboldt</surname>
@@ -14232,47 +14227,36 @@
                </birth>
                <death>
                   <date when="1859-05-06">06.05.1859</date>
+                  <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3628" scheme="#apis_vocabularies/professiontype/"
-                  >Naturwissenschaftler</occupation>
-               <occupation code="#3642" scheme="#apis_vocabularies/professiontype/"
-                  >Arzt</occupation>
-               <occupation code="#3653" scheme="#apis_vocabularies/professiontype/"
-                  >Forschungsreisender</occupation>
-               <occupation code="#3656" scheme="#apis_vocabularies/professiontype/"
-                  >Geograf</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
-               <occupation code="#3807" scheme="#apis_vocabularies/professiontype/">Geheimer
-                  Rat</occupation>
-               <occupation code="#3949" scheme="#apis_vocabularies/professiontype/"
-                  >Gelehrter</occupation>
+               <occupation>Naturwissenschaftler</occupation>
+               <occupation>Arzt</occupation>
+               <occupation>Forschungsreisender</occupation>
+               <occupation>Geograf</occupation>
+               <occupation>Schriftsteller</occupation>
+               <occupation>Geheimer Rat</occupation>
+               <occupation>Gelehrter</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/118554700</idno>
-               <idno type="paas">3020</idno>
-            </person>
+               </person>
             <person xml:id="buch-leopold">
                <persName>
                   <surname>Buch</surname>
-                  <addName>von</addName>
                   <nameLink>von</nameLink>
                   <forename>Leopold</forename>
                </persName>
                <birth>
                   <date when="1774-04-25">25.04.1774</date>
-                  <placeName>Angermünde</placeName>
+                  <placeName>Schloß Stolpe bei Angermünde in der Uckermark</placeName>
                </birth>
                <death>
                   <date when="1853-03-04">04.03.1853</date>
+                  <placeName>Berlin</placeName>
                </death>
-               <occupation code="#3634" scheme="#apis_vocabularies/professiontype/"
-                  >Geologe</occupation>
-               <occupation code="#3635" scheme="#apis_vocabularies/professiontype/"
-                  >Paläontologe</occupation>
-               <occupation code="#3689" scheme="#apis_vocabularies/professiontype/"
-                  >Schriftsteller</occupation>
+               <occupation>Geologe</occupation>
+               <occupation>Paläontologe</occupation>
+               <occupation>Schriftsteller</occupation>
                <idno subtype="GND" type="URL">https://d-nb.info/gnd/116817569</idno>
-               <idno type="paas">1176</idno>
-            </person>
+               </person>
             <person xml:id="brown-robert">
                <persName>
                   <surname>Brown</surname>
